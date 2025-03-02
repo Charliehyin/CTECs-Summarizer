@@ -99,30 +99,63 @@ body, html {
   color: #9ca3af;
 }
 
-.loading-indicator {
+/* Loading Message */
+.loading-message {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  padding: 1rem;
+  justify-content: center;
+  font-size: 1rem;
+  color: #4E2A84;
+  margin-top: 1rem;
 }
 
-.loading-dot {
-  width: 8px;
-  height: 8px;
-  margin: 0 4px;
-  background-color: #4E2A84;
-  border-radius: 50%;
-  animation: bounce 0.6s infinite;
+.assistant-message {
+  display: flex;
+  align-items: center;
 }
 
-.loading-dot:nth-child(2) {
-  animation-delay: 0.2s;
+.assistant-message span {
+  margin-right: 0.5rem;
 }
 
-.loading-dot:nth-child(3) {
-  animation-delay: 0.4s;
+.loading-dots {
+  display: inline-block;
+  font-size: 1.5rem;
+  color: #888;
+  animation: dot-blink 1.5s infinite;
 }
 
+.loading-dots span {
+  display: inline-block;
+  animation: dot-blink 1.5s infinite;
+}
+
+.loading-dots span:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.loading-dots span:nth-child(2) {
+  animation-delay: 0.5s;
+}
+
+.loading-dots span:nth-child(3) {
+  animation-delay: 1s;
+}
+
+@keyframes dot-blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* Chat Form */
 .chat-form {
   display: flex;
   gap: 0.75rem;

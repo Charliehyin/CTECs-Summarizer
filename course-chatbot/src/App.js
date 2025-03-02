@@ -1,10 +1,27 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Send } from 'lucide-react';
 
+const OpenAIResponse = ({ response }) => {
+  const cleanedResponse = response.replace(/【\d+:\d+†source】/g, "")
+  return (
+    <div>
+      {cleanedResponse.split("\n").map((line, index) => {
+        if (line.match(/\*\*(.*?)\*\*/)) {
+          return <h3 key={index}>{line.replace(/\*\*(.*?)\*\*/, "$1").replace(/\*\*(.*?)\*\*/g, "$1")}</h3>;
+        } else if (line.startsWith("- ")) {
+          return <li key={index}>{line.substring(2).replace(/\*\*(.*?)\*\*/g, "$1")}</li>;
+        } else {
+          return <p key={index}>{line}</p>;
+        }
+      })}
+    </div>
+  );
+};
+
 const ChatMessage = ({ message, isUser }) => (
   <div className={`message ${isUser ? 'user' : ''}`}>
     <div className="message-content">
-      {message}
+      {isUser ? message : <OpenAIResponse response={message} />}
     </div>
   </div>
 );
@@ -58,7 +75,7 @@ const CourseChatbot = () => {
     <div className="chat-container">
       <div className="chat-box">
         <h1 className="chat-header">Northwestern Course Assistant</h1>
-        
+
         <div className="messages-container">
           {messages.length === 0 ? (
             <div className="empty-state">
@@ -75,13 +92,20 @@ const CourseChatbot = () => {
               />
             ))
           )}
+
           {isLoading && (
-            <div className="loading-indicator">
-              <div className="loading-dot"></div>
-              <div className="loading-dot"></div>
-              <div className="loading-dot"></div>
+            <div className="loading-message">
+              <div className="assistant-message">
+                <span>Generating a response</span>
+                <span className="loading-dots">
+                  <span>.</span>
+                  <span>.</span>
+                  <span>.</span>
+                </span>
+              </div>
             </div>
           )}
+
           <div ref={messagesEndRef} />
         </div>
 
