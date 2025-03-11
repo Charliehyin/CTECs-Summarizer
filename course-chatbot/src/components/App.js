@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Send } from 'lucide-react';
 import Login from './Login';
+import About from './About';
 
 const OpenAIResponse = ({ response }) => {
   const cleanedResponse = response.replace(/【\d+:\d+†source】/g, "");
@@ -46,6 +47,7 @@ const App = () => {
   const [messages, setMessages] = useState([]);
   const [isExpanded, setIsExpanded] = useState(false);
   const [showGreeting, setShowGreeting] = useState(true);
+  const [showAbout, setShowAbout] = useState(false);
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
   
@@ -75,6 +77,14 @@ const App = () => {
     setIsExpanded(false);
     setShowGreeting(true);
     setInput('');
+  };
+
+  const handleAboutClick = () => {
+    setShowAbout(true);
+  };
+
+  const handleCloseAbout = () => {
+    setShowAbout(false);
   };
 
   const scrollToBottom = () => {
@@ -149,8 +159,11 @@ const App = () => {
   // Otherwise, show the main application
   return (
     <div className="app-container">
+      {showAbout && <About onClose={handleCloseAbout} />}
+      
       <div className="user-info">
         <button onClick={handleNewChat} className="logout-button" style={{ marginRight: 'auto' }}>New Chat</button>
+        <button onClick={handleAboutClick} className="about-button" style={{ marginRight: 'auto' }}>About</button>
         {user.picture && (
           <img 
             src={user.picture} 
