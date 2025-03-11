@@ -70,6 +70,13 @@ const App = () => {
     setShowGreeting(true);
   };
 
+  const handleNewChat = () => {
+    setMessages([]);
+    setIsExpanded(false);
+    setShowGreeting(true);
+    setInput('');
+  };
+
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
@@ -143,6 +150,7 @@ const App = () => {
   return (
     <div className="app-container">
       <div className="user-info">
+        <button onClick={handleNewChat} className="logout-button" style={{ marginRight: 'auto' }}>New Chat</button>
         {user.picture && (
           <img 
             src={user.picture} 
