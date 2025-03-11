@@ -2,4 +2,10 @@ node_modules
 .env
 assistant_config.txt
 venv/
-*pycache*/
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+backend-server/**/__pycache__/

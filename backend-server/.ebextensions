@@ -2,3 +2,9 @@ container_commands:
   01_run_entrypoint:
     command: "chmod +x scripts/entrypoint.sh && ./scripts/entrypoint.sh"
     leader_only: true
+  02_create_pid_directory:
+    command: "mkdir -p /var/pids && chmod 777 /var/pids"
+
+option_settings:
+  aws:elasticbeanstalk:application:environment:
+    PIDFILE: "/var/pids/web.pid"
