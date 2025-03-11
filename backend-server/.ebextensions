@@ -1,0 +1,4 @@
+container_commands:
+  01_run_entrypoint:
+    command: "chmod +x scripts/entrypoint.sh && ./scripts/entrypoint.sh"
+    leader_only: true
