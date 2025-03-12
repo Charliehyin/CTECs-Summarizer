@@ -1,0 +1,31 @@
+code,category,number,title,units,desc
+JAPANESE 111-1,JAPANESE,111-1,Japanese I,1,First-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Japanese. This course introduces the Hiragana and Katakana syllabaries and Kanji (Chinese characters).
+JAPANESE 111-2,JAPANESE,111-2,Japanese I,1,"Second-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Japanese. 
+Prerequisite: grade of at least C- in JAPANESE 111-1 or equivalent."
+JAPANESE 111-3,JAPANESE,111-3,Japanese I,1,"Third-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Japanese. 
+Prerequisite: grade of at least C- in JAPANESE 111-2 or equivalent."
+JAPANESE 121-1,JAPANESE,121-1,Japanese II,1,"First-quarter course of the college-level second-year Japanese to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in JAPANESE 111-3 or equivalent."
+JAPANESE 121-2,JAPANESE,121-2,Japanese II,1,"Second-quarter course of the college-level second-year Japanese to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in JAPANESE 121-1 or equivalent."
+JAPANESE 121-3,JAPANESE,121-3,Japanese II,1,"Third-quarter course of the college-level second-year Japanese to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in JAPANESE 121-2 or equivalent."
+JAPANESE 211-1,JAPANESE,211-1,Japanese III,1,"First-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. Focus on social and cultural issues and language for discussing them. 
+Prerequisite: grade of at least C- in JAPANESE 121-3 or equivalent."
+JAPANESE 211-2,JAPANESE,211-2,Japanese III,1,"Second-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. Focus on social and cultural issues and language for discussing them. 
+Prerequisite: grade of at least C- in JAPANESE 211-1 or equivalent."
+JAPANESE 211-3,JAPANESE,211-3,Japanese III,1,"Third-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. Focus on social and cultural issues and language for discussing them. 
+Prerequisite: grade of at least C- in JAPANESE 211-2 or equivalent."
+JAPANESE 310-0,JAPANESE,310-0,Japanese IV: Special Topics in Reading Japanese Literature in Japanese,1,"JAPANESE 310-0 Japanese IV: Special Topics in Reading Japanese Literature in Japanese (1 Unit) 
+Prerequisite: grade of at least C- in JAPANESE 211-3 or equivalent.
+Literature Fine Arts Distro Area"
+JAPANESE 311-1,JAPANESE,311-1,Japanese IV: Reading Modern Japanese Literature in Japanese,1,"Focus on learning pre-1946 orthography and reading of original texts of modern short stories. Translation skills are emphasized; discussion in English. 
+Prerequisite: grade of at least C- in JAPANESE 211-3 or equivalent."
+JAPANESE 312-1,JAPANESE,312-1,Japanese IV: Contemporary Japanese Literary Works for Reading & Discussion,1,"Focus on reading contemporary Japanese poems, essays, short stories, and novels; discussion in Japanese. 
+Prerequisite: grade of at least C- in JAPANESE 211-3 or equivalent."
+JAPANESE 313-1,JAPANESE,313-1,Japanese IV: Japanese Newspaper Reading and News Listening,1,"Focus on reading Japanese newspaper articles and debating in Japanese the issues discussed. Develops news listening skills. 
+Prerequisite: grade of at least C- in JAPANESE 211-3 or equivalent."
+JAPANESE 314-1,JAPANESE,314-1,Japanese IV: Japanese Essay Writing,1,"Focus on refining writing skills-narrative, descriptive, persuasive, and argumentative. Review of grammar and expressions through writing clinics. 
+Prerequisite: grade of at least C- in JAPANESE 211-3 or equivalent."
+JAPANESE 399-0,JAPANESE,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Japanese. 
+Prerequisite: consent of department."

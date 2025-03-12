@@ -1,0 +1,143 @@
+code,category,number,title,units,desc
+SPANISH 101-1,SPANISH,101-1,Elementary Spanish,1,"First course of a three-quarter sequence in introductory Spanish, designed for students who have never studied Spanish or studied Spanish less than two years in high school. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly."
+SPANISH 101-2,SPANISH,101-2,Elementary Spanish,1,"Second course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. 
+Prerequisite: SPANISH 101-1."
+SPANISH 101-3,SPANISH,101-3,Elementary Spanish,1,"Third course of a three-quarter sequence in introductory Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Intermediate Low level of proficiency. This means that students will be able to communicate messages on everyday topics that affect them directly. 
+Prerequisite: SPANISH 101-2."
+SPANISH 105-7,SPANISH,105-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+SPANISH 105-8,SPANISH,105-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+SPANISH 115-1,SPANISH,115-1,Accelerated Elementary Spanish,1,"First course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Novice High-Intermediate Low level of proficiency. This means that students will be able to communicate short messages on everyday topics that affect them directly. Offered in winter. 
+Prerequisite: sufficient score on Spanish Language Placement Exam."
+SPANISH 115-2,SPANISH,115-2,Accelerated Elementary Spanish,1,"Second course of a two-quarter sequence in introductory Spanish designed for students with previous experience in Spanish. Students will learn Spanish in order to use it beyond the classroom in meaningful and authentic ways at the Intermediate Low level of proficiency. This means that students will be able to communicate messages on everyday topics that affect them directly. Offered in spring. 
+Prerequisite: SPANISH 115-1."
+SPANISH 121-1,SPANISH,121-1,Intermediate Spanish,1,"First course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. 
+Prerequisite: SPANISH 101-3, SPANISH 115-2, or sufficient score on Spanish Language Placement Exam."
+SPANISH 121-2,SPANISH,121-2,Intermediate Spanish,1,"Second course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. 
+Prerequisite: SPANISH 121-1."
+SPANISH 121-3,SPANISH,121-3,Intermediate Spanish,1,"Third course in a three-quarter sequence in Intermediate Spanish. Further development of communicative proficiency with an emphasis on the functional use of Spanish and cultural content and reflection. 
+Prerequisite: SPANISH 121-2."
+SPANISH 125-0,SPANISH,125-0,Accelerated Intermediate Spanish,1,"Further development of communicative proficiency at the intermediate high level with an emphasis on the Hispanic world and the development of cultural competence. This means that students will be able to communicate familiar and some researched topics, often across various time frames. Offered in fall only. 
+Prerequisite: AP score of 3 or sufficient score on Spanish Language Placement Exam."
+SPANISH 127-0,SPANISH,127-0,Accelerated Intermediate Spanish for Heritage Language Learners,1,"The main purpose of this course is to build upon the language knowledge that students bring to the classroom and advance their proficiency of Spanish for multiple contexts. The course content will generate opportunities for students to hone their oral and written skills, to become acquainted with more formal registers of Spanish and to deepen their sense of pride in their linguistic and cultural heritage in order to communicate more effectively and more confidently in the target language. Offered in fall only. 
+Prerequisite: AP score of 3 or or sufficient score on Spanish Language Placement Exam."
+SPANISH 190-SA,SPANISH,190-SA,Intermediate Spanish Grammar,1,"Development of grammar, vocabulary, and writing skills through emphasis on cultural content and functional use of language in Spanish-speaking countries. Restricted to students participating in Northwestern study abroad programs. 
+Prerequisites: SPANISH 101-3, SPANISH 115-2, SPANISH 121-3, SPANISH 125-0, or SPANISH 127-0."
+SPANISH 191-SA,SPANISH,191-SA,Intermediate Spanish Conversation,0,"Development of speaking strategies and structures through examination of cultural topics and daily life in Spanish-speaking countries. Emphasis on accurate formal and informal conversation and specialized vocabulary. Restricted to students participating in Northwestern study abroad programs. 
+Prerequisites: SPANISH 101-3, SPANISH 115-2, SPANISH 121-3, SPANISH 125-0, or SPANISH 127-0."
+SPANISH 199-SA,SPANISH,199-SA,Language in Context: Contemporary Spain,1,"An introduction to the culture and sociopolitical issues of contemporary Spain is the basis for reviewing and solidifying communicative functions that pose certain challenges to Spanish learners, and for fully integrating all language skills in Spanish. Restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 101-3, SPANISH 115-2, SPANISH 121-3, SPANISH 125-0, or SPANISH 127-0."
+SPANISH 200-0,SPANISH,200-0,Advanced Spanish for Heritage Language Learners,1,"This course is designed to prepare Spanish heritage learners for advanced studies in the target language by examining contemporary topics within the Spanish-speaking world. It offers insights into how historical events have shaped the present in Latin America, Spain, and the U.S. Latino/a/x communities. Students will foster a critical awareness of their bilingual abilities and improve their reading and writing skills. It is tailored to students who grew up using Spanish as their primary language at home or in their communities. 
+Prerequisite: Spanish heritage learners who have completed SPANISH 127-0, AP of 4, or Departmental Placement.
+ U.S. Perspectives on Power, Justice, and Equity"
+SPANISH 201-0,SPANISH,201-0,Advanced Spanish I: Contemporary Latin America,1,"This course is designed to develop all modes of communication in Spanish as students progress towards the advanced low level of proficiency through the interpretation and analysis of sociopolitical topics in Latin America. In addition, the critical examination of authentic materials will help students explore how the recent history of Latin America has shaped its present. 
+Prerequisite: SPANISH 121-3, 125-0, 199-0, AP of 4, or Departmental Placement/Reassessment."
+SPANISH 202-0,SPANISH,202-0,Conversation on Current Topics,1,"Development of speaking strategies and structures through examination of culturally related topics in the Spanish-speaking world. Emphasis on formal conversation and specialized vocabulary. SPANISH 202-SA restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 200-0 or SPANISH 201-0."
+SPANISH 202-SA,SPANISH,202-SA,Conversation on Current Topics,1,"Development of speaking strategies and structures through examination of culturally related topics in the Spanish-speaking world. Emphasis on formal conversation and specialized vocabulary. SPANISH 202-SA restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 200-0 or SPANISH 201-0."
+SPANISH 204-0,SPANISH,204-0,Advanced Spanish II: Artivism in Times of Political Change,1,"This course is designed to develop all communication modes through the interpretation and analysis of multimodal texts centered around politically and socially engaged art. The course will explore the role of the creative arts in the political and social sphere in 20th-century Spain and Latin America while connecting these movements to current times. 
+Prerequisite: SPANISH 197-0, SPANISH 201-0, SPANISH 203-0, SPANISH 207-0, AP score of 5, or Departmental Placement (Online Placement Test and Reassessment).
+Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 205-0,SPANISH,205-0,Spanish for Professions: Health Care,1,"Advanced course to develop communication skills in Spanish for healthcare purposes. Emphasis on language skills for the medical field, specialized terminology and vocabulary, and cultural nuances. 
+Prerequisite: SPANISH 197-0, SPANISH 201-0, AP score of 5, or department placement."
+SPANISH 206-0,SPANISH,206-0,Spanish for Professions: Business,1,"Advanced course to develop communication skills in Spanish for business purposes. Emphasis on language skills for the global marketplace: specialized terminology, comprehension of cultural nuances, analytical writing skills and project-based assignments. 
+Prerequisite: SPANISH 197-0, SPANISH 201-0, AP score of 5 or department placement."
+SPANISH 208-0,SPANISH,208-0,Spanish and the Community,1,"The main objective of this course is the development of advanced Spanish communication skills, as well as a thorough and personal cultural knowledge of the Hispanic communities in the Chicagoland, through readings, discussions, writing, and interviews. 
+Prerequisite: SPANISH 201 (NEW only), SPANISH 203-0, SPANISH 207-0, AP of 5, or department placement."
+SPANISH 210-0,SPANISH,210-0,"Icons, Legends, & Myths in Latin American, Latino and/or Iberian Cultures",1,"Diverse representations of historical, literary, and popular figures, such as the caudillo , the obispo , El Cid, Don Juan, the conquistador, the gaucho, Simón Bolívar, and Evita. 
+Prerequisite: SPANISH 204-0.
+Literature Fine Arts Distro Area"
+SPANISH 215-SA,SPANISH,215-SA,Studies in Ibero-American Culture and Society,1,"Issues and debates in society, such as those around gender, race, and class, and their representation in music, architecture, visual arts, and fiction. Restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 200-0 or SPANISH 201-0."
+SPANISH 223-0,SPANISH,223-0,Cervantes (Taught in English),1,"Study of Don Quixote and other selected works with attention to the historical and cultural context of the 17th century. Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 225-0,SPANISH,225-0,"Nationalism, Borders, and Immigration in Spain",1,Interdisciplinary approach to national identity and nationalism in Spain with attention to political and cultural struggles for regional autonomy and to social conflicts arising from immigration.
+SPANISH 231-0,SPANISH,231-0,"The ""New"" Latin American Narrative (Taught in English)",1,"Emphasis on novels and short fiction from the Latin American ""Boom"" of the 1960s and 1970s, with attention also to important precursors and recent trends. Focus on works by writers such as Julio Cortázar, Gabriel García Márquez, Manuel Puig, and Luisa Valenzuela. Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 232-0,SPANISH,232-0,Discovering Jewish Latin America,1,"Exploration of the Jewish presence in Latin America; focus on diverse forms of cultural production (e.g., literature, testimonial writing, film, photography, theater, art, music) throughout the region. Literature Fine Arts Distro Area"
+SPANISH 250-0,SPANISH,250-0,Literature in Spain before 1700,1,Survey of the origins of the Spanish language and the development of Spanish literature from the Middle Ages to the end of the Spanish Golden Age. Study of representative figures and major literary developments in conjunction with religious and cultural history. Prerequisite (may be taken concurrently): SPANISH 200-0 or SPANISH 204-0. Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline
+SPANISH 251-0,SPANISH,251-0,Literature in Spain since 1700,1,Survey of literature in Spain from the 18th to the 20th century. Study of representative figures and major literary developments in conjunction with political and cultural history. Prerequisite (may be taken concurrently): SPANISH 200-0 or SPANISH 204-0. Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline
+SPANISH 260-0,SPANISH,260-0,Literature in Latin America before 1888,1,"Survey of pre-Hispanic, colonial, and romantic traditions in Latin America. Focus on authors and texts such as Popul Vuh, Inca Garcilaso de la Vega, Sor Juana Inés de la Cruz, and Martín Fierro. Prerequisite (may be taken concurrently): SPANISH 200-0 or SPANISH 204-0. Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 261-0,SPANISH,261-0,Literature in Latin America since 1888,1,"Survey of the modern period, including modernismo, the historical avant-garde, the ""Boom,"" and recent literary trends. Authors such as Delmira Agustini, Jorge Luis Borges, Julio Cortázar, Pablo Neruda, and Cristina Peri Rossi. Prerequisite (may be taken concurrently): SPANISH 200-0 or SPANISH 204-0. Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 277-0,SPANISH,277-0,Introduction to Latinx Literature,1,"Survey of major writers and movements from the Spanish colonial era to the present, covering a range of genres and ethnicities. Taught with ENGLISH 277-0 and LATINO 277-0; may receive credit for only 1 of these courses. Literature Fine Arts Distro Area Literature and Arts Foundational Discipline U.S. Perspectives on Power, Justice, and Equity"
+SPANISH 280-0,SPANISH,280-0,Introduction to Spanish Linguistics,1,"An introductory course designed to present students with an overview of the phonology, phonetics, morphology, syntax, and sociolinguistic and pragmatic elements specific to Spanish language. 
+Prerequisite: SPANISH 200-0 or SPANISH 204-0."
+SPANISH 281-0,SPANISH,281-0,Spanish Phonetics and Phonology,1,"Introduction to the theory and practice of Spanish sounds and phonology. Articulation and production, classification and description, combination and syllabification, sonority sequencing, and prevalent dialects. Introduction to basic principles of ethnographic research, data collection, and analysis. 
+Prerequisite: SPANISH 200-0 or SPANISH 204-0.
+ Formal Studies Distro Area"
+SPANISH 301-0,SPANISH,301-0,Topics in Language,1,"Special topics in historical, grammatical, or other linguistic aspects of Spanish. SA course restricted to students on the Northwestern study abroad programs. 
+Prerequisite: SPANISH 201-0."
+SPANISH 301-SA,SPANISH,301-SA,Topics in Language,1,"Special topics in historical, grammatical, or other linguistic aspects of Spanish. SA course restricted to students on the Northwestern study abroad programs. 
+Prerequisite: SPANISH 201-0."
+SPANISH 302-0,SPANISH,302-0,Advanced Grammar,1,"An advanced course designed to polish and improve language usage through in-depth study and development of grammar knowledge and skills, focusing on items most problematic for non-native speakers of Spanish. SPANISH 302-SA restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 200-0, SPANISH 204-0."
+SPANISH 302-SA,SPANISH,302-SA,Advanced Grammar,1,"An advanced course designed to polish and improve language usage through in-depth study and development of grammar knowledge and skills, focusing on items most problematic for non-native speakers of Spanish. SPANISH 302-SA restricted to students on Northwestern study abroad programs. 
+Prerequisites: SPANISH 200-0, SPANISH 204-0."
+SPANISH 323-0,SPANISH,323-0,Cervantes' Don Quixote,1,"SPANISH 323-0 Cervantes' Don Quixote (1 Unit) 
+Prerequisite: SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 332-0,SPANISH,332-0,Avant-Garde Writers and Experimental Fiction in Spain,1,"SPANISH 332-0 Avant-Garde Writers and Experimental Fiction in Spain (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0."
+SPANISH 333-0,SPANISH,333-0,The Spanish Civil War: The Good Fight,1,"SPANISH 333-0 The Spanish Civil War: The Good Fight (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0."
+SPANISH 335-0,SPANISH,335-0,Modern Fiction in Spain: Studies in Genre,1,"SPANISH 335-0 Modern Fiction in Spain: Studies in Genre (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 340-0,SPANISH,340-0,Colonial Latin American Literature,1,"SPANISH 340-0 Colonial Latin American Literature (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 341-0,SPANISH,341-0,Latin American Modernismo,1,"SPANISH 341-0 Latin American Modernismo (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 342-0,SPANISH,342-0,Race and Representation in Latin America,1,"Analysis of the history and materials concerning the representation of race in Latin American literatures and cultures. Possible topics include indigenismo, negritude, afro-latinidad, indigeneity, critical race theory, decolonial theory, etc. 
+Prerequisites: SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 343-0,SPANISH,343-0,Latin American Avant-Gardes,1,"SPANISH 343-0 Latin American Avant-Gardes (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 344-0,SPANISH,344-0,Borges,1,"SPANISH 344-0 Borges (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 345-0,SPANISH,345-0,Reading the 'Boom',1,"SPANISH 345-0 Reading the 'Boom' (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 346-0,SPANISH,346-0,Testimonial Narrative in Latin America,1,"SPANISH 346-0 Testimonial Narrative in Latin America (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 347-0,SPANISH,347-0,Literature and Revolution in Latin America,1,"Revolutionary practices in Latin American literatures as well as literary representations of revolution. Authors such as Mariano Azuela, Nellie Campobello, Roque Dalton, and Rodolfo Usigli. 
+Prerequisite: SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 348-0,SPANISH,348-0,Readings in Latin American Short Fiction,1,"SPANISH 348-0 Readings in Latin American Short Fiction (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 349-0,SPANISH,349-0,Critical Thought in Latin Amer,1,"This course seeks to familiarize students with Latin American intellectual traditions in the modern period through a selection of pivotal figures from the 19th to the 20th centuries. It will analyze prominent conceptual paradigms that have defined intellectual discourse in the region, such as mestizaje, hybridity, and heterogeneity. Advanced Expression Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Global Perspectives on Power, Justice, and Equity"
+SPANISH 350-0,SPANISH,350-0,Visual Culture in Latina/o America and Spain,1,"SPANISH 350-0 Visual Culture in Latina/o America and Spain (1 Unit) 
+Prerequisite:1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 360-0,SPANISH,360-0,Spain: Studies in Culture and Society,1,"SPANISH 360-0 Spain: Studies in Culture and Society (1 Unit) 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 361-0,SPANISH,361-0,Latin America: Studies in Culture and Society,1,"SPANISH 361-0 Latin America: Studies in Culture and Society (1 Unit) 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 362-0,SPANISH,362-0,Citizenship and Urban Violence in Latin America,1,"An investigation of the association between Latin America and the violence that underlies all phases of its history, particularly its urban history, through fictional and theoretical texts, films, and music. 
+Prerequisite: SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 363-0,SPANISH,363-0,Topics in US Latina/o Literary and Cultural Studies,1,"SPANISH 363-0 Topics in US Latina/o Literary and Cultural Studies (1 Unit) 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Social Behavioral Sciences Distro Area"
+SPANISH 364-0,SPANISH,364-0,Cultural Borders/Border Cultures,1-2 Units,"Examining diverse (literary, artistic, and cinematic) representations of border spaces and subjectivities in Latin America (the US-Mexico border; the Caribbean as a border space) in order to study the processes of contact, hybridization, adaptation, and exclusion that are generated, and the modes of self-fashioning that are produced, from within this cultural dislocation. 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 380-0,SPANISH,380-0,Topics in Film in Latin America and/or Spain,1,"SPANISH 380-0 Topics in Film in Latin America and/or Spain (1 Unit) 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 380-SA,SPANISH,380-SA,Topics in Film in Latin America and/or Spain,1,"Introduction to film in Latin America and/or Spain during the 20th century. Topics vary and may include a historical survey of film, a study of films of a specific period, a comparative analysis of literary works and cinematic adaptations, or the work of specific filmmakers. May be repeated for credit with different topic. 
+Prerequisite: 1 course from SPANISH 220-0, SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area"
+SPANISH 395-0,SPANISH,395-0,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures",1,"SPANISH 395-0 Topics in Latin American, Latina and Latino, and/or Iberian Cultures (1 Unit) 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 395-SA,SPANISH,395-SA,"Topics in Latin American, Latina and Latino, and/or Iberian Cultures",1,"Advanced study of topics in the literary traditions of either Latin America or Spain. Possible topics include intellectual history, transatlantic exchanges, literature of the fantastic, feminist traditions, hybrid cultures, and history and fiction. May be repeated for credit with different topic. 
+Prerequisite: 1 course from SPANISH 250-0, SPANISH 251-0, SPANISH 260-0, or SPANISH 261-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+SPANISH 397-0,SPANISH,397-0,"Topics in Latin American, Latina & Latino, and Iberian Literatures and Cultures (Taught in English)",1,"SPANISH 397-0 Topics in Latin American, Latina & Latino, and Iberian Literatures and Cultures (Taught in English) (1 Unit) Literature Fine Arts Distro Area"
+SPANISH 399-0,SPANISH,399-0,Independent Study,1,Independent reading under supervision. Consultation with director of undergraduate studies required.

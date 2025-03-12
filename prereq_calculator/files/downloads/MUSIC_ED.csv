@@ -1,0 +1,44 @@
+code,category,number,title,units,desc
+MUSIC_ED 230-0,MUSIC_ED,230-0,Woodwind Class,0.5,
+MUSIC_ED 231-0,MUSIC_ED,231-0,Guitar Class,0.5,
+MUSIC_ED 234-0,MUSIC_ED,234-0,Double Reeds Class,0.5,
+MUSIC_ED 235-0,MUSIC_ED,235-0,High Brass Class,0.5,
+MUSIC_ED 236-0,MUSIC_ED,236-0,Low Brass Class,0.5,
+MUSIC_ED 237-0,MUSIC_ED,237-0,String Class I,0.5,
+MUSIC_ED 238-0,MUSIC_ED,238-0,String Class II,0.5,
+MUSIC_ED 239-0,MUSIC_ED,239-0,Percussion Class,0.5,
+MUSIC_ED 240-0,MUSIC_ED,240-0,Classroom Instruments,0.5,
+MUSIC_ED 260-0,MUSIC_ED,260-0,Introduction to Music Education,1,This course is designed as an introduction to the field of music education. It will provide an overview of the multifaceted nature of K-12 music teaching and learning and serve as a foundation for the construction of your own beliefs and practices as a teacher. We will observe music classrooms as well as read about and discuss a variety of current issues and exciting movements in music education.
+MUSIC_ED 314-0,MUSIC_ED,314-0,Practicum,0,"Practicum lab linked to MUSIC_ED 361-0, MUSIC_ED 362-0, MUSIC_ED 364-0, MUSIC_ED 365-0, MUSIC_ED 366-0, and MUSIC_ED 367-0."
+MUSIC_ED 326-0,MUSIC_ED,326-0,World Music Pedagogy,1,"This course is designed to explore the history, philosophy, and practical implementation of world music in music education settings. Develops in students a deeper understanding of the value of world music experiences in music education contexts and the ability to develop and implement world music activities in a variety of classroom settings."
+MUSIC_ED 327-0,MUSIC_ED,327-0,Teaching Exceptional Children,1,"Topics will include U.S. legislation relating to the education of individuals with disabilities, specific disabilities and their impact on student behavior and learning (behavioral disorders, cognitive, speech, and language disorders, autism spectrum disorders, hearing and visual impairments, physical disabilities, person-first language), Universal Design for Learning, and accommodations, adaptations, and differentiation for the music classroom. Students may engage virtually in weekly community field service at a local school for children with disabilities."
+MUSIC_ED 335-0,MUSIC_ED,335-0,Selected Topics,1,Topics vary; announced before registration. May be repeated.
+MUSIC_ED 345-0,MUSIC_ED,345-0,Music in the Interdisciplinary Curriculum,1,"Promoting music and arts-based interdisciplinary experiences for elementary and secondary school students. Curriculum developing interrelating arts disciplines (such as music, art, and literature) and connecting the arts with non-arts disciplines (such as history and social studies)."
+MUSIC_ED 358-0,MUSIC_ED,358-0,Philosophy of Music Education,1,"The purpose of this course is to stimulate your thinking about your role as a music educator, and the role of music in the broader educative experience. Exploration of philosophical principles, concepts, and ideas that provide music education with purpose and direction. This class will help you articulate a vision for music in schools and a philosophical orientation toward music teaching and learning."
+MUSIC_ED 361-0,MUSIC_ED,361-0,Teaching General Music I,1,"For grades K-5, curriculum materials and strategies for developing musical growth. Laboratory experiences; developing creativity in the music classroom. Open only to music majors or with consent of instructor. 
+Prerequisite: MUSIC_ED 240-0."
+MUSIC_ED 362-0,MUSIC_ED,362-0,Teaching General Music II,1,"For grades 6-12, effective teaching of general music classes in middle and high school. Available curriculum materials; innovative approaches. 
+Prerequisite: MUSIC_ED 231-0."
+MUSIC_ED 363-0,MUSIC_ED,363-0,Teaching High School Nonperformance Courses,1,"Planning and teaching high school music, arts, humanities courses. Present practices; development of exemplary course plans."
+MUSIC_ED 364-0,MUSIC_ED,364-0,Teaching Instrumental Music I,1,"Teaching and administrative principles for elementary and middle school instrumental music programs. Rehearsal dynamics, conducting, rehearsal room management, and pedagogy for school ensembles. 
+Prerequisite: MUSIC_ED 237-0."
+MUSIC_ED 365-0,MUSIC_ED,365-0,Teaching Instrumental Music II,1,"Teaching and administrative principles for secondary school instrumental music programs. Rehearsal dynamics, conducting, rehearsal room management, and pedagogy for school ensembles. 
+Prerequisite: MUSIC_ED 364-0 ."
+MUSIC_ED 366-0,MUSIC_ED,366-0,Teaching Choral Music I,1,"Development and application of skills, knowledge, and understandings for teaching choral music in elementary and middle school."
+MUSIC_ED 367-0,MUSIC_ED,367-0,Teaching Choral Music II,1,"Continuation of MUSIC_ED 366-0. High school choral program, curriculum model, repertoire, sight-reading, rehearsal techniques, programming, administration."
+MUSIC_ED 368-0,MUSIC_ED,368-0,Teaching Composition in the Schools,1,"The purpose of this course is to study practical concepts and theories of teaching composition and improvisation in K-12 schools, learn about the design of curricular materials for teaching composition and improvisation, and compose and improvise using a variety of approaches and mediums that are applicable to general, choral, and instrumental music classrooms."
+MUSIC_ED 369-0,MUSIC_ED,369-0,Research and Evaluation in Music Education,1,Procedures and issues in research and evaluation in music teaching. Practical application of research to decision making.
+MUSIC_ED 370-0,MUSIC_ED,370-0,Student Teaching in the Elementary School: General Music,1-4 Units,
+MUSIC_ED 371-0,MUSIC_ED,371-0,Student Teaching in the Middle School/Junior High School: General/Choral,1-4 Units,
+MUSIC_ED 373-0,MUSIC_ED,373-0,Student Teaching in the Senior High School: Choral and Nonperformance,1-4 Units,
+MUSIC_ED 375-0,MUSIC_ED,375-0,Student Teaching in the Elementary School: Instrumental,1-4 Units,
+MUSIC_ED 376-0,MUSIC_ED,376-0,Student Teaching in the Middle School/Junior High School: Instrumental,1-4 Units,
+MUSIC_ED 377-0,MUSIC_ED,377-0,Student Teaching in the Senior High School: Instrumental and Nonperformance,1-4 Units,
+MUSIC_ED 380-0,MUSIC_ED,380-0,Student Teaching in the Elementary School: General Music,1-4 Units,
+MUSIC_ED 381-0,MUSIC_ED,381-0,Student Teaching in the Middle School/Junior High School: General/Choral,1-4 Units,
+MUSIC_ED 383-0,MUSIC_ED,383-0,Student Teaching in the Senior High School: Choral and Nonperformance,1-4 Units,
+MUSIC_ED 385-0,MUSIC_ED,385-0,Student Teaching in the Elementary School: Instrumental,1-4 Units,
+MUSIC_ED 386-0,MUSIC_ED,386-0,Student Teaching in the Middle School/Junior High School: Instrumental,1-4 Units,
+MUSIC_ED 387-0,MUSIC_ED,387-0,Student Teaching in the Senior High School: Instrumental and Nonperformance,1-4 Units,
+MUSIC_ED 390-0,MUSIC_ED,390-0,Student Teaching Colloquium,0,
+MUSIC_ED 399-0,MUSIC_ED,399-0,Independent Study,0.5-1,

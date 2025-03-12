@@ -1,0 +1,22 @@
+code,category,number,title,units,desc
+VOICE 110-0,VOICE,110-0,Applied Voice for Music Majors,1,"Lessons consist of individual instruction, with each student receiving the equivalent of 50 minutes of instruction weekly."
+VOICE 111-1,VOICE,111-1,Phonetics and Diction I,0.5,"Required of first-year and transfer students majoring in voice. Three quarters: Italian, German, French."
+VOICE 111-2,VOICE,111-2,Phonetics and Diction II,0.5,"Required of first-year and transfer students majoring in voice. Three quarters: Italian, German, French."
+VOICE 111-3,VOICE,111-3,Phonetics and Diction III,0.5,"Required of first-year and transfer students majoring in voice. Three quarters: Italian, German, French."
+VOICE 210-0,VOICE,210-0,Applied Voice for Music Majors,1,"Lessons consist of individual instruction, with each student receiving the equivalent of 50 minutes of instruction weekly."
+VOICE 305-0,VOICE,305-0,Optional Recital,0,
+VOICE 310-0,VOICE,310-0,Applied Voice for Music Majors,1,"Lessons consist of individual instruction, with each student receiving the equivalent of 50 minutes of instruction weekly."
+VOICE 311-0,VOICE,311-0,Vocal Solo Class,0,Weekly recital hour. Required for any student registered for full-credit private voice lessons.
+VOICE 323-0,VOICE,323-0,Vocal Pedagogy for Undergraduates,0.5,"The fundamentals of vocal production, including laryngeal anatomy, posture, breathing, resonance, articulation, and registration. Topics also include health care of the professional voice and some pathologies of the vocal folds."
+VOICE 335-0,VOICE,335-0,Selected Topics in Voice,0.5-1,"Topics vary; announced before registration. May include chanson, recitative, and non-English languages. May be repeated."
+VOICE 351-1,VOICE,351-1,Undergraduate Opera Workshop I,0.5,Advanced techniques for the performance of arias; methods of text and character analysis; audition techniques; study of opera scenes.
+VOICE 351-2,VOICE,351-2,Undergraduate Opera Workshop II,0.5,Advanced techniques for the performance of arias; methods of text and character analysis; audition techniques; study of opera scenes.
+VOICE 351-3,VOICE,351-3,Undergraduate Opera Workshop III,0.5,Advanced techniques for the performance of arias; methods of text and character analysis; audition techniques; study of opera scenes.
+VOICE 355-0,VOICE,355-0,Vocal Coaching,0.5,
+VOICE 363-0,VOICE,363-0,Opera Performance,0-0.5,Opera Production.
+VOICE 365-0,VOICE,365-0,Professional Preparation For Singers,0.5,"Designed to help the aspiring singer make the leap into professional work. Covers the musical, physical, and business aspects of being a professional musician. Includes teaching by guest artists."
+VOICE 370-0,VOICE,370-0,Junior Recital,0,
+VOICE 380-0,VOICE,380-0,Senior Recital,0,
+VOICE 390-0,VOICE,390-0,Studio Class,0,
+VOICE 393-0,VOICE,393-0,Repertoire Studies,0.5,"Topics vary by quarter and may include the German Lied, chanson, oratorio repertoire, and recitative."
+VOICE 399-0,VOICE,399-0,Independent Study,0.5-1,Permission of instructor and department required.

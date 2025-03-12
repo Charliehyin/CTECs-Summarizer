@@ -1,0 +1,43 @@
+code,category,number,title,units,desc
+COMP_ENG 203-0,COMP_ENG,203-0,Introduction to Computer Engineering,1,"Overview of computer engineering design. Number systems and Boolean algebra. CMOS and logic gates. Design of combinational circuits and simplification. Decoders, multiplexers, adders. Sequential logic and flip flops. Introduction to assembly language."
+COMP_ENG 205-0,COMP_ENG,205-0,Fundamentals of Computer System Software,1,"Basics of assembly language programming. Macros. System stack and procedure calls. Techniques for writing assembly language programs. Features of Intel x86 architecture. Interfaces between C and assembly codes. 
+Prerequisite: COMP_SCI 111-0 or GEN_ENG 205-1; COMP_ENG 203-0 recommended."
+COMP_ENG 295-0,COMP_ENG,295-0,Special Topics in Computer Engineering,1,Topics suggested by students or faculty and approved by the department.
+COMP_ENG 303-0,COMP_ENG,303-0,Advanced Digital Design,1,"COMP_ENG 303-0 Advanced Digital Design (1 Unit) 
+Prerequisite: COMP_ENG 203-0."
+COMP_ENG 329-0,COMP_ENG,329-0,The Art of Multicore Concurrent Programming,1,"COMP_ENG 329-0 The Art of Multicore Concurrent Programming (1 Unit) 
+Prerequisite: COMP_SCI 110-0 or COMP_SCI 111-0."
+COMP_ENG 334-0,COMP_ENG,334-0,Fundamentals of Blockchains and Decentralization,1,"COMP_ENG 334-0 Fundamentals of Blockchains and Decentralization (1 Unit) 
+Prerequisites: COMP_SCI 212-0 or ELEC_ENG 302-0 or equivalent or graduate standing and basic programming skills."
+COMP_ENG 346-0,COMP_ENG,346-0,Microcontroller System Design,1,"COMP_ENG 346-0 Microcontroller System Design (1 Unit) 
+Prerequisites: COMP_SCI 211-0 and (COMP_ENG 205-0 or COMP_SCI 213-0)."
+COMP_ENG 347-1,COMP_ENG,347-1,Microprocessor Systems Project I,1,"COMP_ENG 347-1 Microprocessor Systems Project I (1 Unit) 
+Prerequisite: COMP_ENG 346-0."
+COMP_ENG 347-2,COMP_ENG,347-2,Microprocessor Systems Project II,1,"COMP_ENG 347-2 Microprocessor Systems Project II (1 Unit) 
+Prerequisite: COMP_ENG 347-1."
+COMP_ENG 355-0,COMP_ENG,355-0,ASIC and FPGA Design,1,"COMP_ENG 355-0 ASIC and FPGA Design (1 Unit) 
+Prerequisite: COMP_ENG 303-0."
+COMP_ENG 356-0,COMP_ENG,356-0,Introduction to Formal Specification & Verification,1,COMP_ENG 356-0 Introduction to Formal Specification & Verification (1 Unit)  
+COMP_ENG 357-0,COMP_ENG,357-0,Design Automation in VLSI,1,"COMP_ENG 357-0 Design Automation in VLSI (1 Unit) 
+Prerequisites: COMP_SCI 214-0, COMP_ENG 303-0."
+COMP_ENG 358-0,COMP_ENG,358-0,Introduction to Parallel Computing,1,"COMP_ENG 358-0 Introduction to Parallel Computing (1 Unit) 
+Prerequisite: COMP_SCI 211-0 or graduate standing."
+COMP_ENG 361-0,COMP_ENG,361-0,Computer Architecture I,1,"COMP_ENG 361-0 Computer Architecture I (1 Unit) 
+Prerequisites: (COMP_ENG 205-0 or COMP_SCI 213-0) AND (COMP_ENG 303-0 or COMP_ENG 355-0)."
+COMP_ENG 362-0,COMP_ENG,362-0,Computer Architecture Projects,1,"COMP_ENG 362-0 Computer Architecture Projects (1 Unit) 
+Prerequisite: COMP_ENG 361-0."
+COMP_ENG 364-0,COMP_ENG,364-0,CyberPhysical Systems Design and Application,1,"This course will introduce trends and challenges of modern cyber-physical systems, and review state-of-the-art design paradigms and tools in academia and industry. It will introduce fundamental concepts in the modeling of cyber-physical systems, important models of computation such as dataflow, state machine, and synchronous-reactive semantics, real-time embedded architectures, and synthesis methodologies for generating efficient, correct, and predictable implementations."
+COMP_ENG 365-0,COMP_ENG,365-0,"Internet-of-things Sensors, Systems, And Applications",1,"In-depth review of advanced technology surrounding the Internet-of-Things; including wireless sensing networks, wearables, drones, privacy, machine learning, and energy-efficient computing. Application domains in health, infrastructure monitoring, green computing and others are explored. Following a seminar format with alongside exploration of new research areas through a project proposal."
+COMP_ENG 366-0,COMP_ENG,366-0,Embedded Systems,1,"Introduction to the design and evaluation of embedded systems, with emphasis on the system-level aspects of embedded systems. Topics include modeling (models of computation and models of communication), survey of embedded system hardware, software and operating system issues specific to embedded system design, mapping specifications to hardware, and testing and evaluation of embedded systems."
+COMP_ENG 368-0,COMP_ENG,368-0,Programming Massively Parallel Processors with CUDA,1,"COMP_ENG 368-0 Programming Massively Parallel Processors with CUDA (1 Unit) 
+Prerequisites: (COMP_SCI 213-0 and (COMP_SCI 211-0 or COMP_SCI 230-0)) or permission of instructor."
+COMP_ENG 369-0,COMP_ENG,369-0,Introduction to Sensor Networks,1,"COMP_ENG 369-0 Introduction to Sensor Networks (1 Unit) 
+Prerequisite: COMP_SCI 343-0 or COMP_SCI 340-0."
+COMP_ENG 387-0,COMP_ENG,387-0,Real-Time Digital Systems Design and Verification with FPGAs,1,"COMP_ENG 387-0 Real-Time Digital Systems Design and Verification with FPGAs (1 Unit) 
+Prerequisite: COMP_ENG 303-0 and COMP_ENG 355-0."
+COMP_ENG 391-0,COMP_ENG,391-0,CMOS VLSI Circuit Design,1,COMP_ENG 391-0 CMOS VLSI Circuit Design (1 Unit)  
+COMP_ENG 392-0,COMP_ENG,392-0,VLSI Systems Design Projects,1,"COMP_ENG 392-0 VLSI Systems Design Projects (1 Unit) 
+Prerequisite: COMP_ENG 391-0 or COMP_ENG 355-0."
+COMP_ENG 393-0,COMP_ENG,393-0,Advanced Low Power VLSI and Mixed-signal IC Design,1,COMP_ENG 393-0 Advanced Low Power VLSI and Mixed-signal IC Design (1 Unit)  
+COMP_ENG 395-0,COMP_ENG,395-0,Special Topics in Computer Engineering,1,COMP_ENG 395-0 Special Topics in Computer Engineering (1 Unit)  
+COMP_ENG 399-0,COMP_ENG,399-0,Projects,1,Seminar and projects for advanced undergraduates on subjects of current interest in electrical and computer engineering.

@@ -1,0 +1,32 @@
+code,category,number,title,units,desc
+KOREAN 111-1,KOREAN,111-1,Korean I,1,First-quarter course of the beginning college-level sequence to develop basic four language skills in Korean.
+KOREAN 111-2,KOREAN,111-2,Korean I,1,"Second-quarter course of the beginning college-level sequence to develop basic four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 111-1 or equivalent."
+KOREAN 111-3,KOREAN,111-3,Korean I,1,"Third-quarter course of the beginning college-level sequence to develop basic four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 111-2 or equivalent."
+KOREAN 121-1,KOREAN,121-1,Korean II,1,"First-quarter course of the second-year intermediate-level Korean sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 111-3 or equivalent."
+KOREAN 121-2,KOREAN,121-2,Korean II,1,"Second-quarter course of the second-year intermediate-level Korean sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 121-1 or equivalent."
+KOREAN 121-3,KOREAN,121-3,Korean II,1,"Third-quarter course of the second-year intermediate-level Korean sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 121-2 or equivalent."
+KOREAN 125-1,KOREAN,125-1,Korean II - Accelerated,1,"First-quarter course of the accelerated intermediate-level sequence for heritage learners to further develop four language skills. 
+Prerequisite: consent of department."
+KOREAN 125-2,KOREAN,125-2,Korean II - Accelerated,1,"Second-quarter course of the accelerated intermediate-level sequence for heritage learners to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 125-1 or equivalent."
+KOREAN 125-3,KOREAN,125-3,Korean II - Accelerated,1,"Third-quarter course of the accelerated intermediate-level sequence for heritage learners to further develop four language skills in Korean. 
+Prerequisite: Students must have passed Korean 125-2 with at least a C- or be placed in according to placement result."
+KOREAN 211-1,KOREAN,211-1,Korean III,1,"First-quarter course of the intermediate-toward-advanced level sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 121-3, or in KOREAN 125-2, or equivalent."
+KOREAN 211-2,KOREAN,211-2,Korean III,1,"Second-quarter course of the intermediate-toward-advanced level sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 211-1 or equivalent."
+KOREAN 211-3,KOREAN,211-3,Korean III,1,"Third-quarter course of the intermediate-toward-advanced level sequence to further develop four language skills in Korean. 
+Prerequisite: grade of at least C- in KOREAN 211-2 or equivalent."
+KOREAN 311-1,KOREAN,311-1,Korean IV: Readings in Korean Literature,1,"Reading literature in Korean to further develop literacy skills and understanding of Korean culture and society. 
+Prerequisite: grade of at least C- in KOREAN 211-3 or equivalent."
+KOREAN 311-2,KOREAN,311-2,Korean IV: Korean through Movies,1,"Through Korean films and documentaries, improving oral and writing proficiency, and gaining the knowledge of Korean history, culture, and society. 
+Prerequisite: grade of at least C- in KOREAN 211-3 or equivalent."
+KOREAN 311-3,KOREAN,311-3,Korean IV: Topics in the News,1,"Through current news, improving oral and writing profiency and better understanding Korean culture and society. 
+Prerequisite: grade of at least C- in KOREAN 211-3 or equivalent."
+KOREAN 399-0,KOREAN,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Korean. 
+Prerequisite: consent of department."

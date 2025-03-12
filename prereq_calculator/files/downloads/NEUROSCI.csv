@@ -1,0 +1,46 @@
+code,category,number,title,units,desc
+NEUROSCI 101-7,NEUROSCI,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+NEUROSCI 101-8,NEUROSCI,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+NEUROSCI 202-0,NEUROSCI,202-0,Cellular and Molecular Neuroscience,1,"Introduction to principles governing nervous system function at the cellular and molecular level. May not receive credit for both NEUROSCI 202-0 and BIOL_SCI 302-0. 
+Prerequisites: BIOL_SCI 201-0 and must be a neuroscience major.
+ Natural Sciences Distro Area"
+NEUROSCI 206-0,NEUROSCI,206-0,Systems and Behavioral Neuroscience,1,"Introduction to the organization and function of brain systems and their role in generating behavior. 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0.
+ Natural Sciences Distro Area"
+NEUROSCI 303-0,NEUROSCI,303-0,Molecular Mechanisms of Neuropsychopharmacology,1,"NEUROSCI 303-0 Molecular Mechanisms of Neuropsychopharmacology (1 Unit) 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0."
+NEUROSCI 304-0,NEUROSCI,304-0,Developmental Neurobiology,1,"NEUROSCI 304-0 Developmental Neurobiology (1 Unit) 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0."
+NEUROSCI 308-0,NEUROSCI,308-0,Genetics of Human Behavior,1,"NEUROSCI 308-0 Genetics of Human Behavior (1 Unit) 
+Prerequisites: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL SCI 302-0."
+NEUROSCI 311-0,NEUROSCI,311-0,Biophysical Analysis of Neurons for ISP,1,"NEUROSCI 311-0 Biophysical Analysis of Neurons for ISP (1 Unit) 
+Prerequisite: Students must be an ISP or NEUROSCI major to enroll."
+NEUROSCI 320-0,NEUROSCI,320-0,Animal Behavior,1,"NEUROSCI 320-0 Animal Behavior (1 Unit) 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0.
+Natural Sciences Distro Area"
+NEUROSCI 324-0,NEUROSCI,324-0,Neurobiology of Biological Clocks and Sleep,1,"General properties of sleep and circadian rhythms; how sleep and the circadian clock regulate a number of diverse activities at the cell, organ, and organism levels.The importance of biological rhythms and sleep for human health and disease will be covered in the course. 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0."
+NEUROSCI 325-0,NEUROSCI,325-0,"Neurobiology of Stress, Adversity, and Resilience",1,"NEUROSCI 325-0 Neurobiology of Stress, Adversity, and Resilience (1 Unit) 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0."
+NEUROSCI 326-0,NEUROSCI,326-0,Neurobiology of Learning and Memory,1,"This course examines how brain cells and neural circuits process experience to produce lasting changes in behavior. In depth discussion of original research findings, with a focus on the latest molecular, neural physiology, and behavioral studies. 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0."
+NEUROSCI 350-0,NEUROSCI,350-0,Advanced Neurophysiology Laboratory,1,"Learn to record electrophysiological signals (action potentials and post synaptic potentials) from living neural systems using amplifiers and recording equipment commonly found in research labs around the world. 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0; and consent of instructor."
+NEUROSCI 355-0,NEUROSCI,355-0,Neurogenetics of Behavior Laboratory,1,"Project-based laboratory investigating the genetic basis of behavior in a simple model system; molecular genetic techniques used in neurobiology. 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0."
+NEUROSCI 357-0,NEUROSCI,357-0,Neuroanatomy Laboratory,1,"Comparative anatomy and dissection to understand the functions of brain regions by comparing their structures across the major vertebrate classes. Includes clinical anatomy and case studies to understand the functions of brain regions by drawing connections between neurological symptoms and the localization of lesions. 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0."
+NEUROSCI 360-0,NEUROSCI,360-0,Neuroscience of Brain Disorders,1,"NEUROSCI 360-0 Neuroscience of Brain Disorders (1 Unit) 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0.
+Natural Sciences Distro Area"
+NEUROSCI 365-0,NEUROSCI,365-0,Neurobiology of Prediction,1,"NEUROSCI 365-0 Neurobiology of Prediction (1 Unit) 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0."
+NEUROSCI 370-0,NEUROSCI,370-0,Genetic and Circuit Analysis of Motivated Behavior,1,"NEUROSCI 370-0 Genetic and Circuit Analysis of Motivated Behavior (1 Unit) 
+Prerequisites: NEUROSCI 202-0 and NEUROSCI 206-0; or NEUROSCI 311-0 and NEUROSCI 206-0; or BIOL_SCI 302-0."
+NEUROSCI 377-0,NEUROSCI,377-0,Neurobiology of Sensation and Perception,1,"NEUROSCI 377-0 Neurobiology of Sensation and Perception (1 Unit) 
+Prerequisite: NEUROSCI 202-0 or NEUROSCI 311-0 or BIOL_SCI 302-0.
+Natural Sciences Distro Area"
+NEUROSCI 390-0,NEUROSCI,390-0,Topics in Neuroscience,1,Special Topics in Neuroscience. Topics to be announced. Prerequisites vary. May be repeated for credit with different topic. May be used to fulfill a Neuroscience Group B elective or serve as an Biology Allied Field course.
+NEUROSCI 398-0,NEUROSCI,398-0,Senior Thesis Seminar,1,"Instruction in writing a scientific thesis, discussion of student projects, instructor and peer feedback on thesis drafts, and continued independent research. Required of seniors pursuing departmental honors, with approval of the director of undergraduate studies. Advanced Expression"
+NEUROSCI 399-0,NEUROSCI,399-0,Independent Study in Neuroscience,1,"Supervised laboratory or methods research with a faculty member. Research must be related to Neuroscience. 
+Prerequisite: Must be a Neuroscience major, departmental permission required (see website for details.)."

@@ -1,0 +1,225 @@
+code,category,number,title,units,desc
+MATH 100-0,MATH,100-0,Quantitative Reasoning,1,"Analyzing topical, real-life problems from a quantitative perspective. Solving multistep problems using elementary algebra, probability, and statistics. Students may not receive credit for MATH 100-0 after earning credit for a 200-level MATH course or higher. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 100-BR,MATH,100-BR,Quantitative Reasoning,0.5,"For participants in Bridge I summer program. Analyzing topical, real-life problems from a quantitative perspective. Solving multistep problems using elementary algebra, probability, and statistics. Taken with HUM 100-1-BR."
+MATH 105-7,MATH,105-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+MATH 105-8,MATH,105-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+MATH 110-0,MATH,110-0,Introduction to Mathematics,1,"Exploration of the beauty of mathematics through a study of the patterns and properties of the natural numbers. Topics include counting, probability, prime numbers, the Euclidean algorithm, and unique factorization. For students with minimal mathematical background. Students may not receive credit for MATH 110-0 after earning credit for a 200-level MATH course or higher. Formal Studies Distro Area"
+MATH 202-0,MATH,202-0,Finite Mathematics,1,"Selected topics from elementary linear algebra and its applications, finite probability, and elementary statistics. For students majoring in the behavioral sciences. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 211-0,MATH,211-0,Short Course in Calculus,1,"Elements of differential and integral calculus. Students may not receive credit for both MATH 211-0 and any of MATH 212-0 (former), MATH 213-0 (former), MATH 214-0 (former), MATH 218-1, MATH 218-2, MATH 218-3, MATH 220-0 (former), MATH 220-1, MATH 220-2, MATH 224-0 (former), or MATH 226-0. Not suitable for students planning to major in mathematics, the natural sciences, or economics. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 218-1,MATH,218-1,Single-Variable Calculus with Precalculus,1,"Functions and graphs. Limits. Continuity. Differentiation. Linearization. Students may not receive credit for both MATH 218-1 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1. 
+Prerequisite: consent of the department.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 218-2,MATH,218-2,Single-Variable Calculus with Precalculus,1,"Extreme value theorem, mean value theorem, and curve-sketching. Related rates. Optimization. Transcendental and inverse functions. Students may not receive credit for both MATH 218-2 and any of MATH 211-0, MATH 212-0 (former), MATH 220-0 (former), or MATH 220-1. 
+Prerequisite: MATH 218-1 or consent of the department.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 218-3,MATH,218-3,Single-Variable Calculus with Precalculus,1,"Definite integrals, antiderivatives, and the fundamental theorem of calculus. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 218-3 and any of MATH 213-0 (former), MATH 220-2, or MATH 224-0 (former). 
+Prerequisite: MATH 218-2 or consent of the department.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 218-SG-1,MATH,218-SG-1,Peer-Guided Study Group: Single-Variable Calculus with Precalculus,0,"Peer-guided study group for students enrolled in MATH 218-1. Meets weekly in small groups with a peer facilitator, to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 218-SG-2,MATH,218-SG-2,Peer-Guided Study Group: Single-Variable Calculus with Precalculus,0,"Peer-guided study group for students enrolled in MATH 218-2. Meets weekly in small groups with a peer facilitator, to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 218-SG-3,MATH,218-SG-3,Peer-Guided Study Group: Single-Variable Calculus with Precalculus,0,"Peer-guided study group for students enrolled in MATH 218-3. Meets weekly in small groups with a peer facilitator, to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 220-1,MATH,220-1,Single-Variable Differential Calculus,1,"Limits. Differentiation. Linear approximation and related rates. Extreme value theorem, mean value theorem, and curve-sketching. Optimization. Students may not receive credit for both MATH 220-1 and any of MATH 211-0, MATH 212-0 (former), MATH 213-0 (former), MATH 218-1, MATH 218-2, or MATH 220-0 (former). Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 220-2,MATH,220-2,Single-Variable Integral Calculus,1,"Definite integrals, antiderivatives, and the fundamental theorem of calculus. Transcendental and inverse functions. Areas and volumes. Techniques of integration, numerical integration, and improper integrals. First-order linear and separable ordinary differential equations. Students may not receive credit for both MATH 220-2 and any of MATH 213-0 (former), MATH 214-0 (former), MATH 218-3, or MATH 224-0 (former). 
+Prerequisite: MATH 218-2 or MATH 220-0 (former) or MATH 220-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 220-MG-1,MATH,220-MG-1,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in MATH 220-1. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+MATH 220-MG-2,MATH,220-MG-2,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in MATH 220-2. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+MATH 220-SG-1,MATH,220-SG-1,Peer-Guided Study Group: Single-Variable Differential Calculus,0,"Peer-guided study group for students enrolled in MATH 220-1. Meets weekly in small groups with a peer facilitator to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 220-SG-2,MATH,220-SG-2,Peer-Guided Study Group: Single-Variable Integral Calculus,0,"Peer-guided study group for students enrolled in MATH 220-2. Meets weekly in small groups with a peer facilitator to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 226-0,MATH,226-0,Sequences and Series,1,"Infinite sequences. Infinite series and convergence tests. Power series, Taylor series, Taylor polynomials and error. Complex numbers. Second-order linear ordinary differential equations and power series solutions. Students may not receive credit for both MATH 226-0 and any of MATH 214-0 (former), MATH 224-0 (former), or MATH 281-2. 
+Prerequisite: MATH 218-3 or MATH 220-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 228-1,MATH,228-1,Multivariable Differential Calculus for Engineering,1,"Vectors, vector functions, partial derivatives, Taylor polynomials, and optimization. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-1 and any of MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1. 
+Prerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 228-2,MATH,228-2,Multivariable Integral Calculus for Engineering,1,"Multiple integration: double integrals, triple integrals, and change of variables. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Emphasis on engineering applications. For McCormick School of Engineering students only. Students may not receive credit for both MATH 228-2 and any of MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2. 
+Prerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 228-SG-1,MATH,228-SG-1,Peer-Guided Study Group: Multivariable Calculus for Engineering,0,"Peer-guided study group for students enrolled in MATH 228-1. Meets weekly in small groups with a peer facilitator to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 230-1,MATH,230-1,Multivariable Differential Calculus,1,"Vectors, vector functions, partial derivatives, and optimization. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-1 and any of MATH 228-1, MATH 230-0 (former), MATH 281-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1. 
+Prerequisite: MATH 218-3 or MATH 214-0 (former) or MATH 220-2 or MATH 224-0 (former).
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 230-2,MATH,230-2,Multivariable Integral Calculus,1,"Multiple integration: double integrals, triple integrals, and the change of variables theorem. Vector calculus: vector fields, line integrals, surface integrals, curl and divergence, Green's theorem, Stokes' theorem, and the divergence theorem. Not open to students in the McCormick School of Engineering. Students may not receive credit for both MATH 230-2 and any of MATH 228-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2. 
+Prerequisite: MATH 228-1 or MATH 230-0 (former) or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 230-MG-1,MATH,230-MG-1,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in MATH 230-1. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+MATH 230-SG-1,MATH,230-SG-1,Peer-Guided Study Group: Multivariable Differential Calculus,0,"Peer-guided study group for students enrolled in MATH 230-1. Meets weekly in small groups with a peer facilitator to collaboratively review material, solve practice problems, and clarify concepts. Enrollment optional. Graded S/U."
+MATH 235-0,MATH,235-0,Series and Multiple Integrals,1,"Sequences and series, and convergence tests. Power series, Taylor polynomials and error. Double integrals, triple integrals, and change of variables. Students may receive credit for only one of MATH 235‐0, MATH 226‐0, or STAT 228‐0. 
+Prerequisite: MATH 218‐3 or MATH 220‐2, and MATH 228‐1 or MATH 230‐1 or MATH 281‐1 or MATH 285‐2 or MATH 290‐2 or MATH 291‐2 or ES_APPM 252‐1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 240-0,MATH,240-0,Linear Algebra,1,"Elementary linear algebra: systems of linear equations, matrix algebra, subspaces, determinants, eigenvalues, eigenvectors, and orthogonality. Students may not receive credit for both MATH 240-0 and any of MATH 281-3, MATH 285-1, MATH 290-1, MATH 291-1, GEN_ENG 205-1, or GEN_ENG 206-1. 
+Prerequisite: MATH 230-1 or MATH 230-0 (former) or MATH 281-1 or ES_APPM 252-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 250-0,MATH,250-0,Elementary Differential Equations,1,"Elementary ordinary differential equations: first-order equations, second-order linear equations, series solutions, and systems of first-order linear equations. Students may not receive credit for both MATH 250-0 and any of MATH 281-3, MATH 360-1, GEN_ENG 205-4, or GEN_ENG 206-4. 
+Prerequisites: MATH 226-0 or MATH 281-2; and MATH 228-2 or MATH 230-2 or MATH 234-0 (former) or MATH 281-2 or MATH 285-3 or MATH 290-3 or MATH 291-3 or ES_APPM 252-2; and MATH 240-0 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 281-1,MATH,281-1,Accelerated Mathematics for ISP: First Year,1,"Multivariable differential and integral calculus. Students may not receive credit for both MATH 281-1 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 285-2, MATH 290-2, MATH 291-2, or ES_APPM 252-1. 
+Prerequisite: first-year standing in ISP.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 281-2,MATH,281-2,Accelerated Mathematics for ISP: First Year,1,"Vector calculus, ordinary differential equations, and infinite series. Students may not receive credit for both MATH 281-2 and any of MATH 226-0, MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 285-3, MATH 290-3, MATH 291-3, or ES_APPM 252-2. 
+Prerequisite: MATH 281-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 281-3,MATH,281-3,Accelerated Mathematics for ISP: First Year,1,"Linear algebra and systems of ordinary differential equations. Students may not receive credit for both MATH 281-3 and any of MATH 240-0, MATH 250-0, MATH 285-1, MATH 290-1, MATH 291-1, MATH 360-1, GEN_ENG 205-1, GEN_ENG 206-1, GEN_ENG 205-4, or GEN_ENG 206-4. 
+Prerequisite: MATH 281-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 285-1,MATH,285-1,Accelerated Mathematics for MMSS,1,"Linear algebra: systems of linear equations, linear transformations, determinants, vector spaces, eigenvalues and eigenvectors. Students may not receive credit for both MATH 285-1 and any of MATH 240-0, MATH 281-3, MATH 290-1, MATH 291-1, GEN_ENG 205-1, or GEN_ENG 206-1. 
+Prerequisite: MMSS students only.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 285-2,MATH,285-2,Accelerated Mathematics for MMSS,1,"Linear algebra: orthogonality, symmetric matrices, and quadratic forms. Multivariable differential calculus: vectors, differentiation, vector-valued functions, and optimization. Students may not receive credit for both MATH 285-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 290-2, MATH 291-2, or ES_APPM 252-1. 
+Prerequisite: MATH 285-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 285-3,MATH,285-3,Accelerated Mathematics for MMSS,1,"Multivariable integral calculus: multiple integration, line integrals, surface integrals, and vector analysis. Students may not receive credit for both MATH 285-3 and any of MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 290-3, MATH 291-3, or ES_APPM 252-2. 
+Prerequisite: MATH 285-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 290-1,MATH,290-1,MENU: Linear Algebra and Multivariable Calculus,1,"Linear algebra: systems of linear equations, linear transformations, determinants, eigenvalues and eigenvectors. Students may not receive credit for both MATH 290-1 and any of MATH 240-0, MATH 281-3, MATH 285-1, MATH 291-1, GEN_ENG 205-1, or GEN_ENG 206-1. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 290-2,MATH,290-2,MENU: Linear Algebra and Multivariable Calculus,1,"Linear algebra: orthogonality, symmetric matrices, and quadratic forms. Multivariable differential calculus: vectors, differentiation, vector-valued functions, and optimization. Students may not receive credit for both MATH 290-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 291-2, or ES_APPM 252-1. 
+Prerequisite: MATH 290-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 290-3,MATH,290-3,MENU: Linear Algebra and Multivariable Calculus,1,"Multivariable integral calculus: multiple integration, line integrals, surface integrals, and vector analysis. Students may not receive credit for both MATH 290-3 and any of MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 291-3, or ES_APPM 252-2. 
+Prerequisite: MATH 290-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 291-1,MATH,291-1,MENU: Intensive Linear Algebra and Multivariable Calculus,1,"Foundations. Linear algebra: systems of linear equations, linear transformations, vector spaces, and subspaces. The course emphasizes theory and proofs. Students may not receive credit for both MATH 291-1 and any of MATH 240-0, MATH 281-3, MATH 285-1, MATH 290-1, GEN_ENG 205-1, or GEN_ENG 206-1. 
+Prerequisite: consent of the department.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 291-2,MATH,291-2,MENU: Intensive Linear Algebra and Multivariable Calculus,1,"Linear algebra: orthogonality, determinants, eigenvectors, and symmetric matrices. Multivariable differential calculus: vectors, differentiation, and vector-valued functions. The course emphasizes theory and proofs. Students may not receive credit for both MATH 291-2 and any of MATH 228-1, MATH 230-0 (former), MATH 230-1, MATH 281-1, MATH 285-2, MATH 290-2, or ES_APPM 252-1. 
+Prerequisite: MATH 291-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 291-3,MATH,291-3,MENU: Intensive Linear Algebra and Multivariable Calculus,1,"Multivariable differential calculus: optimzation. Multivariable integral calculus: multiple integration, line integrals, surface integrals, and vector analysis. The course emphasizes theory and proofs. Students may not receive credit for both MATH 291-3 and any of MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, or ES_APPM 252-2. 
+Prerequisite: MATH 291-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+MATH 300-0,MATH,300-0,Foundations of Higher Mathematics,1,"MATH 300-0 Foundations of Higher Mathematics (1 Unit) 
+Prerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1 or consent of the department.
+Formal Studies Distro Area"
+MATH 300-BR,MATH,300-BR,Foundations of Higher Mathematics,1,MATH 300-BR Foundations of Higher Mathematics (1 Unit)  
+MATH 306-0,MATH,306-0,Combinatorics & Discrete Mathematics,1,"MATH 306-0 Combinatorics & Discrete Mathematics (1 Unit) 
+Prerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area"
+MATH 308-0,MATH,308-0,Graph Theory,1,"MATH 308-0 Graph Theory (1 Unit) 
+Prerequisite: MATH 291-1 or MATH 300-0 or MATH 306-0.
+Formal Studies Distro Area"
+MATH 310-1,MATH,310-1,Probability and Stochastic Processes,1,MATH 310-1 Probability and Stochastic Processes (1 Unit) Formal Studies Distro Area
+MATH 310-2,MATH,310-2,Probability and Stochastic Processes,1,"MATH 310-2 Probability and Stochastic Processes (1 Unit) 
+Prerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 202-0 or ELEC_ENG 302-0.
+Formal Studies Distro Area"
+MATH 310-3,MATH,310-3,Probability and Stochastic Processes,1,"MATH 310-3 Probability and Stochastic Processes (1 Unit) 
+Prerequisite: MATH 310-2 or MATH 311-2.
+Formal Studies Distro Area"
+MATH 311-1,MATH,311-1,MENU: Probability and Stochastic Processes,1,"MATH 311-1 MENU: Probability and Stochastic Processes (1 Unit) 
+Prerequisite: MATH 226-0 or MATH 281-2; and MATH 291-3, or MATH 300-0 and any one of MATH 290-3, MATH 281-2, MATH 285-3 or ES_APPM 252-2; or consent of the department. Recommended: MATH 320-1 or MATH 321-1.
+Formal Studies Distro Area"
+MATH 311-2,MATH,311-2,MENU: Probability and Stochastic Processes,1,"MATH 311-2 MENU: Probability and Stochastic Processes (1 Unit) 
+Prerequisite: MATH 311-1 or consent of the department.
+Formal Studies Distro Area"
+MATH 311-3,MATH,311-3,MENU: Probability and Stochastic Processes,1,"MATH 311-3 MENU: Probability and Stochastic Processes (1 Unit) 
+Prerequisite: MATH 311-2 or consent of the department.
+Formal Studies Distro Area"
+MATH 314-0,MATH,314-0,Probability and Statistics for Econometrics,1,MATH 314-0 Probability and Statistics for Econometrics (1 Unit) Formal Studies Distro Area
+MATH 320-1,MATH,320-1,Real Analysis,1,"MATH 320-1 Real Analysis (1 Unit) 
+Prerequisite: MATH 226-0 or MATH 281-2; and MATH 300-0 or MATH 291-3; or consent of the department.
+Formal Studies Distro Area"
+MATH 320-2,MATH,320-2,Real Analysis,1,"MATH 320-2 Real Analysis (1 Unit) 
+Prerequisite: MATH 320-1 or MATH 321-1.
+Formal Studies Distro Area"
+MATH 320-3,MATH,320-3,Real Analysis,1,"MATH 320-3 Real Analysis (1 Unit) 
+Prerequisite: MATH 320-2.
+Formal Studies Distro Area"
+MATH 321-1,MATH,321-1,MENU: Real Analysis,1,"MATH 321-1 MENU: Real Analysis (1 Unit) 
+Prerequisite: consent of the department.
+Formal Studies Distro Area"
+MATH 321-2,MATH,321-2,MENU: Real Analysis,1,"MATH 321-2 MENU: Real Analysis (1 Unit) 
+Prerequisite: MATH 321-1.
+Formal Studies Distro Area"
+MATH 321-3,MATH,321-3,MENU: Real Analysis,1,"MATH 321-3 MENU: Real Analysis (1 Unit) 
+Prerequisite: MATH 321-2.
+Formal Studies Distro Area"
+MATH 325-0,MATH,325-0,Complex Analysis,1,"MATH 325-0 Complex Analysis (1 Unit) 
+Prerequisites: MATH 226-0 or MATH 281-2; and MATH 228-2 or MATH 230-2 or MATH 234-0 (former) or MATH 281-2 or MATH 285-3 or MATH 290-3 or MATH 291-3 or ES_APPM 252-2; and MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area"
+MATH 327-0,MATH,327-0,Mechanics for Mathematicians,1,"MATH 327-0 Mechanics for Mathematicians (1 Unit) 
+Prerequisites: MATH 226-0 or MATH 281-3; and MATH 228-2 or MATH 230-2 or MATH 234-0 (former) or MATH 281-2 or MATH 285-3 or MATH 290-3 or MATH 291-3 or ES_APPM 252-2; and MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area Interdisciplinary Distro - See Rules Natural Sciences Distro Area"
+MATH 330-1,MATH,330-1,Abstract Algebra,1,"MATH 330-1 Abstract Algebra (1 Unit) 
+Prerequisite: MATH 291-1 or MATH 300-0.
+Formal Studies Distro Area"
+MATH 330-2,MATH,330-2,Abstract Algebra,1,"MATH 330-2 Abstract Algebra (1 Unit) 
+Prerequisite: MATH 330-1 or MATH 331-1.
+Formal Studies Distro Area"
+MATH 330-3,MATH,330-3,Abstract Algebra,1,"MATH 330-3 Abstract Algebra (1 Unit) 
+Prerequisite: MATH 330-2 or MATH 331-2.
+Formal Studies Distro Area"
+MATH 331-1,MATH,331-1,MENU: Abstract Algebra,1,"MATH 331-1 MENU: Abstract Algebra (1 Unit) 
+Prerequisite: consent of the department.
+Formal Studies Distro Area"
+MATH 331-2,MATH,331-2,MENU: Abstract Algebra,1,"MATH 331-2 MENU: Abstract Algebra (1 Unit) 
+Prerequisite: MATH 331-1.
+Formal Studies Distro Area"
+MATH 331-3,MATH,331-3,MENU: Abstract Algebra,1,"MATH 331-3 MENU: Abstract Algebra (1 Unit) 
+Prerequisite: MATH 331-2.
+Formal Studies Distro Area"
+MATH 334-0,MATH,334-0,Linear Algebra: Second Course,1,"MATH 334-0 Linear Algebra: Second Course (1 Unit) 
+Prerequisite: MATH 300-0 or MATH 291-2.
+Formal Studies Distro Area"
+MATH 336-1,MATH,336-1,Introduction to the Theory of Numbers,1,"MATH 336-1 Introduction to the Theory of Numbers (1 Unit) 
+Prerequisite: MATH 228-1 or MATH 230-1 or MATH 281-1 or MATH 285-2 or MATH 290-2 or MATH 291-2 or ES_APPM 252-1.
+Formal Studies Distro Area"
+MATH 336-2,MATH,336-2,Introduction to the Theory of Numbers,1,"MATH 336-2 Introduction to the Theory of Numbers (1 Unit) 
+Prerequisite: MATH 336-1.
+Formal Studies Distro Area"
+MATH 340-0,MATH,340-0,Geometry,1,"MATH 340-0 Geometry (1 Unit) 
+Prerequisite: MATH 300-0 or MATH 291-1.
+Formal Studies Distro Area"
+MATH 342-0,MATH,342-0,Introduction to Differential Geometry,1,"MATH 342-0 Introduction to Differential Geometry (1 Unit) 
+Prerequisites: MATH 226-0 or MATH 281-2; and MATH 228-2 or MATH 230-2 or MATH 234-0 (former) or MATH 281-2 or MATH 285-3 or MATH 290-3 or MATH 291-3 or ES_APPM 252-2; and MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area"
+MATH 344-1,MATH,344-1,Introduction to Topology,1,"MATH 344-1 Introduction to Topology (1 Unit) 
+Prerequisite: MATH 320-1 or MATH 321-1.
+Formal Studies Distro Area"
+MATH 344-2,MATH,344-2,Introduction to Topology,1,"MATH 344-2 Introduction to Topology (1 Unit) 
+Prerequisites: MATH 344-1, and either MATH 330-1 or MATH 331-1.
+Formal Studies Distro Area"
+MATH 351-0,MATH,351-0,Fourier Analysis and Boundary Value Problems,1,"MATH 351-0 Fourier Analysis and Boundary Value Problems (1 Unit) 
+Prerequisite: MATH 250-0 or MATH 281-3 or MATH 360-1 or GEN_ENG 206-4 or GEN_ENG 206-4.
+Formal Studies Distro Area"
+MATH 353-0,MATH,353-0,Qualitative Theory of Differential Equations,1,"MATH 353-0 Qualitative Theory of Differential Equations (1 Unit) 
+Prerequisite: MATH 250-0 or MATH 281-3 or MATH 360-1 or GEN_ENG 205-4 or GEN_ENG 206-4.
+Formal Studies Distro Area"
+MATH 354-0,MATH,354-0,Chaotic Dynamical Systems,1,"Chaotic phenomena in deterministic discrete dynamical systems, primarily through iteration of functions of one variable. 
+Prerequisite: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+ Formal Studies Distro Area"
+MATH 360-1,MATH,360-1,MENU: Applied Analysis,1,"MATH 360-1 MENU: Applied Analysis (1 Unit) 
+Prerequisite: MATH 226-0 or MATH 281-2; and MATH 290-3 or MATH 291-3.
+Formal Studies Distro Area"
+MATH 360-2,MATH,360-2,MENU: Applied Analysis,1,"MATH 360-2 MENU: Applied Analysis (1 Unit) 
+Prerequisite: MATH 360-1.
+Formal Studies Distro Area"
+MATH 365-0,MATH,365-0,Computational Methods in Mathematics,1,"An introduction to computational methods in mathematics. Students will apply computational techniques to analyze and interpret a variety of mathematical phenomena. 
+Prerequisites: MATH 230-2 or MATH 228-2 and MATH 240-0, or MATH 290-3, or MATH 291-3."
+MATH 366-0,MATH,366-0,Mathematical Models in Finance,1,"Cash flow computations. Basic financial concepts (stocks, bonds, options, arbitrage, hedging) and put-call parity. Binomial tree models. Risk-neutral valuation. Random walk and Brownian motion as a tool for modeling fluctuations. Options pricing. Applications of the central limit theorem. The Black-Scholes formula and partial differential equation. Numerical approximations. Some familiarity with differential equations is desirable. 
+Prerequisites: MATH 240-0 or MATH 281-3 or MATH 285-1 or MATH 290-1 or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1; and MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or STAT 320-1 or STAT 383-0 or IEMS 202-0 or ELEC_ENG 302-0.
+ Formal Studies Distro Area"
+MATH 368-0,MATH,368-0,Introduction to Optimization,1,"MATH 368-0 Introduction to Optimization (1 Unit) 
+Prerequisites: MATH 226-0 or MATH 281-2; and MATH 291-3, or MATH 300-0 and one of MATH 228-2, MATH 230-2, MATH 234-0 (former), MATH 281-2, MATH 285-3, MATH 290-3, or ES_APPM 252-2.
+Formal Studies Distro Area"
+MATH 370-0,MATH,370-0,Mathematical Logic,1,"MATH 370-0 Mathematical Logic (1 Unit) 
+Prerequisite: MATH 300-0 or MATH 291-3 or consent of the instructor.
+Formal Studies Distro Area"
+MATH 381-0,MATH,381-0,Fourier Analysis and Boundary Value Problems for ISP,1,"Fourier series. Hilbert spaces and orthogonal functions. Parseval's theorem. Poisson summation formula and lattice points. Fourier integrals: Gaussian functions. Fourier inversion formula. Convolution. Sturm-Liouville theory. Applications to partial differential equations. Heat and wave equations. For ISP students only. Students may not receive credit for both MATH 381-0 and any of MATH 351-0, MATH 360-2, or ES_APPM 311-2. 
+Prerequisites: MATH 281-3 and PHYSICS 125-3.
+ Formal Studies Distro Area"
+MATH 382-0,MATH,382-0,Complex Analysis for ISP,1,"Complex numbers. Analytic functions. Cauchy's theorem and the Cauchy integral formula. Series. Residues. For ISP students only. Students may not receive credit for both MATH 382-0 and either MATH 325-0 or ES_APPM 312-0. 
+Prerequisites: MATH 281-3 and PHYSICS 125-3.
+ Formal Studies Distro Area"
+MATH 385-0,MATH,385-0,Probability and Statistics for MMSS,1,"Probability theory and its applications in the social sciences. Students may not receive credit for both MATH 385-0 and any of MATH 310-1, MATH 311-1, MATH 314-0, STAT 320-1, STAT 383-0, IEMS 202-0, or ELEC_ENG 302-0. 
+Prerequisite: second-year standing in MMSS.
+ Formal Studies Distro Area"
+MATH 386-1,MATH,386-1,Econometrics for MMSS,1,"Econometric methods. Students may not receive credit for both MATH 386-1 and ECON 381-1. 
+Prerequisite: MATH 385-0.
+ Formal Studies Distro Area"
+MATH 386-2,MATH,386-2,Econometrics for MMSS,1,"Econometric methods. Students may not receive credit for both MATH 386-2 and ECON 381-2. 
+Prerequisite: MATH 386-1.
+ Formal Studies Distro Area"
+MATH 395-0,MATH,395-0,Undergraduate Seminar,1,"Topics in modern mathematics and relationships among different branches of mathematics. May be taken for only 1 unit of credit at a time but may be repeated for credit with change of topic. 
+Prerequisite: consent of the department.
+ Advanced Expression"
+MATH 399-0,MATH,399-0,Independent Study,1,"Independent learning under the direction of a faculty adviser. Students must obtain departmental approval for a plan of study before enrolling in MATH 399-0. 
+Prerequisite: consent of the department."

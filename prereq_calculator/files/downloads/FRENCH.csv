@@ -1,0 +1,140 @@
+code,category,number,title,units,desc
+FRENCH 101-7,FRENCH,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+FRENCH 101-8,FRENCH,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+FRENCH 106-0,FRENCH,106-0,French for Research,0,FRENCH 106-0 French for Research (0 Unit)  
+FRENCH 111-1,FRENCH,111-1,Elementary French,1,"Conversation, grammar, reading, and writing for beginners. Four class meetings a week."
+FRENCH 111-2,FRENCH,111-2,Elementary French,1,"Conversation, grammar, reading, and writing for beginners. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 111-1 or Department placement."
+FRENCH 111-3,FRENCH,111-3,Elementary French,1,"Conversation, grammar, reading, and writing for beginners. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 111-2 or Department placement."
+FRENCH 115-1,FRENCH,115-1,Intensive Elementary French,1,"For students with some previous experience in French. Review and development of skills in speaking, understanding, reading, and writing as preparation for work at the second-year level. Four class meetings a week. 
+Prerequisite: Department placement."
+FRENCH 115-2,FRENCH,115-2,Intensive Elementary French,1,"For students with some previous experience in French. Review and development of skills in speaking, understanding, reading, and writing as preparation for work at the second-year level. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 115-1 or Department placement."
+FRENCH 121-1,FRENCH,121-1,Intermediate French,1,"Grammar review, conversation, reading, and writing. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 111-3 or Department placement."
+FRENCH 121-2,FRENCH,121-2,Intermediate French,1,"Grammar review, conversation, reading, and writing. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 121-1 or Department placement."
+FRENCH 121-3,FRENCH,121-3,Intermediate French,1,"Grammar review, conversation, reading, and writing. Four class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 121-2 or Department placement."
+FRENCH 125-1,FRENCH,125-1,Intensive Intermediate French,1,"French language and culture: conversation, composition, reading of cultural and literary texts, and grammar review. Three class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 115-2 or Department placement."
+FRENCH 125-2,FRENCH,125-2,Intensive Intermediate French,1,"French language and culture: conversation, composition, reading of cultural and literary texts, and grammar review. Three class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 125-1 or Department placement."
+FRENCH 125-3,FRENCH,125-3,Intensive Intermediate French,1,"French language and culture: conversation, composition, reading of cultural and literary texts, and grammar review. Three class meetings a week. 
+Prerequisite: Grade of at least C- in FRENCH 125-2 or Department placement."
+FRENCH 198-0,FRENCH,198-0,Independent Study,1,"Credit for 1 quarter only. 
+Prerequisite: Department approval."
+FRENCH 199-SA,FRENCH,199-SA,Language and Culture,2 Units,"Grammar, conversation, reading, writing, and culture study. Restricted to students in Northwestern's Paris programs. Students completing this course must take a placement exam before continuing French at Northwestern."
+FRENCH 201-0,FRENCH,201-0,Culture and Society,1,"Development of fluency, accuracy, and creativity in speaking, comprehension, reading, and writing French; introduction to social, cultural, and literary topics. 
+Prerequisite: Grade of at least C- in FRENCH 121-3 or Department placement."
+FRENCH 202-0,FRENCH,202-0,Writing Workshop: Cultural Encounters in Contemporary France,1,"Practical study of French grammar and structure; students develop and improve writing skills through practice in preparing short compositions. 
+Prerequisite: FRENCH 125-3, FRENCH 201-0, or Department placement."
+FRENCH 203-0,FRENCH,203-0,Oral Workshop: Individual and Society in France Today,1,"Practical course to increase listening comprehension, build vocabulary and idiom use, and enhance communication skills. 
+Prerequisite: FRENCH 125-3, FRENCH 201-0 or Department placement."
+FRENCH 204-0,FRENCH,204-0,Acting French,1,"Use of dramatic scenes, dialogues, songs and performance to help students improve their language skills and develop their interpretive, interpersonal and intercultural competence at the Intermediate Mid/High level. 
+Prerequisite: FRENCH 121-3 or FRENCH 125-3 or FRENCH 201-0 or consent of instructor."
+FRENCH 210-0,FRENCH,210-0,Reading Literatures in French,1,"Introduction to texts in various genres such as essay, poetry, drama, novel, and autobiography, from at least two periods from the Middle Ages to the present. 
+Prerequisite: FRENCH 202-0, AP score of 5, or consent of instructor.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 211-0,FRENCH,211-0,Reading Cultures in French,1,"Introduction to French and/or francophone cultures through texts and media from at least two periods; major themes, issues, and debates. 
+Prerequisite: FRENCH 202-0, AP score of 5, or consent of instructor.
+Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 271-0,FRENCH,271-0,Introducing the Novel,1,"Textual interpretation and analysis of French novels from different periods, with special attention to formal issues. 
+Prerequisite: FRENCH 210-0 or FRENCH 211-0, or consent of instructor.
+Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 272-0,FRENCH,272-0,Introducing Theatre,1,"Textual interpretation and analysis of French plays from different periods, with special attention to formal issues. Principles of tragedy and comedy; contemporary developments. 
+Prerequisite: FRENCH 210-0 or FRENCH 211-0, or consent of instructor. Credit not allowed for both FRENCH 272-0 and FRENCH 279-0.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 273-0,FRENCH,273-0,Introducing Poetry,1,"Textual interpretation and analysis of French poetry from different periods, with special attention to formal issues. Overview of major poetic movements. 
+Prerequisite: FRENCH 210-0 or FRENCH 211-0, or consent of instructor.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 277-0,FRENCH,277-0,French Existentialism,1,"Existentialism in its literary, philosophical, and cultural manifestations. Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 279-0,FRENCH,279-0,Theater in Translation,1,Representative French plays from the 17th through 20th centuries; basic concepts of genre; social and historical context. Credit not allowed for both FRENCH 279-0 and FRENCH 272-0. Literature Fine Arts Distro Area
+FRENCH 280-0,FRENCH,280-0,Major Topics in French and Francophone Studies,1,"An introduction to major themes or problems in the study of French and Francophone studies for a wide audience. Potential topics include: literary approaches to scientific language, representing the 19th century in film, the French novel in translation, laughing in French, etc. Taught in English. Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 299-SA,FRENCH,299-SA,Language and Culture,2 Units,"Study of French language and culture in Paris. Restricted to students in Northwestern's Paris programs. Students completing this course must take a placement exam before continuing French at Northwestern. 
+Prerequisite: Fulfillment of Weinberg College French language proficiency via AP Score of 5; French 121-3, 125-3 or 201; or validation of proficiency."
+FRENCH 300-0,FRENCH,300-0,French Phonetics,1,"Development of near-native spoken French through practice in correct pronunciation. Phonetic system of contemporary French; introduction to basic issues of theoretical phonetics. 
+Prerequisite: FRENCH 202-0, FRENCH 203-0, or consent of instructor."
+FRENCH 301-0,FRENCH,301-0,Advanced Language in Context: Society and Popular Culture,1,"Practical study of structure, syntax, and usage of French through contemporary media, cinema, theater, and popular culture. 
+Prerequisite: FRENCH 202-0 or consent of instructor."
+FRENCH 302-0,FRENCH,302-0,Advanced Writing: Finding Your Voice in French,1,"Development of written expression for different communicative needs and functions based on the study of French writing styles and techniques. 
+Prerequisite: FRENCH 202-0 or consent of instructor."
+FRENCH 303-0,FRENCH,303-0,Advanced Conversation: Debating Contemporary France,1,"Development of advanced proficiency and confidence in spoken French through practice of speech and discussion of issues in current French media and culture. Emphasis on culturally appropriate usage. 
+Prerequisite: FRENCH 202-0, FRENCH 203-0, or consent of instructor."
+FRENCH 309-0,FRENCH,309-0,French For Professions,1,"French language as used in professional contexts. May include study of a specific field and differences from its American counterpart. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 202-0 or consent of instructor."
+FRENCH 310-0,FRENCH,310-0,The Middle Ages & Renaissance,1,"Study of literary texts of the French Middle Ages and Renaissance with emphasis on their historical and literary-historical contexts. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 322-0,FRENCH,322-0,Medieval French Narratives,1,"Major narrative works of the French Middle Ages in historical context. Content varies; may include epics such as the Song of Roland, romances such as Chrétien de Troyes's Perceval, and narratives of childhood. Texts read in modern French versions. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 333-0,FRENCH,333-0,Topics in Renaissance Literature,1,"Study of literary and other texts of the French Renaissance with emphasis on their literary, historical, and political contexts. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor."
+FRENCH 334-0,FRENCH,334-0,Montaigne and Modernity,1,"In-depth study of the work of Michel de Montaigne and his models within the context of Renaissance history, politics and philosophy. All readings and discussion in French. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 335-0,FRENCH,335-0,17th Century Literature,1,"Topics and issues related to the literature and culture of 17th century France. Content varies; topics covered previously include theater and its social and political contexts, the rise of rational thought, and the development of fiction and poetry. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 340-0,FRENCH,340-0,Sexual Politics and the Ancien Regime,1,"Literary, intellectual, and political role of women in view of the debates generated by the issues of women's power in the public sphere before the French Revolution. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 344-0,FRENCH,344-0,Rousseau and the French Revolution,1,"Analysis of Rousseau's political thought and major literary works and their impact on Revolutionary ideology and culture. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 346-0,FRENCH,346-0,Studies in the Enlightenment,1,"Authors such as Rousseau, Diderot, Montesquieu, Voltaire, and Graffigny in relation to Enlightenment debates about science, religion, political authority, human nature, colonialism, gender, and slavery. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 350-0,FRENCH,350-0,The Novel in French,1,"Content varies; may include the novel of the ancien régime, the psychological novel, and the Bildungsroman in France. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 355-0,FRENCH,355-0,Topics in Modern and Contemporary French Literature and Culture,1,"Transhistorical study of literary and other texts of the modern and contemporary periods (1800–present) with emphasis on their literary, historical, and political contexts. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 360-0,FRENCH,360-0,From Modernism to Postmodernism,1,"Crises and reinventions of French prose from the modernist moment of the early 20th century to the ambiguities of ""engaged"" literature of the 1930s to postmodernism. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 362-0,FRENCH,362-0,African Literatures and Cultures,1,"Major issues, trends, and authors from francophone Africa. Content varies; may include Shahrazade, narratives of gender relations, law and literature, violence, and writing. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+ Advanced Expression Literature and Arts Foundational Discipline"
+FRENCH 364-0,FRENCH,364-0,Caribbean Literatures and Cultures,1,"Major issues, trends, and authors from the francophone Caribbean and its diasporas. Content varies; may include Caribbean women writers; slavery, history, and memory; Caribbean identities. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 365-0,FRENCH,365-0,The Maghreb and the Middle East,1,"Major issues in the literatures and cultures of North Africa and the Middle East. Content varies. May include exile in writing; politics of language and translation. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 366-0,FRENCH,366-0,France and East Asia,1,"Interdisciplinary approaches to the history of French-East Asian relations, including French representations of East Asia. May include translation, japonisme, cinema, literary and philosophical avant-gardes, and culture and globalization. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor."
+FRENCH 367-0,FRENCH,367-0,Transnational Francophone Studies,1,"Exploration of cultural production in various genres from the French-speaking world, with an emphasis on themes, ideas, and/or forms that traverse national and/or cultural boundaries. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor. May be repeated for credit when content changes.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 371-0,FRENCH,371-0,"Giants, Cannibals, and Critique",1,"Analysis of works of Rabelais and Montaigne and their techniques of satire and social critique. Readings include related selections from Erasmus, More, La Boétie, and others. Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 374-0,FRENCH,374-0,Proust,1,"Introduces the works of Marcel Proust, a central figure of European literature and thought. Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 375-0,FRENCH,375-0,French Film,1,"Topics in French cinema: for example, French classical cinema, the New Wave, postcolonial French film, the cinema of Marguerite Duras. Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 376-0,FRENCH,376-0,Gender & Sexuality,1,"Major trends and perspectives in gender and sexuality studies such as first and second wave feminisms, lesbian writers, AIDS literature, queer theory, gender and orientalism, cross-cultural feminism. Literature Fine Arts Distro Area"
+FRENCH 378-0,FRENCH,378-0,Contemporary Theory,1,Introduction to some major trends in contemporary French theory and the way they have influenced literary studies in the United States. Literature Fine Arts Distro Area
+FRENCH 379-0,FRENCH,379-0,Topics in French Literature and Culture,1,"Advanced exploration of special topics in French studies. May be repeated for credit with change of topic. 
+Prerequisite: consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 380-0,FRENCH,380-0,Political & Social Thought in France,1,"Major political and social trends in France from the ancien régime to the 20th century. Content varies. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 384-0,FRENCH,384-0,Women Writing in French,1,"Analysis of texts by women authors with regard to their respective social, cultural, political, and historical contexts. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Literature Fine Arts Distro Area"
+FRENCH 386-0,FRENCH,386-0,Gender & Writing,1,"Issues of gender and sexuality in the production of literary and other creative texts in various historical periods. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 390-0,FRENCH,390-0,Topics in Literature and Culture,1,"Topics, issues, and questions in French and francophone culture. Content varies; may include French and francophone cinema, the intellectual in France. May be repeated for credit with change of topic. 
+Prerequisite: FRENCH 271-0, FRENCH 272-0, or FRENCH 273-0, or consent of instructor.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 391-0,FRENCH,391-0,Theory and Practice of Translation,1,"Intercultural communication through analysis of translation theories and translated works; translation exercises. Content varies; genres may include prose, poetry, graphic novels, and theater. 
+Prerequisite: FRENCH 301-0, FRENCH 302-0, study abroad, or consent of instructor."
+FRENCH 393-0,FRENCH,393-0,Foreign Language Teaching: Theory and Practice,1,"Theoretical foundation and practical applications of second-language acquisition and applied linguistics. Analysis and design of pedagogical materials. Self-reflection and analysis of teaching style and teaching philosophy. 
+Prerequisite: senior status or consent of instructor."
+FRENCH 395-0,FRENCH,395-0,Advanced Studies in Culture and Thought,1,"Theoretical perspectives and paradigms for understanding culture through in-depth study of a historical, cultural, or theoretical issue or of a literary or artistic work. Independent term paper. 
+Prerequisite: senior status or consent of undergraduate advisor.
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+FRENCH 399-0,FRENCH,399-0,Independent Study,1,Independent reading and research. Topics arranged through consultation with an instructor and approval of the department.

@@ -1,0 +1,80 @@
+code,category,number,title,units,desc
+ELEC_ENG 100-0,ELEC_ENG,100-0,"Electrons, Photons, and Bits:  Adventures in Electrical and Computer Engineering",1,"Introduction to contemporary topics in electrical engineering (5 weeks) and computer engineering (5 weeks) via lectures, demonstrations, and lab tours. No exams, but two in-depth term papers are required: the first on an electrical engineering topic reviewed during the first half of the course, and the second on a computer engineering topic reviewed during the second half of the course."
+ELEC_ENG 195-0,ELEC_ENG,195-0,Special Topics in Electrical Engineering,1,Topics suggested by students or faculty and approved by the department.
+ELEC_ENG 202-0,ELEC_ENG,202-0,Introduction to Electrical Engineering,1,"Introduction to fundamental concepts and applications of electrical engineering. Topics include: circuit analysis from dc resistive networks to networks of impedances operating in the sinusoidal steady-state; circuit simplification and the Thevenin equivalent circuit; complex numbers and phasors; series and parallel inductor-capacitor resonance; simple analog filters; power transfer and impedance matching; op amps realizing active filters; signal spectra and the Fourier transform; signal sampling and aliasing; bandwidth and channel capacity; simple feedback and control systems; semiconductor electronics and devices including diodes, transistors, light-emitting diodes, and lasers."
+ELEC_ENG 221-0,ELEC_ENG,221-0,Fundamentals of Circuits,1,"Fundamental concepts in electrical circuits; circuit analysis and network theorems; linearity and superposition; series/parallel combinations of R, L, and C circuits; sinusoidal forcing; complex frequency and Bode plots; mutual inductance and transformers; two port networks. 
+Prerequisite: ELEC_ENG 202-0."
+ELEC_ENG 222-0,ELEC_ENG,222-0,Fundamentals of Signals & Systems,1,"Comprehensive introduction to analysis of continuous and discrete-time signals and systems. Linear time-invariant systems, convolution. Fourier series representations of periodic signals. Continuous and discrete-time Fourier transforms. Laplace transform; z-transform. 
+Prerequisite: ELEC_ENG 202-0."
+ELEC_ENG 223-0,ELEC_ENG,223-0,Fundamentals of Solid State Engineering,1,"Crystalline state of matter; quantum phenomena and quantum mechanics; electrons in atoms, atoms in crystals, electrons in crystals; semiconductors; thermal properties of crystals, electrical properties of crystals and semiconductors; pn junction. 
+Prerequisites: ELEC_ENG 202-0; PHYSICS 135-3; MATH 228-2."
+ELEC_ENG 224-0,ELEC_ENG,224-0,Fund of Electromagnetics & Photonics,1,"Introduction to electromagnetic waves in electrical engineering. Topics include: analysis of transmission lines in the time domain and the sinusoidal steady-state; fundamentals of electrostatics and magnetostatics; Maxwell's equations for time-varying electromagnetic fields; plane electromagnetic wave propagation, reflection, and transmission at material interfaces; Poynting's theorem; introduction to fiber optics and photonics. 
+Prerequisites: (ELEC_ENG 202-0 and ELEC_ENG 221-0 and PHYSICS 135-2 and MATH 228-2) or consent of instructor."
+ELEC_ENG 225-0,ELEC_ENG,225-0,Fundamentals of Electronics,1,"Diode, BJT, and FET circuits; design using ideal operational amplifiers; feedback; frequency response; biasing; current sources and mirrors; small-signal analysis; design of operational amplifiers. 
+Prerequisites: ELEC_ENG 221-0."
+ELEC_ENG 250-0,ELEC_ENG,250-0,Physical Electronics and Devices,1,"The physical basis of electronic and optoelectronic devices and their application in analog and digital systems. Diodes, transistors, LEDs, photodetectors, and lasers are described, and their properties explored. 
+Prerequisites: ELEC_ENG 221-0; PHYSICS 135-2."
+ELEC_ENG 295-0,ELEC_ENG,295-0,Special Topics in Electrical Engineering,1,Topics suggested by students or faculty and approved by the department.
+ELEC_ENG 302-0,ELEC_ENG,302-0,Probabilistic Systems,1,ELEC_ENG 302-0 Probabilistic Systems (1 Unit)  
+ELEC_ENG 307-0,ELEC_ENG,307-0,Communications Systems,1,"ELEC_ENG 307-0 Communications Systems (1 Unit) 
+Prerequisites: ELEC_ENG 222-0, ELEC_ENG 302-0 or equivalent."
+ELEC_ENG 308-0,ELEC_ENG,308-0,Applied Electromagnetics and Photonics,1,"ELEC_ENG 308-0 Applied Electromagnetics and Photonics (1 Unit) 
+Prerequisite: ELEC_ENG 224-0."
+ELEC_ENG 326-0,ELEC_ENG,326-0,Electronic System Design I,1,"ELEC_ENG 326-0 Electronic System Design I (1 Unit) 
+Prerequisite: Students must have completed (ELEC_ENG 225-0 and COMP_SCI 211-0), or MECH_ENG 333-0, or graduate standing, or instructor consent."
+ELEC_ENG 327-0,ELEC_ENG,327-0,Electronic System Design II: Project,1,"ELEC_ENG 327-0 Electronic System Design II: Project (1 Unit) 
+Prerequisite: ELEC_ENG 326-0 or instructor consent."
+ELEC_ENG 328-0,ELEC_ENG,328-0,Information Theory & Learning,1,"This course gives students analytical tools to quantify information, perform inference, and study the relationship of information and learning. The course covers information measures, the source and the channel coding theorems, statistical inference, and learning with neural networks. In particular, the course explores a common set of models and tools used by both machine learning and state-of-the-art data compression and error-control codes. This course is aimed at undergraduate students in engineering, science, mathematics, and computing. It expects familiarity with undergraduate-level calculus, probability theory, and linear algebra. 
+Prerequisite: Basic probability theory (ELEC_ENG 302-0 or equivalent)."
+ELEC_ENG 331-0,ELEC_ENG,331-0,Introduction to Computational Photography,1,"ELEC_ENG 331-0 Introduction to Computational Photography (1 Unit) 
+Prerequisite: COMP_SCI 150 or COMP_SCI 211 or Consent of Instructor."
+ELEC_ENG 332-0,ELEC_ENG,332-0,Introduction to Computer Vision,1,"ELEC_ENG 332-0 Introduction to Computer Vision (1 Unit) 
+Prerequisites: COMP_SCI 212-0 or ELEC_ENG 302-0 or equivalent or graduate standing."
+ELEC_ENG 333-0,ELEC_ENG,333-0,Introduction to Communication Networks,1,"ELEC_ENG 333-0 Introduction to Communication Networks (1 Unit) 
+Prerequisite: ELEC_ENG 302-0 or equivalent."
+ELEC_ENG 334-0,ELEC_ENG,334-0,Fundamentals of Blockchains and Decentralization,1,"ELEC_ENG 334-0 Fundamentals of Blockchains and Decentralization (1 Unit) 
+Prerequisites: COMP_SCI 212-0 or ELEC_ENG 302-0 or equivalent or graduate standing and basic programming skills."
+ELEC_ENG 335-0,ELEC_ENG,335-0,Deep Learning Foundations from Scratch,1,"The course covers the fundamentals of deep learning and numerical optimization, with many application examples."
+ELEC_ENG 353-0,ELEC_ENG,353-0,Digital Microelectronics,1,"ELEC_ENG 353-0 Digital Microelectronics (1 Unit) 
+Prerequisites: COMP_ENG 203-0, ELEC_ENG 225-0."
+ELEC_ENG 359-0,ELEC_ENG,359-0,Digital Signal Processing,1,"ELEC_ENG 359-0 Digital Signal Processing (1 Unit) 
+Prerequisite: ELEC_ENG 222-0."
+ELEC_ENG 360-0,ELEC_ENG,360-0,Introduction to Feedback Systems,1,"ELEC_ENG 360-0 Introduction to Feedback Systems (1 Unit) 
+Prerequisite: ELEC_ENG 222-0 or MECH_ENG 390-0 or BMD_ENG 309-0 or equivalent."
+ELEC_ENG 363-0,ELEC_ENG,363-0,Digital Filtering,1,"ELEC_ENG 363-0 Digital Filtering (1 Unit) 
+Prerequisite: ELEC_ENG 359-0."
+ELEC_ENG 372-1,ELEC_ENG,372-1,Robot Design Studio,1,"ELEC_ENG 372-1 Robot Design Studio (1 Unit) 
+Prerequisite: Consent of Instructor."
+ELEC_ENG 372-2,ELEC_ENG,372-2,Robot Design Studio,1,"ELEC_ENG 372-2 Robot Design Studio (1 Unit) 
+Prerequisite: ELEC_ENG 372-1."
+ELEC_ENG 373-0,ELEC_ENG,373-0,Deep Reinforcement Learning,1,"Fundamentals of Deep Reinforcement Learning starting from its roots in dynamic programming and optimal control, and ending with some of the most popular applications in practice today; basic Q-Learning algorithm and its extensions; deep Q-Learning. Through exercises and a final course project students will gain significant hands-on experience coding up and testing reinforcement systems on a variety of interesting problems. 
+Prerequisites: ELEC_ENG 375-0 and ELEC_ENG 335-0."
+ELEC_ENG 374-0,ELEC_ENG,374-0,Introduction to Digital Control,1,"ELEC_ENG 374-0 Introduction to Digital Control (1 Unit) 
+Prerequisite: ELEC_ENG 360-0."
+ELEC_ENG 375-0,ELEC_ENG,375-0,"Machine Learning: Foundations, Applications, and Algorithms",1,"The course covers the fundamentals of machine learning and numerical optimization, with many application examples."
+ELEC_ENG 378-0,ELEC_ENG,378-0,Digital Communications,1,"ELEC_ENG 378-0 Digital Communications (1 Unit) 
+Prerequisite: ELEC_ENG 302-0 or equivalent."
+ELEC_ENG 379-0,ELEC_ENG,379-0,Lasers and Coherent Optics,1,ELEC_ENG 379-0 Lasers and Coherent Optics (1 Unit)  
+ELEC_ENG 380-0,ELEC_ENG,380-0,Wireless Communications,1,"ELEC_ENG 380-0 Wireless Communications (1 Unit) 
+Prerequisite: ELEC_ENG 378-0."
+ELEC_ENG 381-0,ELEC_ENG,381-0,Electronic Properties of Materials,1,"ELEC_ENG 381-0 Electronic Properties of Materials (1 Unit) 
+Prerequisite: ELEC_ENG 223-0 or consent of instructor."
+ELEC_ENG 382-0,ELEC_ENG,382-0,Photonic Information Processing,1,"ELEC_ENG 382-0 Photonic Information Processing (1 Unit) 
+Prerequisites: ELEC_ENG 222-0 and ELEC_ENG 224-0 or consent of instructor."
+ELEC_ENG 383-0,ELEC_ENG,383-0,Fiber-Optic Communications,1,"ELEC_ENG 383-0 Fiber-Optic Communications (1 Unit) 
+Prerequisites: ELEC_ENG 223-0, ELEC_ENG 224-0."
+ELEC_ENG 384-0,ELEC_ENG,384-0,Solid State Electronic Devices,1,"ELEC_ENG 384-0 Solid State Electronic Devices (1 Unit) 
+Prerequisite: ELEC_ENG 381-0 or consent of instructor."
+ELEC_ENG 385-0,ELEC_ENG,385-0,Optoelectronics,1,"ELEC_ENG 385-0 Optoelectronics (1 Unit) 
+Prerequisite: ELEC_ENG 381-0 or consent of instructor."
+ELEC_ENG 387-0,ELEC_ENG,387-0,Advanced Digital Systems Design with FPGAs,1,ELEC_ENG 387-0 Advanced Digital Systems Design with FPGAs (1 Unit)  
+ELEC_ENG 388-0,ELEC_ENG,388-0,Nanotechnology,1,"ELEC_ENG 388-0 Nanotechnology (1 Unit) 
+Prerequisite: ELEC_ENG 223-0 or consent of instructor."
+ELEC_ENG 389-0,ELEC_ENG,389-0,Superconductivity and Its Applications,1,"ELEC_ENG 389-0 Superconductivity and Its Applications (1 Unit) 
+Prerequisite: ELEC_ENG 381-0 or consent of instructor."
+ELEC_ENG 390-0,ELEC_ENG,390-0,Introduction to Robotics,1,"ELEC_ENG 390-0 Introduction to Robotics (1 Unit) 
+Prerequisite: COMP_SCI 230-0."
+ELEC_ENG 395-0,ELEC_ENG,395-0,Special Topics in Electrical Engineering,1,ELEC_ENG 395-0 Special Topics in Electrical Engineering (1 Unit)  
+ELEC_ENG 398-0,ELEC_ENG,398-0,Electrical Engineering Design,1,"Design of electrical and electronic devices, circuits, and systems by the application of the engineering sciences, economics, and Institute of Electrical and Electronics Engineers or other national standards. 
+Prerequisite: senior standing."
+ELEC_ENG 399-0,ELEC_ENG,399-0,Projects,1,Seminar and projects for advanced undergraduates on subjects of current interest in electrical and computer engineering.

@@ -1,0 +1,66 @@
+code,category,number,title,units,desc
+MAT_SCI 190-0,MAT_SCI,190-0,MS & E Freshman Seminar,1,"Laboratory-oriented, with research projects emphasizing use of the scanning electron microscope and other modern apparatus; correlation of structure with other properties of materials. Lectures, laboratory."
+MAT_SCI 195-0,MAT_SCI,195-0,Introductory Special Topics in Materials Science and Engineering,1,Introductory topics suggested by students or faculty and approved by the department.
+MAT_SCI 201-0,MAT_SCI,201-0,Introduction to Materials Science and Engineering Principles,1,"Basic concepts of Materials Science and Engineering: bonding, crystal structure, defects in solids, phase diagrams, and development of microstructures. Processing/structure/property/performance relationships underlying the behavior of metals, ceramics, polymers, semiconductors, and composites. Mechanical, electrical, and chemical properties of engineering materials. Broadly, how materials’ performance influences technological development, the economy, the environment, and society. Not to be taken for credit with or after MAT_SCI 301-0. 
+Prerequisite: CHEM 131-0, CHEM 151-0, CHEM 171-0, CHEM 1X1, CHEM 215, or CHEM 217."
+MAT_SCI 301-0,MAT_SCI,301-0,Introduction to Materials Science and Engineering Principles,1,"Basic concepts of Materials Science and Engineering: bonding, crystal structure, defects in solids, phase diagrams, and development of microstructures. Processing/structure/property/performance relationships underlying the behavior of metals, ceramics, polymers, semiconductors, and composites. Mechanical, electrical, and chemical properties of engineering materials. Broadly, how materials’ performance influences technological development, the economy, the environment, and society. 
+Prerequisites: CHEM 131-0, CHEM 151-0, CHEM 171-0, CHEM 1X1, CHEM 215, or CHEM 217;major in materials science and engineering or chemical and biological engineering; concurrent enrollment in MAT_SCI 302."
+MAT_SCI 302-0,MAT_SCI,302-0,Introduction to Materials Laboratories,0.34,"Lab for students taking MAT_SCI 301. Topics related to: Bonding, crystal structure and defects in solids. Phase diagrams in condensed matter systems. Equilibrium and nonequilibrium development of microstructures. Processing/structure/property/performance relationships underlying behavior of metals, ceramics, polymers, and composites. Mechanical, electrical, chemical properties of engineering materials. To be taken concurrently with MAT_SCI 301-0."
+MAT_SCI 314-0,MAT_SCI,314-0,Thermodynamics of Materials,1,"MAT_SCI 314-0 Thermodynamics of Materials (1 Unit) 
+Prerequisite: CHEM 132-0, CHEM 152-0, CHEM 172-0 or CHEM 1X2; MATH 228-1 or MATH 230-1; or PHYSICS 135-1 or equivalent."
+MAT_SCI 315-0,MAT_SCI,315-0,Phase Equilibria & Diffusion of Materials,1,"MAT_SCI 315-0 Phase Equilibria & Diffusion of Materials (1 Unit) 
+Prerequisite: MAT_SCI 201-0 or MAT_SCI 301-0 or equivalent and MAT_SCI 314-0 or equivalent."
+MAT_SCI 316-1,MAT_SCI,316-1,Microstructural Dynamics,1,"MAT_SCI 316-1 Microstructural Dynamics (1 Unit) 
+Prerequisite: MAT_SCI 315-0 or equivalent."
+MAT_SCI 316-2,MAT_SCI,316-2,Microstructural Dynamics,1,"MAT_SCI 316-2 Microstructural Dynamics (1 Unit) 
+Prerequisite: MAT_SCI 316-1 or instructor consent."
+MAT_SCI 318-0,MAT_SCI,318-0,Materials Selection,1,"MAT_SCI 318-0 Materials Selection (1 Unit) 
+Prerequisite: MAT_SCI 201-0 or equivalent."
+MAT_SCI 331-0,MAT_SCI,331-0,Soft Materials,1,"MAT_SCI 331-0 Soft Materials (1 Unit) 
+Prerequisites: MAT_SCI 301-0 or equivalent; MAT_SCI 314-0 or CHEM 342-1; MAT_SCI 316-1 and MAT_SCI 316-2 highly recommended."
+MAT_SCI 332-0,MAT_SCI,332-0,Mechanical Behavior of Solids,1,"MAT_SCI 332-0 Mechanical Behavior of Solids (1 Unit) 
+Prerequisites: MAT_SCI 316-1; MAT_SCI 316-2 (may be taken concurrently); CIV_ENV 216-0 or consent of instructor."
+MAT_SCI 336-0,MAT_SCI,336-0,Synthetic Design of New Materials,1,"MAT_SCI 336-0 Synthetic Design of New Materials (1 Unit) 
+Prerequisite: junior standing in materials science and engineering or consent of instructor."
+MAT_SCI 340-0,MAT_SCI,340-0,Ceramic Processing,1,"MAT_SCI 340-0 Ceramic Processing (1 Unit) 
+Prerequisite: MAT_SCI 316-1 or equivalent."
+MAT_SCI 351-1,MAT_SCI,351-1,Introductory Physics of Materials,1,"MAT_SCI 351-1 Introductory Physics of Materials (1 Unit) 
+Prerequisites: MAT_SCI 301-0 or equivalent or consent of instructor; GEN_ENG 205-4 or equivalent; PHYSICS 135-2, PHYSICS 135-3; MAT_SCI 351-1 is prerequisite for MAT_SCI 351-2."
+MAT_SCI 351-2,MAT_SCI,351-2,Introductory Physics of Materials,1,"MAT_SCI 351-2 Introductory Physics of Materials (1 Unit) 
+Prerequisites: MAT_SCI 301-0 or equivalent or consent of instructor; GEN_ENG 205-4 or equivalent; PHYSICS 135-2, PHYSICS 135-3; MAT_SCI 351-1 is prerequisite for MAT_SCI 351-2."
+MAT_SCI 353-0,MAT_SCI,353-0,Bioelectronics,1,MAT_SCI 353-0 Bioelectronics (1 Unit)  
+MAT_SCI 354-0,MAT_SCI,354-0,Bioelectronics Lab,1,"MAT_SCI 354-0 Bioelectronics Lab (1 Unit) 
+Prerequisites: BMD_ENG 353 or MAT_SCI 353. Concurrent enrollment is acceptable."
+MAT_SCI 355-0,MAT_SCI,355-0,Electronic Materials,1,"MAT_SCI 355-0 Electronic Materials (1 Unit) 
+Prerequisite: MAT_SCI 316-1 or consent of instructor."
+MAT_SCI 357-0,MAT_SCI,357-0,Nanomagnetic Materials for Information Storage,1,MAT_SCI 357-0 Nanomagnetic Materials for Information Storage (1 Unit)  
+MAT_SCI 358-0,MAT_SCI,358-0,Modeling and Simulation in Materials Science and Engineering,1,"MAT_SCI 358-0 Modeling and Simulation in Materials Science and Engineering (1 Unit) 
+Prerequisite: MAT_SCI 314-0, MAT_SCI 315-0, MAT_SCI 316-1, and MAT_SCI 351-1."
+MAT_SCI 360-0,MAT_SCI,360-0,Introduction to Electron Microscopy,1,"MAT_SCI 360-0 Introduction to Electron Microscopy (1 Unit) 
+Prerequisites: MAT_SCI 301-0; PHYSICS 135-2, PHYSICS 135-3 or equivalent."
+MAT_SCI 361-0,MAT_SCI,361-0,Crystallography & Diffraction,1,"MAT_SCI 361-0 Crystallography & Diffraction (1 Unit) 
+Prerequisites: GEN_ENG 205-4 or equivalent; PHYSICS 135-2, PHYSICS 135-3."
+MAT_SCI 371-0,MAT_SCI,371-0,Biominerals: Hierarchical Architecture & Function,1,"MAT_SCI 371-0 Biominerals: Hierarchical Architecture & Function (1 Unit) 
+Prerequisite: MAT_SCI 316-2 or equivalent, or consent of instructor."
+MAT_SCI 376-0,MAT_SCI,376-0,Nanomaterials,1,"MAT_SCI 376-0 Nanomaterials (1 Unit) 
+Prerequisite: MAT_SCI 351-1 or consent of instructor."
+MAT_SCI 380-0,MAT_SCI,380-0,Intro Surface Science & Spectroscopy,1,"MAT_SCI 380-0 Intro Surface Science & Spectroscopy (1 Unit) 
+Prerequisite: MAT_SCI 351-1 or equivalent."
+MAT_SCI 381-0,MAT_SCI,381-0,Materials for Energy-Efficient Technology,1,"MAT_SCI 381-0 Materials for Energy-Efficient Technology (1 Unit) 
+Prerequisite: MAT_SCI 201-0, MAT_SCI 301-0, or consent of instructor."
+MAT_SCI 382-0,MAT_SCI,382-0,Electrochemical Energy Materials and Devices,1,"MAT_SCI 382-0 Electrochemical Energy Materials and Devices (1 Unit) 
+Prerequisite: senior standing or consent of instructor."
+MAT_SCI 385-0,MAT_SCI,385-0,Electronic and Thermal Properties of Materials,1,"Thermoelectric Devices. Solid-state electronic structure from a solid-state chemistry perspective, phonons in complex materials, electronic and thermal transport at room temperature and above (semi-classical) of metals, semiconductors and some insulators. Familiarity with quantum mechanics and the concept of density-of-states for electrons and phonons. MAT_SCI 351-1 or equivalent is recommended but not required."
+MAT_SCI 390-0,MAT_SCI,390-0,Materials Design,1,"MAT_SCI 390-0 Materials Design (1 Unit) 
+Prerequisites: MAT_SCI 315-0, MAT_SCI 316-1, MAT_SCI 316-2, or consent of instructor."
+MAT_SCI 391-0,MAT_SCI,391-0,Process Design,1,"MAT_SCI 391-0 Process Design (1 Unit) 
+Prerequisite: MAT_SCI 201 or 301 or faculty consent."
+MAT_SCI 394-0,MAT_SCI,394-0,Honors Project in Materials Science,1,"Independent study and/or research linked to MAT_SCI 396-1 and MAT_SCI 396-2. Comprehensive report on a specific area of modern materials science and engineering. 
+Prerequisite: registration in department honors program."
+MAT_SCI 395-0,MAT_SCI,395-0,Special Topics in Materials Science and Engineering,1,MAT_SCI 395-0 Special Topics in Materials Science and Engineering (1 Unit)  
+MAT_SCI 396-1,MAT_SCI,396-1,Senior Project in Materials Science and Engineering,1,"To be taken in two consecutive quarters. Independent basic or applied research project, conceived and performed under the direction of a department faculty member. 
+Prerequisite: senior standing in the materials science and engineering or materials science program."
+MAT_SCI 396-2,MAT_SCI,396-2,Senior Project in Materials Science and Engineering,1,"To be taken in two consecutive quarters. Independent basic or applied research project, conceived and performed under the direction of a department faculty member. 
+Prerequisite: senior standing in the materials science and engineering or materials science program."
+MAT_SCI 397-0,MAT_SCI,397-0,Special Topics in Materials Science and Engineering,0.34,MAT_SCI 397-0 Special Topics in Materials Science and Engineering (0.34 Unit)  
+MAT_SCI 399-0,MAT_SCI,399-0,Projects,1,"Individual problems, including library and design work; comprehensive report on a specific phase of modern materials science. Credit to be arranged."

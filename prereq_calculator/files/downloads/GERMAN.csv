@@ -1,0 +1,168 @@
+code,category,number,title,units,desc
+GERMAN 101-1,GERMAN,101-1,Beginning German,1,"This sequence offers students a systematic introduction to German language and culture emphasizing reading, writing, speaking, and listening comprehension. 
+Prerequisite: None or one year of high-school German or placement test results."
+GERMAN 101-2,GERMAN,101-2,Beginning German,1,"This sequence offers students a systematic introduction to German language and culture emphasizing reading, writing, speaking, and listening comprehension. 
+Prerequisite: GERMAN 101-1 or placement test results."
+GERMAN 101-3,GERMAN,101-3,Beginning German,1,"This sequence offers students a systematic introduction to German language and culture emphasizing reading, writing, speaking, and listening comprehension. . 
+Prerequisite: GERMAN 101-2 or placement test results."
+GERMAN 101-SA-1,GERMAN,101-SA-1,Beginning German,1,"This sequence offers students a systematic introduction to German language and culture emphasizing reading, writing, speaking, and listening comprehension. 
+Prerequisite: None or one year of high-school German or placement test results."
+GERMAN 102-1,GERMAN,102-1,Intermediate German,1,"This sequence offers students a systematic review of German language and culture. The class fosters learning in the four modalities: speaking, listening comprehension, reading, and writing. 
+Prerequisite: GERMAN 101-3 or placement test results."
+GERMAN 102-2,GERMAN,102-2,Intermediate German,1,"This sequence offers students a systematic review of German language and culture. The class fosters learning in the four modalities: speaking, listening comprehension, reading, and writing. 
+Prerequisite: GERMAN 102-1 or or placement test results."
+GERMAN 102-3,GERMAN,102-3,Intermediate German,1,"This sequence offers students a systematic review of German language and culture. The class fosters learning in the four modalities: speaking, listening comprehension, reading, and writing. 
+Prerequisite: GERMAN 102-2 or placement test results."
+GERMAN 102-SA-1,GERMAN,102-SA-1,Intermediate German,1,"This sequence offers students a systematic review of German language and culture. The class fosters learning in the four modalities: speaking, listening comprehension, reading, and writing. 
+Prerequisite: GERMAN 101-3 or placement test results."
+GERMAN 104-7,GERMAN,104-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+GERMAN 104-8,GERMAN,104-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+GERMAN 105-0,GERMAN,105-0,German for Research,0,GERMAN 105-0 German for Research (0 Unit)  
+GERMAN 115-0,GERMAN,115-0,Beginning German through Musical Journeys in Vienna,1,"Interdisciplinary course offering musically interested students the opportunity to acquire German language skills through an immersion in the musical and cultural history of Vienna. 
+Prerequisite: None or one year of high-school German or placement test results."
+GERMAN 201-0,GERMAN,201-0,Focus Reading,1,"Course for students who would like to explore German texts in more depth. Examines contemporary German culture. May be repeated for credit with change of topic. (This course will not count for the language requirement but may be taken concurrently with GERMAN 102-3). 
+Prerequisite: GERMAN 102-2 or placement test results."
+GERMAN 203-0,GERMAN,203-0,Focus Speaking,1,"Practical training in listening comprehension and speaking. Examines contemporary German culture. May be repeated for credit with change of topic. (This course will not count for the language requirement but may be taken concurrently with GERMAN 102-3). 
+Prerequisite: GERMAN 102-2 or placement test results."
+GERMAN 205-0,GERMAN,205-0,Focus Writing,1,"Development of written proficiency in German through analysis and production of portraits, descriptions, narratives, reviews of films, reports, argumentative essays, advertisements, and interpretations of literary works. 
+Prerequisite: GERMAN 102-3 or placement test results."
+GERMAN 205-SA,GERMAN,205-SA,Focus Writing,1,"Development of written proficiency in German through analysis and production of portraits, descriptions, narratives, reviews of films, reports, argumentative essays, advertisements, and interpretations of literary works. 
+Prerequisite: GERMAN 102-3 or placement test results."
+GERMAN 207-0,GERMAN,207-0,Current Events in German Media,1,"Exploration of current events in a variety of German media (newspapers, TV, Internet, etc.). Topics include politics, music, film, sports, and cultural issues. 
+Prerequisite: GERMAN 102-3."
+GERMAN 209-0,GERMAN,209-0,German in the Business World,1,"German language study oriented toward business-related communication situations, such as social interactions with customers, business travel, basic business letters. 
+Prerequisite: One 200-level course in German."
+GERMAN 211-0,GERMAN,211-0,German Culture through Film,1,"Introduction to 20th century German cinema. Discussion of German identity, culture, history, and politics. Course emphasizes cultural knowledge and German language skills. 
+Prerequisite: One 200-level course in German.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 213-0,GERMAN,213-0,"History, Politics, and Culture in 21st Century German",1,"In-depth cultural and linguistic exploration of history, politics, and current issues (e.g., integration of foreigners, multicultural life) in Germany. 
+Prerequisite: GERMAN 102-3 or placement exam results.
+Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+GERMAN 221-1,GERMAN,221-1,Introduction to German Literature: 1800-1900,1,"Introduction to representative texts and writers of 19th century German literature. Familiarization with literary analysis and genres. 
+Prerequisite: One 200-level course in German.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 221-2,GERMAN,221-2,Introduction to German Literature: 1900-1945,1,"Introduction to representative German texts and writers of the first half of the 20th century, when the First World War, the Weimar Republic, and the Third Reich marked the demise of the German Empire. 
+Prerequisite: One 200-level course in German.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 221-3,GERMAN,221-3,Introduction to German Literature: 1945-today,1,"Introduction to representative short stories by major German-speaking authors since 1945. The stories represent a dynamic period in German literature and highlight important social, political, and intellectual issues. 
+Prerequisite: GERMAN 102-3 or placement test results.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 224-0,GERMAN,224-0,Contemporary Germany,1,"The German political, social, and cultural scene after 1945. 
+Prerequisite: None. May be repeated for credit with different topic.
+ Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area"
+GERMAN 224-SA,GERMAN,224-SA,Contemporary Germany,1,"The German political, social, and cultural scene after 1945. 
+Prerequisite: None. May be repeated for credit with different topic.
+ Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area"
+GERMAN 228-0,GERMAN,228-0,History of German Film,1,"In-depth study of German films and cultural background. Topics may vary-for example, the pioneer film or ""new"" German cinema. 
+Prerequisite: None. May be repeated for credit with different topic.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 230-0,GERMAN,230-0,Berlin and the Culture of Democracy,1,"History and culture of the city from 1900 to the present, including the Weimar period, Nazi regime, the divisions of the Cold War, and the newly unified capital. 
+Prerequisite: none.
+Historical Studies Distro Area Historical Studies Foundational Discipline Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 232-0,GERMAN,232-0,The Theme of Faust Through the Ages,1,"Faust theme in literature and music through shifting intellectual and social climates from the 16th century to the present. 
+Prerequisite: None.
+Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 234-1,GERMAN,234-1,Jews and Germans: An Intercultural History I,1,"Exploration of Jewish encounters with German culture. German Jewry from the 18th century to the end of the 19th century, when Jews were granted legal standing as German citizens. 
+Prerequisite: None.
+Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 234-2,GERMAN,234-2,Jews and Germans: An Intercultural History II,1,"Jewish culture-German culture exploration. German-speaking Jewry from the late 19th century to 1933. 
+Prerequisite: None.
+Ethics Values Distro Area Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 236-0,GERMAN,236-0,Kafka and Nietzsche,1,"Exploration of two key figures in German modernity. Analysis of the relation between philosophy and literature; inquiry into the idea of the ""ascetic ideal."" 
+Prerequisite: None.
+Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 238-0,GERMAN,238-0,Decadence and Desire: Turn-of-the-Century Vienna,1,"Literature and thought of fin de siècle Vienna and their impact on modern consciousness. Fiction, poetry, essays, and plays by Freud, Schnitzler, Wittgenstein, Hofmannsthal, Musil, Karl Kraus, and Schoenberg. 
+Prerequisite: None.
+Literature Fine Arts Distro Area"
+GERMAN 242-0,GERMAN,242-0,Imagining Modern Jewish Culture in Yiddish and German,1,"History and character of Yiddish and the development of modern German culture and German-Jewish culture. Appreciation of the variety of ""Judaisms"" imagined and reimagined during modern European history. 
+Prerequisite: None. GERMAN 242-0 and JWSH_ST 242-0 are taught together; may not receive credit for both courses.
+Literature Fine Arts Distro Area"
+GERMAN 244-0,GERMAN,244-0,Analyzing Freud,1,"Freud's work from a comparative and interdisciplinary perspective. Fundamental texts by Freud in dialogue with related materials that situate him in historical, cultural, and intellectual context. 
+Prerequisite: None.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 245-0,GERMAN,245-0,Special Topics in German Literature and Culture,1,"Studies of a major author, a prominent theme in German literature or culture, a movement, or a genre. May be repeated for credit with different topic. 
+Prerequisite: One 200-level course in German.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 246-0,GERMAN,246-0,Special Topics in German Literature and Culture,1,"Studies of a major author, a prominent theme. Topics vary-for example, the fairy tale, Germanic mythology. 
+Prerequisite: None.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 248-0,GERMAN,248-0,"Migration in the German Past and Present: Gastarbeiter, Refugees, Displaced Persons",1,"Explores how migration from and to Germany has impacted and shaped the country's political, social, and cultural development as an increasingly diverse country. 
+Prerequisite: None.
+ Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area"
+GERMAN 266-0,GERMAN,266-0,Introduction to Yiddish Culture: Images of the Shtetl,1,"Analysis and discussion of the literary, visual, and filmic images of the communal life developed by Eastern European Jews and inseparably associated with them. 
+Prerequisite: None. GERMAN 266-0 and JWSH_ST 266-0 taught together; students may receive credit for only one of these.
+Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 272-0,GERMAN,272-0,Luther and the West,1,"Examination of Luther's work in the context of his life and times. Introduces basic dimensions of Western thought, showing how theology relates to broader cultural, political, social, and aesthetic issues. 
+Prerequisite: None. GERMAN 272-0 and RELIGION 272-0 are taught together; may not receive credit for both courses.
+Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area Historical Studies Distro Area Interdisciplinary Distro - See Rules"
+GERMAN 303-0,GERMAN,303-0,Advanced Expression in German speaking,1,"A course to improve German listening and speaking skills to the advanced level. Uses current cultural texts, films, and television broadcasts. 
+Prerequisite: Two 200-level courses in German.
+ Advanced Expression Global Perspectives on Power, Justice, and Equity"
+GERMAN 305-0,GERMAN,305-0,Advanced Creative Expression in German writing,1,"Practice of advanced and sophisticated structures of written German through a series of linguistic exercises. Readings may vary. 
+Prerequisite: Two 200-level courses in German.
+ Advanced Expression"
+GERMAN 307-0,GERMAN,307-0,German Mass Media: from broadcast to stream,1,"Discussion of history of German media and journalistic differences. Topics include current events in newspapers, magazines, Internet sources, and news broadcasts. . 
+Prerequisite: Two 200-level courses in German.
+Advanced Expression"
+GERMAN 309-1,GERMAN,309-1,The German Market and the Globalized Economy,1,"Germany's economy, its current problems, business practices, and differences from the United States. 
+Prerequisite: Two 200-level courses in German.
+Advanced Expression"
+GERMAN 309-2,GERMAN,309-2,"Germany, Inc.: Marketing and Corporate Social Responsibility",1,"Students gain skills to function in a multitude of German business contexts, such as management and marketing. They also increase their cross-cultural knowledge and intercultural competency. 
+Prerequisite: Two 200-level courses in German.
+ Advanced Expression"
+GERMAN 321-1,GERMAN,321-1,"Reason, Revolution, and Despair: 1800-1900",1,"Discussion of key texts in German intellectual history from the Enlightenment to the prerevolutionary period in the 1830s. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 321-2,GERMAN,321-2,Myth and Modernity: 1900-1945,1,"Literature and thought, events, and ideologies that shaped German cultural, political, and social life from 1900 to 1945, during the Weimar Republic and the Nazi state. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 321-3,GERMAN,321-3,Recoveries and Transitions: 1945-Present,1,"Examination of the relationship of literature and film to the sociopolitical sphere since 1945. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 322-0,GERMAN,322-0,German Contributions to World Literature,1,"Topics vary-for example, Rilke's poetry; Nietzsche's influence on literature; Thomas Mann; Hesse, the German novel, and the mystic tradition; German intellectual history. 
+Prerequisite: None. May be repeated for credit with different topic.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 324-0,GERMAN,324-0,Modern German Drama,1,"GERMAN 324-0 Modern German Drama (1 Unit) 
+Prerequisite: None.
+Literature Fine Arts Distro Area"
+GERMAN 327-0,GERMAN,327-0,The German Avant-Garde and the Culture of Modernism,1,"Literary and artistic reactions to the impact of modernity, war, and revolution and on the individual and collective experience in Berlin from 1910 to 1920. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 328-0,GERMAN,328-0,"Prague: City of Cultures, City of Conflict",1,"Examination of the cultural, political, and social transformation of Prague from the 19th century to the present. Cosmopolitan Prague, communist Prague, and capitalist Prague. SLAVIC 328-0 and GERMAN 328-0 are taught together; may not receive credit for both courses. Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area Interdisciplinary Distro - See Rules Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 331-0,GERMAN,331-0,Shattered Worlds: Representation after the Shoa,1,"Examination of the role of German literature and art in the creation of historical consciousness in the postwar period. 
+Prerequisite: Three 200-level courses in German (at least one in literature) .
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 333-0,GERMAN,333-0,Literature of the Cold War,1,"Study of the literature and culture of the German Democratic Republic within social, political, and historical contexts. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 334-0,GERMAN,334-0,Writers and their Critics,1,"Study of the texts of leading writers in German through a discussion of the criticism these texts have evoked. Emphasis on 20th and 21st century criticism. 
+Prerequisite: None.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 335-0,GERMAN,335-0,Minority Voices in Germany,1,"Study of minority literatures in Germany (including Turkish, Italian, Afro German, and Jewish) within social, political, and historical contexts. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Advanced Expression Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 337-0,GERMAN,337-0,Science and Culture in Germany,1,"Exploration of key texts popularizing major scientific innovations in Germany. The focus is on tracing the scientific, political, philosophical, aesthetic history of German as a ""green nation"" from the 18th century until today. 
+Prerequisite: Three 200-level courses in German (at least one in literature).
+Ethics Values Distro Area Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area Historical Studies Foundational Discipline Interdisciplinary Distro - See Rules"
+GERMAN 344-1,GERMAN,344-1,German History: Weimar and Nazi Germany,1,"Survey of German political, economic, social, intellectual, and diplomatic history covering Weimar and Nazi Germany. 
+Prerequisite: None. GERMAN 344-1 and HISTORY 344-1 are taught together: may not receive credit for both courses.
+Historical Studies Distro Area"
+GERMAN 344-2,GERMAN,344-2,German History: Germany Since 1945,1,"Survey of German political, economic, social, intellectual, and diplomatic history covering Germany beginning in 1945 to reunification at the end of the Cold War. 
+Prerequisite: None. GERMAN 344-2 and HISTORY 344-2 are taught together; may not receive credit for both courses.
+ Advanced Expression Historical Studies Distro Area Historical Studies Foundational Discipline"
+GERMAN 345-0,GERMAN,345-0,Topics in German Literature and Culture,1,"In-depth study of topics in German literature and/or pivotal periods in German culture. 
+Prerequisite: Three 200-level courses in German (at least one in literature). May be repeated for credit with different topic.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 346-0,GERMAN,346-0,Topics in German Literature and Culture,1,"In-depth study of topics in German literature and/or pivotal periods in German culture. 
+Prerequisite: None. May be repeated for credit with different topic.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GERMAN 349-0,GERMAN,349-0,The History of the Holocaust,1,"Origins and development of the genocide of European Jewry during World War II. 
+Prerequisite: none. HISTORY 349-0 and GERMAN 349-0 are taught together; may not receive credit for both courses.
+ Global Perspectives on Power, Justice, and Equity Historical Studies Distro Area Historical Studies Foundational Discipline"
+GERMAN 366-0,GERMAN,366-0,Yiddish Culture and the Holocaust,1,"Analysis of modern Yiddish literature before the Holocaust as well as literary work that emerged from Yiddish-speaking writers who survived the Second World War. 
+Prerequisite: None. GERMAN 366-0. and JWSH_ST 366-0 taught together; may receive credit for only one course.
+Literature Fine Arts Distro Area"
+GERMAN 398-0,GERMAN,398-0,Undergraduate Seminar,1,"Advanced work through supervised reading, research, and discussion. 
+Prerequisite: Three 200-level courses in German (at least one in literature)."
+GERMAN 399-0,GERMAN,399-0,Independent Study,1,"Open to outstanding German majors with senior standing. 
+Prerequisite: Three 200-level courses in German (at least one in literature)."

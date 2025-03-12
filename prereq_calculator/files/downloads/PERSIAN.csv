@@ -1,0 +1,14 @@
+code,category,number,title,units,desc
+PERSIAN 111-1,PERSIAN,111-1,Persian I,1,"This sequence emphasizing speaking, listening comprehension, reading, and writing offers students a systematic introduction to formal Persian. Insights into Persian history and culture. 
+Prerequisite: None or placement test results."
+PERSIAN 111-2,PERSIAN,111-2,Persian I,1,"This sequence emphasizing speaking, listening comprehension, reading, and writing offers students a systematic introduction to formal Persian. Insights into Persian history and culture. PERSIAN 111-1 or equivalent."
+PERSIAN 111-3,PERSIAN,111-3,Persian I,1,"This sequence emphasizing speaking, listening comprehension, reading, and writing offers students a systematic introduction to formal Persian. Insights into Persian history and culture. 
+Prerequisite: PERSIAN 111-2 or equivalent."
+PERSIAN 121-1,PERSIAN,121-1,Persian II,1,"This sequence further develops speaking, listening comprehension, reading, and writing skills in formal Persian through written and audiovisual materials, including newspapers, short stories, poems, television, film. Offers also insights into Persian culture and history. 
+Prerequisite: PERSIAN 111-3 or equivalent."
+PERSIAN 121-2,PERSIAN,121-2,Persian II,1,"This sequence further develops speaking, listening comprehension, reading, and writing skills in formal Persian through written and audiovisual materials, including newspapers, short stories, poems, television, film. Offers also insights into Persian culture and history. 
+Prerequisite: PERSIAN 121-1 or equivalent."
+PERSIAN 121-3,PERSIAN,121-3,Persian II,1,"This sequence further develops speaking, listening comprehension, reading, and writing skills in formal Persian through written and audiovisual materials, including newspapers, short stories, poems, television, film. Offers also insights into Persian culture and history. 
+Prerequisite: PERSIAN 121-2 or equivalent."
+PERSIAN 399-0,PERSIAN,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Persian. 
+Prerequisite: consent of instructor."

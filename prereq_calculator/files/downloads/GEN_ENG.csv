@@ -1,0 +1,38 @@
+code,category,number,title,units,desc
+GEN_ENG 190-0,GEN_ENG,190-0,Engineering Freshman Seminar,0-1,Broad engineering or interdisciplinary subjects of current interest.
+GEN_ENG 195-1,GEN_ENG,195-1,Engineering Dialog I,0.33-0.34,"Weekly seminar addressing subjects of interest in engineering, design, engineering policy, and entrepreneurial activities. For participants in the invitation-only Murphy Institute Scholars Program. May be repeated."
+GEN_ENG 195-2,GEN_ENG,195-2,Engineering Dialog II,0.33-0.34,"Weekly seminar addressing subjects of interest in engineering, design, engineering policy, and entrepreneurial activities. For participants in the invitation-only Murphy Institute Scholars Program. May be repeated."
+GEN_ENG 195-3,GEN_ENG,195-3,Engineering Dialog III,0.33-0.34,"Weekly seminar addressing subjects of interest in engineering, design, engineering policy, and entrepreneurial activities. For participants in the invitation-only Murphy Institute Scholars Program. May be repeated."
+GEN_ENG 195-4,GEN_ENG,195-4,Engineering Dialog IV,0.33-0.34,"Weekly seminar addressing subjects of interest in engineering, design, engineering policy, and entrepreneurial activities. For participants in the invitation-only Murphy Institute Scholars Program. May be repeated."
+GEN_ENG 196-1,GEN_ENG,196-1,Engineering Discourse I,0,Noncredit counterpart to GEN_ENG 195-1.
+GEN_ENG 196-2,GEN_ENG,196-2,Engineering Discourse II,0,Noncredit counterpart to GEN_ENG 195-2.
+GEN_ENG 196-3,GEN_ENG,196-3,Engineering Discourse III,0,Noncredit counterpart to GEN_ENG 195-3.
+GEN_ENG 196-4,GEN_ENG,196-4,Engineering Discourse IV,0,Noncredit counterpart to GEN_ENG 195-4.
+GEN_ENG 205-1,GEN_ENG,205-1,Engineering Analysis I,1,"Introduction to linear algebra from computational, mathematical, and applications viewpoints. Computational methods using a higher-level software package such as MATLAB."
+GEN_ENG 205-2,GEN_ENG,205-2,Engineering Analysis  II,1,"Linear algebra and introduction to vector methods in engineering analysis. Statics and dynamics of rigid bodies and matrix analysis of trusses and networks. Engineering design problems. 
+Prerequisites: C- or better in GEN_ENG 205-1; MATH 220-1."
+GEN_ENG 205-3,GEN_ENG,205-3,Engineering Analysis III,1,"Dynamic behavior of the elements. Modeling of mechanical (both translational and rotational), electrical, thermal, hydraulic, and chemical systems composed of those elements. 
+Prerequisite: C- or better in GEN_ENG 205-2."
+GEN_ENG 205-4,GEN_ENG,205-4,Engineering Analysis IV,1,"Solution methods for ordinary differential equations, including exact, numerical, and qualitative methods. Applications and modeling principles; solution techniques. 
+Prerequisites: C- or better in GEN_ENG 205-2; MATH 220-2."
+GEN_ENG 205-MG-1,GEN_ENG,205-MG-1,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in GEN_ENG 205-1. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+GEN_ENG 205-MG-2,GEN_ENG,205-MG-2,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in GEN_ENG 205-2. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+GEN_ENG 205-SG-1,GEN_ENG,205-SG-1,Peer-Guided Study Group: Engineering Analysis I,0,"Peer-guided study group for students enrolled in GEN_ENG 205-1.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+GEN_ENG 205-SG-2,GEN_ENG,205-SG-2,Peer-Guided Study Group: Engineering Analysis II,0,"Peer-guided study group for students enrolled in GEN_ENG 205-2.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+GEN_ENG 205-SG-3,GEN_ENG,205-SG-3,Peer-Guided Study Group: Engineering Analysis III,0,"Peer-guided study group for students enrolled in GEN_ENG 205-3.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+GEN_ENG 205-SG-4,GEN_ENG,205-SG-4,Peer-Guided Study Group: Engineering Analysis IV,0,"Peer-guided study group for students enrolled in GEN_ENG 205-4.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+GEN_ENG 206-1,GEN_ENG,206-1,Honor Engineering Analysis,1,"Covers topics addressed in GEN_ENG 205-1 at a deeper level. Intended for students with demonstrated strength in mathematics, computer programming, and/or physics. 
+Prerequisite: consent of instructor."
+GEN_ENG 206-2,GEN_ENG,206-2,Honors Engineering Analysis,1,"Covers topics addressed in GEN_ENG 205-2 at a deeper level. Intended for students with demonstrated strength in mathematics, computer programming, and/or physics. 
+Prerequisite: consent of instructor."
+GEN_ENG 206-3,GEN_ENG,206-3,Honors Engineering Analysis,1,"Covers topics addressed in GEN_ENG 205-3 at a deeper level. Intended for students with demonstrated strength in mathematics, computer programming, and/or physics. 
+Prerequisite: consent of instructor."
+GEN_ENG 206-4,GEN_ENG,206-4,Honors Engineering Analysis IV,1,"Covers topics addressed in GEN_ENG 205-4 at a deeper level. Intended for students with demonstrated strength in mathematics, computer programming, and/or physics. 
+Prerequisite: consent of instructor."
+GEN_ENG 220-1,GEN_ENG,220-1,Analy/Comp Graph,0.5,"Introduction to AutoCAD, geographic information systems (GIS), and electronic surveying and measuring."
+GEN_ENG 220-2,GEN_ENG,220-2,Analy/Comp Graph II,0.5,"Introduction to AutoCAD, geographic information systems (GIS), and electronic surveying and measuring."
+GEN_ENG 295-0,GEN_ENG,295-0,Special Topics in Engineering,1,Intermediate-level topics suggested by students or faculty members and approved by the curriculum committee.
+GEN_ENG 355-0,GEN_ENG,355-0,Domestic Study Affiliated,0,"Fulltime registration in an academic program in the continental United States that is affiliated with Northwestern. Upon successful completion of the program, registration is replaced with credits transferred from the affiliated institution."
+GEN_ENG 395-0,GEN_ENG,395-0,Special Topics in Engineering,1,Topics suggested by faculty and approved by the curriculum committee.
+GEN_ENG 397-0,GEN_ENG,397-0,Selected Topics in Engineering,0.5,Topics of limited scope as suggested by faculty and approved by the curriculum committee.
+GEN_ENG 399-0,GEN_ENG,399-0,Independent Study,1,Independent study on an engineering subject supervised by a faculty member and concluding with a final report.

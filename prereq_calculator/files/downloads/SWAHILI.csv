@@ -1,0 +1,26 @@
+code,category,number,title,units,desc
+SWAHILI 111-1,SWAHILI,111-1,Swahili I,1,Basic literacy skills and interactive proficiency; Swahili in cultural and historical context. 
+SWAHILI 111-2,SWAHILI,111-2,Swahili I,1,"Basic literacy skills and interactive proficiency; Swahili in cultural and historical context. 
+Prerequisite: SWAHILI 111-1 or equivalent."
+SWAHILI 111-3,SWAHILI,111-3,Swahili I,1,"Basic literacy skills and interactive proficiency; Swahili in cultural and historical context. 
+Prerequisite: SWAHILI 111-2 or equivalent."
+SWAHILI 111-SA-1,SWAHILI,111-SA-1,Swahili I,1,Basic literacy skills and interactive proficiency; Swahili in cultural and historical context. 
+SWAHILI 121-1,SWAHILI,121-1,Swahili II,1,"Development of literacy and interactive proficiency skills; introduction to verbal arts. In Swahili. 
+Prerequisite: SWAHILI 111-3 or equivalent."
+SWAHILI 121-2,SWAHILI,121-2,Swahili II,1,"Development of literacy and interactive proficiency skills; introduction to verbal arts. In Swahili. 
+Prerequisite: SWAHILI 121-1."
+SWAHILI 121-3,SWAHILI,121-3,Swahili II,1,"Development of literacy and interactive proficiency skills; introduction to verbal arts. In Swahili. 
+Prerequisite: SWAHILI 121-2."
+SWAHILI 121-SA-1,SWAHILI,121-SA-1,Swahili II,1,"Development of literacy and interactive proficiency skills; introduction to verbal arts. In Swahili. 
+Prerequisite: SWAHILI 111-3 or equivalent."
+SWAHILI 216-1,SWAHILI,216-1,Introduction to Swahili Literature,1,"Swahili verbal arts in the oral tradition. 
+Prerequisite: SWAHILI 121-3 or equivalent.
+Literature Fine Arts Distro Area"
+SWAHILI 216-2,SWAHILI,216-2,Introduction to Swahili Literature,1,"Classical Swahili literature. 
+Prerequisite: SWAHILI 216-1.
+Literature Fine Arts Distro Area"
+SWAHILI 216-3,SWAHILI,216-3,Introduction to Swahili Literature,1,"Standard Swahili literature. 
+Prerequisite: SWAHILI 216-2.
+Literature Fine Arts Distro Area"
+SWAHILI 399-0,SWAHILI,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Swahili. 
+Prerequisite: consent of instructor."

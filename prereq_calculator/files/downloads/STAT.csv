@@ -1,0 +1,115 @@
+code,category,number,title,units,desc
+STAT 101-7,STAT,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+STAT 101-8,STAT,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+STAT 201-0,STAT,201-0,Introduction to Programming for Data Science,1,"This course is an introduction programming for Data Science. It will prepare students to use essential programming methods as implemented in either Python or R as a tool in the subsequent data science courses including STAT 301-1, STAT 302-0, STAT 303-1, STAT 304-0, STAT 305-0, STAT 350-0, etc. 
+Prerequisite: High School Algebra.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+STAT 202-0,STAT,202-0,Introduction to Statistics and Data Science,1,"Data collection, summarization, correlation, regression, sampling, confidence intervals, tests of significance. Introduction to data analysis techniques using R programming, no prior programming experience required. May not receive credit for both STAT 202-0 and STAT 210-0. 
+Prerequisite: makes minimal use of high school algebra (calculus is not required).
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+STAT 202-SG,STAT,202-SG,Peer-Guided Study Group: Introduction to Statistics and Data Science,0,"Peer-guided study group for students enrolled in STAT 202-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+STAT 210-0,STAT,210-0,Introduction to Probability and Statistics,1,"A mathematical introduction to probability theory and statistical methods, including properties of probability distributions, sampling distributions, estimation, confidence intervals, and hypothesis testing. STAT 210-0 is primarily intended for economics majors. May not receive credit for both STAT 202-0 and STAT 210-0. 
+Prerequisite: strong background in high school algebra (calculus is not required).
+Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+STAT 210-SG,STAT,210-SG,Peer-Guided Study Group: Introduction to Probability and Statistics,0,"Peer-guided study group for students enrolled in STAT 210-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+STAT 228-0,STAT,228-0,Series and Multiple Integrals,1,"Sequences and series, and convergence tests. Power series, Taylor polynomials and error. Double integrals, triple integrals, and change of variables. Students may receive credit for only one of MATH 235‐0, MATH 226‐0, or STAT 228‐0. 
+Prerequisite: MATH 218‐3 or MATH 220‐2, and MATH 228‐1 or MATH 230‐1 or MATH 281‐1 or MATH 285‐2 or MATH 290‐2 or MATH 291‐2 or ES_APPM 252‐1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+STAT 232-0,STAT,232-0,Applied Statistics,1,"Basic concepts of using statistical models to draw conclusions from experimental and survey data. Topics include simple linear regression, multiple regression, analysis of variance, and analysis of covariance. Practical application of the methods and the interpretation of the results will be emphasized. 
+Prerequisites: STAT 202-0, STAT 210-0, or equivalent; MATH 220-1.
+ Formal Studies Distro Area"
+STAT 301-1,STAT,301-1,Data Science 1 with R,1,"STAT 301-1 Data Science 1 with R (1 Unit) 
+Prerequisite: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.
+Formal Studies Distro Area"
+STAT 301-2,STAT,301-2,Data Science 2 with R,1,"STAT 301-2 Data Science 2 with R (1 Unit) 
+Prerequisite: STAT 301-1.
+Formal Studies Distro Area"
+STAT 301-3,STAT,301-3,Data Science 3 with R,1,"STAT 301-3 Data Science 3 with R (1 Unit) 
+Prerequisite: STAT 301-2.
+Formal Studies Distro Area"
+STAT 302-0,STAT,302-0,Data Visualization,1,"STAT 302-0 Data Visualization (1 Unit) 
+Prerequisite: STAT 202-0 or equivalent.
+Formal Studies Distro Area"
+STAT 303-1,STAT,303-1,Data Science 1 with Python,1,"STAT 303-1 Data Science 1 with Python (1 Unit) 
+Prerequisite: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.
+Formal Studies Distro Area"
+STAT 303-2,STAT,303-2,Data Science 2 with Python,1,"STAT 303-2 Data Science 2 with Python (1 Unit) 
+Prerequisite: STAT 303-1.
+Formal Studies Distro Area"
+STAT 303-3,STAT,303-3,Data Science 3 with Python,1,"STAT 303-3 Data Science 3 with Python (1 Unit) 
+Prerequisite: STAT 303-2.
+Formal Studies Distro Area"
+STAT 304-0,STAT,304-0,Data Structures and Algorithms for Data Science,1,"STAT 304-0 Data Structures and Algorithms for Data Science (1 Unit) 
+Prerequisite: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.
+Formal Studies Distro Area"
+STAT 305-0,STAT,305-0,Information Management for Data Science,1,"STAT 305-0 Information Management for Data Science (1 Unit) 
+Prerequisite: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0 or equivalent.
+Formal Studies Distro Area"
+STAT 320-1,STAT,320-1,Statistical Theory & Methods 1,1,STAT 320-1 Statistical Theory & Methods 1 (1 Unit) Formal Studies Distro Area
+STAT 320-2,STAT,320-2,Statistical Theory & Methods 2,1,"STAT 320-2 Statistical Theory & Methods 2 (1 Unit) 
+Prerequisite: STAT 320-1 or MATH 310-1 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 302-0 or STAT 383-0.
+Formal Studies Distro Area"
+STAT 320-3,STAT,320-3,Statistical Theory & Methods 3,1,"STAT 320-3 Statistical Theory & Methods 3 (1 Unit) 
+Prerequisites: STAT 320-2 and MATH 240-0 or MATH 285-1 or MATH 281-3 or MATH 290-1or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area"
+STAT 325-0,STAT,325-0,Survey Sampling,1,"STAT 325-0 Survey Sampling (1 Unit) 
+Prerequisites: MATH 230-1 and 2 quarters of statistics, or consent of instructor.
+Formal Studies Distro Area"
+STAT 328-0,STAT,328-0,Causal Inference,1,"STAT 328-0 Causal Inference (1 Unit) 
+Prerequisites: STAT 320-2, STAT 350-0.
+Formal Studies Distro Area"
+STAT 330-1,STAT,330-1,Applied Statistics for Research 1,1,STAT 330-1 Applied Statistics for Research 1 (1 Unit)  
+STAT 332-0,STAT,332-0,Statistics for Life Sciences,1,"Application of statistical methods and data analysis techniques to the life sciences. Parametric statistics, nonparametric approaches, resampling-based approaches. 
+Prerequisite: 1 introductory statistics course.
+ Formal Studies Distro Area"
+STAT 344-0,STAT,344-0,Statistical Computing,1,"STAT 344-0 Statistical Computing (1 Unit) 
+Prerequisite: STAT 320-2 or equivalent. Some R programming experience is desired.
+Formal Studies Distro Area"
+STAT 348-0,STAT,348-0,Applied Multivariate Analysis,1,"STAT 348-0 Applied Multivariate Analysis (1 Unit) 
+Prerequisites: STAT 320-2 and STAT 350-0 and MATH 240-0 or MATH 285-1 or MATH 281-3 or MATH 290-1or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1. The course uses R extensively; hence, some experience with R will be useful.
+Formal Studies Distro Area"
+STAT 350-0,STAT,350-0,Regression Analysis,1,"STAT 350-0 Regression Analysis (1 Unit) 
+Prerequisites: STAT 201-0 or COMP_SCI 110-0 and STAT 202-0 or STAT 210-0 or STAT 232-0 or PSYCH 201-0 or IEMS 201-0 or IEMS 303-0. Co-requisite: STAT 320-1 or STAT 383-0 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 302-0.
+Formal Studies Distro Area"
+STAT 351-0,STAT,351-0,Design and Analysis of Experiments,1,"STAT 351-0 Design and Analysis of Experiments (1 Unit) 
+Prerequisite: STAT 320-1 or STAT 383-0 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 302-0 or equivalent.
+Formal Studies Distro Area"
+STAT 352-0,STAT,352-0,Nonparametric Statistical Methods,1,"STAT 352-0 Nonparametric Statistical Methods (1 Unit) 
+Prerequisite: STAT 350-0.
+Formal Studies Distro Area"
+STAT 353-0,STAT,353-0,Advanced Regression,1,"STAT 353-0 Advanced Regression (1 Unit) 
+Prerequisites: STAT 350-0 and STAT 320-2 or STAT 420-2 or MATH 310-2.
+Formal Studies Distro Area"
+STAT 354-0,STAT,354-0,Time Series Modeling,1,"STAT 354-0 Time Series Modeling (1 Unit) 
+Prerequisites: STAT 320-1 or STAT 383-0 or MATH 310-1 or MATH 311-1 or MATH 314-0 or MATH 385-0 or ELEC_ENG 302-0 or IEMS 302-0. Corequisite: STAT 350-0.
+Formal Studies Distro Area"
+STAT 355-0,STAT,355-0,Analysis of Qualitative Data,1,"STAT 355-0 Analysis of Qualitative Data (1 Unit) 
+Prerequisite: STAT 320-2 or equivalent.
+Formal Studies Distro Area"
+STAT 356-0,STAT,356-0,Hierarchical Linear Models,1,"STAT 356-0 Hierarchical Linear Models (1 Unit) 
+Prerequisites: STAT 320-2 and STAT 350-0.
+Formal Studies Distro Area"
+STAT 357-0,STAT,357-0,Introduction to Bayesian Statistics,1,"STAT 357-0 Introduction to Bayesian Statistics (1 Unit) 
+Prerequisites: STAT 320-2 and STAT 301-2 or STAT 350-0 or consent of instructor.
+Formal Studies Distro Area"
+STAT 359-0,STAT,359-0,Topics in Statistics,1,"STAT 359-0 Topics in Statistics (1 Unit) 
+Prerequisite: varies by course topic.
+Formal Studies Distro Area"
+STAT 360-0,STAT,360-0,Introduction to Generative AI,1,"STAT 360-0 Introduction to Generative AI (1 Unit) 
+Prerequisites: Linear algebra (MATH 240-0), STAT 320-2 or equivalent, some familiarity with deep learning, Python experience."
+STAT 362-0,STAT,362-0,Advanced Machine Learning for Data Science,1,"This course aims to focus on the theory and applications of advanced Machine Learning (ML) and Deep Learning (DL) topics. It also includes an introduction to Bayesian Modeling and Reinforcement Learning (RL). The students are expected to have a basic understanding of ML from STAT 301-1-2-3/303-1-2-3. The coding language for the homework projects is Python. 
+Prerequisites: STAT 301-3 or STAT 303-3.
+ Formal Studies Distro Area"
+STAT 365-0,STAT,365-0,Introduction to the Analysis of Financial Data,1,"STAT 365-0 Introduction to the Analysis of Financial Data (1 Unit) 
+Prerequisites: STAT 320-3 and MATH 240-0 or MATH 285-1 or MATH 281-3 or MATH 290-1or MATH 291-1 or GEN_ENG 205-1 or GEN_ENG 206-1.
+Formal Studies Distro Area"
+STAT 370-0,STAT,370-0,Human Rights Statistics,1,"STAT 370-0 Human Rights Statistics (1 Unit) 
+Prerequisites: Two of STAT 325-0, STAT 350-0, STAT 320-2, STAT 320-3; or ECON 381-1, ECON 381-2; or MATH 386-1, MATH 386-2; or IEMS 303-0, IEMS 304-0.
+Formal Studies Distro Area"
+STAT 383-0,STAT,383-0,Probability and Statistics for ISP,1,"Probability and statistics. Ordinarily taken only by students in ISP; permission required otherwise. May not receive credit for both STAT 383-0 and any of STAT 320-1, MATH 310-1, MATH 311-1, MATH 314-0, MATH 385-0, ELEC_ENG 302-0, or IEMS 302-0. 
+Prerequisites: MATH 281-1 and MATH 281-2 and MATH 281-3 and PHYSICS 125-1 and PHYSICS 125-2 and PHYSICS 125-3.
+ Formal Studies Distro Area"
+STAT 390-0,STAT,390-0,Data Science Project,1,"An opportunity to develop and create solutions for stakeholders with data needs. Students will work in teams to appropriately scope and solve data problems. Students should expect to spend significant amounts of time coordinating and working with team mates outside of class. 
+Prerequisites: STAT 301-3 or STAT 303-3."
+STAT 398-0,STAT,398-0,Undergraduate Seminar,1,
+STAT 399-0,STAT,399-0,Independent Study,1-3 Units,Independent work under the guidance of a faculty member. Consent of department required.

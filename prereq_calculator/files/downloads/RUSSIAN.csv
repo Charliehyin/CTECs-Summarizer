@@ -1,0 +1,34 @@
+code,category,number,title,units,desc
+RUSSIAN 101-1,RUSSIAN,101-1,Elementary Russian,1,"Russian language and culture. Basic reading, writing, listening, and speaking. No prerequisite."
+RUSSIAN 101-2,RUSSIAN,101-2,Elementary Russian,1,"Russian language and culture. Basic reading, writing, listening, and speaking. 
+Prerequisite: RUSSIAN 101-1 (or equivalent)."
+RUSSIAN 101-3,RUSSIAN,101-3,Elementary Russian,1,"Russian language and culture. Basic reading, writing, listening, and speaking. 
+Prerequisite: RUSSIAN 101-2 (or equivalent)."
+RUSSIAN 102-1,RUSSIAN,102-1,Intermediate Russian,1,"Russian language and culture. Reading, writing, listening, and speaking. 
+Prerequisite: RUSSIAN 101-3 (or equivalent)."
+RUSSIAN 102-2,RUSSIAN,102-2,Intermediate Russian,1,"Russian language and culture. Reading, writing, listening, and speaking. 
+Prerequisite: RUSSIAN 102-1 (or equivalent)."
+RUSSIAN 102-3,RUSSIAN,102-3,Intermediate Russian,1,"Russian language and culture. Reading, writing, listening, and speaking. 
+Prerequisite: RUSSIAN 102-2 (or equivalent)."
+RUSSIAN 302-1,RUSSIAN,302-1,Advanced Russian in Conversations,1,"Conversation, listening comprehension, reading, and composition. Contemporary readings on Russian culture and society. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director.
+ Advanced Expression"
+RUSSIAN 302-2,RUSSIAN,302-2,Advanced Russian in Conversations,1,"Conversation, listening comprehension, reading, and composition. Contemporary readings on Russian culture and society. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director.
+ Advanced Expression"
+RUSSIAN 302-3,RUSSIAN,302-3,Advanced Russian in Conversations,1,"Conversation, listening comprehension, reading, and composition. Contemporary readings on Russian culture and society. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director.
+ Advanced Expression"
+RUSSIAN 303-1,RUSSIAN,303-1,Advanced Russian Language and Culture,1,"Conversation, listening comprehension, reading, and composition. Exploration of modern Russian language and culture through readings, video, and film. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director."
+RUSSIAN 303-2,RUSSIAN,303-2,Advanced Russian Language and Culture,1,"Conversation, listening comprehension, reading, and composition. Exploration of modern Russian language and culture through readings, video, and film. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director."
+RUSSIAN 303-3,RUSSIAN,303-3,Advanced Russian Language and Culture,1,"Conversation, listening comprehension, reading, and composition. Exploration of modern Russian language and culture through readings, video, and film. Combined third-and fourth-year multi-skill course. 
+Prerequisite: RUSSIAN 102-3 or consent of language director."
+RUSSIAN 304-1,RUSSIAN,304-1,Advanced Contemporary Russian,1,"Russian for advanced speakers, including heritage speakers. Stress on skills in speaking, reading, and writing in professional and formal environments. Taught entirely in Russian. 
+Prerequisite: RUSSIAN 302-3 or RUSSIAN 303-3 (or equivalent)."
+RUSSIAN 304-2,RUSSIAN,304-2,Advanced Contemporary Russian,1,"Russian for advanced speakers, including heritage speakers. Stress on skills in speaking, reading, and writing in professional and formal environments. 
+Prerequisite: RUSSIAN 302-3 or RUSSIAN 303-3 (or equivalent)."
+RUSSIAN 359-0,RUSSIAN,359-0,Russian Prose,1,"RUSSIAN 359-0 Russian Prose (1 Unit) 
+Prerequisite: RUSSIAN 302-3 or RUSSIAN 303-3 (or equivalent).
+Literature Fine Arts Distro Area"

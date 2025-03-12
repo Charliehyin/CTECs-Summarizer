@@ -1,0 +1,105 @@
+code,category,number,title,units,desc
+CIV_ENV 101-0,CIV_ENV,101-0,Introduction to Civil and Environmental Engineering,0,"In this seminar course we discuss the grand challenges facing society in the coming decades, and how Civil and Environmental Engineers are meeting these challenges.  Seminars will focus on key CE and EE topics, the CE & EE curricula at NU, and the career paths of recent CE & EE graduates."
+CIV_ENV 195-0,CIV_ENV,195-0,Introductory Course in Civil and Environmental Engineering,0-1,Introductory-level special topics courses in civil and environmental engineering. 195 is similar to CIV_ENV 395-0 but intended for first and second-year students.
+CIV_ENV 201-0,CIV_ENV,201-0,Engineering Possibilities: Decision Science in the Age of Smart Technologies,1,"Define challenges facing cities, and learn how to critically evaluate different solutions, ranging from traditional to innovative. Foster critical thinking about problem definitions along with the definition of metrics that represent desirable (and undesirable) outcomes in urban systems."
+CIV_ENV 202-0,CIV_ENV,202-0,Biological and Ecological Principles,1,"Fundamentals of biology - including cell biology, genetics, and biochemistry - and ecology - including biological interactions, microbial ecology - and biogeochemical cycling as they apply to natural and engineered systems. Bioinformatics tools necessary for analyzing biological and ecological data. 
+Prerequisites: MATH 220-2; CHEM 131-0, CHEM 151-0, or CHEM 171-0."
+CIV_ENV 203-0,CIV_ENV,203-0,Earth in the Anthropocene,1,"Fundamentals of Earth system science and their connections to the need for humans to develop food, water, energy and infrastructure systems that has led to transformation of the Earth's surface and of its atmosphere. 
+Prerequisite: MATH 220-2; CHEM 131-0, CHEM 151-0, or CHEM 171-0 is highly recommended.
+Natural Sciences Distro Area"
+CIV_ENV 205-0,CIV_ENV,205-0,Economics and Finance for Engineers,1,"Principles of corporate finance; financial decisions of firms; value; risk and return; investment and capital budgeting decisions under certainty and uncertainty; performance evaluation. May not be taken for credit with or after KELLG_FE 310-0. 
+Prerequisite: MATH 220-1; basic understanding of probability and economics recommended."
+CIV_ENV 216-0,CIV_ENV,216-0,Mechanics of Materials I,1,"Analytical and experimental study of stresses and deformations and their application to the design of machine and structural elements subjected to static, dynamic, and repeated loads. 
+Prerequisite: GEN_ENG 205-2 or GEN_ENG 206-2."
+CIV_ENV 220-0,CIV_ENV,220-0,Structural Art,1,"Learn how to interpret and understand the built environment through an examination of the history of structural engineering as a creative art, with particular emphasis on technical, visual, and social analysis and critique of bridges, buildings, and designers."
+CIV_ENV 221-0,CIV_ENV,221-0,Theory of Structures I,1,"Deflections of structures, energy concepts, idealization of structures, truss analysis, column stability, and influence lines. Introduction to indeterminate truss and frame analyses, slope-deflection analysis, and moment distribution. Portal method. 
+Prerequisite: CIV_ENV 216-0."
+CIV_ENV 250-0,CIV_ENV,250-0,Earth Surface Engineering,1,"Fundamental properties and behavior of soils as engineering materials. Origin of soils through the properties of soil components to the strength, permeability, and deformation of soil masses. 
+Prerequisite: MECH_ENG 241-0."
+CIV_ENV 260-0,CIV_ENV,260-0,Environmental Systems and Processes,1,"Basic engineering principles required for the design, operation, analysis, and modeling of both natural and engineered systems and their application to major issues facing human and environmental health of ecosystems. Corequisite: MATH 220-2; CHEM 131-0, CHEM 151-0, or CHEM 171-0 highly recommended."
+CIV_ENV 280-1,CIV_ENV,280-1,Architectural Engineering & Design Seminar I,0,"First course in the AED seminar series.  Students will learn from practicing architects and engineers, and will also conduct independent studies culminating in their own seminars to the class."
+CIV_ENV 280-2,CIV_ENV,280-2,Architectural Engineering & Design Seminar II,0,"Second course in the AED seminar series.  Students will learn from practicing architects and engineers, and will also conduct independent studies culminating in their own seminars to the class."
+CIV_ENV 280-3,CIV_ENV,280-3,Architectural Engineering & Design Seminar III,0,"Third course in the AED seminar series.  Students will learn from practicing architects and engineers, and will also conduct independent studies culminating in their own seminars to the class."
+CIV_ENV 295-0,CIV_ENV,295-0,Introductory topics in Civil and Environmental Engineering,1,Intermediate-level study of topics suggested by students or faculty members and approved by the department.
+CIV_ENV 301-1,CIV_ENV,301-1,Professional Development Seminar I,0.34,"Case study in engineering ethics, with discussion of topics in professional development and lifelong learning. 
+Prerequisite: junior engineering standing."
+CIV_ENV 301-2,CIV_ENV,301-2,Professional Development Seminar II,0,"Preparation for the Fundamentals of Engineering (FE) exam. 
+Prerequisite: senior engineering standing."
+CIV_ENV 302-0,CIV_ENV,302-0,Engineering Law,1,"CIV_ENV 302-0 Engineering Law (1 Unit) 
+Prerequisite: junior engineering standing."
+CIV_ENV 303-0,CIV_ENV,303-0,Environmental Law and Policy,1,"CIV_ENV 303-0 Environmental Law and Policy (1 Unit) 
+Prerequisite: junior or senior standing."
+CIV_ENV 304-0,CIV_ENV,304-0,Civil and Environmental Engineering Systems Analysis,1,"CIV_ENV 304-0 Civil and Environmental Engineering Systems Analysis (1 Unit) 
+Prerequisite: MATH 220-2 or equivalent."
+CIV_ENV 306-0,CIV_ENV,306-0,Uncertainty Analysis,1,CIV_ENV 306-0 Uncertainty Analysis (1 Unit)  
+CIV_ENV 308-0,CIV_ENV,308-0,Environmental Justice,1,CIV_ENV 308-0 Environmental Justice (1 Unit)  
+CIV_ENV 309-0,CIV_ENV,309-0,Climate and Energy - Law and Policy,1,CIV_ENV 309-0 Climate and Energy - Law and Policy (1 Unit)  
+CIV_ENV 314-0,CIV_ENV,314-0,Organic Geochemistry,1,"CIV_ENV 314-0 Organic Geochemistry (1 Unit) 
+Prerequisites: 1 course in earth and planetary sciences or environmental sciences; 1 course in chemistry."
+CIV_ENV 317-0,CIV_ENV,317-0,Biogeochemistry,1,"CIV_ENV 317-0 Biogeochemistry (1 Unit) 
+Prerequisites: 1 quarter of chemistry; 1 quarter of geoscience, environmental sciences, or biological sciences."
+CIV_ENV 320-0,CIV_ENV,320-0,Structural Analysis--Dynamics,1,"CIV_ENV 320-0 Structural Analysis--Dynamics (1 Unit) 
+Prerequisite: CIV_ENV 221-0."
+CIV_ENV 321-0,CIV_ENV,321-0,Concrete Properties,1,CIV_ENV 321-0 Concrete Properties (1 Unit)  
+CIV_ENV 323-0,CIV_ENV,323-0,Structural Steel Design,1,"CIV_ENV 323-0 Structural Steel Design (1 Unit) 
+Prerequisites: CIV_ENV 216-0; CIV_ENV 221-0 or equivalent."
+CIV_ENV 325-0,CIV_ENV,325-0,Reinforced Concrete,1,"CIV_ENV 325-0 Reinforced Concrete (1 Unit) 
+Prerequisite: CIV_ENV 221-0."
+CIV_ENV 326-0,CIV_ENV,326-0,Engineering Forensics,1,"Introduction to failure analysis and forensic engineering to describe how these investigative procedures contribute to regulations, engineering design, safety principles, and the economic aspects of structure engineering. 
+Prerequisite: CIV_ENV 221-0."
+CIV_ENV 327-0,CIV_ENV,327-0,Finite Element Methods in Mechanics,1,CIV_ENV 327-0 Finite Element Methods in Mechanics (1 Unit)  
+CIV_ENV 328-0,CIV_ENV,328-0,Computational Forensics and Failure Analysis,1,CIV_ENV 328-0 Computational Forensics and Failure Analysis (1 Unit)  
+CIV_ENV 330-0,CIV_ENV,330-0,Engineering Project Management,1,"CIV_ENV 330-0 Engineering Project Management (1 Unit) 
+Prerequisite: instructor consent."
+CIV_ENV 332-10,CIV_ENV,332-10,Building Construction Estimating,1,"CIV_ENV 332-10 Building Construction Estimating (1 Unit) 
+Prerequisites: CIV_ENV 330-0; consent of instructor."
+CIV_ENV 336-10,CIV_ENV,336-10,Project Scheduling,1,"CIV_ENV 336-10 Project Scheduling (1 Unit) 
+Prerequisite: CIV_ENV 330-0."
+CIV_ENV 340-0,CIV_ENV,340-0,Hydraulics and Hydrology,1,"CIV_ENV 340-0 Hydraulics and Hydrology (1 Unit) 
+Prerequisite: MECH_ENG 241-0."
+CIV_ENV 346-0,CIV_ENV,346-0,Ecohydrology,1,"CIV_ENV 346-0 Ecohydrology (1 Unit) 
+Prerequisites: Students must have taken MECH_ENG 241, CIV_ENV 260, and CIV_ENV 361-1 or graduate standing."
+CIV_ENV 352-0,CIV_ENV,352-0,Foundation Engineering,1,"CIV_ENV 352-0 Foundation Engineering (1 Unit) 
+Prerequisite: CIV_ENV 250-0."
+CIV_ENV 353-0,CIV_ENV,353-0,Energy Geostructures & Geosystems,1,CIV_ENV 353-0 Energy Geostructures & Geosystems (1 Unit)  
+CIV_ENV 357-0,CIV_ENV,357-0,Terramechanics,1,CIV_ENV 357-0 Terramechanics (1 Unit)  
+CIV_ENV 361-1,CIV_ENV,361-1,Environmental Microbiology,1,CIV_ENV 361-1 Environmental Microbiology (1 Unit)  
+CIV_ENV 361-2,CIV_ENV,361-2,Public & Environmental Health,1,"CIV_ENV 361-2 Public & Environmental Health (1 Unit) 
+Prerequisite: CIV_ENV 361-1 or consent of instructor."
+CIV_ENV 364-0,CIV_ENV,364-0,Sustainable Water Systems,1,"CIV_ENV 364-0 Sustainable Water Systems (1 Unit) 
+Prerequisites: CIV_ENV 260-0, MECH_ENG 241-0."
+CIV_ENV 365-0,CIV_ENV,365-0,Environmental Laboratory,1,"CIV_ENV 365-0 Environmental Laboratory (1 Unit) 
+Prerequisite: CIV_ENV 367-0."
+CIV_ENV 366-0,CIV_ENV,366-0,Dynamics in Chemical Transport and Reaction,1,"Application of environmental engineering fundamentals to evaluate, model, and develop engineering solutions for different environmental contamination scenarios. 
+Prerequisite: CIV_ENV 260 or instructor consent."
+CIV_ENV 367-0,CIV_ENV,367-0,Chemical Processes in Aquatic Systems,1,"CIV_ENV 367-0 Chemical Processes in Aquatic Systems (1 Unit) 
+Prerequisite: BMD_ENG 250-0 or CHEM_ENG 211-0."
+CIV_ENV 368-0,CIV_ENV,368-0,Sustainability: The City,1,CIV_ENV 368-0 Sustainability: The City (1 Unit)  
+CIV_ENV 370-0,CIV_ENV,370-0,Emerging Organic Contaminants,1,"CIV_ENV 370-0 Emerging Organic Contaminants (1 Unit) 
+Prerequisite: CHEM 210-1 or consent of instructor."
+CIV_ENV 371-0,CIV_ENV,371-0,Introduction to Transportation Planning and Analysis,1,"CIV_ENV 371-0 Introduction to Transportation Planning and Analysis (1 Unit) 
+Prerequisite: junior standing or consent of instructor."
+CIV_ENV 376-0,CIV_ENV,376-0,Transportation System Operations,1,"CIV_ENV 376-0 Transportation System Operations (1 Unit) 
+Prerequisite: basic understanding of calculus and statistics; knowledge of MATLAB desirable but not required."
+CIV_ENV 377-0,CIV_ENV,377-0,Choice Modelling in Engineering,1,CIV_ENV 377-0 Choice Modelling in Engineering (1 Unit)  
+CIV_ENV 382-1,CIV_ENV,382-1,Capstone Design I,0.5,"Culminating team-based design experience in civil and environmental engineering, with an overview of the function, design, and operations of modern infrastructure systems. Part 1 of 2-course sequence. 
+Prerequisite: senior standing in civil or environmental engineering or consent of instructor."
+CIV_ENV 382-2,CIV_ENV,382-2,Capstone Design II,0.5,"Culminating team-based design experience in civil and environmental engineering, with an overview of the function, design, and operations of modern infrastructure systems. Part 2 of 2-course sequence. 
+Prerequisite: CIV_ENV 382-1."
+CIV_ENV 385-1,CIV_ENV,385-1,Architectural Engineering and Design 1: Fundamentals,1,"CIV_ENV 385-1 Architectural Engineering and Design 1: Fundamentals (1 Unit) 
+Prerequisite: junior standing in engineering or consent of instructor."
+CIV_ENV 385-2,CIV_ENV,385-2,Architectural Engineering & Design 2: Intermediate,1,"CIV_ENV 385-2 Architectural Engineering & Design 2: Intermediate (1 Unit) 
+Prerequisites: CIV_ENV 385-1 and junior standing in engineering; or consent of instructor."
+CIV_ENV 385-3,CIV_ENV,385-3,Architectural Engineering & Design 3: Advanced Studio,1,"CIV_ENV 385-3 Architectural Engineering & Design 3: Advanced Studio (1 Unit) 
+Prerequisites: CIV_ENV 385-2 and junior standing in engineering; or consent of instructor."
+CIV_ENV 386-0,CIV_ENV,386-0,High Performance Architectural Design,1,Elements of high performance building design and to explore the various matrics used to analyze the relationship between the structure and function of various design alternatives.
+CIV_ENV 387-0,CIV_ENV,387-0,Design of Sustainable Urban Developments,1,"Design high performing neighborhoods, districts and communities that incorporate principles of density, diversity and flexibility around the ""operating system of nature"". 
+Prerequisites: CIV_ENV 386-0, senior standing, consent of instructor; recommend CIV_ENV 385-1, CIV_ENV 385-2, and CIV_ENV 385-3."
+CIV_ENV 388-1,CIV_ENV,388-1,Building Science I: Fundamentals for Sustainable Buildings,1,"The course is the first of a two-part series focusing on Building Science. This course aims to provide the fundamental knowledge of the physics related to buildings, focusing on heat and mass transfer, moisture, and the energy consumed in buildings to guarantee the comfort of their occupants."
+CIV_ENV 388-2,CIV_ENV,388-2,Building Science II: Application for Sustainable Buildings,1,CIV_ENV 388-2 Building Science II: Application for Sustainable Buildings (1 Unit)  
+CIV_ENV 395-0,CIV_ENV,395-0,Special Topics in Civil and Environmental Engrg,1,CIV_ENV 395-0 Special Topics in Civil and Environmental Engrg (1 Unit)  
+CIV_ENV 398-1,CIV_ENV,398-1,Community-based Design 1,1,"CIV_ENV 398-1 Community-based Design 1 (1 Unit) 
+Prerequisite: consent of instructor."
+CIV_ENV 398-2,CIV_ENV,398-2,Community-based Design 2,1,"CIV_ENV 398-2 Community-based Design 2 (1 Unit) 
+Prerequisite: consent of instructor."
+CIV_ENV 399-0,CIV_ENV,399-0,Projects,1,Special studies under faculty direction. Credit to be arranged.

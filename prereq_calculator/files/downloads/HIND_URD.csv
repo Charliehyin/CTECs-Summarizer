@@ -1,0 +1,27 @@
+code,category,number,title,units,desc
+HIND_URD 111-1,HIND_URD,111-1,Hindi-Urdu I,1,Beginning college-level sequence to develop basic literacy and oral proficiency in Hindi-Urdu. Devanagari script only. Prerequisite - none.
+HIND_URD 111-2,HIND_URD,111-2,Hindi-Urdu I,1,"Beginning college-level sequence to develop basic literacy and oral proficiency in Hindi-Urdu. Devanagari script only. 
+Prerequisite: grade of at least C- in HIND_URD 111-1 or equivalent."
+HIND_URD 111-3,HIND_URD,111-3,Hindi-Urdu I,1,"Beginning college-level sequence to develop basic literacy and oral proficiency in Hindi-Urdu. Devanagari script only. 
+Prerequisite: grade of at least C- in HIND_URD 111-2 or equivalent."
+HIND_URD 116-0,HIND_URD,116-0,Accelerated Hindi-Urdu Literacy,1,"One-quarter course for speakers of Hindi-Urdu with no literacy skills. Devanagari and Nastaliq scripts; broad overview of Hindi-Urdu grammar. 
+Prerequisite: consent of instructor."
+HIND_URD 121-1,HIND_URD,121-1,Hindi-Urdu II,1,"Intermediate-level sequence developing literacy and oral proficiency in Hindi-Urdu. Devanagari and Nastaliq scripts. 
+Prerequisite: grade of at least C- in HIND_URD 111-3 or equivalent."
+HIND_URD 121-2,HIND_URD,121-2,Hindi-Urdu II,1,"Intermediate-level sequence developing literacy and oral proficiency in Hindi-Urdu. Devanagari and Nastaliq scripts. 
+Prerequisite: grade of at least C- in HIND_URD 121-1 or equivalent."
+HIND_URD 121-3,HIND_URD,121-3,Hindi-Urdu II,1,"Intermediate-level sequence developing literacy and oral proficiency in Hindi-Urdu. Devanagari and Nastaliq scripts. 
+Prerequisite: grade of at least C- in HIND_URD 121-2 or equivalent."
+HIND_URD 125-1,HIND_URD,125-1,Accelerated Beginning Hindi,1,"Intensive Hindi language course covers one year of college level Hindi language curriculum in one quarter. 
+Prerequisites: HIND_URD 116-0 OR ability to speak and understand basic Hindi-Urdu AND limited reading-writing skills in the Devanagari/Hindi script (proficiency test/permission of the instructor)."
+HIND_URD 125-2,HIND_URD,125-2,Accelerated Intermediate Hindi,1,"Intensive one quarter long Hindi language course covers an equivalent of the second year of college level Hindi language curriculum. 
+Prerequisites: HIND_URD 125-1 OR placement test (requires permission of instructor)."
+HIND_URD 210-0,HIND_URD,210-0,Hindi-Urdu III: Topics in Intermediate Hindi-Urdu,1,"A series of independent intermediate Hindi-Urdu courses, developing proficiency through readings and discussions. Devanagari and/or Nastaliq script. May be repeated for credit with change of topic. 
+Prerequisite: Grade of at least C- in HIND_URD 121-3 or equivalent."
+HIND_URD 310-0,HIND_URD,310-0,Hindi-Urdu IV,1,"Standalone course focused on literature and culture. Emphasis on reading, writing about, and discussing literary culture. May be repeated for credit with change of topic. 
+Prerequisite: 3 iterations of HIND_URD 210-0 (minimum grade C-) or equivalent."
+HIND_URD 320-0,HIND_URD,320-0,Topics Hindi-Urdu Literature,1,"HIND_URD 320-0 Topics Hindi-Urdu Literature (1 Unit) 
+Prerequisites: 2 300-level courses in Hindi-Urdu or equivalent. Proficiency in reading Hindi or Urdu script is required.
+Advanced Expression Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+HIND_URD 399-0,HIND_URD,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Hindi Urdu. 
+Prerequisite: consent of department."

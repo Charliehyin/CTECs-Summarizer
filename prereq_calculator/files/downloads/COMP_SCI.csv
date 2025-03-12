@@ -1,0 +1,137 @@
+code,category,number,title,units,desc
+COMP_SCI 101-0,COMP_SCI,101-0,"Computer Science: Concepts, Philosophy, and Connections",1,"General introduction to historical and current intellectual questions in computer science. Theory, systems, artificial intelligence, interfaces, software development, and interactions with business, politics, law, medicine, engineering, and other sciences. Social Behavioral Sciences Distro Area"
+COMP_SCI 110-0,COMP_SCI,110-0,Introduction to Computer Programming,1,"Introduction to programming practice using a modern programming language. Analysis and formulation of problems for computer solution. Systematic design, construction, and testing of programs. Substantial programming assignments. Not to be taken for credit with or after COMP_SCI 111-0. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+COMP_SCI 111-0,COMP_SCI,111-0,Fundamentals of Computer Programming,1,"Fundamental concepts of computer programming with heavy emphasis on design of recursive algorithms and test-driven development. Functional, imperative, and object-oriented programming paradigms. Procedural abstraction, data abstraction, and modularity. Required for the computer science degree. Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+COMP_SCI 130-0,COMP_SCI,130-0,Tools and Technology of the World-Wide Web,1,"Introduction to the theory and practice of developing sites on and technology for the web. Basics of HTML, JavaScript, ASP, and CGI programming."
+COMP_SCI 150-0,COMP_SCI,150-0,Fundamentals of Computer Programming 1.5,1,"An introduction to Object-oriented programming: focus on Python but including a brief introduction to a statically typed language (e.g. C++). Students will use some approaches from Artificial Intelligence and Machine Learning to complete programming assignments. Required for the computer science degree. 
+Prerequisite: COMP_SCI 110-0 or COMP_SCI 111-0 or GEN_ENG 205-1 or GEN_ENG 206-1.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+COMP_SCI 211-0,COMP_SCI,211-0,Fundamentals of Computer Programming II,1,"CS 211 teaches foundational software design skills at a small-to-medium scale. We aim to provide a bridge from the student-oriented How to Design Programs languages to real, industry-standard languages and tools. In the first half of the course, you’ll learn the basics of imperative programming and manual memory management using the C programming language. In the second half of the course, we’ll transition to C++, which provides abstraction mechanisms such as classes and templates that we use to express our design ideas. Topics include expressions, statements, types, functions, branches and iteration, user-defined types, data hiding, basic UNIX shell usage, and testing. 
+Prerequisite: COMP_SCI 111-0 and COMP_SCI 150-0."
+COMP_SCI 212-0,COMP_SCI,212-0,Math Foundations of CS Part 1: Discrete Math for CS,1,"Basic concepts of finite and structural mathematics. Sets, axiomatic systems, the propositional and predicate calculi, and graph theory. Application to computer science: sequential machines, formal grammars, and software design. Syllabus - https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/212.html . 
+Prerequisite: CS 110 or CS 111."
+COMP_SCI 213-0,COMP_SCI,213-0,Introduction to Computer Systems,1,"The hierarchy of abstractions and implementations that make up a modern computer system; demystifying the machine and the tools used to program it; systems programming in C in the UNIX environment. Preparation for upper-level systems courses. 
+Prerequisite: COMP_SCI 211-0."
+COMP_SCI 214-0,COMP_SCI,214-0,Data Structures & Algorithms,1,"Design, implementation, and performance analysis of abstract data types; data structures and their algorithms. Topics include fundamental collection classes, tree and graph representations and walks, search trees, sorting, priority queues and heaps, least-cost paths computations, and disjoint-set structures. Required for the computer science degree. 
+Prerequisite: COMP_SCI 111 and (COMP_SCI 150 or COMP_SCI 211)."
+COMP_SCI 217-0,COMP_SCI,217-0,Data Management & Information Processing,1,"This class offers a hands-on introduction to data representation, data modelling, and the SQL language for accessing and analyzing data in relational databases. Students access and analyze data in real-world large-scale databases from the public domain. Not for computer science or computer engineering degree candidates. 
+Prerequisite: COMP_SCI 110-0 or COMP_SCI 111-0 or COMP_SCI 150-0 or COMP_SCI 211-0 or consent of instructor."
+COMP_SCI 260-0,COMP_SCI,260-0,Introduction to Law and Digital Technologies,1,"Course summary: This course explores the legal implications of the contemporary technology landscape, including the growth of artificial intelligence, the ecosystem for creating and disseminating digital information, and the challenges of ensuring digital privacy and algorithm equity. The course aims to help students develop a broad, contextualized view of the legal and policy opportunities and challenges associated with rapid technological change. A key goal of the course is for students to acquire the skills to understand, contribute to, and shape the dialog on complex issues at the intersection of technology and law. 
+Prerequisites: N/A.
+Ethical and Evaluative Thinking Foundational Disci Ethics Values Distro Area"
+COMP_SCI 262-0,COMP_SCI,262-0,Mathematical Foundations of Computer Science - Part 2,1,"Mathematical Foundations of Computer Science (MFCS) sequence covers mathematical topics of probability, linear algebra, multivariable calculus and basic optimization that are crucial for many areas of modern computer science, including data science and machine learning. Unlike Part I of the MFCS sequence (CS212), this course will focus more on the above areas of continuous mathematics that are useful in computer science. 
+Prerequisite: COMP_SCI 212-0 or equivalent (Math 300-0)."
+COMP_SCI 295-0,COMP_SCI,295-0,Special Topics in Computer Science,1,Topics suggested by students or faculty and approved by the department.
+COMP_SCI 296-0,COMP_SCI,296-0,Intermediate Topics in Computer Science,1,Topics suggested by faculty and approved by the department. Intended to apply toward advanced elective for the computer science major.
+COMP_SCI 298-0,COMP_SCI,298-0,CS Research Track Program,1,Topics suggested by faculty and approved by the department. Equivalent to CS 396 but intended to apply toward advanced elective for the computer science major.
+COMP_SCI 301-0,COMP_SCI,301-0,Introduction to Robotics Laboratory,1,"Lab-based introduction to robotics, focusing on hardware (sensors/ actuators) and software (sensor processing/behavior development); motion control and planning; artificial intelligence; machine learning. Not open to graduate students except by consent of instructor. 
+Prerequisites: COMP_SCI 110 or COMP_SCI 111 or COMP_SCI 150 or MECH_ENG 224, or permission of instructor."
+COMP_SCI 303-0,COMP_SCI,303-0,Full Stack Software Engineering,1,"COMP_SCI 303-0 Full Stack Software Engineering (1 Unit) 
+Prerequisite: Students must have completed COMP_SCI 213-0 and 214-0 to enroll. CS MS and PhD students must receive instructor consent."
+COMP_SCI 307-0,COMP_SCI,307-0,Introduction to Cryptography,1,"COMP_SCI 307-0 Introduction to Cryptography (1 Unit) 
+Prerequisite: COMP_SCI 212 or Instructor Consent."
+COMP_SCI 308-0,COMP_SCI,308-0,Foundations of Security,1,COMP_SCI 308-0 Foundations of Security (1 Unit)  
+COMP_SCI 310-0,COMP_SCI,310-0,Scalable Software Architectures,1,"COMP_SCI 310-0 Scalable Software Architectures (1 Unit) 
+Prerequisites: CS 213 and 214 or CS MS or CS PhDs or Instructor permission."
+COMP_SCI 311-0,COMP_SCI,311-0,Inclusive Making,1,"COMP_SCI 311-0 Inclusive Making (1 Unit) 
+Prerequisites: COMP_SCI 110 or COMP_SCI 111 or COMP_SCI MS or COMP_SCI PhDs or Instructor consent."
+COMP_SCI 312-0,COMP_SCI,312-0,Data Privacy,1,"COMP_SCI 312-0 Data Privacy (1 Unit) 
+Prerequisites: COMP_SCI 211 and COMP_SCI 212 and COMP_SCI 214 or COMP_SCI MS or COMP_SCI PhDs or Instructor permission - (Programming experience and familiarity with basics of discrete math and statistics/probability)."
+COMP_SCI 313-0,COMP_SCI,313-0,Tangible Interaction Design and Learning,1,"The use of tangible interaction to create innovative learning experiences, including distributed cognition, embodied interaction, cultural forms, and design frameworks. 
+Prerequisites: COMP_SCI 110-0 or COMP_SCI 111-0."
+COMP_SCI 314-0,COMP_SCI,314-0,Technology and Human Interaction,1,COMP_SCI 314-0 Technology and Human Interaction (1 Unit)  
+COMP_SCI 315-0,COMP_SCI,315-0,"Design, Technology, and Research",1,"COMP_SCI 315-0 Design, Technology, and Research (1 Unit) 
+Prerequisite: consent of instructor (by application only)."
+COMP_SCI 320-0,COMP_SCI,320-0,Proving Properties of Programs with Mechanized Logic,1,"COMP_SCI 320-0 Proving Properties of Programs with Mechanized Logic (1 Unit) 
+Prerequisite: Students must have completed COMP_SCI 212 and 321, be a MS CS Student and have completed 321, or be a CS PhD student to enroll."
+COMP_SCI 321-0,COMP_SCI,321-0,Programming Languages,1,"COMP_SCI 321-0 Programming Languages (1 Unit) 
+Prerequisites: COMP_SCI 111 and, COMP_SCI 211, and COMP_SCI 214 or COMP_SCI MS or COMP_SCI PhDs or Instructor permissiong."
+COMP_SCI 322-0,COMP_SCI,322-0,Compiler Construction,1,"COMP_SCI 322-0 Compiler Construction (1 Unit) 
+Prerequisite: COMP_SCI 213-0 and COM_SCI 214-0 or consent of instructor."
+COMP_SCI 323-0,COMP_SCI,323-0,Code Analysis and Transformation,1,"COMP_SCI 323-0 Code Analysis and Transformation (1 Unit) 
+Prerequisites: COMP_SCI 213-0 and COM_SCI 214-0 or consent of instructor."
+COMP_SCI 324-0,COMP_SCI,324-0,Dynamics of Programming Languages,1,"COMP_SCI 324-0 Dynamics of Programming Languages (1 Unit) 
+Prerequisite: CS 321 or CS PhD or Permission Instructor."
+COMP_SCI 325-0,COMP_SCI,325-0,Artificial Intelligence Programming,1,"COMP_SCI 325-0 Artificial Intelligence Programming (1 Unit) 
+Prerequisite: COMP_SCI 110-0, COMP_SCI 111-0, or programming experience."
+COMP_SCI 326-0,COMP_SCI,326-0,Introduction to the Data Science Pipeline,1,"COMP_SCI 326-0 Introduction to the Data Science Pipeline (1 Unit) 
+Prerequisites: CS 212 and CS 214 or COMP_SCI MS or COMP_SCI PhDs or Instructor consent."
+COMP_SCI 327-0,COMP_SCI,327-0,Generative Methods,1,"COMP_SCI 327-0 Generative Methods (1 Unit) 
+Prerequisites: CS 111 and 150 or Instructor consent."
+COMP_SCI 329-0,COMP_SCI,329-0,HCI Studio,1,"COMP_SCI 329-0 HCI Studio (1 Unit) 
+Prerequisite: CS 214 and has not completed CS 330 or Graduate Standing and has not completed CS 330."
+COMP_SCI 330-0,COMP_SCI,330-0,Human Computer Interaction,1,"COMP_SCI 330-0 Human Computer Interaction (1 Unit) 
+Prerequisite: CS 214 and has not completed CS329 or Graduate Standing and has not completed CS 329."
+COMP_SCI 331-0,COMP_SCI,331-0,Introduction to Computational Photography,1,"COMP_SCI 331-0 Introduction to Computational Photography (1 Unit) 
+Prerequisite: COMP_SCI 150 or COMP_SCI 211 or Consent of Instructor."
+COMP_SCI 332-0,COMP_SCI,332-0,Online Markets,1,"COMP_SCI 332-0 Online Markets (1 Unit) 
+Prerequisites: CS 212 (Discrete Math) and CS 214 (Data Structures) or CS 336 (Algorithms) or ECON 380-1 (Game Theory)."
+COMP_SCI 333-0,COMP_SCI,333-0,Interactive Information Visualization,1,"COMP_SCI 333-0 Interactive Information Visualization (1 Unit) 
+Prerequisites: COMP_SCI 214-0 or consent of instructor."
+COMP_SCI 334-0,COMP_SCI,334-0,Introduction to Computational Linguistics,1,"COMP_SCI 334-0 Introduction to Computational Linguistics (1 Unit) 
+Prerequisite: COMP_SCI 110 or COMP_SCI 111 or be a graduate COMP_SCI student or have permission of Instructor."
+COMP_SCI 335-0,COMP_SCI,335-0,Introduction to the Theory of Computation,1,"COMP_SCI 335-0 Introduction to the Theory of Computation (1 Unit) 
+Prerequisite: COMP_SCI 212-0 or consent of instructor."
+COMP_SCI 336-0,COMP_SCI,336-0,Design & Analysis of Algorithms,1,"COMP_SCI 336-0 Design & Analysis of Algorithms (1 Unit) 
+Prerequisite: COMP_SCI 111-0, COMP_SCI 212-0, or CS Graduate Standing or consent of instructor."
+COMP_SCI 337-0,COMP_SCI,337-0,Natural Language Processing: Classical Approaches,1,"COMP_SCI 337-0 Natural Language Processing: Classical Approaches (1 Unit) 
+Prerequisite: COMP_SCI 348-0 or consent of instructor."
+COMP_SCI 338-0,COMP_SCI,338-0,Practicum in Intelligent Information Systems,1,COMP_SCI 338-0 Practicum in Intelligent Information Systems (1 Unit)  
+COMP_SCI 339-0,COMP_SCI,339-0,Introduction to Database Systems,1,"COMP_SCI 339-0 Introduction to Database Systems (1 Unit) 
+Prerequisites: COMP_SCI 214-0 and (COMP_SCI 213-0 or COMP_ENG 205-0) or CS Graduate Standing."
+COMP_SCI 340-0,COMP_SCI,340-0,Introduction to Networking,1,"COMP_SCI 340-0 Introduction to Networking (1 Unit) 
+Prerequisites: COMP_SCI 214-0 and (COMP_SCI 213-0 or COMP_ENG 205-0)."
+COMP_SCI 341-0,COMP_SCI,341-0,Social Networks Analysis,1,COMP_SCI 341-0 Social Networks Analysis (1 Unit)  
+COMP_SCI 341-SA,COMP_SCI,341-SA,Social Networks Analysis,1,"The use of social network analysis to understand the growing connectivity and complexity in the world around us on different scales, ranging from small groups to the World ‘Wide Web. How we create social, economic, and technological networks, and how they enable and constrain attitudes and behaviors.  Restricted to students participation in Northwestern study abroad programs."
+COMP_SCI 343-0,COMP_SCI,343-0,Operating Systems,1,"COMP_SCI 343-0 Operating Systems (1 Unit) 
+Prerequisites: COMP_SCI 214-0 and COMP_SCI 213-0, or COMP_SCI 214-0 and COMP_ENG 205-0."
+COMP_SCI 344-0,COMP_SCI,344-0,Design of Computer Problem Solvers,1,"COMP_SCI 344-0 Design of Computer Problem Solvers (1 Unit) 
+Prerequisites: COMP_SCI 348-0 and COMP_SCI 325-1 or equivalent LISP experience."
+COMP_SCI 345-0,COMP_SCI,345-0,Distributed Systems,1,"COMP_SCI 345-0 Distributed Systems (1 Unit) 
+Prerequisites: COMP_SCI 213-0 and COMP_SCI 214-0."
+COMP_SCI 346-0,COMP_SCI,346-0,Microcontroller System Design,1,"COMP_SCI 346-0 Microcontroller System Design (1 Unit) 
+Prerequisites: COMP_SCI 211 and (COMP_SCI 213 or COMP_ENG 205)."
+COMP_SCI 347-0,COMP_SCI,347-0,Conversational AI,1,"Principles and practices of creating AI systems which interact with people through conversations. This includes knowledge-rich natural language understanding, multimodal interactions (i.e. speech and sketching), principles of dialogue drawn from cognitive science, question-answering, and architectures for building conversational AI systems. Involves substantial programming and project work. Class sessions include both lectures and studio instruction. 
+Prerequisites: COMP_SCI 371 or permission of instructor."
+COMP_SCI 348-0,COMP_SCI,348-0,Introduction to Artificial Intelligence,1,"COMP_SCI 348-0 Introduction to Artificial Intelligence (1 Unit) 
+Prerequisites: COMP_SCI 111 and COMP_SCI 214 or COMP_SCI 111 and CogSci major or COMP_SCI MS or COMP_SCI PhDs or Instructor permission."
+COMP_SCI 349-0,COMP_SCI,349-0,Machine Learning,1,"COMP_SCI 349-0 Machine Learning (1 Unit) 
+Prerequisites: COMP_SCI grad standing OR (COMP_SCI 214 and (MATH 240-0 or GEN_ENG 205-1 or GEN_ENG 206-1) and (IEMS 201-0 or IEMS 303-0 or ELEC_ENG 302-0 or STAT 210-0 or MATH 310-1)."
+COMP_SCI 350-0,COMP_SCI,350-0,Introduction to Computer Security,1,"COMP_SCI 350-0 Introduction to Computer Security (1 Unit) 
+Prerequisite: COMP_SCI 213-0 or equivalent or consent of instructor; COMP_SCI 340-0 highly recommended."
+COMP_SCI 351-1,COMP_SCI,351-1,Introduction to Computer Graphics,1,"COMP_SCI 351-1 Introduction to Computer Graphics (1 Unit) 
+Prerequisite: COMP_SCI 214-0 or Graduate standing."
+COMP_SCI 351-2,COMP_SCI,351-2,Intermediate Computer Graphics,1,"COMP_SCI 351-2 Intermediate Computer Graphics (1 Unit) 
+Prerequisites: COMP_SCI 214-0 and COMP_SCI 351-1 or Graduate standing."
+COMP_SCI 352-0,COMP_SCI,352-0,Machine Perception of Music & Audio,1,"COMP_SCI 352-0 Machine Perception of Music & Audio (1 Unit) 
+Prerequisite: COMP_SCI 211-0 and COMP_SCI 214-0."
+COMP_SCI 353-0,COMP_SCI,353-0,Natural & Artificial Vision,1,COMP_SCI 353-0 Natural & Artificial Vision (1 Unit)  
+COMP_SCI 354-0,COMP_SCI,354-0,Computer System Security,1,"COMP_SCI 354-0 Computer System Security (1 Unit) 
+Prerequisite: COMP_SCI 211-0 and COMP_SCI 213-0 or COMP_SCI 211-0 and COMP_ENG 205-0."
+COMP_SCI 355-0,COMP_SCI,355-0,Digital Forensics and Incident Response,1,"COMP_SCI 355-0 Digital Forensics and Incident Response (1 Unit) 
+Prerequisites: COMP_SCI 213-0 and COMP_SCI 354-0 or COMP_SCI 213-0 and COMP_SCI 343-0."
+COMP_SCI 362-0,COMP_SCI,362-0,Foundations of Quantum Computing and Quantum Information,1,COMP_SCI 362-0 Foundations of Quantum Computing and Quantum Information (1 Unit)  
+COMP_SCI 367-0,COMP_SCI,367-0,Wireless and Mobile Health: Passive Sensing Data Analytics,1,COMP_SCI 367-0 Wireless and Mobile Health: Passive Sensing Data Analytics (1 Unit)  
+COMP_SCI 368-0,COMP_SCI,368-0,Programming Massively Parallel Processors with CUDA,1,"COMP_SCI 368-0 Programming Massively Parallel Processors with CUDA (1 Unit) 
+Prerequisites: COMP_SCI 213 and (COMP_SCI 211 or COMP_SCI 230) or consent of instructor."
+COMP_SCI 370-0,COMP_SCI,370-0,Computer Game Design,1,"COMP_SCI 370-0 Computer Game Design (1 Unit) 
+Prerequisites: COMP_SCI 214-0; 1 unit of COMP_SCI 322-0, COMP_SCI 343-0, COMP_SCI 348-0, or COMP_SCI 351-1, COMP_SCI 351-2."
+COMP_SCI 371-0,COMP_SCI,371-0,Knowledge Representation and Reasoning,1,"COMP_SCI 371-0 Knowledge Representation and Reasoning (1 Unit) 
+Prerequisites: COMP_SCI 348-0 or COMP_SCI 325, or equivalent experience with artificial intelligence."
+COMP_SCI 372-0,COMP_SCI,372-0,Designing and Constructing Models with Multi-Agent Languages,1,"This course will begin with an introduction to the multi-agent language NetLogo. Students will design and implement several NetLogo models and analyze their behavioral regimes. Students will also learn to build models of interaction on social networks (or other types of networks). We will cover methodology for verifying, validating and replicating agent-based models and comparisons with systems dynamics and equation-based models. NetLogo comes with many extensions that support a variety of additional features. Students can use these extensions to create specialized models, such as complex networks, real-time data extraction, data mining, connections to physical devices, etc.. Students will also have an opportunity to explore existing and create their own participatory simulations using the HubNet architecture as well as exploring connecting real world sensors and motors to models. Students can also explore multi-level agent-based modeling in which hundreds or thousands of models are connected with NetLogo’s LevelSpace extension. 
+Prerequisite: Senior Comp_sci or Senior Comp_Eng or Consent of instructor."
+COMP_SCI 374-0,COMP_SCI,374-0,Causal Graphical Models,1,COMP_SCI 374-0 Causal Graphical Models (1 Unit)  
+COMP_SCI 376-0,COMP_SCI,376-0,Computer Game Design and Development,1,"COMP_SCI 376-0 Computer Game Design and Development (1 Unit) 
+Prerequisite: COMP_SCI 214-0."
+COMP_SCI 377-0,COMP_SCI,377-0,Game Design Studio,1,"COMP_SCI 377-0 Game Design Studio (1 Unit) 
+Prerequisite: COMP_SCI 214 and COMP_SCI 376-0."
+COMP_SCI 388-0,COMP_SCI,388-0,Software Engineering Beyond Programming,1,COMP_SCI 388-0 Software Engineering Beyond Programming (1 Unit) Registration is By Application Only
+COMP_SCI 392-0,COMP_SCI,392-0,Rapid Prototyping for Software Innovation,1,"COMP_SCI 392-0 Rapid Prototyping for Software Innovation (1 Unit) 
+Prerequisites: CS junior, senior, or graduate OR permission of the instructor. Familiarity with JavaScript and HTML is presumed."
+COMP_SCI 393-0,COMP_SCI,393-0,Software Construction,1,"COMP_SCI 393-0 Software Construction (1 Unit) 
+Prerequisites: COMP_SCI 211-0 and COMP_SCI 214-0."
+COMP_SCI 394-0,COMP_SCI,394-0,Agile Software Development,1,"COMP_SCI 394-0 Agile Software Development (1 Unit) 
+Prerequisites: Consent of instructor."
+COMP_SCI 396-0,COMP_SCI,396-0,Special Topics in Computer Science,1,COMP_SCI 396-0 Special Topics in Computer Science (1 Unit)  
+COMP_SCI 397-0,COMP_SCI,397-0,Special Projects in Computer Science,1,COMP_SCI 397-0 Special Projects in Computer Science (1 Unit)  
+COMP_SCI 399-0,COMP_SCI,399-0,Projects,1,Seminar and projects for advanced undergraduates on subjects of current interest in electrical and computer engineering.

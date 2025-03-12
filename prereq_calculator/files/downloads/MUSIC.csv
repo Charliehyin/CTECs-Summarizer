@@ -1,0 +1,48 @@
+code,category,number,title,units,desc
+MUSIC 111-1,MUSIC,111-1,Music Theory  I,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials."
+MUSIC 111-2,MUSIC,111-2,Music Theory II,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials. 
+Prerequisite: MUSIC 111-1."
+MUSIC 111-3,MUSIC,111-3,Music Theory III,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials. 
+Prerequisite: MUSIC 111-2."
+MUSIC 126-1,MUSIC,126-1,Aural Skills I,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 126-2,MUSIC,126-2,Aural Skills II,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 126-3,MUSIC,126-3,Aural Skills III,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 127-1,MUSIC,127-1,Keyboard Skills 1,0.5,"This is the first quarter of a year-long sequence. This track is for beginning piano students. Topics include repertoire, a healthful approach to piano technique, scales, keyboard harmony, ensemble, sight reading, and creative work."
+MUSIC 127-2,MUSIC,127-2,Keyboard Skills 2,0.5,Class instruction in keyboard skills.
+MUSIC 127-3,MUSIC,127-3,Keyboard Skills 3,0.5,Class instruction in keyboard skills.
+MUSIC 128-1,MUSIC,128-1,Keyboard Skills 1+,0.5,"This is the first quarter of a year-long sequence. This track is for students with a little piano background, typically 1-2 years of previous study. Topics include repertoire, technique, scales, and keyboard harmony. Ensemble, sight reading, and creative work are covered as well."
+MUSIC 128-2,MUSIC,128-2,Keyboard Skills 2+,0.5,Class instruction in keyboard skills.
+MUSIC 128-3,MUSIC,128-3,Keyboard Skills 3+,0.5,Keyboard Skills 3+.
+MUSIC 129-1,MUSIC,129-1,Keyboard Skills 1-2-3,0.5,"This course is for students with piano background. Topics include sight reading, keyboard theory, harmonizing melodies, solo repertoire, and ensemble."
+MUSIC 129-2,MUSIC,129-2,Keyboard Skills 4-5-6,0.5,Class instruction in keyboard skills.
+MUSIC 130-1,MUSIC,130-1,Keyboard Skills for Piano Majors,0.5,"This is the first quarter of a year-long sequence. Topics include vocal and string quartet score reading, keyboard theory, sight reading including 18th century examples, with corresponding harmonic language, rhythmic, and idiomatic patterns. Other topics include harmonizing melodies, creative work, and ensemble."
+MUSIC 130-2,MUSIC,130-2,Keyboard Skills for Piano Majors,0.5,Class instruction in keyboard skills.
+MUSIC 130-3,MUSIC,130-3,Keyboard Skills for Piano Majors,0.5,Class instruction in keyboard skills.
+MUSIC 211-1,MUSIC,211-1,Music Theory IV,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials. 
+Prerequisite: MUSIC 111-3 or consent of instructor."
+MUSIC 211-2,MUSIC,211-2,Music Theory V,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials. 
+Prerequisite: MUSIC 211-1."
+MUSIC 211-3,MUSIC,211-3,Music Theory VI,0.5,"Music as sound in time. Analytical studies in forms, media, textures, and harmonic and melodic materials. 
+Prerequisite: MUSIC 211-2."
+MUSIC 214-0,MUSIC,214-0,The Classical Canon,1,"This course explores the idea of ""classical music,"" a canon of works united not by scoring, age, nationality, or style, but rather by the perception of timeless value. What musical and social factors influenced inclusion or exclusion? This course seeks to both introduce a variety of extremely famous ""classical"" works and to interrogate the processes that made them famous."
+MUSIC 215-0,MUSIC,215-0,Performers and Performance,1,"This course focuses on what it means or meant to be a musician in different places and times. Students will gain introductory literacy in diverse modes of musical performance and learn to conceive of music history through the lens of performance rather than through composers and works, including reflection on how to locate themselves within a complex global music scene."
+MUSIC 216-0,MUSIC,216-0,Music in the Present,1,"This course explores contemporary musical practices through their circulation, reception, and mediation. Examples are drawn from Western art, popular, and global musical genres though we will explore how all these musics share-at least in part-a similar mode of distribution in the early twenty-first century. Emphasis is placed on technology, listening practices, aesthetics, and contemporary musical institutions."
+MUSIC 226-1,MUSIC,226-1,Aural Skills IV,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 226-2,MUSIC,226-2,Aural Skills V,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 226-3,MUSIC,226-3,Aural Skills VI,0.5,"Sight-singing and ear-training; drill in recognition of melodic, rhythmic, and harmonic patterns and aural analysis through listening and dictation. Progresses through six levels of proficiency."
+MUSIC 227-1,MUSIC,227-1,Keyboard Skills 4,0.5,"This is the first quarter of a second, year-long sequence required but not limited to Music Ed majors. Students who were placed in both Level 1 and the Level 1+ tracks will take this course. Topics include repertoire, technique, harmonizing melodies, sight reading, score reading, ensemble and creative work."
+MUSIC 227-2,MUSIC,227-2,Keyboard Skills 5,0.5,Class instruction in keyboard skills.
+MUSIC 227-3,MUSIC,227-3,Keyboard Skills 6,0.5,Class instruction in keyboard skills.
+MUSIC 298-0,MUSIC,298-0,Student Organized Seminar,0.5,
+MUSIC 310-0,MUSIC,310-0,Biological Foundations of Speech and Music,1,"Anatomy and physiology of the central auditory pathway, experience-related neural plasticity, right/left brain specialization, audiovisual integration, auditory learning and perception, and neural encoding of speech and music."
+MUSIC 320-0,MUSIC,320-0,Listening in the Age of the Algorithm,1,MUSIC 320-0 Listening in the Age of the Algorithm (1 Unit)  
+MUSIC 327-1,MUSIC,327-1,Keyboard Skills 7,0.5,"This is the first quarter of a year-long sequence required but not restricted to Choral Music Ed majors. Topics include vocal scores, sight reading, solo piano repertoire, and technique."
+MUSIC 327-2,MUSIC,327-2,Keyboard Skills 8,0.5,Class instruction in keyboard skills.
+MUSIC 327-3,MUSIC,327-3,Keyboard Skills 9,0.5,Class instruction in keyboard skills.
+MUSIC 330-0,MUSIC,330-0,"Materials, Performance, Practice & Pedagogy",0.5,
+MUSIC 335-0,MUSIC,335-0,Selected Topics,1,Topics vary; announced before registration. May be repeated.
+MUSIC 350-0,MUSIC,350-0,Alexander Technique,0.5,Methods of using the body efficiently to reduce unnecessary tension and stress in instrumental and vocal performance.
+MUSIC 360-0,MUSIC,360-0,Career Innovation in Music and the Performing Arts,1,"Models of performing arts careers; innovative approaches to existing career paths. Case studies, guest speakers. Topics include fee and contract negotiation, artist and booking management, fundraising and grant writing, marketing and public relations, social media, and organizational and business structures. Open to music majors only."
+MUSIC 397-0,MUSIC,397-0,Summer Internship,0,Field experience as an intern.
+MUSIC 398-0,MUSIC,398-0,Internship,0.5-4 Units,Field experience as an intern. Requirements include journal and final paper.
+MUSIC 399-0,MUSIC,399-0,Independent Study,0.5-1,

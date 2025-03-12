@@ -1,0 +1,36 @@
+code,category,number,title,units,desc
+GEN_MUS 101-6,GEN_MUS,101-6,First-Year Seminar,1,WCAS First-Year Seminar
+GEN_MUS 110-0,GEN_MUS,110-0,Class Piano (Beginner and Intermediate Levels),0,Group instruction in piano for non-music majors.
+GEN_MUS 115-0,GEN_MUS,115-0,Applied Piano (Advanced),0.5,Private lessons for non-majors; audition required.
+GEN_MUS 116-0,GEN_MUS,116-0,Applied Piano (Advanced),0,Private lessons for non-majors; audition required.
+GEN_MUS 120-0,GEN_MUS,120-0,Non-Major Strings,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 121-0,GEN_MUS,121-0,Non-Major Guitar Class-Beginning,0.5,Class instruction in classical guitar.
+GEN_MUS 125-0,GEN_MUS,125-0,Non-Major Winds/Percussion,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 130-0,GEN_MUS,130-0,Non-Major Jazz,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 160-0,GEN_MUS,160-0,Non-Major Private Voice-Beginning,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 170-0,GEN_MUS,170-0,Introduction to Music,1,Key concepts and contexts for becoming an informed listener and critical thinker with respect to a broad range of musical styles and genres and for acquiring the skills and vocabulary to discuss and write about music effectively. Individual sections may vary from quarter to quarter; see specific section descriptions for more information. No previous musical training or ability to read music notation is required. (VI. Literature and fine arts) Literature Fine Arts Distro Area Literature and Arts Foundational Discipline
+GEN_MUS 175-0,GEN_MUS,175-0,Selected Topics in Music Literature for Non-Majors,1,Topics vary; announced before registration. May be repeated. (VI. Literature and fine arts) Literature Fine Arts Distro Area Literature and Arts Foundational Discipline
+GEN_MUS 176-0,GEN_MUS,176-0,Selected Topics in Applied Music for Non-Majors,1,Topics vary; announced before registration. May be repeated.
+GEN_MUS 220-0,GEN_MUS,220-0,History of the Symphony,1,Study of music for the symphony orchestra from the 17th century to the modern period. (VI. Literature and fine arts) Literature Fine Arts Distro Area
+GEN_MUS 230-0,GEN_MUS,230-0,History of Opera,1,History of opera from its origins in Italy at the end of the 16th century to the modern period. (VI. Literature and fine arts) Literature Fine Arts Distro Area Literature and Arts Foundational Discipline
+GEN_MUS 250-0,GEN_MUS,250-0,History of Rock,1,"The basic elements of rock from its roots in pop, country and western, and rhythm and blues to the present. (VI. Literature and fine arts) Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+GEN_MUS 252-0,GEN_MUS,252-0,Introduction to Music Theory I,1,"A basic course in music theory fundamentals, including harmonic materials and tonal structures. Analysis of harmonic structures; harmonization of melodies. (II. Formal studies) Formal Studies Distro Area"
+GEN_MUS 253-0,GEN_MUS,253-0,Introduction to Music Theory II,1,"For non-majors. Study of musical forms – such as binary form, invention, fugue, theme & variation, sonata, etc. – and their application to works primarily from the 18th and 19th centuries by composers including Bach, Mozart, and Schubert, among many others. 
+Prerequisite: GEN_MUS 252-0, or music-reading skills and some understanding of harmony.
+Formal Studies Distro Area"
+GEN_MUS 260-0,GEN_MUS,260-0,Non-Major Private Voice-Intermediate,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 270-1,GEN_MUS,270-1,Western Musical Tradition,1,"Major genres and composers from 1600 to 1825. Primary emphasis on the generations of Bach and Handel, Haydn and Mozart, Beethoven and Schubert. 
+Prerequisite: GEN_MUS 170-0 or equivalent. (VI. Literature and fine arts).
+Literature Fine Arts Distro Area"
+GEN_MUS 270-2,GEN_MUS,270-2,Western Musical Tradition,1,"Major genres and composers from 1825 to the present. 
+Prerequisite: GEN_MUS 170-0 or equivalent. (VI. Literature and fine arts).
+Literature Fine Arts Distro Area"
+GEN_MUS 315-0,GEN_MUS,315-0,Non-Major Piano,0.5,"Piano lessons for non-major students. Fees apply, please contact the Bienen School of Music for more information."
+GEN_MUS 335-0,GEN_MUS,335-0,Selected Topics for Non-Majors,1,Topics vary; announced before registration. May be repeated.
+GEN_MUS 360-0,GEN_MUS,360-0,Non-Major Private Voice-Advanced,0-0.5,Private lessons for non-majors; audition required.
+GEN_MUS 364-0,GEN_MUS,364-0,Choral Organizations,0,"Non-music majors interested in auditioning for Bienen School ensembles should contact the ensemble director for audition information. Register under GEN MUS for 0 unit, or under CONDUCT for 0.5 unit."
+GEN_MUS 374-0,GEN_MUS,374-0,Band Organizations,0,"Non-music majors interested in auditioning for Bienen School ensembles should contact the ensemble director for audition information. Register under GEN MUS for 0 unit, or under CONDUCT for 0.5 unit."
+GEN_MUS 378-0,GEN_MUS,378-0,Contemporary Music Ensemble,0,"Non-music majors interested in auditioning for Bienen School ensembles should contact the ensemble director for audition information. Register under GEN MUS for 0 unit, or under CONDUCT for 0.5 unit."
+GEN_MUS 391-0,GEN_MUS,391-0,Small Ensembles,0,Small ensembles.
+GEN_MUS 393-0,GEN_MUS,393-0,Orchestral Organizations,0,"Non-music majors interested in auditioning for Bienen School ensembles should contact the ensemble director for audition information. Register under GEN MUS for 0 unit, or under CONDUCT for 0.5 unit."
+GEN_MUS 395-0,GEN_MUS,395-0,Baroque Music Ensemble,0,"Non-music majors interested in auditioning for Bienen School ensembles should contact the ensemble director for audition information. Register under GEN MUS for 0 unit, or under CONDUCT for 0.5 unit."

@@ -1,0 +1,47 @@
+code,category,number,title,units,desc
+STRINGS 141-0,STRINGS,141-0,Applied Violin for Music Majors,1,
+STRINGS 142-0,STRINGS,142-0,Applied Viola for Music Majors,1,
+STRINGS 143-0,STRINGS,143-0,Applied Cello for Music Majors,1,
+STRINGS 144-0,STRINGS,144-0,Applied Double Bass for Music Majors,1,
+STRINGS 151-0,STRINGS,151-0,Applied Harp for Music Majors,1,
+STRINGS 171-0,STRINGS,171-0,Applied Guitar for Music Majors,1,
+STRINGS 241-0,STRINGS,241-0,Applied Violin for Music Majors,1,
+STRINGS 242-0,STRINGS,242-0,Applied Viola for Music Majors,1,
+STRINGS 243-0,STRINGS,243-0,Applied Cello for Music Majors,1,
+STRINGS 244-0,STRINGS,244-0,Applied Double Bass for Music Majors,1,
+STRINGS 251-0,STRINGS,251-0,Applied Harp for Music Majors,1,
+STRINGS 271-0,STRINGS,271-0,Applied Guitar for Music Majors,1,
+STRINGS 305-0,STRINGS,305-0,Optional Recital,0,
+STRINGS 311-0,STRINGS,311-0,Suzuki Pedagogy,0.5,"Fundamental principles of Suzuki philosophy and materials, with emphasis on application to violin. Open to all string players."
+STRINGS 315-1,STRINGS,315-1,Violin and Viola Pedagogy I,0.5,Developmental approach to teaching beginning through advanced precollege violin and viola students. Includes apprenticeship teaching and observations. Designed as a one-year sequence. Open to all violinists and violists.
+STRINGS 315-2,STRINGS,315-2,Violin and Viola Pedagogy II,0.5,Developmental approach to teaching beginning through advanced precollege violin and viola students. Includes apprenticeship teaching and observations. Designed as a one-year sequence. Open to all violinists and violists.
+STRINGS 315-3,STRINGS,315-3,Violin and Viola Pedagogy III,0.5,Developmental approach to teaching beginning through advanced precollege violin and viola students. Includes apprenticeship teaching and observations. Designed as a one-year sequence. Open to all violinists and violists.
+STRINGS 316-1,STRINGS,316-1,Cello and Double Bass Pedagogy I,0.5,Developmental approach to teaching beginning through advanced precollege cello and double bass students.
+STRINGS 316-2,STRINGS,316-2,Cello and Double Bass Pedagogy II,0.5,Developmental approach to teaching beginning through advanced precollege cello and double bass students.
+STRINGS 316-3,STRINGS,316-3,Cello and Double Bass Pedagogy III,0.5,Developmental approach to teaching beginning through advanced precollege cello and double bass students.
+STRINGS 318-1,STRINGS,318-1,Harp Technique and Pedagogy I,0.5,Pedagogical instruction and demonstration of teaching techniques for all levels and ages.
+STRINGS 318-2,STRINGS,318-2,Harp Technique and Pedagogy II,0.5,Pedagogical instruction and demonstration of teaching techniques for all levels and ages.
+STRINGS 318-3,STRINGS,318-3,Harp Technique and Pedagogy III,0.5,Pedagogical instruction and demonstration of teaching techniques for all levels and ages.
+STRINGS 319-1,STRINGS,319-1,"Orchestral Repertoire I (Violin,Viola,Cello,Dbl Bass,Harp)",0.5,
+STRINGS 319-2,STRINGS,319-2,"Orchestral Repertoire II (Violin,Viola,Cello,Dbl Bass,Harp)",0.5,
+STRINGS 319-3,STRINGS,319-3,"Orchestral Repertoire III (Violin,Viola,Cello,Dbl Bass,Harp)",0.5,
+STRINGS 335-0,STRINGS,335-0,Selected Topics,0.5-1,Topics vary; announced before registration. May be repeated.
+STRINGS 341-0,STRINGS,341-0,Applied Violin for Music Majors,1,
+STRINGS 342-0,STRINGS,342-0,Applied Viola for Music Majors,1,
+STRINGS 343-0,STRINGS,343-0,Applied Cello for Music Majors,1,
+STRINGS 344-0,STRINGS,344-0,Applied Double Bass for Music Majors,1,
+STRINGS 351-0,STRINGS,351-0,Applied Harp for Music Majors,1,
+STRINGS 370-0,STRINGS,370-0,Junior Recital,0,
+STRINGS 371-0,STRINGS,371-0,Applied Guitar for Music Majors,1,
+STRINGS 374-0,STRINGS,374-0,Guitar Ensemble for Music Majors,0.5,"Performance of the chamber literature for guitar: guitar duos, trios, and quartets; flute and guitar; voice and guitar; chamber works with strings; other instrumental combinations."
+STRINGS 375-1,STRINGS,375-1,Lute and Guitar History and Literature I,0.5,"Analytical and historical survey of the literature for plucked instruments from the 16th through the 20th centuries. The study of tablatures, instrument construction and tuning, performance practice, and style."
+STRINGS 375-2,STRINGS,375-2,Lute and Guitar History and Literature II,0.5,"Analytical and historical survey of the literature for plucked instruments from the 16th through the 20th centuries. The study of tablatures, instrument construction and tuning, performance practice, and style."
+STRINGS 375-3,STRINGS,375-3,Lute and Guitar History and Literature III,0.5,"Analytical and historical survey of the literature for plucked instruments from the 16th through the 20th centuries. The study of tablatures, instrument construction and tuning, performance practice, and style."
+STRINGS 376-1,STRINGS,376-1,Guitar Pedagogy I,0.5,Principles of individual and group study. Survey of development of right-and left-hand technique from 16th-century lute and vihuela tutors through modern classical guitar methods. Interaction between musical texture and technical innovations; influence of fingering on stylistic inflection and ornamentation.
+STRINGS 376-2,STRINGS,376-2,Guitar Pedagogy II,0.5,Principles of individual and group study. Survey of development of right-and left-hand technique from 16th-century lute and vihuela tutors through modern classical guitar methods. Interaction between musical texture and technical innovations; influence of fingering on stylistic inflection and ornamentation.
+STRINGS 376-3,STRINGS,376-3,Guitar Pedagogy III,0.5,Principles of individual and group study. Survey of development of right-and left-hand technique from 16th-century lute and vihuela tutors through modern classical guitar methods. Interaction between musical texture and technical innovations; influence of fingering on stylistic inflection and ornamentation.
+STRINGS 380-0,STRINGS,380-0,Senior Recital,0,
+STRINGS 390-0,STRINGS,390-0,Studio Class,0,
+STRINGS 392-0,STRINGS,392-0,Studio Ensemble for Music Majors,0.5,Small ensembles based on studio instruments.
+STRINGS 393-0,STRINGS,393-0,Repertoire Studies,0.5,Topics vary by quarter.
+STRINGS 399-0,STRINGS,399-0,Independent Study,0.5-1,

@@ -1,0 +1,55 @@
+code,category,number,title,units,desc
+IEMS 201-0,IEMS,201-0,Introduction to Statistics,1,"Collecting data; summarizing and displaying data; drawing conclusions from data; probability background, confidence intervals, hypotheses tests, regression, correlation. Not open to industrial engineering degree candidates. May not receive credit for both IEMS 201-0 and any of BMD_ENG 220-0, IEMS 303-0, or CHEM_ENG 312-0. 
+Prerequisite: MATH 218-2 or MATH 220-2 or equivalent."
+IEMS 225-0,IEMS,225-0,Principles of Entrepreneurship,1,"Introduction to essential elements of building one's own business, from brainstorming ideas and assessing opportunities to pitching a business idea. History of entrepreneurship and the entrepreneurial psyche. Business plan fundamentals, including strategy, finance, accounting, marketing, operations, and choosing the ideal management team. Taught with ENTREP 225-0; may not receive credit for both courses. May not be taken after IEMS 325-0 or ENTREP 325-0."
+IEMS 295-0,IEMS,295-0,Introductory Special Topics in IEMS,0-1,Introductory topics suggested by faculty and approved by the department. Credit dependent on topic and length of course.
+IEMS 302-0,IEMS,302-0,Probability,1,"Introduction to probability theory and its applications. Conditional probabilities and expectation values. Random variables and distributions, including binomial, Poisson, exponential, and normal. Joint distributions and limit laws for foundation of and connection to statistics. Examples in reliability, inventory, finance, and statistics. May not receive credit for both IEMS 202-0 and any of the following: ELEC_ENG 302-0; MATH 310-1, MATH 314-0, MATH 385-0; STAT 320-1, STAT 383-0. 
+Prerequisite: prior completion of or concurrent enrollment in MATH 228-2."
+IEMS 303-0,IEMS,303-0,Statistics,1,"IEMS 303-0 Statistics (1 Unit) 
+Prerequisites: IEMS 302-0 or equivalent; COMP_SCI 150-0 or equivalent."
+IEMS 304-0,IEMS,304-0,Statistical Learning for Data Analysis,1,"IEMS 304-0 Statistical Learning for Data Analysis (1 Unit) 
+Prerequisites: IEMS 303-0 and COMP_SCI 150-0 or equivalents."
+IEMS 307-0,IEMS,307-0,Quality Improvement by Experimental Design,1,"IEMS 307-0 Quality Improvement by Experimental Design (1 Unit) 
+Prerequisite: IEMS 201-0, IEMS 303-0, or equivalent."
+IEMS 308-0,IEMS,308-0,Data Science and Analytics,1,"IEMS 308-0 Data Science and Analytics (1 Unit) 
+Prerequisites: IEMS 304-0; COMP_SCI 217-0."
+IEMS 310-0,IEMS,310-0,Operations Research,1,"IEMS 310-0 Operations Research (1 Unit) 
+Prerequisites: IEMS 201-0 or IEMS 302-0; GEN_ENG 205-1 or GEN_ENG 206-1 or MATH 240-0."
+IEMS 313-0,IEMS,313-0,Foundations of Optimization,1,"IEMS 313-0 Foundations of Optimization (1 Unit) 
+Prerequisites: GEN_ENG 205-1 or GEN_ENG 206-1; MATH 228-1; COMP_SCI 110-0 or COMP_SCI 111-0 or COMP_SCI 150-0; sophomore standing."
+IEMS 315-0,IEMS,315-0,Stochastic Models,1,"IEMS 315-0 Stochastic Models (1 Unit) 
+Prerequisites: IEMS 302-0; COMP_SCI 150-0; GEN_ENG 205-1 or GEN_ENG 206-1; and prior completion of or concurrent enrollment in IEMS 303-0."
+IEMS 317-0,IEMS,317-0,Discrete Event Systems Simulation,1,"IEMS 317-0 Discrete Event Systems Simulation (1 Unit) 
+Prerequisites: IEMS 303-0; IEMS 310-0 or IEMS 315-0."
+IEMS 325-0,IEMS,325-0,Engineering Entrepreneurship,1,"IEMS 325-0 Engineering Entrepreneurship (1 Unit) 
+Prerequisite: 1 course in accounting or finance such as CIV_ENV 205-0 or ENTREP 330-1."
+IEMS 340-0,IEMS,340-0,Qualitative Methods in Engineering Systems,1,"Use of field research methods to solve management problems. Students define projects, design field studies and pilot tests of data collection instruments, and present results. 
+Prerequisites: DSGN 106-1 and DSGN 106-2, or consent of instructor for non-McCormick students."
+IEMS 341-0,IEMS,341-0,Social Networks Analysis,1,IEMS 341-0 Social Networks Analysis (1 Unit)  
+IEMS 341-SA,IEMS,341-SA,Social Networks Analysis,1,"The use of social network analysis to understand the growing connectivity and complexity in the world around us on different scales, ranging from small groups to the World Wide Web. How we create social, economic, and technological networks, and how they enable and constrain attitudes and behaviors."
+IEMS 342-0,IEMS,342-0,Organizational Behavior,1,IEMS 342-0 Organizational Behavior (1 Unit)  
+IEMS 343-0,IEMS,343-0,Project Management for Engineers,1,"IEMS 343-0 Project Management for Engineers (1 Unit) 
+Prerequisites: CIV_ENV 205-0 and IEMS 303-0."
+IEMS 344-0,IEMS,344-0,Whole-Brain Leadership,1,"IEMS 344-0 Whole-Brain Leadership (1 Unit) 
+Prerequisite: Junior standing."
+IEMS 345-0,IEMS,345-0,Negotiations and Conflict Resolution for Engineers,1,"IEMS 345-0 Negotiations and Conflict Resolution for Engineers (1 Unit) 
+Prerequisite: Junior standing."
+IEMS 349-0,IEMS,349-0,Organizational Leadership,1,"This course enables students to think critically about leadership in organizations by understanding five facets of leadership. The five facets are areas of theorizing that explain what makes leadership effective: features, functions, form, fit, and focus. We will learn to answer questions about who is influential, what makes for good leadership, when (under what conditions?), and why (through what mechanisms?) is leadership successful. We explore leadership concepts using a set of illustrative case studies of interesting people who have led interesting lives of impact. Students may not receive credit for both IEMS 349-0 and COMM_ST 350-SA."
+IEMS 349-SA,IEMS,349-SA,Organizational Leadership,1,"This course enables students to think critically about leadership in organizations by understanding five facets of leadership. The five facets are areas of theorizing that explain what makes leadership effective: features, functions, form, fit, and focus. We will learn to answer questions about who is influential, what makes for good leadership, when (under what conditions?), and why (through what mechanisms?) is leadership successful. We explore leadership concepts using a set of illustrative case studies of interesting people who have led interesting lives of impact. Students may not receive credit for both IEMS 349-0 and COMM_ST 350-SA."
+IEMS 351-0,IEMS,351-0,Optimization Methods in Data Science,1,"IEMS 351-0 Optimization Methods in Data Science (1 Unit) 
+Prerequisites: COMP_SCI 111-0 and IEMS 303-0 and IEMS 313-0, or equivalent."
+IEMS 365-0,IEMS,365-0,Analytics for Social Good,1,Challenges and opportunities in using analytics to pursue social good. Application of data-analysis and decision-making tools and frameworks to such case studies as disaster response and community-based healthcare. For juniors and seniors with interests in humanitarian and nonprofit operations. Social Behavioral Sciences Distro Area
+IEMS 373-0,IEMS,373-0,Intro to Financial Engineering,1,"IEMS 373-0 Intro to Financial Engineering (1 Unit) 
+Prerequisites: CIV_ENV 205-0, IEMS 302-0, IEMS 303-0 or equivalents, or consent of instructor."
+IEMS 381-0,IEMS,381-0,Supply Chain Modeling and Analysis,1,"IEMS 381-0 Supply Chain Modeling and Analysis (1 Unit) 
+Prerequisite: IEMS 313-0."
+IEMS 382-0,IEMS,382-0,Operations Engineering and Management,1,"IEMS 382-0 Operations Engineering and Management (1 Unit) 
+Prerequisites: IEMS 302-0; IEMS 310-0 or IEMS 313-0."
+IEMS 383-0,IEMS,383-0,Service Engineering and Management,1,"IEMS 383-0 Service Engineering and Management (1 Unit) 
+Prerequisites: IEMS 313-0, IEMS 315-0."
+IEMS 385-0,IEMS,385-0,Introduction to Health Systems Management,1,"IEMS 385-0 Introduction to Health Systems Management (1 Unit) 
+Prerequisites: IEMS 303-0, IEMS 313-0."
+IEMS 394-0,IEMS,394-0,Industrial Engineering Client Project Challenge,1,"Open-ended client projects involving application of operations research techniques to complex data analysis and decision problems. Typically taken at the end of junior year or at the start of senior year. Closed to seniors in spring quarter. 
+Prerequisites: IEMS 302-0, IEMS 303-0, IEMS 304-0, IEMS 313-0, IEMS 315-0, and IEMS 317-0."
+IEMS 395-0,IEMS,395-0,Special Topics in Industrial Engineering,1,IEMS 395-0 Special Topics in Industrial Engineering (1 Unit)  
+IEMS 399-0,IEMS,399-0,Independent Study in Industrial Engineering,1,Independent study on an industrial engineering topic supervised by a faculty member.

@@ -1,0 +1,57 @@
+code,category,number,title,units,desc
+CHEM_ENG 101-0,CHEM_ENG,101-0,Getting to Know Chemical Engineering,0,"This survey course is an overview of the discipline of chemical engineering, and its undergraduate program at Northwestern. It is primarily targeted to first-years who are considering the major. We will discuss the most recent areas of research, career paths after graduation, and engineering ethics. Most course sessions will involve external speakers."
+CHEM_ENG 190-0,CHEM_ENG,190-0,Engineering of Chemical and Biological Processes,1,"Survey of engineering principles as they are applied to processes involving chemical and biological transformations. Examples from the chemical, pharmaceutical, biotechnology, food processing, electronics, and other industries. Impact of economics, ethics, and other nontechnical constraints."
+CHEM_ENG 210-0,CHEM_ENG,210-0,Analysis of Chemical Process Systems,1,"Introduction to process systems. Material balances and stoichiometry. Analysis of process system flow sheets. Introduction to departmental computing facilities. Basic numerical analysis. 
+Prerequisites: CHEM 132-0, CHEM 152-0, or CHEM 172-0; GEN_ENG 205-3 (may be taken concurrently)."
+CHEM_ENG 211-0,CHEM_ENG,211-0,Thermodynamics,1,"The first and second laws of thermodynamics. Entropy and equilibrium. Material and energy balances. Equations of state and properties of fluids. Solutions, phase equilibria, and chemical reactions. 
+Prerequisite: CHEM_ENG 210-0."
+CHEM_ENG 212-0,CHEM_ENG,212-0,Phase Equilibrium and Staged Separations,1,"Thermodynamic models of mixtures and phase equilibrium. Analysis and design of staged separation processes such as distillation, absorption, stripping, and extraction. 
+Prerequisites: CHEM_ENG 210-0, CHEM_ENG 211-0."
+CHEM_ENG 275-0,CHEM_ENG,275-0,Molecular & Cell Biology for Engineers,1,"Introduction to cell and molecular biology concepts that provide the foundation for modern biotechnology and bioengineering. 
+Prerequisite: CHEM 132-0, CHEM 152-0, or CHEM 172-0."
+CHEM_ENG 307-0,CHEM_ENG,307-0,Kinetics and Reactor Engineering,1,"CHEM_ENG 307-0 Kinetics and Reactor Engineering (1 Unit) 
+Prerequisites: CHEM_ENG 210-0, CHEM_ENG 211-0, CHEM_ENG 321-0, CHEM_ENG 322-0."
+CHEM_ENG 312-0,CHEM_ENG,312-0,Probability and Statistics for Chemical Engineering,1,"CHEM_ENG 312-0 Probability and Statistics for Chemical Engineering (1 Unit) 
+Prerequisites: MATH 220-1, MATH 220-2, MATH 228-1, & MATH 228-2 (formerly listed as MATH 220-0, MATH 224-0, MATH 230-0, & MATH 234-0), or ES_APPM 252-1 & ES_APPM 252-2."
+CHEM_ENG 321-0,CHEM_ENG,321-0,Fluid Mechanics,1,"CHEM_ENG 321-0 Fluid Mechanics (1 Unit) 
+Prerequisites: completion of mathematics requirements with no grades of D; GEN_ENG 205-4 (C- or better)."
+CHEM_ENG 322-0,CHEM_ENG,322-0,Heat Transfer,1,"CHEM_ENG 322-0 Heat Transfer (1 Unit) 
+Prerequisites: completion of mathematics requirements with no grades of D; GEN_ENG 205-4 (C- or better); CHEM_ENG 321-0 recommended."
+CHEM_ENG 323-0,CHEM_ENG,323-0,Mass Transfer,1,"CHEM_ENG 323-0 Mass Transfer (1 Unit) 
+Prerequisites: CHEM_ENG 321-0, CHEM_ENG 322-0."
+CHEM_ENG 330-0,CHEM_ENG,330-0,Molecular Engineering and Statistical Mechanics,1,"CHEM_ENG 330-0 Molecular Engineering and Statistical Mechanics (1 Unit) 
+Prerequisite: CHEM_ENG 211-0 or another thermodynamics course; courses in probability and statistics, heat transfer, or other transport recommended."
+CHEM_ENG 341-0,CHEM_ENG,341-0,Dynamics and Control of Chemical and Biological Processes,1,"CHEM_ENG 341-0 Dynamics and Control of Chemical and Biological Processes (1 Unit) 
+Prerequisites: CHEM_ENG 307-0; senior standing."
+CHEM_ENG 342-0,CHEM_ENG,342-0,Chemical Engineering Laboratory,1,"CHEM_ENG 342-0 Chemical Engineering Laboratory (1 Unit) 
+Prerequisites: CHEM_ENG 212-0, CHEM_ENG 307-0, CHEM_ENG 321-0, CHEM_ENG 322-0, CHEM_ENG 323-0."
+CHEM_ENG 345-0,CHEM_ENG,345-0,Process Optimization for Energy and Sustainability,1,"CHEM_ENG 345-0 Process Optimization for Energy and Sustainability (1 Unit) 
+Prerequisite: junior standing."
+CHEM_ENG 351-0,CHEM_ENG,351-0,"Process Economics, Design, & Evaluation",1,"CHEM_ENG 351-0 Process Economics, Design, & Evaluation (1 Unit) 
+Prerequisites: CHEM_ENG 212-0, CHEM_ENG 307-0, CHEM_ENG 321-0, CHEM_ENG 322-0, CHEM_ENG 323-0."
+CHEM_ENG 352-0,CHEM_ENG,352-0,Chemical Engineering Design Projects,1,"CHEM_ENG 352-0 Chemical Engineering Design Projects (1 Unit) 
+Prerequisite: CHEM_ENG 351-0."
+CHEM_ENG 355-0,CHEM_ENG,355-0,Chemical Product Design,1,"CHEM_ENG 355-0 Chemical Product Design (1 Unit) 
+Prerequisite: junior standing."
+CHEM_ENG 361-0,CHEM_ENG,361-0,Introduction to Polymers,1,"CHEM_ENG 361-0 Introduction to Polymers (1 Unit) 
+Prerequisites: CHEM_ENG 211-0 or other thermodynamics course; CHEM 210-1."
+CHEM_ENG 364-0,CHEM_ENG,364-0,Chemical Processing and the Environment,1,"CHEM_ENG 364-0 Chemical Processing and the Environment (1 Unit) 
+Prerequisites: CHEM_ENG 212-0, CHEM_ENG 307-0."
+CHEM_ENG 365-0,CHEM_ENG,365-0,"Sustainability, Technology, and Society",1,"CHEM_ENG 365-0 Sustainability, Technology, and Society (1 Unit) 
+Prerequisites: junior standing in science or engineering; familiarity with process system analysis, energy and material balances (such as found in CHEM_ENG 210-0 or CIV_ENV 260-0)."
+CHEM_ENG 367-0,CHEM_ENG,367-0,Quantitative Methods in Life Cycle Analysis,1,CHEM_ENG 367-0 Quantitative Methods in Life Cycle Analysis (1 Unit)  
+CHEM_ENG 372-0,CHEM_ENG,372-0,Bionanotechnology,1,"CHEM_ENG 372-0 Bionanotechnology (1 Unit) 
+Prerequisite: MATH 228-1 (formerly listed as MATH 230-0)."
+CHEM_ENG 373-0,CHEM_ENG,373-0,Biotechnology and Global Health,1,CHEM_ENG 373-0 Biotechnology and Global Health (1 Unit)  
+CHEM_ENG 375-0,CHEM_ENG,375-0,Biochemical Engineering,1,"CHEM_ENG 375-0 Biochemical Engineering (1 Unit) 
+Prerequisite: CHEM_ENG 307-0, CHEM_ENG 323-0, or consent of instructor."
+CHEM_ENG 376-0,CHEM_ENG,376-0,Principles of Synthetic Biology,1,"CHEM_ENG 376-0 Principles of Synthetic Biology (1 Unit) 
+Prerequisite: CHEM_ENG 275-0 or BIOL_SCI 201-0 or BIOL_SCI 202-0 (formerly BIOL_SCI 215-0 or BIOL_SCI 219-0)."
+CHEM_ENG 377-0,CHEM_ENG,377-0,Bioseparations,1,"CHEM_ENG 377-0 Bioseparations (1 Unit) 
+Prerequisites: CHEM_ENG 323-0 (may be taken concurrently); CHEM_ENG 275-0 or BIOL_SCI 201-0 or BIOL_SCI 202-0 (formerly BIOL_SCI 215-0 or BIOL_SCI 219-0)."
+CHEM_ENG 378-0,CHEM_ENG,378-0,Deconstructing Synthetic Biology – Biotechnology Case Studies Across Scales,1,CHEM_ENG 378-0 Deconstructing Synthetic Biology – Biotechnology Case Studies Across Scales (1 Unit)  
+CHEM_ENG 379-0,CHEM_ENG,379-0,Computational Biology: Analysis and Design of Living Systems,1,CHEM_ENG 379-0 Computational Biology: Analysis and Design of Living Systems (1 Unit)  
+CHEM_ENG 381-0,CHEM_ENG,381-0,Practical Biological Imaging,1,CHEM_ENG 381-0 Practical Biological Imaging (1 Unit)  
+CHEM_ENG 382-0,CHEM_ENG,382-0,Regulatory Sciences in Biotechnology,1,CHEM_ENG 382-0 Regulatory Sciences in Biotechnology (1 Unit)  
+CHEM_ENG 395-0,CHEM_ENG,395-0,Special Topics in Chemical Engineering,1,CHEM_ENG 395-0 Special Topics in Chemical Engineering (1 Unit)  
+CHEM_ENG 399-0,CHEM_ENG,399-0,Projects,1,Supervised investigation of a chemical engineering problem with submission of a final report.

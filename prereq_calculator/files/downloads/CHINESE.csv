@@ -1,0 +1,58 @@
+code,category,number,title,units,desc
+CHINESE 111-1,CHINESE,111-1,Chinese I,1,First-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Chinese.
+CHINESE 111-2,CHINESE,111-2,Chinese I,1,"Second-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 111-1 or equivalent."
+CHINESE 111-3,CHINESE,111-3,Chinese I,1,"Third-quarter course of the beginning college-level sequence to develop basic literacy and oral proficiency in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 111-2 or equivalent."
+CHINESE 115-1,CHINESE,115-1,Chinese I - Accelerated,1,"First-quarter course of the accelerated beginning college-level sequence to develop basic literacy and oral proficiency in Chinese. 
+Prerequisite: consent of department."
+CHINESE 115-2,CHINESE,115-2,Chinese I - Accelerated,1,"Second-quarter course of the accelerated beginning college-level sequence to develop basic literacy and oral proficiency in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 115-1 or equivalent."
+CHINESE 115-3,CHINESE,115-3,Chinese I - Accelerated,1,"Third-quarter course of the accelerated beginning college-level sequence to develop basic literacy and oral proficiency in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 115-2 or equivalent."
+CHINESE 121-1,CHINESE,121-1,Chinese II,1,"First-quarter course of the second-year Chinese sequence to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 111-3 or equivalent."
+CHINESE 121-2,CHINESE,121-2,Chinese II,1,"Second-quarter course of the second-year Chinese sequence to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 121-1 or equivalent."
+CHINESE 121-3,CHINESE,121-3,Chinese II,1,"Third-quarter course of the second-year Chinese sequence to further develop basic literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 121-2 or equivalent."
+CHINESE 125-1,CHINESE,125-1,Chinese II - Accelerated,1,"First-quarter course of the accelerated intermediate-level sequence with emphasis on reading and writing. 
+Prerequisite: grade of at least C- in CHINESE 115-3 or equivalent."
+CHINESE 125-2,CHINESE,125-2,Chinese II - Accelerated,1,"Second-quarter course of the accelerated intermediate-level sequence with emphasis on reading and writing. 
+Prerequisite: grade of at least C- in CHINESE 125-1 or equivalent."
+CHINESE 125-3,CHINESE,125-3,Chinese II - Accelerated,1,"Third-quarter course of the accelerated intermediate-level sequence with emphasis on reading and writing. 
+Prerequisite: grade of at least C- in CHINESE 125-2 or equivalent."
+CHINESE 211-1,CHINESE,211-1,Chinese III,1,"First-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 121-3 or equivalent."
+CHINESE 211-2,CHINESE,211-2,Chinese III,1,"Second-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 211-1 or equivalent."
+CHINESE 211-3,CHINESE,211-3,Chinese III,1,"Third-quarter course of the intermediate-level sequence to further develop literacy and oral proficiency. 
+Prerequisite: grade of at least C- in CHINESE 211-2 or equivalent."
+CHINESE 212-0,CHINESE,212-0,Chinese in Business Practice 1,1,"Basic business Chinese focused on professional settings. For students interested in using business-related texts to learn Chinese or aspiring to China-focused careers. 
+Prerequisite: grade of at least C- in CHINESE 125-2, CHINESE 211-2 or equivalent."
+CHINESE 215-1,CHINESE,215-1,Chinese III - Accelerated,1,"First-quarter course of the accelerated intermediate toward advanced-level sequence with emphasis on formal speaking and writing. 
+Prerequisite: grade of at least C- in CHINESE 125-3 or equivalent."
+CHINESE 215-2,CHINESE,215-2,Chinese III - Accelerated,1,"Second-quarter course of the accelerated intermediate toward advanced-level sequence with emphasis on formal speaking and writing. 
+Prerequisite: grade of at least C- in CHINESE 215-1 or equivalent."
+CHINESE 215-3,CHINESE,215-3,Chinese III - Accelerated,1,"Third-quarter course of the accelerated intermediate toward advanced-level sequence with emphasis on formal speaking and writing. 
+Prerequisite: grade of at least C- in CHINESE 215-2 or equivalent."
+CHINESE 311-1,CHINESE,311-1,Chinese IV: Formal Speaking,1,"Development of skills in speaking formal Chinese. 
+Prerequisite: grade of at least C- in CHINESE 211-3 or CHINESE 212-0, or equivalent."
+CHINESE 311-2,CHINESE,311-2,Chinese IV: Formal Writing,1,"Development of skills in writing formal Chinese. 
+Prerequisite: grade of at least C- in CHINESE 211-3 or CHINESE 212-0, or equivalent."
+CHINESE 311-3,CHINESE,311-3,Chinese IV: Formal Reading,1,"Development of skills in reading different types of authentic Chinese works. 
+Prerequisite: grade of at least C- in CHINESE 211-3 or CHINESE 212-0, or equivalent."
+CHINESE 312-1,CHINESE,312-1,Chinese in Business Practice 2,1,"Training for professional tasks using Chinese. Especially for students who completed CHINESE 212-0 or aspire to China-focused careers or to becoming multi-proficient business professionals. 
+Prerequisite: grade of at least C- in CHINESE 125-3, CHINESE 211-3, CHINESE 212-0 or equivalent."
+CHINESE 312-2,CHINESE,312-2,Multinational Corporations in China,1,"Training in business reading skills, with a focus on case studies, and speaking/writing skills for discussing business topics professionally. Designed for students interested in China's economic development and using Chinese in their careers. 
+Prerequisite: grade of at least C- in CHINESE 125-3, CHINESE 211-3, CHINESE 212-0 or equivalent."
+CHINESE 315-1,CHINESE,315-1,Chinese IV - Accelerated: Formal Writing and Public Speaking,1,"Development of academic writing and speaking in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 215-3; or in three of the following: CHINESE 311-1, CHINESE 311-2, CHINESE 311-3, CHINESE 312-1, CHINESE 312-2."
+CHINESE 315-2,CHINESE,315-2,Chinese IV - Accelerated: Advanced Reading and Writing,1,"Development of academic reading and writing in Chinese. 
+Prerequisite: grade of at least C- in CHINESE 215-3; or in three of the following: CHINESE 311-1, CHINESE 311-2, CHINESE 311-3, CHINESE 312-1, CHINESE 312-2."
+CHINESE 315-3,CHINESE,315-3,Chinese IV  - Accelerated: Media & Society,1,"Development of skills in reading primary sociocultural sources. 
+Prerequisite: grade of at least C- in CHINESE 215-3; or in three of the following: CHINESE 311-1, CHINESE 311-2, CHINESE 311-3, CHINESE 312-1, CHINESE 312-2."
+CHINESE 320-0,CHINESE,320-0,Chinese V: Special Topics in Advanced Chinese,1,"Standalone topics course using films, audiovisual materials, and texts in primary sources to develop ability to analyze diverse textual logic, language patterns, and cultural features. May be repeated for credit with change of topic. 
+Prerequisite: grade of at least C- in three of CHINESE 315-1, CHINESE 315-2, CHINESE 315-3 or equivalent."
+CHINESE 399-0,CHINESE,399-0,Independent Study,1,"For students who have advanced with distinction beyond the regular course offerings in Chinese. 
+Prerequisite: consent of department."

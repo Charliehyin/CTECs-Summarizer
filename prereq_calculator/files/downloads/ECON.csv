@@ -1,0 +1,127 @@
+code,category,number,title,units,desc
+ECON 100-BR,ECON,100-BR,Introduction to Problem-Solving in Economics,0.5,"For participants in Bridge I summer program. Developing facility with quantitative tools to solve problems in Economics. 
+Prerequisites: MATH 100-BR and HUM 100-1-BR."
+ECON 101-7,ECON,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+ECON 101-8,ECON,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+ECON 159-0,ECON,159-0,Doing Good,1,"A discussion of why we want to “do good”; how to try to do good (and why problems exist in the first place); and, how to know if you did good. Applications to public policy as well as personal life. Prerequisities: None. Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+ECON 201-0,ECON,201-0,Introduction to Macroeconomics,1,"An introduction to economics with emphasis on macroeconomics. Topics include: scarcity and choice, elements of supply and demand, inflation, unemployment, recessions, booms, fiscal and monetary policy, international balance of payments, and budget deficits. 
+Prerequisite: basic algebra and graphing.
+Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+ECON 201-MG,ECON,201-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in ECON 201. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+ECON 201-SG,ECON,201-SG,Peer-Guided Study Group: Introduction to Macroeconomics,0,"Peer-guided study group for students enrolled in ECON 201-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+ECON 202-0,ECON,202-0,Introduction to Microeconomics,1,"An introductory course on the fundamentals of microeconomics. The behavior of individuals and firms in deciding on prices and allocation of scarce resources. Topics include: consumer preferences, costs of production, equilibrium prices and output, different market types, potential market failures, and the role of government interventions and public policy. 
+Prerequisite: ECON 201-0.
+Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+ECON 202-MG,ECON,202-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in ECON 202-0. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+ECON 202-SG,ECON,202-SG,Peer-Guided Study Group: Introduction to Microeconomics,0,"Peer-guided study group for students enrolled in ECON 202-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+ECON 249-0,ECON,249-0,Business Strategy,1,"Firms' choices of prices, capacity, location, quality, variety, investment and product innovation when navigating complex economic environments shaped by government policy and inter-firm rivalries. (Majors and Minors should not take this course, but should take ECON 349-0 instead. Students may not receive credit if they have completed ECON 349-0). 
+Prerequisites: ECON 202-0; MATH 220-1."
+ECON 281-0,ECON,281-0,Introduction to Applied Econometrics,1,"An introduction to econometrics. The underlying theory of regression and the practical application of these techniques to data sets. Understanding and diagnosing common statistical problems encountered during estimation. All other substitutions (including AP Statistics) must be cleared through the Director of Undergraduate Studies for Economics. 
+Prerequisite: ECON 201-0, ECON 202-0, MATH 220-1, STAT 210-0 or higher level statistics class."
+ECON 307-0,ECON,307-0,Economics of Medical Care,1,"ECON 307-0 Economics of Medical Care (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 308-0,ECON,308-0,Money and Banking,1,"ECON 308-0 Money and Banking (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0."
+ECON 309-0,ECON,309-0,Public Finance,1,"ECON 309-0 Public Finance (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 310-1,ECON,310-1,Microeconomics,1,"ECON 310-1 Microeconomics (1 Unit) 
+Prerequisites: ECON 201-0, ECON 202-0, MATH 220-1.
+Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+ECON 310-2,ECON,310-2,Microeconomics,1,"ECON 310-2 Microeconomics (1 Unit) 
+Prerequisite: ECON 310-1."
+ECON 310-MG-1,ECON,310-MG-1,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in ECON 310-1. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+ECON 310-MG-2,ECON,310-MG-2,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in ECON 310-2. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+ECON 310-SG-1,ECON,310-SG-1,Peer-Guided Study Group: Microeconomics I,0,"Peer-guided study group for students enrolled in ECON 310-1.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+ECON 310-SG-2,ECON,310-SG-2,Peer-Guided Study Group: Microeconomics II,0,"Peer-guided study group for students enrolled in ECON 310-2.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+ECON 311-0,ECON,311-0,Macroeconomics,1,"ECON 311-0 Macroeconomics (1 Unit) 
+Prerequisites: ECON 201-0, ECON 202-0, MATH 220-1.
+Social Behavioral Sciences Distro Area Social and Behavioral Science Foundational Discipl"
+ECON 315-0,ECON,315-0,Topics in Economic History,1,"ECON 315-0 Topics in Economic History (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0."
+ECON 316-0,ECON,316-0,Advanced Topics in Macroeconomics,1,"ECON 316-0 Advanced Topics in Macroeconomics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0, MATH 220-2, MATH 230-1."
+ECON 318-0,ECON,318-0,History of Economic Thought,1,"ECON 318-0 History of Economic Thought (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0."
+ECON 323-1,ECON,323-1,Economic History of the United States Before 1865,1,"ECON 323-1 Economic History of the United States Before 1865 (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0."
+ECON 323-2,ECON,323-2,Economic History of the United States 1865 to Present,1,"ECON 323-2 Economic History of the United States 1865 to Present (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0. ECON 323-1 is not a prerequisite."
+ECON 324-0,ECON,324-0,Western Economic History,1,"ECON 324-0 Western Economic History (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0."
+ECON 325-0,ECON,325-0,Economic Growth & Development,1,"ECON 325-0 Economic Growth & Development (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0."
+ECON 326-0,ECON,326-0,The Economics of Developing Countries,1,"ECON 326-0 The Economics of Developing Countries (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 327-0,ECON,327-0,Economic Development in Africa,1,"ECON 327-0 Economic Development in Africa (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 326-0."
+ECON 328-0,ECON,328-0,Complexity Economics,1,"ECON 328-0 Complexity Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 329-0,ECON,329-0,Experimental Economics,1,"ECON 329-0 Experimental Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 330-0,ECON,330-0,Behavioral Economics,1,"ECON 330-0 Behavioral Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 331-0,ECON,331-0,Economics of Risk and Uncertainty,1,"ECON 331-0 Economics of Risk and Uncertainty (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, MATH 300-0 or equivalent."
+ECON 333-0,ECON,333-0,Economics of Social Policy,1,"ECON 333-0 Economics of Social Policy (1 Unit) 
+Prerequisites: Econ 281-0, Econ 310-1, Econ 310-2. SOC_POL 330-0 and ECON 333-0 are taught together; may not receive credit for both. SESP students must register for SOC_POL 330-0."
+ECON 335-0,ECON,335-0,Political Economics,1,"ECON 335-0 Political Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 336-0,ECON,336-0,Analytic Methods for Public Policy Analysis,1,"ECON 336-0 Analytic Methods for Public Policy Analysis (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 337-0,ECON,337-0,Economics of State and Local Governments,1,"ECON 337-0 Economics of State and Local Governments (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 339-0,ECON,339-0,Labor Economics,1,"ECON 339-0 Labor Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0."
+ECON 340-0,ECON,340-0,Economics of the Family,1,"ECON 340-0 Economics of the Family (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 341-0,ECON,341-0,Economics of Education,1,"ECON 341-0 Economics of Education (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 342-0,ECON,342-0,Economics of Gender,1,"ECON 342-0 Economics of Gender (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 343-0,ECON,343-0,Economics of Immigration,1,"ECON 343-0 Economics of Immigration (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0."
+ECON 349-0,ECON,349-0,Industrial Economics,1,"ECON 349-0 Industrial Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 350-0,ECON,350-0,Monopoly Competition & Public Policy,1,"ECON 350-0 Monopoly Competition & Public Policy (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 351-0,ECON,351-0,Law and Economics,1,"ECON 351-0 Law and Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 354-0,ECON,354-0,Issues in Urban and Regional Economics,1,"ECON 354-0 Issues in Urban and Regional Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 355-0,ECON,355-0,Transportation Economics and Public Policy,1,"ECON 355-0 Transportation Economics and Public Policy (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 358-0,ECON,358-0,Economics of Art and Culture,1,"ECON 358-0 Economics of Art and Culture (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 359-0,ECON,359-0,Economics of Nonprofit Organizations,1,"ECON 359-0 Economics of Nonprofit Organizations (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 360-1,ECON,360-1,Foundations of Corporate Finance Theory,1,"ECON 360-1 Foundations of Corporate Finance Theory (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0. (May not receive credit for both this course and BUS_INST 304-0. Not for students who have previously taken KELLG_FE 310-0.)."
+ECON 360-2,ECON,360-2,Investments,1,"ECON 360-2 Investments (1 Unit) 
+Prerequisite: ECON 360-1 or equivalent."
+ECON 361-0,ECON,361-0,International Trade,1,"ECON 361-0 International Trade (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0."
+ECON 362-0,ECON,362-0,International Finance,1,"ECON 362-0 International Finance (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 311-0."
+ECON 371-0,ECON,371-0,Economics of Energy,1,"ECON 371-0 Economics of Energy (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 372-0,ECON,372-0,Environmental Economics,1,"ECON 372-0 Environmental Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 373-0,ECON,373-0,Natural Resource Economics,1,"ECON 373-0 Natural Resource Economics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2."
+ECON 380-1,ECON,380-1,Game Theory,1,"ECON 380-1 Game Theory (1 Unit) 
+Prerequisites: ECON 310-1, ECON 310-2, MATH 220-2, MATH 230-1."
+ECON 380-2,ECON,380-2,Game Theory,1,"ECON 380-2 Game Theory (1 Unit) 
+Prerequisite: ECON 380-1 or consent of instructor."
+ECON 381-1,ECON,381-1,Econometrics,1,"ECON 381-1 Econometrics (1 Unit) 
+Prerequisites: ECON 310-1, (ECON 310-2, ECON 311-0 recommended), MATH 226-0, MATH 230-1, MATH 230-2, MATH 240-0 and MATH 314-0 (or equivalent)."
+ECON 381-2,ECON,381-2,Econometrics,1,"ECON 381-2 Econometrics (1 Unit) 
+Prerequisite: ECON 381-1, (ECON 310-2, ECON 311-0 recommended)."
+ECON 383-0,ECON,383-0,Applied Econometrics,1,"ECON 383-0 Applied Econometrics (1 Unit) 
+Prerequisites: ECON 281-0, ECON 310-1."
+ECON 398-1,ECON,398-1,Senior Seminar,1,"For students of superior ability. Original research on a topic of interest to the student, culminating in a senior thesis. By department invitation only. Grade of K given in 398-1. 
+Prerequisites: ECON 281-0, ECON 310-1, ECON 310-2, ECON 311-0, MATH 220-2, MATH 230-1; at least four 300-level economics electives.
+ Advanced Expression"
+ECON 398-2,ECON,398-2,Senior Seminar,1,"For students of superior ability. Original research on a topic of interest to the student, culminating in a senior thesis. By department invitation only. 
+Prerequisite: ECON 398-1.
+ Advanced Expression"
+ECON 399-0,ECON,399-0,Independent Study,1,"Advanced work through reading, research, and discussion to build on economics coursework taken by the student. Project to be decided by mutual agreement with a faculty member."

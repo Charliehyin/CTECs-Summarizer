@@ -1,0 +1,78 @@
+code,category,number,title,units,desc
+BMD_ENG 101-0,BMD_ENG,101-0,Introduction to Biomedical Engineering,0,"Information to 1) help students determine if BME is the right major for them and 2) learn how to make the most of their undergraduate experience. The field of biomedical engineering, career and research opportunities, ethics."
+BMD_ENG 207-0,BMD_ENG,207-0,BME Lab: Experimental Design,0.5,"A laboratory course focusing on quantitative physiological measurements and analyses, instrument characterization, statistical design of experiments, and training in preparation and organization of laboratory notes and reports. 
+Prerequisite: BMD_ENG 220-0 or IEMS 303-0 or MECH_ENG 359-0."
+BMD_ENG 220-0,BMD_ENG,220-0,Introduction to Biomedical Statistics,1,Basic statistical concepts presented with emphasis on their relevance to biological and medical investigations.
+BMD_ENG 250-0,BMD_ENG,250-0,Thermodynamics,1,"Physical and chemical principles as applied to biological systems and medical devices. Topics include material balances, thermodynamics, solution chemistry, electrochemistry, surface chemistry, transport, and kinetics. 
+Prerequisites: MATH 228-1; CHEM 132-0, CHEM 152-0, or CHEM 172-0."
+BMD_ENG 270-0,BMD_ENG,270-0,Fluid Mechanics,1,"Fundamentals of fluid mechanics and their applications to biological systems. 
+Prerequisites: BMD_ENG 271-0, GEN_ENG 205-4 and MATH 228-2."
+BMD_ENG 271-0,BMD_ENG,271-0,Introduction to Biomechanics,1,"Analysis of stresses and deformations in solids. Problems in biomechanics, with emphasis on assumptions appropriate to modeling biological materials including bone, skin, muscle, and cell membranes. 
+Prerequisite: GEN_ENG 205-2."
+BMD_ENG 304-0,BMD_ENG,304-0,Quantitative Systems Physiology,1,"BMD_ENG 304-0 Quantitative Systems Physiology (1 Unit) 
+Prerequisite: Students must have taken PHYSICS 135-2; junior standing recommended."
+BMD_ENG 305-0,BMD_ENG,305-0,Quantitative Systems Physiology,1,"BMD_ENG 305-0 Quantitative Systems Physiology (1 Unit) 
+Prerequisite: junior standing recommended."
+BMD_ENG 306-0,BMD_ENG,306-0,Quantitative Systems Physiology,1,"BMD_ENG 306-0 Quantitative Systems Physiology (1 Unit) 
+Prerequisite: PHYSICS 135-2; junior standing recommended."
+BMD_ENG 308-0,BMD_ENG,308-0,Biomedical Signals and Circuits,1.25 Units,"Time and frequency domain analysis: convolution representation, Fourier series, Fourier transforms, frequency response, filtering, sampling. 
+Prerequisite: PHYSICS 135-2 or consent of instructor; BMD_ENG 207-0 (can be taken concurrently)."
+BMD_ENG 309-0,BMD_ENG,309-0,Biomedical Systems Analysis,1.25 Units,"Introduction to linear systems analysis. Time and frequency domain techniques for analyzing linear systems, emphasizing their applications to biomedical systems. Python-based problem sets and a summative instrumentation and analysis lab project illustrate topics covered in class. 
+Prerequisites: BMD_ENG 207-0; BMD_ENG 308-0; BMD_ENG 220-0; GEN_ENG 205-4."
+BMD_ENG 311-0,BMD_ENG,311-0,Computational Genomics,1,"BMD_ENG 311-0 Computational Genomics (1 Unit) 
+Prerequisites: BMD_ENG 220-0; BIOL_SCI 201-0 or BIOL_SCI 202-0."
+BMD_ENG 312-0,BMD_ENG,312-0,Biomedical Applications in Machine Learning,1,"BMD_ENG 312-0 Biomedical Applications in Machine Learning (1 Unit) 
+Prerequisites: BMD_ENG 220-0, GEN_ENG 205-1, MATH 220-1, MATH 220-2."
+BMD_ENG 313-0,BMD_ENG,313-0,Wearable Devices: From Sensing to Biomedical Inference,1,"BMD_ENG 313-0 Wearable Devices: From Sensing to Biomedical Inference (1 Unit) 
+Prerequisites: BMD_ENG 207-0 and BMD_ENG 220-0."
+BMD_ENG 317-0,BMD_ENG,317-0,Biochemical Sensors,1,"BMD_ENG 317-0 Biochemical Sensors (1 Unit) 
+Prerequisites: BIOL_SCI 201-0; CHEM 215-1."
+BMD_ENG 323-0,BMD_ENG,323-0,Visual Engineering Science,1,"BMD_ENG 323-0 Visual Engineering Science (1 Unit) 
+Prerequisite: PHYSICS 135-2."
+BMD_ENG 325-0,BMD_ENG,325-0,Introduction to Medical Imaging,1,"BMD_ENG 325-0 Introduction to Medical Imaging (1 Unit) 
+Prerequisites: Students must have completed PHYSICS 135-3 and knowledge of Fourier concepts."
+BMD_ENG 327-0,BMD_ENG,327-0,Magnetic Resonance Imaging,1,"BMD_ENG 327-0 Magnetic Resonance Imaging (1 Unit) 
+Prerequisite: PHYSICS 135-3."
+BMD_ENG 333-0,BMD_ENG,333-0,Modern Optical Microscopy & Imaging,1,"BMD_ENG 333-0 Modern Optical Microscopy & Imaging (1 Unit) 
+Prerequisites: BMD_ENG 220-0, GEN_ENG 205-4, PHYSICS 135-3."
+BMD_ENG 340-0,BMD_ENG,340-0,Pharmaceutical Engineering: From Discovery to Therapeutics,1,"BMD_ENG 340-0 Pharmaceutical Engineering: From Discovery to Therapeutics (1 Unit) 
+Prerequisites: CHEM 215-1 or be BME MS/PhD student to enroll in this class."
+BMD_ENG 343-0,BMD_ENG,343-0,Biomaterials and Medical Devices,1,"BMD_ENG 343-0 Biomaterials and Medical Devices (1 Unit) 
+Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0 (can be taken concurrently), CHEM 215-1, MAT_SCI 201-0."
+BMD_ENG 344-0,BMD_ENG,344-0,Biological Performance of Materials,1,"BMD_ENG 344-0 Biological Performance of Materials (1 Unit) 
+Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0 (can be taken concurrently), CHEM 215-1, MAT_SCI 201-0."
+BMD_ENG 346-0,BMD_ENG,346-0,Tissue Engineering,1,"BMD_ENG 346-0 Tissue Engineering (1 Unit) 
+Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0 (can be taken concurrently), CHEM 215-1."
+BMD_ENG 347-0,BMD_ENG,347-0,Foundations of Regenerative Engineering,1,"BMD_ENG 347-0 Foundations of Regenerative Engineering (1 Unit) 
+Prerequisites: BIOL_SCI 201-0 or BIOL_SCI 202-0."
+BMD_ENG 348-0,BMD_ENG,348-0,Applications of Regenerative Engineering,1,"BMD_ENG 348-0 Applications of Regenerative Engineering (1 Unit) 
+Prerequisite: BIOL_SCI 201-0 or BIOL_SCI 202-0."
+BMD_ENG 353-0,BMD_ENG,353-0,Bioelectronics,1,BMD_ENG 353-0 Bioelectronics (1 Unit)  
+BMD_ENG 354-0,BMD_ENG,354-0,Bioelectronics Lab,1,"BMD_ENG 354-0 Bioelectronics Lab (1 Unit) 
+Prerequisites: BMD_ENG 353 or MAT_SCI 353. Concurrent enrollment is acceptable."
+BMD_ENG 365-0,BMD_ENG,365-0,Control of Human Limbs and Their  Artificial Replacements,1,"BMD_ENG 365-0 Control of Human Limbs and Their Artificial Replacements (1 Unit) 
+Prerequisite: senior standing with engineering or physical science background."
+BMD_ENG 366-0,BMD_ENG,366-0,Biomechanics of Movement,1,"BMD_ENG 366-0 Biomechanics of Movement (1 Unit) 
+Prerequisite: BMD_ENG 271-0."
+BMD_ENG 371-0,BMD_ENG,371-0,Mechanics of Biological Tissue,1,"BMD_ENG 371-0 Mechanics of Biological Tissue (1 Unit) 
+Prerequisites: BMD_ENG 271-0; GEN_ENG 205-3; GEN_ENG 205-4."
+BMD_ENG 377-0,BMD_ENG,377-0,Intermediate Fluid Mechanics,1,"BMD_ENG 377-0 Intermediate Fluid Mechanics (1 Unit) 
+Prerequisite: BMD_ENG 270-0 or consent of instructor."
+BMD_ENG 378-0,BMD_ENG,378-0,Transport Fundamentals,1,"Fundamental and biomedical applications of diffusive and convective heat and mass transfer. 
+Prerequisites: BMD_ENG 270-0; MATH 228-1; BMD_ENG 377-0 recommended."
+BMD_ENG 380-0,BMD_ENG,380-0,"Medical Devices, Disease & Global Health",1,"BMD_ENG 380-0 Medical Devices, Disease & Global Health (1 Unit)  "
+BMD_ENG 388-SA,BMD_ENG,388-SA,Health Systems Engineering,1,"BMD_ENG 388-SA Health Systems Engineering (1 Unit) 
+Prerequisite: consent of instructor."
+BMD_ENG 389-SA,BMD_ENG,389-SA,Health Technology Management,1,BMD_ENG 389-SA Health Technology Management (1 Unit)  
+BMD_ENG 390-1,BMD_ENG,390-1,Biomedical Engineering Design,1,"Open-ended team-designed projects in the medical devices arena. Systems approach requiring design strategy and concepts, including reliability, safety, ethics, economic analysis, marketing, FDA regulations, and patents. Written and oral reports. 
+Pre-Requisites: BMD_ENG 207-0, BMD_ENG 220-0, BMD_ENG 270-0, BMD_ENG 308-0, BMD_ENG 309-0, COMP_SCI 150 and two of the following: BMD_ENG 250-0, BMD_ENG 271-0, MAT_SCI 201-0."
+BMD_ENG 390-2,BMD_ENG,390-2,Biomedical Engineering Design,1,"Development of a design project initiated during the previous quarter. 
+Prerequisite: BMD_ENG 390-1."
+BMD_ENG 390-3,BMD_ENG,390-3,Biomedical Engineering Design,1,"BMD_ENG 390-3 Biomedical Engineering Design (1 Unit) 
+Prerequisites: BMD_ENG 390-1 or BMD_ENG 390-2; consent of instructor."
+BMD_ENG 391-SA,BMD_ENG,391-SA,HealthCare Techology Innovation and Design,1,BMD_ENG 391-SA HealthCare Techology Innovation and Design (1 Unit)  
+BMD_ENG 395-0,BMD_ENG,395-0,Topics in Biomedical Engineering,1,Special Topics in Biomedical Engineering.
+BMD_ENG 396-0,BMD_ENG,396-0,Special Topics,0.5,BMD_ENG 396-0 Special Topics (0.5 Unit)  
+BMD_ENG 397-0,BMD_ENG,397-0,Special Topics in Biomedical Engineering,0.5-1,"Special Topics in Biomedical Engineering, Laboratory emphasis."
+BMD_ENG 398-0,BMD_ENG,398-0,Special Topics in Biomedical Engineering,0.34,BMD_ENG 398-0 Special Topics in Biomedical Engineering (0.34 Unit)  
+BMD_ENG 399-0,BMD_ENG,399-0,Projects,1,SEE DEPT FOR SECTION AND PERMISSION NUMBERS.

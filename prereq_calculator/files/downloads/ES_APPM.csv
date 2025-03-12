@@ -1,0 +1,21 @@
+code,category,number,title,units,desc
+ES_APPM 245-0,ES_APPM,245-0,Elementary Applied Linear Algebra,1,"Basic linear algebra methods including basic matrix/vector operations, solution of linear systems of equations, eigenvalues, and singular values. Focus will be on applications of the methods on a range of engineering topics including: least squares and data fitting, game theory, graph theory, principal component analysis, linear programming, and other related engineering topics."
+ES_APPM 252-1,ES_APPM,252-1,Honors Calculus for Engineers,1,"Calculus sequence for the mathematically interested students who want to dig deeper, cover more mathematical material, and see more applications than the standard calculus sequence offers. It also provides an introduction to computation (no previous experience required). Satisfies the same requirements as Math 228-1,2."
+ES_APPM 252-2,ES_APPM,252-2,Honors Calculus for Engineers,1,"Calculus sequence for the mathematically interested students who want to dig deeper, cover more mathematical material, and see more applications than the standard calculus sequence offers. It also provides an introduction to computation (no previous experience required). Satisfies the same requirements as Math 228-1,2."
+ES_APPM 311-0,ES_APPM,311-0,Methods of Applied Mathematics,1,"ES_APPM 311-0 Methods of Applied Mathematics (1 Unit) 
+Prerequisites: an elementary differential equations course, e.g., MATH 250-0 or GEN_ENG 205-4 or GEN_ENG 206-4."
+ES_APPM 312-0,ES_APPM,312-0,Complex Variables,1,"ES_APPM 312-0 Complex Variables (1 Unit) 
+Prerequisite: GEN_ENG 205-4, GEN_ENG 206-4, or MATH 250-0."
+ES_APPM 322-0,ES_APPM,322-0,Applied Dynamical Systems,1,"ES_APPM 322-0 Applied Dynamical Systems (1 Unit) 
+Prerequisites: GEN_ENG 205-4, GEN_ENG 206-4, or MATH 250-0. ES_APPM 311-1 is recommended."
+ES_APPM 344-0,ES_APPM,344-0,High Performance Scientific Computing,1,ES_APPM 344-0 High Performance Scientific Computing (1 Unit)  
+ES_APPM 345-0,ES_APPM,345-0,Applied Linear Algebra,1,ES_APPM 345-0 Applied Linear Algebra (1 Unit)  
+ES_APPM 346-0,ES_APPM,346-0,Modeling and Computation in Science & Engineering,1,"ES_APPM 346-0 Modeling and Computation in Science & Engineering (1 Unit) 
+Prerequisites: MATH 228-2, MATH 240-0, and MATH 250-0; or GEN_ENG 205-4 and PHYSICS 135-1, PHYSICS 135-2; or equivalent; familiarity with a programming language; or consent of instructor."
+ES_APPM 370-1,ES_APPM,370-1,Introduction to Computational Neuroscience,1,ES_APPM 370-1 Introduction to Computational Neuroscience (1 Unit)  
+ES_APPM 372-0,ES_APPM,372-0,Introduction to the Analysis of RNA Sequencing Data,1,ES_APPM 372-0 Introduction to the Analysis of RNA Sequencing Data (1 Unit)  
+ES_APPM 375-1,ES_APPM,375-1,"Quantitative Biology I: Experiments, Data, Models, and Analysis",1,"ES_APPM 375-1 Quantitative Biology I: Experiments, Data, Models, and Analysis (1 Unit)  "
+ES_APPM 375-2,ES_APPM,375-2,"Quantitative Biology II: Experiments, Data, Models, and Analysis",1,"ES_APPM 375-2 Quantitative Biology II: Experiments, Data, Models, and Analysis (1 Unit)  "
+ES_APPM 395-0,ES_APPM,395-0,Special Topics,1,ES_APPM 395-0 Special Topics (1 Unit)  
+ES_APPM 398-0,ES_APPM,398-0,Introduction to Applied Math Research,0,ES_APPM 398-0 Introduction to Applied Math Research (0 Unit)  
+ES_APPM 399-0,ES_APPM,399-0,Projects,1,Special studies to be carried out under faculty direction. Credit to be arranged.

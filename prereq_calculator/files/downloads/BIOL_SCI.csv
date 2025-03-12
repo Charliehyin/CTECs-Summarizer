@@ -1,0 +1,127 @@
+code,category,number,title,units,desc
+BIOL_SCI 100-0,BIOL_SCI,100-0,Introduction to Biological Sciences at Northwestern,1,For participants in Bio&ChemEXCEL summer program. An overview of recent advances in biological research and leadership within the field of biology. Taken with CHEM 100-0.
+BIOL_SCI 101-7,BIOL_SCI,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+BIOL_SCI 101-8,BIOL_SCI,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+BIOL_SCI 103-0,BIOL_SCI,103-0,Diversity of Life,1,"Comparative survey of organisms, emphasizing adaptation and phylogenetic relationships. Particular emphasis on animals. Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+BIOL_SCI 104-0,BIOL_SCI,104-0,Plant-People Interactions,1,Biology and history of the interaction of humans and flowering plants. Natural Sciences Distro Area
+BIOL_SCI 109-0,BIOL_SCI,109-0,The Nature of Plants,1,"Plant adaptations for growth, survival, and reproduction. Plant defense against herbivory, pollination, and seed dispersal. Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+BIOL_SCI 115-6,BIOL_SCI,115-6,College Seminar,1,For participants in the NUBioscientist program. Biological Thought & Action; preparatory to BIOL_SCI 116-6.
+BIOL_SCI 116-6,BIOL_SCI,116-6,First-Year Writing Seminar,1,For participants in the NUBioscientist program. Science Research Preparation; follows BIOL_SCI 115-6.
+BIOL_SCI 150-0,BIOL_SCI,150-0,Human Genetics,1,Basic principles of human inheritance and genetic variation. Natural Sciences Distro Area Natural Sciences Foundational Discipline
+BIOL_SCI 164-0,BIOL_SCI,164-0,Basic Genetics and Evolution,1,Principles of inheritance as they apply to evolution. May not receive credit after taking BIOL_SCI 203-0. Natural Sciences Distro Area Natural Sciences Foundational Discipline
+BIOL_SCI 201-0,BIOL_SCI,201-0,Molecular Biology,1,"This course focuses on how information is stored and propagated in DNA, and used and regulated to generate proteins at the proper time and location. It also applies this information to understanding fundamentals of biotechnology. Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+BIOL_SCI 201-MG,BIOL_SCI,201-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in BIOL_SCI 201-0. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+BIOL_SCI 201-SG,BIOL_SCI,201-SG,Peer-Guided SG: Molecular Biology,0,"Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U. Co-requisite: BIOL_SCI 201-0."
+BIOL_SCI 202-0,BIOL_SCI,202-0,Cell Biology,1,"This course covers how biomolecules function together to generate the complexity of cells, and how cells behave collectively to communicate with each other and to enact key decisions, such as proliferation and cell death. 
+Prerequisite: Students must have completed, with a C- or better, BIOL_SCI 201-0 to register for this course. Must be taken concurrently with BIOL_SCI 232-0.
+Natural Sciences Distro Area"
+BIOL_SCI 202-SG,BIOL_SCI,202-SG,Peer-Guided SG: Cell Biology,0,"Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U. Co-requisite: BIOL_SCI 202-0."
+BIOL_SCI 203-0,BIOL_SCI,203-0,Genetics and Evolution,1,"This course provides an analytic framework for studying the flow of biological information across generations, and understanding how phenotypes reveal biological mechanisms. This framework is applied to development, cancer, the history of life, and mechanisms governing the evolution and distribution of organisms over time. 
+Prerequisite: Students must have completed, with a C- or better, BIOL_SCI 202-0 to register for this course. Must be taken concurrently with BIOL_SCI 233-0.
+ Natural Sciences Distro Area"
+BIOL_SCI 203-SG,BIOL_SCI,203-SG,Peer-Guided Study Group: Genetics and Evolution,0,"Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U. Co-requisite: BIOL_SCI 203-0."
+BIOL_SCI 213-0,BIOL_SCI,213-0,Undergraduate Teaching Assistant,0,Prerequisite: consent of instructor.
+BIOL_SCI 232-0,BIOL_SCI,232-0,Molecular and Cellular Processes Laboratory,0.34,Laboratory techniques and experiments in fundamental aspects of cell and molecular biology. Must be taken concurrently with BIOL_SCI 202-0.
+BIOL_SCI 233-0,BIOL_SCI,233-0,Genetics and Molecular Processes Laboratory,0.34,"Laboratory techniques and experiments in fundamental aspects of transmission genetics and molecular biology. 
+Prerequisite: Students must have completed BIOL_SCI 232-0. Must be taken concurrently with BIOL_SCI 203-0."
+BIOL_SCI 234-0,BIOL_SCI,234-0,Investigative Laboratory,0.34,"A culminating life-science laboratory experience. 
+Prerequisite: Students must have completed BIOL_SCI 233-0."
+BIOL_SCI 240-0,BIOL_SCI,240-0,"Biochemistry, Molecular and Cell Biology for ISP - 1",1,"This course aims to provide a framework for understanding the chemistry, structure and function of life’s smallest functional units known as cells. Starting out with a basic description of inherent properties of biological macromolecules, the course deals with information storage, the flow of genetic information, cytoskeleton, cell organelles, and cell division. 
+Prerequisite: Students must be enrolled in the Integrated Science Program to register for this course."
+BIOL_SCI 241-0,BIOL_SCI,241-0,"Biochemistry, Molecular and Cell Biology for ISP - 2",1,"The course takes an in depth look at how the chemical and physical properties of organic molecules drive all aspects of life. Focus on principles of chemical evolution/diversification, biological membranes, membrane transport processes, enzyme structure and function, molecular signaling and design principles of the metabolic engine that enables the breakdown and synthesis of biological macromolecules. 
+Prerequisites: Students must have completed CHEM 171-0, CHEM 172-0, CHEM 212-1, BIOL_SCI 240-0, and ISP standing."
+BIOL_SCI 301-0,BIOL_SCI,301-0,Principles of Biochemistry,1,"Biochemical processes. 
+Prerequisites: Students must have completed BIOL_SCI 201-0 and CHEM 210-1 or CHEM 212-1 or CHEM 215-1 or CHEM 217-1 to register for this course.
+ Natural Sciences Distro Area"
+BIOL_SCI 301-SG,BIOL_SCI,301-SG,Peer-Guided Study Group: Principles of Biochemistry,0,"Peer-guided study group for students enrolled in BIOL_SCI 301-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+BIOL_SCI 302-0,BIOL_SCI,302-0,Fundamentals of Neurobiology,1,"BIOL_SCI 302-0 Fundamentals of Neurobiology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 201-0, BIOL_SCI 202-0, BIOL_SCI 310-0, and BIOL_SCI 301-0 to register for this course. May not receive credit for both BIOL_SCI 302-0 and NEUROSCI 202-0."
+BIOL_SCI 303-0,BIOL_SCI,303-0,Molecular Neurobiology,1,"Exploration of the overlap between neurobiology and molecular biology. 
+Prerequisite: Students must have completed BIOL_SCI 302-0 or NEUROSCI 311-0 or NEURO 206-0 to register for this course."
+BIOL_SCI 307-0,BIOL_SCI,307-0,"Brain Structure, Function, and Evolution",1,"An overview of the evolution of the nervous system and cognition, from the origin of neurons to the structure and function of the human brain. No P/N. 
+Prerequisite: Students must have completed BIOL_SCI 302-0 or BIOL_SCI 325-0 or NEUROSCI 202-0 in order to register for this course.
+ Natural Sciences Distro Area"
+BIOL_SCI 310-0,BIOL_SCI,310-0,Human Physiology,1,"An exploration of the functions of the human body at the tissue, organ, and organ system level. Emphasis on homeostatic mechanisms and interdependence within organs and organ systems and the influence of modulatory systems. Topics will include, but are not limited to: nervous, cardiovascular, respiratory, and renal systems. 
+Prerequisites: Students must have completed BIOL_SCI 201-0, BIOL_SCI 202-0, and CHEM 132-0, CHEM 152-0, or CHEM 172-0.
+ Natural Sciences Distro Area"
+BIOL_SCI 315-0,BIOL_SCI,315-0,Advanced Cell Biology,1,"BIOL_SCI 315-0 Advanced Cell Biology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 201-0, BIOL_SCI 202-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 319-0,BIOL_SCI,319-0,Biology of Animal Viruses,1,"Virus structure, synthesis of viral nucleic acids and proteins, the interaction of the viral and cellular genomes. 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 323-0,BIOL_SCI,323-0,Bioinformatics:  Sequence and Structure Analysis,1,"BIOL_SCI 323-0 Bioinformatics: Sequence and Structure Analysis (1 Unit) 
+Prerequisite: Students must have taken BIOL_SCI 241-0 or BIOL_SCI 301-0 in order to register for this class."
+BIOL_SCI 325-0,BIOL_SCI,325-0,Animal Physiology,1,"Physiological principles and mechanisms responsible for the ability of animals to regulate variables in the steady state. 
+Prerequisite: Students must have completed BIOL_SCI 310-0 to register for this course."
+BIOL_SCI 327-0,BIOL_SCI,327-0,Biology of Aging,1,"BIOL_SCI 327-0 Biology of Aging (1 Unit) 
+Prerequisite: Students must have completed BIOL_SCI 201-0 and BIOL_SCI 202-0 to register for this course."
+BIOL_SCI 328-0,BIOL_SCI,328-0,Microbiology,1,"How microbes interact with their environments, including with humans. 
+Prerequisites: Students must have completed BIOL_SCI 201-0, BIOL_SCI 202-0, BIOL_SCI 203-0, and have completed or be currently enrolled in BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 332-0,BIOL_SCI,332-0,Conservation Genetics,1,"Critical issues in the management and understanding of endangered populations. 
+Prerequisite: Students must have completed BIOL_SCI 203-0 or ENVR_SCI 202-0 to register for this course."
+BIOL_SCI 333-0,BIOL_SCI,333-0,Plant-Animal Interactions,1,"Plant-animal interactions, and their consequences for individuals, populations, ecological communities, and ecosystems. Examination of how these interactions are responding to ongoing global factors such as anthropogenic habitat destruction and climate change. 
+Prerequisite: Students must have completed BIOL_SCI 203-0, or BIOL_SCI 339-0, or BIOL_SCI 341-0, or BIOL_SCI 342-0, or ENVR_SCI 202-0 to register for this course.
+ Natural Sciences Distro Area"
+BIOL_SCI 336-0,BIOL_SCI,336-0,Spring Flora,1,"Life cycles, vegetative and reproductive structures, and adaptations for pollination and fruit and seed dispersal of the wildflowers, trees, and shrubs of oak woodland. 
+Prerequisite: Students must have completed BIOL_SCI 203-0, or BIOL_SCI 339-0, or BIOL_SCI 341-0, or BIOL_SCI 342-0, or ENVR_SCI 202-0 to register for this course."
+BIOL_SCI 337-0,BIOL_SCI,337-0,Biostatistics,1,"Approaches, methods, and techniques for analyzing datasets in ecology and conservation biology. 
+Prerequisites: BIOL_SCI 201-0 or ENVR_SCI 202-0, and MATH 218-3 or MATH 220-2.
+ Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+BIOL_SCI 338-0,BIOL_SCI,338-0,Modeling Biological Dynamics,1,"BIOL_SCI 338-0 Modeling Biological Dynamics (1 Unit) 
+Prerequisite: at least one of MATH 218-1, MATH 220-1, MATH 240-0, STAT 202-0, BIOL_SCI 337-0, OR equivalent.
+Empirical and Deductive Reasoning Foundational Dis Formal Studies Distro Area"
+BIOL_SCI 339-0,BIOL_SCI,339-0,Critical Topics in Ecology and Conservation,1,"Seminar discussing historical and modern publications in the field. 
+Prerequisite: Students must have completed BIOL_SCI 203-0, or BIOL_SCI 341-0, or BIOL_SCI 342-0, or ENVR_SCI 202-0 to register for this course."
+BIOL_SCI 341-0,BIOL_SCI,341-0,Population Genetics,1,"BIOL_SCI 341-0 Population Genetics (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 203-0, and BIOL_SCI 337-0 or another course in statistics to register for this course."
+BIOL_SCI 342-0,BIOL_SCI,342-0,Evolutionary Processes,1,"Evolutionary mechanisms (natural selection, genetic drift), evolutionary history (speciation, phylogenetics), and adaptations (sex, cooperation, aging, life history). Prerequisite: 
+Prerequisites: Students must have completed BIOL_SCI 203-0, and BIOL_SCI 337-0 or another course in statistics to register for this course."
+BIOL_SCI 345-0,BIOL_SCI,345-0,Topics in Biology,1,"BIOL_SCI 345-0 Topics in Biology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 234-0 to register for this course."
+BIOL_SCI 346-0,BIOL_SCI,346-0,Field Ecology,1,"BIOL_SCI 346-0 Field Ecology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 203-0 and BIOL_SCI 337-0 or another course in statistics to register for this course."
+BIOL_SCI 347-0,BIOL_SCI,347-0,Conservation Biology,1,"BIOL_SCI 347-0 Conservation Biology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 203-0 or ENVR_SCI 202-0, and BIOL_SCI 337-0 or another course in statistics to register for this course."
+BIOL_SCI 349-0,BIOL_SCI,349-0,Community & Population Ecology,1,"Abundance, distribution, diversity, and scaling in plant communities in space-time. 
+Prerequisite: Students must have completed BIOL_SCI 203-0, or BIOL_SCI 339-0, or BIOL_SCI 341-0, or BIOL_SCI 342-0, or ENVR_SCI 202-0 to register for this course."
+BIOL_SCI 350-0,BIOL_SCI,350-0,Plant Evolution and Diversity Lab,1,"Introduction to the diversity and evolutionary history of land plants. 
+Prerequisite: Students must have completed BIOL_SCI 203-0, or BIOL_SCI 339-0, or BIOL_SCI 341-0, or BIOL_SCI 342-0, or ENVR_SCI 202-0 to register for this course."
+BIOL_SCI 354-0,BIOL_SCI,354-0,Systems Biology,1,"BIOL_SCI 354-0 Systems Biology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 201-0 and BIOL_SCI 202-0 to register for this course.
+Natural Sciences Distro Area"
+BIOL_SCI 355-0,BIOL_SCI,355-0,Immunobiology,1,"BIOL_SCI 355-0 Immunobiology (1 Unit) 
+Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 360-0,BIOL_SCI,360-0,Principles of Cell Signaling,1,"Emphasis on principles, components, and logic that are common to different cell signaling systems. Modern experimental strategies for studying cellular signaling as well as the implications of disrupting cell communication pathways in disease will be described. 
+Prerequisites: Students must have completed BIOL_SCI 202-0 and BIOL_SCI 203-0 to register for this course."
+BIOL_SCI 361-0,BIOL_SCI,361-0,Protein Structure and Function,1,"BIOL_SCI 361-0 Protein Structure and Function (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 363-0,BIOL_SCI,363-0,Biophysics,1,"Protein interaction with small molecules; protein tertiary structure determination. 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 377-0,BIOL_SCI,377-0,The Human Microbiome,1,"Course explores different communities of microorganisms in the human body – the gut, urogenital, oral, and skin microbiota, and how these communities contribute to or are altered in health and disease. Topics will include but are not limited to: the contribution of these communities to digestion and gut health, mood, obesity, the immune system, fertility and pregnancy, and neurological disorders. 
+Prerequisites: BIOL_SCI 201-0, BIOL_SCI 202-0, and BIOL_SCI 301-0 to register for this course.
+ Advanced Expression Natural Sciences Distro Area"
+BIOL_SCI 378-0,BIOL_SCI,378-0,Functional Genomics,1,"BIOL_SCI 378-0 Functional Genomics (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 202-0 and BIOL_SCI 203-0 to register for this course."
+BIOL_SCI 380-0,BIOL_SCI,380-0,Biology of Cancer,1,"The disease of cancer: causation at the cellular and molecular levels; treatment. 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 301-0 to register for this course. to register for this course."
+BIOL_SCI 381-0,BIOL_SCI,381-0,Stem Cells and Regeneration,1,"Developmental and molecular biology of tissue regeneration, with regard to regeneration from embryonic or adult stem cells. Discussion of conserved developmental pathways necessary for regeneration. Applications in regenerative medicine. 
+Prerequisites: Students must have completed BIOL_SCI 202-0 and BIOL_SCI 203-0 to register for this course.
+ Natural Sciences Distro Area"
+BIOL_SCI 390-0,BIOL_SCI,390-0,Molecular Biology of Genome Editing and Engineering,1,"BIOL_SCI 390-0 Molecular Biology of Genome Editing and Engineering (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 391-0,BIOL_SCI,391-0,Developmental Biology,1,"BIOL_SCI 391-0 Developmental Biology (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 202-0 or BIOL_SCI 240-0, and BIOL_SCI 301-0 or BIOL_SCI 241-0, and BIOL_SCI 203-0 to register for this course."
+BIOL_SCI 392-0,BIOL_SCI,392-0,Morphogenesis,1,"Development of overarching principles alongside classic readings of experiments exploring key concepts in developmental biology. 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, BIOL_SCI 234-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 393-0,BIOL_SCI,393-0,Human Genomics,1,"This course will examine how the analysis of the human genome and its variation provides insight into diversity, human health and our evolutionary history. 
+Prerequisite: BIOL_SCI 203-0.
+ Advanced Expression Natural Sciences Distro Area"
+BIOL_SCI 395-0,BIOL_SCI,395-0,Molecular Genetics,1,"BIOL_SCI 395-0 Molecular Genetics (1 Unit) 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 396-0,BIOL_SCI,396-0,Evolution and Diversity: Mushroom Genetics and Genomics,1,"The occurrence of natural genetic variation is the raw material with which evolution has sculpted every species that has ever existed. In this laboratory-based course, students are immersed in the world of a widespread and biologically famous mushroom-forming fungus. 
+Prerequisites: Students must have completed BIOL_SCI 202-0, BIOL_SCI 203-0, and BIOL_SCI 301-0 to register for this course."
+BIOL_SCI 397-0,BIOL_SCI,397-0,Senior Thesis Colloquium,1,"Supervision while writing a Senior Thesis. Discussion of students' research. Instructor feedback on thesis drafts. Continued student research. Enrollment limited to Senior Biological Sciences majors hoping to graduate with Program Honors and/or to produce a Senior Thesis. Registration required for all Honors candidates. 
+Prerequisites: BIOL_SCI 398-0 or BIOL_SCI 399-0, plus permission of instructor.
+ Advanced Expression"
+BIOL_SCI 398-0,BIOL_SCI,398-0,Tutorial in Biology,1,Supervised reading and discussion or supervised laboratory work. P/N only.
+BIOL_SCI 399-0,BIOL_SCI,399-0,Independent Research,1,"Supervised independent research project. 
+Prerequisite: BIOL_SCI 398-0 or previous BIOL_SCI 399-0."

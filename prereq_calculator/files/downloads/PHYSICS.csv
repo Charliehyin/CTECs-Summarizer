@@ -1,0 +1,102 @@
+code,category,number,title,units,desc
+PHYSICS 101-7,PHYSICS,101-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+PHYSICS 101-8,PHYSICS,101-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+PHYSICS 103-0,PHYSICS,103-0,Ideas of Physics,1,"Topics in modern physics. Content varies-for example, relativity, the physics of music, and the progress of physics through history. Requires only high school mathematics and is designed for non-science majors. Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 125-1,PHYSICS,125-1,General Physics ISP,1,"General physics course relying extensively on calculus. Similar to PHYSICS 135-1 but more advanced and intended for ISP students. A concurrent advanced calculus course, MATH 281-1 is offered by the mathematics department. 
+Prerequisite: first-year standing in ISP or consent of the department and concurrent enrollment in PHYSICS 126-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 125-2,PHYSICS,125-2,General Physics for ISP,1,"General physics course relying extensively on calculus. Similar to PHYSICS 135-2 but more advanced and intended for ISP students. A concurrent advanced calculus course, MATH 281-2, is offered by the mathematics department. 
+Prerequisite: first-year standing in ISP or consent of the department and concurrent enrollment in PHYSICS 126-2.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 125-3,PHYSICS,125-3,General Physics for ISP,1,"General physics course relying extensively on calculus. Similar to PHYSICS 135-3 but more advanced and intended for ISP students. A concurrent advanced calculus course, MATH 281-3 is offered by the mathematics department. 
+Prerequisite: first-year standing in ISP or consent of the department and concurrent enrollment in PHYSICS 126-3.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 126-1,PHYSICS,126-1,Physics Laboratory for ISP,0.34,"Introductory physics laboratory for students taking PHYSICS 125-1, with which it must be taken concurrently."
+PHYSICS 126-2,PHYSICS,126-2,Physics Laboratory for ISP,0.34,"Introductory physics laboratory for students taking PHYSICS 125-2, with which it must be taken concurrently."
+PHYSICS 126-3,PHYSICS,126-3,Physics Laboratory for ISP,0.34,"Introductory physics laboratory for students taking PHYSICS 125-3, with which it must be taken concurrently."
+PHYSICS 130-1,PHYSICS,130-1,College Physics,1,"Algebra-based physics primarily for premedical students who do not need to take calculus-based physics. Topics covered are similar to those of PHYSICS 135-1. Students with credit for a quarter of Physics 135 may not later receive credit for the comparable quarter of Physics 130. 
+Prerequisites: algebra, trigonometry, and concurrent enrollment in PHYSICS 136-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 130-2,PHYSICS,130-2,College Physics,1,"Algebra-based physics primarily for premedical students who do not need to take calculus-based physics. Topics covered are similar to those of PHYSICS 135-2. Students with credit for a quarter of Physics 135 may not later receive credit for the comparable quarter of Physics 130. 
+Prerequisites: PHYSICS 130-1, PHYSICS 136-1, and concurrent enrollment in PHYSICS 136-2.
+Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 130-3,PHYSICS,130-3,College Physics,1,"Algebra-based physics primarily for premedical students who do not need to take calculus-based physics. Topics covered are similar to those of PHYSICS 135-3. Students with credit for a quarter of Physics 135 may not later receive credit for the comparable quarter of Physics 130. 
+Prerequisites: PHYSICS 130-2, PHYSICS 136-2, and concurrent enrollment in PHYSICS 136-3.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 130-SG-1,PHYSICS,130-SG-1,Peer-Guided Study Group: College Physics 1,0,"Peer-guided study group for students enrolled in PHYSICS 130-1.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 130-SG-2,PHYSICS,130-SG-2,Peer-Guided Study Group: College Physics 2,0,"Peer-guided study group for students enrolled in PHYSICS 130-2.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 130-SG-3,PHYSICS,130-SG-3,Peer-Guided Study Group: College Physics 3,0,"Peer-guided study group for students enrolled in PHYSICS 130-3.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 135-1,PHYSICS,135-1,General Physics,1,"Calculus-based physics for science and engineering majors and premedical students. Mechanics. Must be taken concurrently with PHYSICS 136-1. 
+Prerequisites: MATH 220-1, MATH 220-2, and MATH 230-1 (may be taken concurrently).
+Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 135-2,PHYSICS,135-2,General Physics,1,"Calculus-based physics for science and engineering majors and premedical students. Electricity and magnetism. Must be taken concurrently with PHYSICS 136-2. 
+Prerequisites: PHYSICS 135-1, PHYSICS 136-1, MATH 230-1.
+Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 135-3,PHYSICS,135-3,General Physics,1,"Calculus-based physics for science and engineering majors and premedical students. Introduction to modern physics; wave phenomena. Must be taken concurrently with PHYSICS 136-3. 
+Prerequisites: PHYSICS 135-2, PHYSICS 136-2, MATH 230-1.
+Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 135-SG-1,PHYSICS,135-SG-1,Peer-Guided Study Group: General Physics 1,0,"Peer-guided study group for students enrolled in PHYSICS 135-1.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 135-SG-2,PHYSICS,135-SG-2,Peer-Guided Study Group: General Physics 2,0,"Peer-guided study group for students enrolled in PHYSICS 135-2.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 135-SG-3,PHYSICS,135-SG-3,Peer-Guided Study Group: General Physics 3,0,"Peer-guided study group for students enrolled in PHYSICS 135-3.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+PHYSICS 136-1,PHYSICS,136-1,General Physics Laboratory,0.34,"Introductory physics laboratory for students taking PHYSICS 130-1, PHYSICS 135-1, or PHYSICS 140-1, with which it must be taken concurrently."
+PHYSICS 136-2,PHYSICS,136-2,General Physics Laboratory,0.34-0.5,"Introductory physics laboratory for students taking PHYSICS 130-2 or PHYSICS 135-2, with which it must be taken concurrently."
+PHYSICS 136-3,PHYSICS,136-3,General Physics Laboratory,0.34,"Introduction to fundamental topics in classical mechanics for physics majors and minors and students with a strong interest in physics. Must be taken concurrently with PHYSICS 136-1. 
+Prerequisites: MATH 220-1, MATH 220-2, and MATH 230-1 (may be taken concurrently)."
+PHYSICS 140-1,PHYSICS,140-1,Fundamentals of Physics,1,"Introduction to fundamental topics in classical mechanics for physics majors and minors and students with a strong interest in physics. 
+Prerequisites: MATH 220-1, MATH 220-2; concurrent enrollment in PHYSICS 136-1 and MATH 230-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 140-2,PHYSICS,140-2,Fundamentals of Physics,1,"Introduction to fundamental topics in electricity and magnetism for physics majors and minors and students with a strong interest in physics. 
+Prerequisites: PHYSICS 140-1, PHYSICS 136-1; concurrent enrollment in PHYSICS 136-2.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 140-3,PHYSICS,140-3,Fundamentals of Physics,1,"Introduction to fundamental topics in wave phenomena and modern physics for physics majors and minors and students with a strong interest in physics. 
+Prerequisites: PHYSICS 140-2, PHYSICS 136-2; concurrent enrollment in PHYSICS 136-3.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 239-0,PHYSICS,239-0,Foundations of Modern Physics,1,"Principles of waves, probability, quantum theory, and selected topics from special relativity, statistical mechanics, optics, and atomic structure. 
+Prerequisites: PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3 or equivalent; MATH 250-0 or equivalent or concurrent enrollment.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+PHYSICS 311-1,PHYSICS,311-1,Mathematical Tools for the Physical Sciences,1,"Introduction to tools for solving physics problems, including integral calculus, complex numbers and complex algebra, matrices and vector spaces, differential equations, and Fourier analysis. 
+Prerequisites: PHYSICS 135-1 and PHYSICS 135-2 or equivalent (concurrent enrollment in PHYSICS 135-2 is sufficient); MATH 230-1.
+ Formal Studies Distro Area"
+PHYSICS 311-2,PHYSICS,311-2,Mathematical Tools for the Physical Sciences,1,"Introduction to tools for solving physics problems, including integral calculus, complex numbers and complex algebra, matrices and vector spaces, differential equations, and Fourier analysis. 
+Prerequisites: PHYSICS 135-3 (or concurrent enrollment); PHYSICS 311-1 or equivalent.
+ Formal Studies Distro Area"
+PHYSICS 312-0,PHYSICS,312-0,Scalar and Vector Field Methods in Physics,1,"Physically contextualized introduction to the field concept, the associated methods of calculus, and the solution of key physical partial differential equations. Three lectures and one discussion per week. 
+Prerequisites: PHYSICS 311-1, PHYSICS 311-2, or MATH 230-1, MATH 230-2, MATH 240-0, and MATH 250-0, or equivalents.
+ Natural Sciences Distro Area"
+PHYSICS 330-1,PHYSICS,330-1,Classical Mech,1,"Introduction to classical mechanics and mathematical methods of physics. Newtonian mechanics, oscillations, the Lagrangian and Hamiltonian formalisms, central-force motion. 
+Prerequisites: PHYSICS 135-1 or equivalent and MATH 230-2 and PHYSICS 311-1 and PHYSICS 311-2; or MATH 240-0, MATH 250-0; or equivalent."
+PHYSICS 330-2,PHYSICS,330-2,Classical Mechanics,1,"Introduction to classical mechanics and mathematical methods of physics. Motion in a non-inertial reference frame, kinematics of rigid modes, systems with many degrees of freedom. 
+Prerequisites: PHYSICS 330-1 or equivalent."
+PHYSICS 332-0,PHYSICS,332-0,Statistical Mechanics,1,"Ideal gas, Boltzmann distribution, transport phenomena, fluctuation theory, Bose-Einstein and Fermi-Dirac statistics. 
+Prerequisites: PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3; MATH 230-2 or equivalent."
+PHYSICS 333-1,PHYSICS,333-1,Advanced Electricity & Magnetism,1,"Electrostatics and magnetostatics, multipole expansion, solutions of Laplace's equation, images, analytic functions. 
+Prerequisites: PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3 and MATH 230-2 and PHYSICS 311-1 and PHYSICS 311-2; or MATH 240-0, MATH 250-0; or equivalent."
+PHYSICS 333-2,PHYSICS,333-2,Advanced Electricity & Magnetism,1,"Maxwell's equations, electromagnetic equations, electromagnetic wave propagation and radiation, microwave cavities, diffraction. 
+Prerequisites: PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3 and MATH 230-2 and PHYSICS 311-1 and PHYSICS 311-2; or MATH 240-0, MATH 250-0; or equivalent."
+PHYSICS 337-0,PHYSICS,337-0,Physics of Condensed Matter,1,"Emergent properties and collective descriptions when simple components of matter are combined into larger systems with varying degrees of order. 
+Prerequisite: PHYSICS 339-1; PHYSICS 332-0 recommended."
+PHYSICS 339-1,PHYSICS,339-1,Quantum Mechanics,1,"Introduction to quantum theory. Applications to atomic and molecular systems. The harmonic oscillator, the one-electron atom, the hydrogen molecule, barrier penetration. 
+Prerequisites: second-year standing in ISP or PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3 or equivalent; PHYSICS 239-0; PHYSICS 330-1; PHYSICS 311-1 or MATH 240-0."
+PHYSICS 339-2,PHYSICS,339-2,Quantum Mechanics,1,"Introduction to quantum theory. Applications to atomic and molecular systems. The harmonic oscillator, the one-electron atom, the hydrogen molecule, barrier penetration. 
+Prerequisites: PHYSICS 339-1, second-year standing in ISP or PHYSICS 311-2 or MATH 250-0, MATH 351-0."
+PHYSICS 339-3,PHYSICS,339-3,Particle and Nuclear Physics,1,"Nuclei and their constituents; nuclear models; alpha and beta decay; nuclear fission and fusion; the strong, electromagnetic, and weak interactions; and the fundamental particles and particle schemes. 
+Prerequisites: PHYSICS 339-1 and PHYSICS 339-2."
+PHYSICS 345-0,PHYSICS,345-0,Introduction to General Relativity,1,"Review of special relativity and Newtonian gravity; curved space-time; geodesics and conservation laws; Schwarzschild geometry; tests of general relativity; black holes; linearized gravity and gravitational waves; and big bang cosmology. 
+Prerequisites: PHYSICS 330-1 and PHYSICS 330-2 or consent of instructor."
+PHYSICS 352-0,PHYSICS,352-0,Introduction to Computational Physics,1,"Application of computing to physics: Monte Carlo simulation, numerical integration of equations of motion, discrete element methods in electromagnetism. 
+Prerequisites: PHYSICS 135-1, PHYSICS 135-2, and PHYSICS 135-3 or equivalent; MATH 250-0 or equivalent (concurrent enrollment is sufficient); COMP_SCI 110-0 or equivalent prior programming experience."
+PHYSICS 357-0,PHYSICS,357-0,Optics Laboratory,1,"Optics/laser lab focusing on optical instruments widely used in medical/biological studies, including optical microscopy, fluorescence spectroscopy, tumor detection in optical scattering, and optical fibers in endoscopes. 
+Prerequisite: consent of instructor.
+ Natural Sciences Distro Area"
+PHYSICS 359-0,PHYSICS,359-0,Electronics,1,"Introduction to modern electronics, construction of elementary analog and digital circuits. 
+Prerequisites: PHYSICS 333-1 and PHYSICS 333-2 or consent of instructor."
+PHYSICS 360-0,PHYSICS,360-0,Advanced Physics Laboratory,1,"Modern experimental techniques and data analysis methods. Both classic and modern experiments in atomic/nuclear physics, electricity and magnetism, optics, condensed matter physics, and nonlinear dynamics. This laboratory emphasizes independent work. This course consists primarily of two four-hour sessions per week, which may have lecture and laboratory periods. 
+Prerequisites: PHYSICS 239-0 or PHYSICS 339-1, and PHYSICS 333-1, or permission of instructor.
+Advanced Expression"
+PHYSICS 361-0,PHYSICS,361-0,Classical Optics and Special Relativity,1,"Advanced topics following from electrodynamics, including advanced classical optics, Fraunhofer and Fresnel diffraction, radiation from accelerated charges, wave guides and/or antennae, and special relativity, including dynamics. 
+Prerequisites: PHYSICS 333-1 and PHYSICS 333-2."
+PHYSICS 371-0,PHYSICS,371-0,Nonlinear Dynamics and Chaos,1,"This course covers the mathematics of nonlinear oscillations, fractal geometry, chaotic dynamics, the dynamics of complex systems, and physics applications of these ideas. Projects involving applications of nonlinear dynamics and chaos are integral to this course. 
+Prerequisites: PHYSICS 330-1 and PHYSICS 330-2, and some familiarity with computer programming."
+PHYSICS 390-0,PHYSICS,390-0,Topics in Physics,1,PHYSICS 390-0 Topics in Physics (1 Unit)  
+PHYSICS 398-0,PHYSICS,398-0,Independent Thesis Research,1-2 Units,Individual study under the direction of a faculty member. Open only to advanced students pursuing departmental honors.
+PHYSICS 399-0,PHYSICS,399-0,Independent Study,1-2 Units,Opportunity to study an advanced subject of interest under the individual direction of a faculty member. Open to all advanced students; consent of instructor required.

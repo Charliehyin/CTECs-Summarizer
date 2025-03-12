@@ -1,0 +1,127 @@
+code,category,number,title,units,desc
+CHEM 100-0,CHEM,100-0,Introduction to Calculus and Chemistry,1,For participants in Bio&ChemEXCEL summer program. Introduction to calculus and general chemistry. Taken with BIOL_SCI 100-0.
+CHEM 100-BR,CHEM,100-BR,Introduction to Problem Solving in Chemistry,0.5,"For participants in Bridge I summer program. Developing facility with quantitative tools to solve problems in chemistry. 
+Prerequisites: MATH 100-BR and HUM 100-1-BR."
+CHEM 105-7,CHEM,105-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+CHEM 105-8,CHEM,105-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+CHEM 110-0,CHEM,110-0,Quantitative Problem Solving in Chemistry,1.34 Units,"Solution strategies for traditional word problems and their application to basic chemistry quantitative problems: dimensional analysis, chemical equations, stoichiometry, limiting reagents. 
+Prerequisite: permission of department."
+CHEM 110-MG,CHEM,110-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in CHEM 110-0. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+CHEM 110-SG,CHEM,110-SG,Peer-Guided Study Group: Quantitative Problem Solving in Chemistry,0,"Peer-guided study group for students enrolled in CHEM 110-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 131-0,CHEM,131-0,Fundamentals of Chemistry I,1,"Quantum mechanics, electronic structure, periodic properties of elements, chemical bonding, thermodynamics, intermolecular forces, properties of solids and liquids, solutions and colligative properties. 
+Prerequisite: CHEM 110-0 (C- or better).
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 131-MG,CHEM,131-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in CHEM 131-0. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+CHEM 131-SG,CHEM,131-SG,Peer-Guided Study Group: Fundamentals of Chemistry I,0,"Peer-guided study group for students enrolled in CHEM 131-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 132-0,CHEM,132-0,Fundamentals of Chemistry II,1,"Chemical equilibrium, aqueous solution equilibria, chemical kinetics, metals in chemistry and biology, oxidation-reduction reactions and electrochemistry. 
+Prerequisites: CHEM 131-0, CHEM 141-0 (C- or better).
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 132-MG,CHEM,132-MG,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in CHEM 132-0. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+CHEM 132-SG,CHEM,132-SG,Peer-Guided Study Group: Fundamentals of Chemistry II,0,"Peer-guided study group for students enrolled in CHEM 132-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 141-0,CHEM,141-0,Fundamentals of Chemistry Laboratory I,0.34,"Chemical analysis of real samples using basic laboratory techniques including titration, colorimetric analysis, density measurements, and atomic spectroscopy. Planning, data collection, interpretation, and reporting on experiments. Must be taken concurrently with CHEM 131-0. 
+Prerequisite: CHEM 110-0 (C- or better)."
+CHEM 142-0,CHEM,142-0,Fundamentals of Chemistry Laboratory II,0.34,SUMMER OFFERING - Lab fee. Must be taken concurrently with Chem 132-0.
+CHEM 151-0,CHEM,151-0,General Chemistry I,1,"Quantum mechanics, electronic structure, periodic properties of elements, chemical bonding, thermodynamics, gas laws, intermolecular forces, properties of solids and liquids, solutions and colligative properties. 
+Prerequisite: permission of department by placement exam.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 151-SG,CHEM,151-SG,Peer-Guided Study Group: General Chemistry I,0,"Peer-guided study group for students enrolled in CHEM 151-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 152-0,CHEM,152-0,General Chemistry II,1,"Chemical equilibrium, aqueous solution equilibria, chemical kinetics, metals in chemistry and biology, oxidation-reduction reactions and electrochemistry. 
+Prerequisites: CHEM 151-0, CHEM 161-0 (C- or better).
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 152-SG,CHEM,152-SG,Peer-Guided Study Group: General Chemistry II,0,"Peer-guided study group for students enrolled in CHEM 152-0.  Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 161-0,CHEM,161-0,General Chemistry Laboratory I,0.34,"Chemical analysis of real samples using basic laboratory techniques including titration, colorimetric analysis, density measurements, and atomic spectroscopy. Planning, data collection, interpretation, and reporting on experiments. Must be taken concurrently with CHEM 151-0."
+CHEM 162-0,CHEM,162-0,General Chemistry Laboratory II,0.34,"Chemistry laboratory techniques applied to materials science and nanotechnology, acid-base chemistry, and chemical kinetics. Planning, data collection, interpretation, and reporting on experiments. Must be taken concurrently with CHEM 152-0. 
+Prerequisites: CHEM 151-0, CHEM 161-0 (C- or better)."
+CHEM 171-0,CHEM,171-0,Advanced General Inorganic Chemistry,1,"Review of mole problems and stoichiometry; descriptive chemistry, elements, compounds, and inorganic reactions; gas laws; phase equilibria and colligative properties; chemical equilibrium; aqueous equilibria; topics in chemical bonding and molecular structure. Must be taken concurrently with CHEM 181-0. 
+Prerequisite: department placement exam.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 172-0,CHEM,172-0,Advanced General Physical Chemistry,1,"Thermodynamics and equilibrium; chemical kinetics and mechanism; electrochemistry; electronic structure of the atom and quantum theory; advanced topics in chemical bonding; coordination compounds; solid-state chemistry; nuclear chemistry. Must be taken concurrently with CHEM 182-0. 
+Prerequisites: CHEM 171-0, CHEM 181-0 (C- or better); MATH 220-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 181-0,CHEM,181-0,Advanced General Inorganic Chemistry Laboratory,0.34,"Laboratory techniques for studying chemical analysis and chemical reactions relevant to environmental or materials research. Planning, data collection, interpretation, and reporting on experiments. Must be taken concurrently with CHEM 171-0. 
+Prerequisite: department placement exam."
+CHEM 182-0,CHEM,182-0,Advanced General Physical Chemistry Laboratory,0.34,"Study of physical chemistry (acid base chemistry, thermodynamics, etc.) in the laboratory. Planning, data collection, interpretation, and reporting on these experiments. Must be taken concurrently with CHEM 172-0. 
+Prerequisite: CHEM 171-0, CHEM 181-0 (C- or better)."
+CHEM 201-0,CHEM,201-0,Chemistry of Nature and Culture,1,Chemistry for the nonscientist. Chemicals commonly encountered in everyday life. Natural Sciences Distro Area Natural Sciences Foundational Discipline
+CHEM 215-1,CHEM,215-1,Organic Chemistry I,1,"Foundational concepts in organic chemistry will be introduced. Topics include structure and properties of common functional groups, acidity/basicity, conformational analysis, stereochemistry, and reactivity of organic compounds. 
+Prerequisites: CHEM 132-0 and CHEM 142-0, or CHEM 152-0 and CHEM 162-0, or CHEM 172-0 and CHEM 182-0 (C- or better); or qualifying score on the Chemistry Placement Exam. Must be taken concurrently with CHEM 235-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 215-2,CHEM,215-2,Organic Chemistry II,1,"Fundamental concepts in organic chemistry will be covered. The topics will include important functional groups and will include: nomenclature, structure, properties, and multistep synthesis. Reaction mechanisms for organic transformations will be presented, and synthesis strategies will be covered. 
+Prerequisite: Grade of C- or better in CHEM 215-1 and CHEM 235-1. Must be taken concurrently with CHEM 235-2.
+Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 215-3,CHEM,215-3,Organic Chemistry III,1,"Advanced concepts in modern organic chemistry will be introduced. The material will focus on recent developments in synthetic organic chemistry, including: concerted/pericyclic reactions, catalysis, green/environmental chemistry, automated synthesis, and combinatorial/screening methods. 
+Prerequisite: Grade of C- or better in CHEM 215-2 and in CHEM 235-2. Must be taken concurrently with CHEM 235-3.
+ Natural Sciences Distro Area"
+CHEM 215-MG-1,CHEM,215-MG-1,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in CHEM 215-1. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+CHEM 215-MG-2,CHEM,215-MG-2,Mentored Study Program,0,"Study sessions facilitated by undergraduate peer leaders, for students enrolled in CHEM 215-2. Meets weekly in small groups to collaboratively review material, solve practice problems, clarify concepts, and enhance study strategies. Enrollment optional. Graded S/U."
+CHEM 215-SG-1,CHEM,215-SG-1,Peer-Guided Study Group: Organic Chemistry I,0,"Peer-guided study group for students enrolled in CHEM 215-1. Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 215-SG-2,CHEM,215-SG-2,Peer-Guided Study Group: Organic Chemistry II,0,"Peer-guided study group for students enrolled in CHEM 215-2. Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 215-SG-3,CHEM,215-SG-3,Peer-Guided Study Group: Organic Chemistry III,0,"Peer-guided study group for students enrolled in CHEM 215-3. Meets weekly in small groups, along with a peer facilitator, to collaboratively review material, work through practice problems, and clarify course concepts. Enrollment optional. Graded S/U."
+CHEM 217-1,CHEM,217-1,Accelerated Organic Chemistry I,1,"Primarily for chemistry majors and students in ISP. Basic concepts of structure, stereochemistry, and reactivity of organic compounds. The chemistry of hydrocarbons and alcohols. No P/N registration. 
+Prerequisites: CHEM 132-0 and CHEM 142-0, or CHEM 152-0 and CHEM 162-0, or CHEM 172-0 and CHEM 182-0 (C- or better), or department placement. Must be taken concurrently with CHEM 237-1. Students may not receive credit for both CHEM 217-1 and 212-1.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 217-2,CHEM,217-2,Accelerated Organic Chemistry II,1,"Primarily for chemistry majors and students in ISP. The chemistry of aromatic, carbonyl, and nitrogen compounds; characterization of organic substances by chemical and spectral methods; reaction mechanisms. No P/N registration. 
+Prerequisites: CHEM 217-1 and CHEM 237-1 (C- or better). Must be taken concurrently with CHEM 237-2. Students may not receive credit for both CHEM 217-2 and 212-2.
+ Natural Sciences Distro Area Natural Sciences Foundational Discipline"
+CHEM 217-3,CHEM,217-3,Accelerated Organic Chemistry III,1,"Primarily for chemistry majors and students in ISP. The chemistry of poly-functional compounds of biological and medicinal interest. Modern organic syn-thesis, bioorganic chemistry, and recent developments in organic chemistry. No P/N registration. 
+Prerequisites: CHEM 217-2 and CHEM 237-2 (C- or better). Must be taken concurrently with CHEM 235-3. Students may not receive credit for both CHEM 217-3 and 212-3.
+ Natural Sciences Distro Area"
+CHEM 220-0,CHEM,220-0,Introductory Instrumental  Analysis,1,"Introduction to basic laboratory techniques in analytical chemistry and spectroscopy. Topics include infrared and UV-visible spectroscopy, gas and liquid chromatography, elemental and thermal analysis, simple x-ray diffraction, error analysis, and literature searching techniques. 
+Prerequisites: CHEM 132-0 and CHEM 142-0, or CHEM 152-0 and CHEM 162-0, or CHEM 172-0 and CHEM 182-0 (C- or better), or equivalent."
+CHEM 235-1,CHEM,235-1,Organic Chemistry Lab I,0.34,"Standard laboratory techniques in organic chemistry will be covered. Techniques will focus on the isolation and purification of organic compounds as well as the use of spectroscopic methods to determine identity and purity. 
+Prerequisite: CHEM 132-0 and CHEM 142-0, or CHEM 152-0 and CHEM 162-0, or CHEM 172-0 and CHEM 182-0 (C- or better); or qualifying score on the Chemistry Placement Exam. Must be taken concurrently with CHEM 215-1."
+CHEM 235-2,CHEM,235-2,Organic Chemistry Lab II,0.34,"Complete laboratory experiments focusing on standard synthetic organic chemistry will be conducted each week. Students will complete a prelab worksheet including stoichiometric calculations, prediction of reaction outcome, and identification of safety protocols. 
+Prerequisite: Grade of C- or better in CHEM 215-1 and CHEM 235-1. Must be taken concurrently with CHEM 215-2."
+CHEM 235-3,CHEM,235-3,Organic Chemistry Lab III,0.34,"Current laboratory practices for organic synthesis will be introduced. Reactions will include mechanistically complex multi-step process for the preparation of compounds related to topical themes from academic research and industrial chemistry. Synthetic targets will include complex small molecules, polymers, and molecules of biological relevance. 
+Prerequisite: Grade of C- or better in CHEM 215-2 and in CHEM 235-2. Must be taken concurrently with CHEM 215-3 or CHEM 217-3."
+CHEM 237-1,CHEM,237-1,Accelerated Organic Chemistry Laboratory I,0.34,"Primarily for chemistry majors and students in ISP. Molecular modeling, unknown identification by spectroscopic methods, and experimental techniques of modern chemistry emphasizing reactions of alkanes, alkenes, alkyl halides, alcohols, and carbonyls. 
+Prerequisites: CHEM 132-0 and CHEM 142-0, or CHEM 152-0 and CHEM 162-0, or CHEM 172-0 and CHEM 182-0 (C- or better), or equivalent. Must be taken concurrently with CHEM 217-1. Students may not receive credit for both CHEM 237-1 and 232-1."
+CHEM 237-2,CHEM,237-2,Accelerated Organic Chemistry Laboratory II,0.34,"Primarily for chemistry majors and students in ISP. Techniques of modern organic chemistry including NMR spectroscopy and reactions such as electrophilic aromatic substitution, esterification, Grignard reaction, aldol condensation, Robinson annulation, and Diels-Alder reaction. 
+Prerequisites: CHEM 217-1 and CHEM 237-1 (C- or better). Must be taken concurrently with CHEM 217-2. Students may not receive credit for both CHEM 237-2 and 232-2."
+CHEM 302-0,CHEM,302-0,Principles of Inorganic Chemistry,1,"Topics in advanced inorganic chemistry. CHEM 302-0 and CHEM 402-0 are taught together. 
+Prerequisite: CHEM 333-0 or consent of instructor."
+CHEM 303-0,CHEM,303-0,Principles of Physical Chemistry,1,"An overview of advanced topics in physical chemistry. CHEM 303-0 and CHEM 403-0 are taught together. 
+Prerequisites: CHEM 342-1 and CHEM 342-2 and CHEM 342-3."
+CHEM 305-0,CHEM,305-0,Chemistry of Life Processes,1,"Topics in the chemistry and biochemistry of life processes. Taught with CHEM 405-0. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better); and 1 biochemistry course; or consent of instructor."
+CHEM 306-0,CHEM,306-0,Environmental Chemistry,1,"Topics in the physical chemistry of the environment. Taught with CHEM 406-0. 
+Prerequisites: CHEM 215-2 or CHEM 212-3 or 217-3 (C- or better); MATH 230-2; PHYSICS 135-1 and PHYSICS 135-2; or consent of instructor."
+CHEM 307-0,CHEM,307-0,Supramolecular Design of Materials and Nanostructures,1,"Introduction to frontier research at the interface of chemistry and materials science. CHEM 307-0 and CHEM 407-0 are taught together. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better)."
+CHEM 308-0,CHEM,308-0,"Design, Synthesis, and Applications of Nanomaterials",1,"Fabrication, chemical synthesis, assembly, and characterization of controlled-dimensionality materials, including metals, semiconductors, oxides, polymers, and mesoporous scaffolds. Interfacial phenomena and particle stability, nano forms of carbon, and material design. Taught with CHEM 408-0. 
+Prerequisite: 1 quarter of physical chemistry or consent of instructor."
+CHEM 309-0,CHEM,309-0,Polymer Chemistry,1,"This course will cover the design and synthesis of polymers, including reaction mechanisms, characterization, and structure-property relationships. CHEM 309-0 is taught with CHEM 409-0.   Prerequisites (for undergraduates only): CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better); and one of the following courses: CHEM 307-0, CHEM 313-0, CHEM 319-0, CHEM 412-0, or CHEM 415-0."
+CHEM 310-1,CHEM,310-1,Physical Organic Chemistry I,1,"An introduction to the concepts and methods of physical organic chemistry, including: molecular orbital theory, orbital symmetry and reactivity, conformational analysis and stereochemistry, stereoelectronic effects, intermolecular forces and solvation, transition state theory, free energy relationships and kinetic isotope effects, and reactive intermediates. 
+Prerequisites: Students must have completed CHEM 215-3 or CHEM 217-3 or equivalent to enroll."
+CHEM 310-2,CHEM,310-2,Physical Organic Chemistry II,1,"Expansion on the concepts and practices of physical organic chemistry including: orbital symmetry and reactivity, energy surfaces and Marcus theory, single-electron transfer reactions, solvent effects, nucleophilic and electrophilic reactivity, photochemistry and photocatalysis, organic electronic materials. 
+Prerequisites: CHEM 215-3 or CHEM 217-3 or equivalent. CHEM 310-1 strongly recommended."
+CHEM 313-0,CHEM,313-0,Advanced Organic Chemistry 1. Advanced concepts of organic reactivity and selectivity in synthesis.,1,"Strategies and tactics involved in complex target synthesis. Modern reaction classes as applied to chemical synthesis, coupled to in-depth discussion of the underlying key principles of synthesis design and execution, are covered in the class. Students will gain experience in problem solving, creative thinking, structural analysis and presentation skills. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better)."
+CHEM 314-0,CHEM,314-0,Principles of Chemical Biology,1,"Introduction to using chemical principles in biology and medicine. Experimental techniques and experiments in chemical biology. Suitable for students in chemistry, engineering, and biology. Taught with CHEM 415-0. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better); and 1 quarter of biology; or consent of instructor."
+CHEM 316-0,CHEM,316-0,Medicinal Chemistry: the Organic Chemistry of Drug Design and Action,1,"Introduction to principles of drug design and mechanisms of drug action from a chemical viewpoint. Historical introduction, drug design and development, receptors, enzymes and enzyme inhibitors, DNA, drug metabolism, and prodrugs. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 (C- or better); or consent of instructor."
+CHEM 319-0,CHEM,319-0,Advanced Organic Synthesis - Concepts and Applications,1,"Synthesis of natural products and other medicinally relevant organic compounds. Retrosynthetic analysis, substructure keying, and pattern recognition. Classic and modern organic reactions. Terpenes, alkaloids, polyketides, steroids, proteins, and pharmaceuticals. 
+Prerequisites: CHEM 215-3 or CHEM 212-3 or 217-3 (C- or better)."
+CHEM 333-0,CHEM,333-0,Inorganic Chemistry,1,"Descriptive chemistry of some important elements. Current concepts and models of chemical bonding. 
+Prerequisites: 2 200-or 300-level chemistry courses."
+CHEM 342-1,CHEM,342-1,Thermodynamics,1,"Laws of applications of thermodynamics. Thermochemistry, chemical potentials, solution thermodynamics, nonideal gases. 
+Prerequisites: CHEM 132-0 or CHEM 152-0 or CHEM 172-0 or CHEM 215-3 or CHEM 212-3 or CHEM 217-3 (C- or better); and MATH 230-1."
+CHEM 342-2,CHEM,342-2,Quantum Mechanics and Spectroscopy,1,"Quantum mechanics with emphasis on atomic and molecular electronic structure. Electronic, vibrational, rotational, and magnetic resonance spectroscopy. 
+Prerequisites: MATH 230-2; PHYSICS 135-1 and 135-2; and CHEM 342-1."
+CHEM 342-3,CHEM,342-3,Kinetics and Statistical Thermodynamics,1,"Chemical kinetics, including experimental techniques and theories of rate processes. Statistical mechanics, including Boltzmann distribution, partition functions, and applications to thermodynamics. 
+Prerequisites: CHEM 342-1 and CHEM 342-2 (C- or better)."
+CHEM 348-0,CHEM,348-0,Physical Chemistry for ISP,1,"Gas laws and properties; kinetic theory; first, second, and third laws; phase equilibria; mixtures, phase diagrams, statistical thermodynamics, kinetics. 
+Prerequisites: ISP enrollment; CHEM 172-0 and CHEM 182-0 (C- or better); MATH 281-1, MATH 281-2, MATH 281-3; or consent of department."
+CHEM 350-1,CHEM,350-1,Advanced Laboratory 1,1,"Advanced laboratory techniques in synthetic and analytical chemistry and spectroscopy: mass spectrometry, chromatography, NMR spectroscopy, and organic synthesis techniques. 
+Prerequisites: CHEM 220-0; and CHEM 215-3 or CHEM 212-3, and CHEM 235-3 (C- or better); or equivalent."
+CHEM 350-2,CHEM,350-2,Advanced Laboratory 2,1,"Advanced laboratory techniques in synthetic and analytical chemistry and spectroscopy, polymer characterization methods, electrochemistry, x-ray crystallography, atomic spectroscopy, and inorganic synthesis techniques. 
+Prerequisites: CHEM 333-0 and CHEM 350-1 (C- or better) or equivalent."
+CHEM 350-3,CHEM,350-3,Advanced Laboratory 3,1,"Advanced laboratory techniques in synthetic and analytical chemistry and spectroscopy: infrared and Raman spectroscopy, electronic spectroscopy, fast kinetics, organic and inorganic synthesis techniques in a self-guided project. 
+Prerequisites: CHEM 342-2 or equivalent and CHEM 350-2 (C- or better)."
+CHEM 393-0,CHEM,393-0,Green Chemistry,1,"Practices of environmentally benign chemistry as applied to the chemical industry. Introduction to the concept and discipline of green chemistry; growth and expansion of the discipline in historical context from its origins in the early 1990s to the present. 
+Prerequisites: CHEM 215-2 or CHEM 217-2 (C- or better)."
+CHEM 398-0,CHEM,398-0,Undergraduate Seminar,1,"Advanced work for superior students through supervised reading, research, and discussion. 
+Prerequisite: consent of department."
+CHEM 399-0,CHEM,399-0,Independent Study,1,"Faculty-directed research. Must be taken P/N for first 2 quarters. 
+Prerequisite: consent of department."

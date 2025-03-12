@@ -1,0 +1,66 @@
+code,category,number,title,units,desc
+ITALIAN 101-1,ITALIAN,101-1,Elementary Italian,1,"Emphasis on oral communication, supported by grammar, writing, reading, and listening. Four class meetings a week. 
+Prerequisite: none."
+ITALIAN 101-2,ITALIAN,101-2,Elementary Italian,1,"Emphasis on oral communication, supported by grammar, writing, reading, and listening. Four class meetings a week. 
+Prerequisite: Grade of at least C- in ITALIAN 101-1 or Department placement."
+ITALIAN 101-3,ITALIAN,101-3,Elementary Italian,1,"Emphasis on oral communication, supported by grammar, writing, reading, and listening. Four class meetings a week. 
+Prerequisite: Grade of at least C- in ITALIAN 101-2 or Department placement."
+ITALIAN 102-1,ITALIAN,102-1,Intermediate Italian,1,"Grammar review, conversation, composition, and readings in modern prose and drama. Four class meetings a week. 
+Prerequisite: ITALIAN 101-3 or equivalent."
+ITALIAN 102-2,ITALIAN,102-2,Intermediate Italian,1,"Grammar review, conversation, composition, and readings in modern prose and drama. Four class meetings a week. 
+Prerequisite: Grade of at least a C- in ITALIAN 102-1 or Department placement."
+ITALIAN 102-3,ITALIAN,102-3,Intermediate Italian,1,"Grammar review, conversation, composition, and readings in modern prose and drama. Four class meetings a week. 
+Prerequisite: Grade of at least C- in ITALIAN 102-2 or Department placement."
+ITALIAN 103-1,ITALIAN,103-1,Italian for Musicians,1,"Italian language course for musicians, focusing on developing comprehension and pronunciation skills for operatic performance. Analysis of libretti and scores of Italian operas. 
+Prerequisite: Grade of at least C- in ITALIAN 101-2 or Department placement."
+ITALIAN 105-7,ITALIAN,105-7,College Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and introducing skills necessary to thriving at Northwestern. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+ITALIAN 105-8,ITALIAN,105-8,First-Year Writing Seminar,1,"Small, writing and discussion-oriented course exploring a specific topic or theme, and focused on the fundamentals of effective, college-level written communication. Not eligible to be applied towards a WCAS major or minor except where specifically indicated."
+ITALIAN 106-0,ITALIAN,106-0,Italian for Research,0,ITALIAN 106-0 Italian for Research (0 Unit)  
+ITALIAN 110-0,ITALIAN,110-0,Italian in the Business World,1,Italian language course with an emphasis on communication and a cultural focus on business and its practices.
+ITALIAN 133-1,ITALIAN,133-1,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-1 and ITALIAN 134-1 and receive 2 credits a quarter. Four two-hour class meetings a week. 
+Prerequisite: none."
+ITALIAN 133-2,ITALIAN,133-2,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-2 and ITALIAN 134-2 and receive 2 credits a quarter. Four two-hour class meetings a week. 
+Prerequisite: Grade of at least C- in ITALIAN 133-1 and ITALIAN 134-1 or Department placement."
+ITALIAN 133-3,ITALIAN,133-3,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-3 and ITALIAN 134-3 and receive 2 credits a quarter. Four two-hour class meetings a week. 
+Prerequisite: Grade of at least C- in ITALIAN 133-2 and ITALIAN 134-2 or Department placement."
+ITALIAN 134-1,ITALIAN,134-1,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-1 and ITALIAN 134-1 and receive 2 credits per quarter. Four two-hour class meetings per week. 
+Prerequisite: none."
+ITALIAN 134-2,ITALIAN,134-2,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-2 and ITALIAN 134-2 and receive 2 credits per quarter. Four two-hour class meetings per week. 
+Prerequisite: Grade of at least C- in ITALIAN 133-1 and ITALIAN 134-1 or Department placement."
+ITALIAN 134-3,ITALIAN,134-3,Intensive Italian,1,"Intensive double course covers two years of Italian language, the equivalent of Italian 101 and Italian 102, in a single academic year. Students enroll concurrently in ITALIAN 133-3 and ITALIAN 134-3 and receive 2 credits per quarter. Four two-hour class meetings per week. 
+Prerequisite: Grade of at least C- in ITALIAN 133-2 and ITALIAN 134-2 or Department placement."
+ITALIAN 201-0,ITALIAN,201-0,Italian Through Media,1,"Issues from Italian media; frequent oral and written reports: for instance, America in Italian media, advertising, immigration, youth culture. Students produce a newspaper or newscast at the end of the quarter. Required bridge course in the major/minor sequence. 
+Prerequisite: ITALIAN 102-3 or ITALIAN 133-3 / ITALIAN 134-3 or equivalent."
+ITALIAN 202-0,ITALIAN,202-0,Italian Through the Arts,1,"Students are introduced to pivotal objects, texts, and currents in the history of Italian visual arts (painting, sculpture, architecture, cinema). Required bridge course in the major/minor sequence. 
+Prerequisite: ITALIAN 102-3 or ITALIAN 133-3 / ITALIAN 134-3 or equivalent.
+Literature Fine Arts Distro Area"
+ITALIAN 203-0,ITALIAN,203-0,Creative Writing in Italian,1,"A course meant to improve written Italian through exercises and experiments in a variety of genres and styles. Required bridge course in the major/minor sequence. 
+Prerequisite: ITALIAN 102-3 or ITALIAN 133-3 / ITALIAN 134-3 or equivalent."
+ITALIAN 204-0,ITALIAN,204-0,Introduction to Italian Literature,1,"Introduction to the history, genres, and themes of Italian literature. Course content may vary, focusing on reading, comprehension, and interpretive skills. May be repeated for credit with change in topic. 
+Prerequisite: ITALIAN 102-3 or equivalent proficiency.
+Literature Fine Arts Distro Area"
+ITALIAN 205-0,ITALIAN,205-0,Voyage Through Italy,1,"An exploration of Italy’s transnational history and identity. Addresses questions of internal and external migration, linguistic plurality, territory and ecology. 
+Prerequisite: ITALIAN 102-3 or ITALIAN 133-3 / ITALIAN 134-3 or equivalent proficiency."
+ITALIAN 206-0,ITALIAN,206-0,Business Italian,1,Introduction to the business and economic environment in Italy. Study of business practice and development of linguistic skills necessary for professional communication.
+ITALIAN 207-0,ITALIAN,207-0,Conversation in Italian,1,"Introduction to Italian culture. Emphasizes group activities and focuses on listening comprehension and speaking skills. 
+Prerequisite: ITALIAN 102-3 or ITALIAN 133-3 / ITALIAN 134-3 or equivalent proficiency."
+ITALIAN 250-0,ITALIAN,250-0,Topics in Italian Culture and Literature,1,"Cross-disciplinary exploration of a defined topic in Italian studies as it interacts with other cultural and literary traditions-for example, aspects of love. May be repeated for credit with change of topic. Literature Fine Arts Distro Area"
+ITALIAN 251-0,ITALIAN,251-0,Introduction to Italian Cinema,1,"Focus on filmmakers fundamental to the development of modern cinema (including Rossellini, Fellini, and Antonioni) from 1942 to the present. Emphasis on formal analysis and film criticism. Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+ITALIAN 275-0,ITALIAN,275-0,Dante's Divine Comedy,1,"Introduction to the Divine Comedy, its artistic and intellectual achievement, and its cultural and historical context. Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+ITALIAN 277-0,ITALIAN,277-0,Global Neorealism,1,"Exploration of Italian neorealism and its influence on European (especially the French New Wave), New Latin American, West African, and Indian cinema. Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+ITALIAN 304-0,ITALIAN,304-0,Politics and Mass Culture,1,"Investigates the relation between politics and media (newspapers, radio, cinema, television, social media) from the Fascist period to the present. Texts in Italian and/or English, taught in English."
+ITALIAN 306-0,ITALIAN,306-0,Migrations,1,"Investigates literature, arts, media in relation to groups that official culture has defined as other, either beyond or within its geographical boundaries. Texts in Italian and/or English, taught in English. Literature Fine Arts Distro Area"
+ITALIAN 310-0,ITALIAN,310-0,Reading Italian Literature,1,"Introduction to principal genres of Italian literature in historical and cultural context from the Middle Ages to the present. Authors include Dante, Boccaccio, Goldoni, Leopardi, Verga, Pirandello, Levi, and Montale. Texts in Italian and/or English, taught in English. Literature Fine Arts Distro Area"
+ITALIAN 347-0,ITALIAN,347-0,Italy in Art and Literature,1,"Interdisciplinary course on Italian culture from the Middle Ages to the present. Each week pairs an artist with an author-for instance, Giotto/Dante, Michelangelo/Vittoria Colonna, Caravaggio/Galilei, De Chirico/Pirandello, Fellini/Flaiano. Texts in Italian and/or English, taught in English. Literature Fine Arts Distro Area"
+ITALIAN 348-0,ITALIAN,348-0,The Italian Novella,1,"Exploration of Italian culture through the form of the novella from the Middle Ages to the present. Each week is devoted to a groundbreaking author, such as Boccaccio, Sacchetti, Basile, Pirandello, Flaiano, and Calvino. Texts in Italian and/or English, taught in English. Literature Fine Arts Distro Area"
+ITALIAN 349-0,ITALIAN,349-0,Topics in Italian Culture and Literature,1,Advanced exploration of special topics in Italian studies.
+ITALIAN 350-0,ITALIAN,350-0,Advanced Topics in Italian Culture and Literature,1,"Advanced exploration of special topics in Italian studies determined by the research interests of a visiting scholar. May be repeated for credit with change of topic. 
+Prerequisite: consent of instructor.
+Literature Fine Arts Distro Area"
+ITALIAN 351-0,ITALIAN,351-0,Italian Film and Transnational Cinema,1,"In-depth exploration of key Italian filmmakers in the context of transnational cinema. Focus on relation between filmmakers (including Visconti/Renoir, Rossellini/Godard, and Antonioni/Wenders) and dynamics of cinematic style and cultural influence. Literature Fine Arts Distro Area"
+ITALIAN 360-0,ITALIAN,360-0,From the Avant-Garde to the Post-Modern,1,"Major authors and movements animating the modern and contemporary literary scene. Content varies-for example, futurism, feminist Italian fiction, and intellectuals and politics from D'Annunzio to Pasolini, Calvino, Eco, and the postmodern. Literature Fine Arts Distro Area"
+ITALIAN 370-0,ITALIAN,370-0,Major Figures in Italian History and Culture,1,"Investigation of the strategic roles played by Italian artists (da Vinci), scientists (Galileo), and political philosophers (Machiavelli, Vico) in forming the canon of modern thought."
+ITALIAN 374-0,ITALIAN,374-0,Love and Sexuality in the Early Modern Period,1,Analysis of how love and sexuality work as generalized symbolic media of communication in early modern Italian society and culture. Literature Fine Arts Distro Area
+ITALIAN 377-0,ITALIAN,377-0,Gender and Sexuality in Italian Culture,1,"Interdisciplinary course on gender and visual practices in Italy (photography, film, television, and video). Global Perspectives on Power, Justice, and Equity Literature Fine Arts Distro Area Literature and Arts Foundational Discipline"
+ITALIAN 398-0,ITALIAN,398-0,Undergraduate Seminar,1,"Advanced analysis and research of a topic in Italian culture. History of culture, literature, philosophy, the visual arts, film studies and theory of the image, gender and sexuality in contemporary Italy."
+ITALIAN 399-0,ITALIAN,399-0,Independent Study,1,Supervised independent reading. Consult the director of undergraduate studies.

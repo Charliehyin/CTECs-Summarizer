@@ -1,0 +1,13 @@
+code,category,number,title,units,desc
+TURKISH 111-1,TURKISH,111-1,Turkish I,1,"This sequence offers students a systematic introduction to Turkish language and culture through TV shows. Students will immerse themselves in the personal stories and everyday realities of life in Istanbul. Course emphasizes speaking, listening comprehension, reading, and writing. 
+Prerequisite: None or one year of high-school Turkish or placement test results."
+TURKISH 111-2,TURKISH,111-2,Turkish I,1,"This sequence offers students a systematic introduction to Turkish language and culture through TV shows. Students will immerse themselves in the personal stories and everyday realities of life in Istanbul. Course emphasizes speaking, listening comprehension, reading, and writing. 
+Prerequisite: TURKISH 111-1 or equivalent."
+TURKISH 111-3,TURKISH,111-3,Turkish I,1,"This sequence offers students a systematic introduction to Turkish language and culture through TV shows. Students will immerse themselves in the personal stories and everyday realities of life in Istanbul. Course emphasizes speaking, listening comprehension, reading, and writing. 
+Prerequisite: Turkish 111-2 or placement test results."
+TURKISH 121-1,TURKISH,121-1,Turkish II,1,"This sequence further develops speaking, listening comprehension, reading, and writing, through the use of printed and audiovisual materials in Turkish. Offers insights into modern Turkish culture. 
+Prerequisite: TURKISH 111-3 or equivalent."
+TURKISH 121-2,TURKISH,121-2,Turkish II,1,"This sequence further develops speaking, listening comprehension, reading, and writing, through the use of printed and audiovisual materials in Turkish. Offers insights into modern Turkish culture. 
+Prerequisite: TURKISH 121-1 or equivalent."
+TURKISH 121-3,TURKISH,121-3,Turkish II,1,"This sequence further develops speaking, listening comprehension, reading, and writing, through the use of printed and audiovisual materials in Turkish. Offers insights into modern Turkish culture. 
+Prerequisite: TURKISH 121-2 or equivalent."
