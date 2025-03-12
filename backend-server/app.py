@@ -9,7 +9,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app)
+# Update CORS to allow both localhost and your production domain
+CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://ctecs.nu"]}})
 
 # Load any configuration (if needed in app context)
 config = load_config()
