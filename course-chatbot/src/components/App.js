@@ -121,7 +121,7 @@ const App = () => {
         },
         body: JSON.stringify({ 
           message: userMessage,
-          top_k: 3
+          top_k: 10
         }),
       });
 
