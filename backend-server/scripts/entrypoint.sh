@@ -1,6 +1,7 @@
 #!/bin/sh
 # Run the assistant initialization script before starting the server
 python scripts/init_assistant.py
+python scripts/compute_embeddings.py
 
 # Ensure the directory for the PID file exists
 mkdir -p /var/pids

@@ -2,6 +2,8 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Send } from 'lucide-react';
 import Login from './Login';
 
+const api_base_url = process.env.REACT_APP_API_BASE_URL;
+
 const OpenAIResponse = ({ response }) => {
   const cleanedResponse = response.replace(/【\d+:\d+†source】/g, "");
   
@@ -95,20 +97,21 @@ const App = () => {
       setShowGreeting(false);
     }
 
-    const userMessage = input.trim();
+    let userMessage = input.trim();
     setInput(''); // Clear input field
     setMessages((prev) => [...prev, { text: userMessage, isUser: true }]);
     setIsLoading(true);
     
+    // RAG API call
     try {
-      const response = await fetch('http://Ctecs-backend-env-1.eba-pyymryr9.us-east-2.elasticbeanstalk.com/api/chat', {
+      const response = await fetch(`${api_base_url}/rag`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({ 
           message: userMessage,
-          user: user?.email || 'guest'
+          top_k: 3
         }),
       });
 
@@ -117,17 +120,51 @@ const App = () => {
       }
 
       const data = await response.json();
-      setMessages((prev) => [...prev, { text: data.response, isUser: false }]);
+      // Store the RAG response data to prepend to the user message
+      const ragResponse = data.response;
+      
+      // Prepend the RAG response to the user message for context
+      const promptInstructions = "Please quote information you used from the context to answer the user query, if relevant.";
+      userMessage = `Context from course reviews:\n${ragResponse}\n\nUser query: ${userMessage}\n\n${promptInstructions}`;
+      
     } catch (error) {
       console.error('Error details:', error);
       setMessages((prev) => [
         ...prev,
-        { text: `Sorry, there was an error processing your request. Please make sure the backend server is running.`, isUser: false },
+        { text: `Sorry, there was an error processing your request. Please make sure the backend server for RAGis running.`, isUser: false },
       ]);
     } finally {
-      setIsLoading(false);
+        // Chat API call
+        try {
+            const response = await fetch(`${api_base_url}/chat`, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ 
+                message: userMessage,
+                user: user?.email || 'guest'
+            }),
+            });
+
+            if (!response.ok) {
+            throw new Error(`API responded with status: ${response.status}`);
+            }
+
+            const data = await response.json();
+            setMessages((prev) => [...prev, { text: data.response, isUser: false }]);
+        } catch (error) {
+            console.error('Error details:', error);
+            setMessages((prev) => [
+            ...prev,
+            { text: `Sorry, there was an error processing your request. Please make sure the backend server is running.`, isUser: false },
+            ]);
+        } finally {
+            setIsLoading(false);
+        }
     }
   };
+    
 
   const handleInputFocus = () => {
     // Don't expand on focus if there are no messages yet

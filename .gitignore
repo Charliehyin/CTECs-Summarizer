@@ -4,6 +4,11 @@ assistant_config.txt
 venv/
 .DS_Store
 
+corpus.txt
+corpus_embeddings.pkl
+course_essays.txt
+course_summary.txt
+
 # Python cache files
 __pycache__/
 *.py[cod]
