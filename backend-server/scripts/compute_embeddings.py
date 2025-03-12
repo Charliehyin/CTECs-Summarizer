@@ -2,6 +2,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer, util
 import pickle
 import re
+import os
 # Load SBERT Model (Only Once)
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -47,7 +48,7 @@ def retrieve_sbert(query, corpus, corpus_embeddings, top_k=5):
 if __name__ == "__main__":
     # Read corpus from file
     with open("course_essays.txt", "r", encoding="utf-8") as file:
-        essay_corpus = split_by_newline(file.read())
+        essay_corpus = split_into_corpus(file.read())
     with open("course_summary.txt", "r", encoding="utf-8") as file:
         summary_corpus = split_by_newline(file.read())
 
@@ -64,3 +65,8 @@ if __name__ == "__main__":
     # Save corpus embeddings to file
     with open("corpus_embeddings.pkl", "wb") as file:
         pickle.dump(corpus_embeddings, file)
+
+    # Send corpus embeddings to backend server
+    pem_path = "C:/Users/Charlie Yin/Documents/admin.pem"
+    server_path = "ec2-user@ec2-3-17-144-16.us-east-2.compute.amazonaws.com:/home/ec2-user/CTECs-Summarizer/backend-server"
+    os.system(f"scp -i {pem_path} -r corpus.txt corpus_embeddings.pkl {server_path}")
