@@ -16,6 +16,10 @@ def split_into_corpus(text, chunk_size=512):
 def split_by_newline(text):
     return text.split("\n")
 
+def clean_text(text):
+    # Replace all underscores and dashes with spaces
+    return text.replace('_', ' ').replace('-', ' ')
+
 def compute_corpus_embeddings(corpus):
     """
     Computes embeddings for the corpus.
@@ -48,9 +52,9 @@ def retrieve_sbert(query, corpus, corpus_embeddings, top_k=5):
 if __name__ == "__main__":
     # Read corpus from file
     with open("course_essays.txt", "r", encoding="utf-8") as file:
-        essay_corpus = split_into_corpus(file.read())
+        essay_corpus = split_into_corpus(clean_text(file.read()))
     with open("course_summary.txt", "r", encoding="utf-8") as file:
-        summary_corpus = split_by_newline(file.read())
+        summary_corpus = split_by_newline(clean_text(file.read()))
 
     corpus = essay_corpus + summary_corpus
     print("Created corpus:", len(corpus))
