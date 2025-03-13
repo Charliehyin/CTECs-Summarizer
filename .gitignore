@@ -14,3 +14,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 backend-server/**/__pycache__/
+
+essay_corpus.txt
+essay_corpus_embeddings.pkl
+summary_corpus.txt
+summary_corpus_embeddings.pkl
+corpus.txt
+corpus_embeddings.pkl
+send_to_ec2.sh

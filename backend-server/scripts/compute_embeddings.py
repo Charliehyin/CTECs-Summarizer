@@ -58,15 +58,33 @@ if __name__ == "__main__":
     with open("corpus.txt", "w", encoding="utf-8") as file:
         file.write("\n".join(corpus))
 
+    with open("essay_corpus.txt", "w", encoding="utf-8") as file:
+        file.write("\n".join(essay_corpus))
+
+    with open("summary_corpus.txt", "w", encoding="utf-8") as file:
+        file.write("\n".join(summary_corpus))
+
     # Compute corpus embeddings
     corpus_embeddings = compute_corpus_embeddings(corpus)
     print("Computed corpus embeddings:", len(corpus_embeddings))
+
+    essay_corpus_embeddings = compute_corpus_embeddings(essay_corpus)
+    print("Computed essay corpus embeddings:", len(essay_corpus_embeddings))
+
+    summary_corpus_embeddings = compute_corpus_embeddings(summary_corpus)
+    print("Computed summary corpus embeddings:", len(summary_corpus_embeddings))
 
     # Save corpus embeddings to file
     with open("corpus_embeddings.pkl", "wb") as file:
         pickle.dump(corpus_embeddings, file)
 
+    with open("essay_corpus_embeddings.pkl", "wb") as file:
+        pickle.dump(essay_corpus_embeddings, file)
+
+    with open("summary_corpus_embeddings.pkl", "wb") as file:
+        pickle.dump(summary_corpus_embeddings, file)
+
     # Send corpus embeddings to backend server
     pem_path = "C:/Users/Charlie Yin/Documents/admin.pem"
     server_path = "ec2-user@ec2-3-17-144-16.us-east-2.compute.amazonaws.com:/home/ec2-user/CTECs-Summarizer/backend-server"
-    os.system(f"scp -i {pem_path} -r corpus.txt corpus_embeddings.pkl {server_path}")
+    os.system(f"scp -i {pem_path} -r corpus.txt corpus_embeddings.pkl essay_corpus.txt essay_corpus_embeddings.pkl summary_corpus.txt summary_corpus_embeddings.pkl {server_path}")
