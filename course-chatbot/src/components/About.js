@@ -15,15 +15,17 @@ const About = ({ onClose }) => {
           <h2>How to use</h2>
           <p>Simply ask questions about Northwestern courses, professors, or departments. For example:</p>
           <ul>
-            <li>"What are the best Computer Science courses?"</li>
-            <li>"Tell me about Professor Smith in the Economics department"</li>
-            <li>"What classes in the Economics department have the least time commitment?"</li>
+            <li>"How hard is it to get an A in CS 348 with Professor Birnbaum?"</li>
+            <li>"Tell me about Professor Kuzmanovic in his Networking course?"</li>
+            <li>"What classes should I take to be prepared for CS 213?"</li>
           </ul>
+          <p><strong>Note: Every request is processed independent of prior requests, even if they are in the same chat.</strong></p>
         </section>
         
         <section>
           <h2>Data Sources</h2>
           <p>This tool uses data from Northwestern University's official CTECs database, updated quarterly.</p>
+          <p><strong>Currently, the tool only has data from CS classes up to CS 394.</strong></p>
         </section>
         
         <section>
