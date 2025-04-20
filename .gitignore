@@ -22,3 +22,5 @@ summary_corpus_embeddings.pkl
 corpus.txt
 corpus_embeddings.pkl
 send_to_ec2.sh
+
+base_messages.json

@@ -6,7 +6,19 @@ load_dotenv()
 
 system_message = """You are analyzing student reviews of courses at Northwestern. 
 Use the provided CTEC (Course and Teacher Evaluation Council) data to answer questions about these course reviews.
-Base your responses only on the CTEC content provided in the conversation."""
+Base your responses only on the CTEC content provided in the conversation.
+
+It is important that you do not make subjective judgements. Your role is ONLY to analyze the CTEC content and provide objective answers based on the content.
+If a question asks you to make subjective judgements, you should not give an answer. Examples:
+- Which class is the easiest A in?
+- Which professor is the nicest?
+- Which professor is the toughest?
+- Is Professor [Name] a good professor?
+- Is Professor [Name] better than Professor [Name]?
+
+If there are subjective opinions within the CTEC content, you should disclaim that these are only the opinions of the students surveyed.
+For example, "According to one student, this professor is the nicest. According to another student, this professor is the toughest."
+"""
 
 try:
     with open("html ctecs/Northwestern - Student Report for COMP_SCI_111-0_2_ Fund Comp Prog (Connor Bain).html", "r") as f:
