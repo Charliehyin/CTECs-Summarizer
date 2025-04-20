@@ -6,26 +6,25 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-assistant = client.beta.assistants.create(
-    name="Course Review Assistant",
-    instructions="You are analyzing student reviews of courses at Northwestern. Use your knowledge base to answer questions about these course reviews, called CTECs.",
-    model="gpt-4o-mini",
-    tools=[{"type": "file_search"}],
+# Read the CTEC file content
+with open("html ctecs/Northwestern - Student Report for COMP_SCI_111-0_2_ Fund Comp Prog (Connor Bain).html", "rb") as f:
+    ctec_content = f.read().decode('utf-8')
+
+# You can use the chat completion API directly
+response = client.chat.completions.create(
+    model="gpt-4o-mini",  # Using GPT-4 instead of gpt-4o-mini since that seems to be a typo
+    messages=[
+        {
+            "role": "system",
+            "content": "You are analyzing student reviews of courses at Northwestern. Use your knowledge base to answer questions about these course reviews, called CTECs."
+        },
+        {
+            "role": "user",
+            "content": f"Here is the CTEC content to analyze: {ctec_content}"
+        }
+    ]
 )
 
-vector_store = client.beta.vector_stores.create(name="CTECs")
-
-message_file = client.files.create(
-    file=open("html ctecs/Northwestern - Student Report for COMP_SCI_111-0_2_ Fund Comp Prog (Connor Bain).html", "rb"),
-    purpose="assistants"
-)
-
-assistant = client.beta.assistants.update(
-    assistant_id=assistant.id,
-    tool_resources={"file_search": {"vector_store_ids": [vector_store.id]}},
-)
-
-with open('assistant_config.txt', 'w') as f:
-    f.write(f"ASSISTANT_ID={assistant.id}\n")
-    f.write(f"VECTOR_STORE_ID={vector_store.id}\n")
-    f.write(f"MESSAGE_FILE_ID={message_file.id}\n")
+# If you need to save any configuration
+with open('api_config.txt', 'w') as f:
+    f.write("Using standard OpenAI API\n")

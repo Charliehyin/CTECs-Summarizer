@@ -1,0 +1,487 @@
+system: You are analyzing student reviews of courses at Northwestern. 
+Use the provided CTEC (Course and Teacher Evaluation Council) data to answer questions about these course reviews.
+Base your responses only on the CTEC content provided in the conversation.
+user: Here is the CTEC content to analyze:
+
+
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+    <head>
+        <title>Northwestern - Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)</title>
+        <meta charset="UTF-8" />
+        
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+        <link rel="Stylesheet" type="text/css" href="UserControls/Common/Charting/CssCharting/css/HorizontalStackBar.min.css?v=8_7_12_46141" />
+        <link href="_Themes/report_1.2.css?v=8_7_12_46141" type="text/css" rel="stylesheet" />
+	    <link href="assets/custom.css?v=8_7_12_46141" type="text/css" rel="stylesheet" />
+
+        <script type="text/javascript" src="scripts/TableOfContent.js?v=8_7_12_46141"></script>
+    </head>
+    <body class="northwestern blue" id="reportView">
+        
+
+
+
+        <header class="screen-reader-text">
+            <h1>My Report Viewer</h1></header><article id="report_8488f768-30a5-4cdd-b58c-b1e511aea875" class="report" >
+	
+<header class="cover-page">
+	<div class="header">
+		<div class="logo">
+            <a href="http://www.northwestern.edu/" id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_logo" class="logo" target="_blank">
+			    <img src="https://northwestern.bluera.com/northwestern/images/custom/6d745670-3cf6-4a9b-9498-7dd3c07873c0.gif" id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_imgCompany" alt="Northwestern" />
+		    </a>
+        </div>
+        <div class="metadata">
+		    <h2>Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)</h2>		
+
+		    <div id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_divCoverStatus" class="cover-status">
+                <dl class="cover-page-project-title">
+                    <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblProjectTitle">Project Title</span></dt>
+                    <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_ProjectTitle">Course and Teacher Evaluations CTEC Fall 2024</span></dd>
+                </dl>
+                <div class="row-flex">
+                    <div id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_divPrimarySubject" class="audience-data">
+                        <dl>
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_l1">Courses Audience</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblInvited">160</span></dd>
+
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbl2">Responses Received</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblResponded">126</span></dd>
+
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblResponsesRate">Response Ratio</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblRespRateValue">78.8%</span></dd>
+
+                        
+                        </dl>
+                    </div>
+                    <div id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_divSecondarySubject" class="audience-data">
+                        <dl>
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryAudienceCaption">Instructors Audience</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryAudience">160</span></dd>
+
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryRespondedCountCaption">Responses Received</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryRespondedCount">125</span></dd>
+
+                            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryResponsesRateCaption">Response Ratio</span></dt>
+                            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbSecondaryResponsesRate">78.1%</span></dd>
+                        </dl>
+                    </div>   
+                </div>
+		    </div>
+		
+            
+        </div>
+	</div>
+	<div class="remarks">
+		
+		<span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_Label2" class="CoverCommentTitle">Report Comments</span>
+		<span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lblComments" class="CoverComment">Course and Teacher Evaluations are intended solely for the use of faculty, staff and students of Northwestern University. Any reproduction, republication or redistribution of this site&#39;s content is prohibited without the express permission of Northwestern University.<br/><br/>For more information about the CTEC Guidelines please visit our website: <a href="http://www.northwestern.edu/ctec/guidelines/index.html">http://www.northwestern.edu/ctec/guidelines/index.html</a></span>
+	</div>
+	<div class="footer">	
+		<dl>
+		    <dt id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_PrepareByLabel"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_Label4" class="CoverSignatureTitle">Prepared by</span></dt>
+            <dd id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_ReportCreator"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbCreator" class="CoverSignature">Alison Lanser Phillips</span></dd>
+
+            <dt><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_Label3" class="CoverSignatureTitle">Creation Date</span></dt>
+            <dd><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_lbPublishDateInfo" class="CoverSignature">Friday, January 24, 2025</span></dd>
+		</dl>
+
+        
+        
+        
+        
+
+        <div class="blue-logo">
+            <a id="aPoweredByBlue" href="http://www.explorance.com" rel="noopener noreferrer" target="_blank">
+                <img src="images/powered_by_blue_color.svg" id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_ctl01_imgPoweredByBlue" alt="Technology powered by BLUE" />
+            </a>
+        </div>
+    </div>
+
+	<div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div>
+</header>
+
+<div class="pdf-link" ><a class="DownloadReportLink link-icon link-icon-pdf" href="rdrplf.aspx?rid=1f96c6d5-a5e9-4b72-b346-707e75807df5&crid=8488f768-30a5-4cdd-b58c-b1e511aea875&lang=en-US&reporttype=2" title="The PDF document is not WCAG 2.0 compliant.  The current page contains a WCAG 2.0 complaint HTML version of the report." target="_blank" onclick="RedirectPDFReportURL('rdrplf.aspx?rid=1f96c6d5-a5e9-4b72-b346-707e75807df5&crid=8488f768-30a5-4cdd-b58c-b1e511aea875&lang=en-US&reporttype=2'); return false;">Download PDF</a></div><div class="avoid-page-break-inside"><div class="SectionHeading"><h3 id="8488f768-30a5-4cdd-b58c-b1e511aea875_fa433ed1-0b88-497b-9d61-b5b567f09b80" ><font size="3"><span style="color:#FFD700;"><span style="background-color:#800080;">COURSE QUESTIONS</span></span></font>
+</h3><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_3fd81cca-d065-47c4-8f36-943bd0537ad5" class="ReportBlockTitle"><span id="lblBlockTitle_3fd81cca-d065-47c4-8f36-943bd0537ad5_8488f768-30a5-4cdd-b58c-b1e511aea875">1. Provide an overall rating of the instruction.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__41920083-9707-463e-a4be-8f9c2beaeec0">Provide an overall rating of the instruction.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_b171c614-bda4-4c58-8835-89906238451c.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableStat_da1fabfd-c546-46dd-aca0-9c81dd4546cd" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 1. Provide an overall rating of the instruction.-Provide an overall rating of the instruction.-Statistics.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main statistics-header" id="statisticHeader_98ed1cc7-540b-4662-9667-421d9e892270" scope="col">Statistics</th><th class="TabularHeader_RightColumn" id="statValueID_98ed1cc7-540b-4662-9667-421d9e892270" scope="col">Value</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="Total" scope="row" headers="statisticHeader_98ed1cc7-540b-4662-9667-421d9e892270">Response Count</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_98ed1cc7-540b-4662-9667-421d9e892270 Total">125</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="Mean" scope="row" headers="statisticHeader_98ed1cc7-540b-4662-9667-421d9e892270">Mean</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_98ed1cc7-540b-4662-9667-421d9e892270 Mean">5.30</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_4f78aa23-f328-44af-adf0-8c502fa3c860" class="ReportBlockTitle"><span id="lblBlockTitle_4f78aa23-f328-44af-adf0-8c502fa3c860_8488f768-30a5-4cdd-b58c-b1e511aea875">2. Provide an overall rating of the course.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__51cf85ce-5cc1-4c83-bf5c-d08a58cd5c16">Provide an overall rating of the course.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_918a37a0-a185-45ba-b7fb-4d3cbea3447b.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableStat_5b8a4472-8f09-4cb1-b2eb-7cd73bc66cce" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 2. Provide an overall rating of the course.-Provide an overall rating of the course.-Statistics.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main statistics-header" id="statisticHeader_3f8e1d06-3793-4d22-941b-4e6b867887c1" scope="col">Statistics</th><th class="TabularHeader_RightColumn" id="statValueID_3f8e1d06-3793-4d22-941b-4e6b867887c1" scope="col">Value</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="Total" scope="row" headers="statisticHeader_3f8e1d06-3793-4d22-941b-4e6b867887c1">Response Count</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_3f8e1d06-3793-4d22-941b-4e6b867887c1 Total">125</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="Mean" scope="row" headers="statisticHeader_3f8e1d06-3793-4d22-941b-4e6b867887c1">Mean</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_3f8e1d06-3793-4d22-941b-4e6b867887c1 Mean">4.56</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_71d93764-ef07-4596-a801-98a099037982" class="ReportBlockTitle"><span id="lblBlockTitle_71d93764-ef07-4596-a801-98a099037982_8488f768-30a5-4cdd-b58c-b1e511aea875">3. Estimate how much you learned in the course.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__3a45bb79-458e-41be-b337-0308ca854e8c">Estimate how much you learned in the course.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_e6ca8147-ff38-489c-bc88-a446a3fb47a4.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableStat_865db4e0-d24e-4a74-88f1-10f6052e71bb" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 3. Estimate how much you learned in the course.-Estimate how much you learned in the course.-Statistics.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main statistics-header" id="statisticHeader_76415a05-324f-45c9-8e26-d5e481bb0431" scope="col">Statistics</th><th class="TabularHeader_RightColumn" id="statValueID_76415a05-324f-45c9-8e26-d5e481bb0431" scope="col">Value</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="Total" scope="row" headers="statisticHeader_76415a05-324f-45c9-8e26-d5e481bb0431">Response Count</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_76415a05-324f-45c9-8e26-d5e481bb0431 Total">124</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="Mean" scope="row" headers="statisticHeader_76415a05-324f-45c9-8e26-d5e481bb0431">Mean</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_76415a05-324f-45c9-8e26-d5e481bb0431 Mean">4.30</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="PageBreakStyle"></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_2f88c110-58a8-4101-808d-19536b45c40b" class="ReportBlockTitle"><span id="lblBlockTitle_2f88c110-58a8-4101-808d-19536b45c40b_8488f768-30a5-4cdd-b58c-b1e511aea875">4. Rate the effectiveness of the course in challenging you intellectually.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__e562dce2-08e4-4b6b-bca6-7a77b5e10a3e">Rate the effectiveness of the course in challenging you intellectually.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_4ca81b25-e091-457e-b644-b4bb01429fb9.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableStat_cdd8290b-da11-47de-b04b-1ffa63de8042" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 4. Rate the effectiveness of the course in challenging you intellectually.-Rate the effectiveness of the course in challenging you intellectually.-Statistics.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main statistics-header" id="statisticHeader_f022d76c-02e7-4311-97fa-47fdd56eb3e0" scope="col">Statistics</th><th class="TabularHeader_RightColumn" id="statValueID_f022d76c-02e7-4311-97fa-47fdd56eb3e0" scope="col">Value</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="Total" scope="row" headers="statisticHeader_f022d76c-02e7-4311-97fa-47fdd56eb3e0">Response Count</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_f022d76c-02e7-4311-97fa-47fdd56eb3e0 Total">123</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="Mean" scope="row" headers="statisticHeader_f022d76c-02e7-4311-97fa-47fdd56eb3e0">Mean</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_f022d76c-02e7-4311-97fa-47fdd56eb3e0 Mean">4.10</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_55f12c08-6c5d-40e8-bb56-bd427a643dec" class="ReportBlockTitle"><span id="lblBlockTitle_55f12c08-6c5d-40e8-bb56-bd427a643dec_8488f768-30a5-4cdd-b58c-b1e511aea875">5. Rate the effectiveness of the instructor in stimulating your interest in the subject.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__f1efe932-d968-4311-92d4-9cf559544e1a">Rate the effectiveness of the instructor in stimulating your interest in the subject.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_84bb16c1-8da3-4956-a576-06c44d6c1166.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableStat_358a43ce-7e47-456b-9987-614cdf617a71" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 5. Rate the effectiveness of the instructor in stimulating your interest in the subject.-Rate the effectiveness of the instructor in stimulating your interest in the subject.-Statistics.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main statistics-header" id="statisticHeader_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a" scope="col">Statistics</th><th class="TabularHeader_RightColumn" id="statValueID_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a" scope="col">Value</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="Total" scope="row" headers="statisticHeader_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a">Response Count</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a Total">125</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="Mean" scope="row" headers="statisticHeader_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a">Mean</th><td class="TabularBody_RightColumn_NoWrap" headers="statValueID_a0b5cd05-0106-43aa-8a48-c2644f3b6d2a Mean">4.97</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="avoid-page-break-inside"><div class="SectionHeading"><h3 id="8488f768-30a5-4cdd-b58c-b1e511aea875_e9b849d0-3656-4a8b-92fd-bfafed8b274e" ><font size="3"><span style="color:#FFD700;"><span style="background-color:#800080;">TIME-SURVEY QUESTION</span></span></font></h3><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_3f8d815a-fb51-4450-b2bf-3d6c3bd02686" class="ReportBlockTitle"><span id="lblBlockTitle_3f8d815a-fb51-4450-b2bf-3d6c3bd02686_8488f768-30a5-4cdd-b58c-b1e511aea875">6. Estimate the average number of hours per week you spent on this course outside of class and lab time.</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__1a25211c-ac12-41d8-9f5a-0e319e9ba4d8">Estimate the average number of hours per week you spent on this course outside of class and lab time.</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_2a645568-018e-4a6f-955c-c85dc23cde1e.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableFrequency_22e63bd4-47a6-498e-a7ff-68e5e32fb44b" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for 6. Estimate the average number of hours per week you spent on this course outside of class and lab time.-Estimate the average number of hours per week you spent on this course outside of class and lab time..
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="FreqOptions" scope="col">Options</th><th class="TabularHeader_MiddleColumn" id="FreqCount" scope="col">Count</th><th class="TabularHeader_MiddleColumn" id="FreqPercentage" scope="col">Percentage</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_0" scope="row" headers="FreqOptions">3 or fewer</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_0">47</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_0">37.6%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_1" scope="row" headers="FreqOptions">4 - 7 </th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_1">63</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_1">50.4%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_2" scope="row" headers="FreqOptions">8 - 11</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_2">11</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_2">8.8%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_3" scope="row" headers="FreqOptions">12 - 15</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_3">4</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_3">3.2%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_4" scope="row" headers="FreqOptions">16 - 19</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_4">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_4">0.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_5" scope="row" headers="FreqOptions">20 or more</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_5">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_5">0.0%</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div></div><div class="avoid-page-break-inside"><div class="SectionHeading"><h3 id="8488f768-30a5-4cdd-b58c-b1e511aea875_1d037266-8d95-4937-b34a-d2d207d4e6ee" ><font size="3"><span style="color:#FFD700;"><span style="background-color:#800080;">ESSAY QUESTIONS</span></span></font>
+</h3><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_bac5fa25-de6b-4010-bf3d-3e511cb8d63d" class="ReportBlockTitle"><span id="lblBlockTitle_bac5fa25-de6b-4010-bf3d-3e511cb8d63d_8488f768-30a5-4cdd-b58c-b1e511aea875">Please summarize your reaction to this course focusing on the aspects that were most important to you.</span></h4><div class="CommentBlockRow TableContainer"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_CommentBoxbac5fa25-de6b-4010-bf3d-3e511cb8d63dReportSummary_14c6b8ee-2253-4929-9831-930b636700bc" class="block-table CondensedTabular" role="presentation" border="0">
+	<caption>
+		Table for Please summarize your reaction to this course focusing on the aspects that were most important to you..
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="comment-2_14c6b8ee-2253-4929-9831-930b636700bc" scope="col">Comments</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This is a face paced course, and as someone who has had prior programming experience, the language used in the class, Racket, is very tedious. Would have preferred this class to be taught in another language but the class does do its job of teaching you the basics of programming.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Fantastic course for people who have not learned CS before. Learned a lot! But people with prior programming experience might find it frustrating.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Professor Connor Bain is incredible! He is such a great instructor. The TAs are also very helpful and easy to reach. I did come into the class with CS experience, so the class was on the easier side for me. Racket is an interesting language that was interesting to learn about, and helped me understand concepts that I knew before but didn&#x27;t have a full grasp on. The assignments are also fun.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Not a fan.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I came in with no coding experience, but still the class was a lot harder than I expected.  If you have time, definitely go to office hours whenever possible and try to work on the exercise early in the week.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Racket can be challenging, especially for new programmers. Bain makes the quizzes very simple (same format each time), so try to understand how he writes questions for the quizzes. He is very helpful when you ask questions in class or outside. There are many helpful TAs and PMs to get help from. Try not to use Chat, as the code should be simple enough to grasp without it.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">As someone with no programming experience, this class was interesting...basic structure is as follows: on Mondays, there&#x27;s a lecture previewing the topic of the week and the homework is posted; Wednesdays, you&#x27;re assigned practice problems related to said topic that you&#x27;re supposed to work with your group on (you can do it by yourself outside of class, but then it&#x27;s for accuracy); on Fridays, it&#x27;s review and required practice (attendance taken). 94 is an A for some reason but there are helpful policies in place (drop lowest quiz grade, lowest exercise grade, etc.) that make it an easy A&ndash; at least.<br/><br/>Homework: The difficultly spike after the first exercise is real, and expect to spend upwards of 6 hours per assignment. Start as early as possible on Mondays and try to finish by Wednesday at the latest. After that, it&#x27;s difficult to get help as office hours become packed. Aside from that, it&#x27;s not hard to get a good grade on these, but they&#x27;re very challenging at times.<br/><br/>Peer mentors: A useful system some of the time, but a headache at others. Very likely you&#x27;ll have to visit office hours at least once per exercise. I recommend going to a couple of different people&#x27;s office hours towards the begin of the quarter to figure out who you like the most. Some PMs are great and actually want to help you find the answer. Others are condescending, do everything in their power to avoid giving you a hint towards the answer, or simply don&#x27;t even show up on time (or at all) to their published office hours. Find good times and mentors and stick with them. <br/><br/>Quizzes: The exams in this class are 4 &quot;quizzes&quot;: one final, while the other 3 cover topics from that portion of the class. 1st is easy, 2nd is very difficult, and 3rd is somewhere in&ndash;between. Biggest problem with these is that they have no resemblance whatsoever with the lectures, exercises, tutorials, or literal practice quizzes that they give you to study with. Functions are 10x longer or more complex than anything you discuss in class, and you only have about 3 min&#x2F;question to figure out the answer. This makes studying very difficult, but at least you get to drop one. <br/><br/>Language: Yes, Racket is annoying, but people overstate that. However, it does mean the internet can&#x27;t help you any with problems. It does a good job at teaching the fundamentals of programming, and if you&#x27;ve never programmed before, you might even have a leg up (no other language to confuse it with).</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course is honestly a really good and easy first cs course to take at Northwestern, but kind of annoying if you have some programming understanding. Racket (the platform used) is quite different than traditional programming, and therefore can be slightly irritating to use when figuring out the syntax. The weekly programs you have to submit are honestly really simple and never take more than at max two hours. The course overall is super fair, and Prof. Bain is a really nice and engaging lecturer. This quizzes are also really fair and simple, and it&#x27;s nice not having additional midterms&#x2F;finals throughout the class.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The instructor is good at lecturing and explaining new concepts</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I had zero computer science knowledge coming into this class, and I found it extremely helpful in learning basic concepts, such as recursion and imperative programming. The assignments were manageable, but the quizzes can be difficult due to the particularities of Racket syntax.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Bain is good</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">i had experience w cs before this class so i found it pretty easy, not that much work outside class, just weekly exercises and video lectures, adjusting to racket was definitely the hardest part</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course was not too challenging for me but I know that isn&#x27;t the case for everyone. However, Professor Bain brought great energy to the lectures, so I felt fine attending lectures, even if he repeats a lot of information on our already limited lecture time. Overall a good class as an intro class and CS major req.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I really enjoyed this class especially Professor Bain since he is so enthusiastic during class and it gave me motivation to do my work and not give up. I think some of the homework assignments were challenging but overall I thought this class was pretty great. I think DrRacket takes a while to get used to but it isn&#x27;t that hard to grasp. I think people with no programming experience also have a good chance of doing good as it is taught from the beginning. Definitely take this course if you are interested in computer science.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">More difficult than I expected, but you do learn a lot. I think that the Racket language helps you fully understand WHY you do certain things when you code. Half of your grade is a free 100% (mini&ndash;quizzes, tutorials, ethics modules), and half of it comes from (quite difficult) in&ndash;person exams.<br/><br/>Professor Bain is amazing!</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Prof bain is a funny person, racket can be annoying but the pace felt okay, if you dont have prior programming experience like me you might be surprised by the difference it makes, but its a managable calss</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Lots of office hours available to help</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I really enjoyed this course! Professor Bain was great, and the material was very interesting.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The energy of Prof. Bain is phenomenal. He teaches in such a friendly and engaging way, right from the start of class. Even if you have no prior programming experience, you’ll probably end up loving it. The teaching staff, including the PMs and TAs, are super helpful and always there to support you alongside Prof. Bain himself.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The course was effective at providing an introduction to basic computer science concepts, but the uncommon languages it was taught in limit the application of the course&#x27;s material.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Professor Bain is super engaging, funny, and overall a great professor. Definitely take this class with him if you can since he is very passionate about teaching it and does so in a good way. As far as the programming language goes (Racket), it seems very confusing at first for all prior experience levels but you slowly start to get it. It&#x27;s definitely the programming fundamentals you take away rather than the language itself.  This course teaches about functional, imperative, and object&ndash;oriented programming in a much different structure and progression than other CS classes you may have taken in the past. The grade policies for the course are super helpful and really cover any special circumstances throughout the quarter. Just go to class and tutorials and you will do great.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I think this course is good and Bain is a good prof but the course being in Racket doesn&#x27;t help. Switch to python comon.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This was the first coding class I had taken in a while, and it was a nice course to recall what I previously knew. This course is advertised as a course that is great for students with no coding experience at all, but it was more difficult than I expected given the above statement. I also understand that Racket is used to establish more of the concepts than learning a specific language, but I don&#x27;t see why using Python, for example, would be significantly worse. Sometimes Racket was frustrating to work with, and less intuitive. The exercises and quizzes were sometimes challenging, but I don&#x27;t think getting an A is a big struggle with the drop policy (lowest quiz, lowest exercise, etc dropped). Some lectures seemed too slow and some seemed to fast but overall they were okay. I like that the lecture recordings are posted online. Edstem is a great resource and TAs and Professor Bain help out very quickly. Work is scheduled out for you and I didn&#x27;t spend too much time on homework, but still a decent amount. Overall it was a pretty good class.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Good starting class for computer science topics. Assignments were lenient and helpful for learning new material. Quizzes are all structured in a similar way and your lowest one is dropped.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This class is hard even though it is introductory. Bain is sweet, but his teaching style wasn&#x27;t for me. I did not like this course at all. The quizzes are hard to prepare for and I personally just did not enjoy this class.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">If you have taken AP Computer Science A in high school and learned the content, this course will not be too bad for you. If you also took data structures and algorithms, this course should be review. The hardest part is definitely recursion, but I appreciate that my understanding of recursion became better. Racket is not as bad as people say, remember to use auto&ndash;indent to understand the function nesting.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course way fine. The exams are reasonable, instead of asking you to write a whole code during an exam, it more debugging problems and they were fair questions based on topics discussed in class. This class is highly a weeder class because many of the people have taken CS before, but still have to take this class, so there will never be a curve, and the median will always be on the higher side. The exercises are definitely on the harder side, and will take time, so don&#x27;t save them until the last minute, and go to office hours for help.  WATCH THE PRE&ndash;RECORDED LECTURE.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">For those completely new to coding, this is probably a good (if slightly fast) introduction to the concepts. However, the actual language is so different from any other common ones (and the ones I previously learned) that it can be extremely frustrating learning new (seemingly) pointless syntax. Professor Bain does a really good job of being engaging and teaching the material, and the peer mentors are very helpful, but the class can still be a lot.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">CS 111 was a good course. I liked how the course was very structured, with each Monday (lecture), Wednesday (tutorial), and Friday (mini quiz) having the same format (for the most part). The tutorials were great for practice, and the homework was very manageable. Quizzes were also very fair. Professor Bain was very enthusiastic and I think that his lectures were engaging.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course teaches you the basics of CS, and the teacher does a great job of explaining the topics.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I thought this was a decent intro course as someone who hasn&#x27;t really coded before this; however, as someone not in McCormick I think I made the wrong choice because tons of people told me I should&#x27;ve just taken 110 lol. No complaints about the professor &ndash; Prof Bain is honestly great; he cares a lot about his students doing well &amp; actually learning,  he speaks clearly, &amp; he does a good job of explaining new concepts.  <br/><br/>However, at least for me, I don&#x27;t think this course was as &quot;beginner&ndash;friendly&quot; as it was marketed to be. Part of it might&#x27;ve been because I zoned out in some lectures, but about halfway through the quarter I started finding the exercises really time&ndash;consuming and just difficult. Even after spending lots of time I felt like I still didn&#x27;t really get some concepts and that was quite frustrating. I also think if you&#x27;re not in McCormick&#x2F;it&#x27;s not a requirement, it might be better to avoid this class if you haven&#x27;t coded before because I&#x27;ve heard Racket is just kind of a weird language to start with, and it&#x27;s not particularly useful. <br/><br/>I will say, it isn&#x27;t necessarily hard to do well in the class. The grade drops (they drop your lowest midterm, exercise, &amp; tutorial grade) help a LOT and if you pay attention, put in effort &amp; are proactive you can easily succeed.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">For a subject I had no knowledge of with only an interest to learn, I was incredibly surprised with how much I enjoyed the class, and how I left with a new&ndash;found enjoyment for the subject.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Great course for a CS intro. Professor is great!</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Good low&ndash;stakes course that formulates your brain to think like a programmers.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This is a great intro class that starts from the ground up and is able to work through complex concepts such as recursion in a very logical way</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">It was a good course. I didn&#x27;t have a lot of programming experience going into this class, but I think the course still did a good job of introducing me to the foundational concepts of computer science. Exercises took a good chunk of time, but did help me learn. Quizzes weren&#x27;t overly difficult, but did incorporate some edge cases.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I just wanted to get some knowledge of computer science since i feel like it is becoming more and more of an important skill to learn in this world, and to an extent, i feel like this course has somewhat helped me gain more understanding of programming. However, it didn&#x27;t completely scratch that itch in that it went a little too fast. That being said, it did set me up with the basics on how to self&ndash;teach myself programming in the future.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">It was good&ndash; Connor Bain did his best to make a huge lecture class interesting and he succeeded more than I can imagine anyone else succeeding.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I thought this course was helpful in learning how to program conceptual ideas.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Everything is good.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">If you are even remotely considering majoring in computer science, take this course!! It was amazing, and such a great start to my time at Northwestern. As someone with very limited coding experience, I was very nervous to take this class, but I had nothing to worry about. The class is taught in Racket, which is a coding language that no one knows, in order to even the playing field and force everyone to get &#x27;back to basics.&#x27; The idea behind the course is that it&#x27;s meant to teach you how to learn to code. I haven&#x27;t started learning other languages yet, so I can&#x27;t attest to its effectiveness in that sense, but I felt that I learned a lot in this class. Professor Bain was an incredible professor, who very clearly cares a lot about the success of his students, and is very knowledgeable about the subject matter. I was able to go up to him and ask questions about assignments whenever I needed some clarification, and he always answered questions in a way that allowed me to reach the final answer myself, without him just giving me code that would work. Some people think Bain&#x27;s corny jokes are lame, but I think those people are just no fun. Bain makes a real effort to make coding relevant and interesting, and he is a very engaging lecturer.<br/>There were four quizzes throughout the quarter, with the last one serving as the final exam. Although we haven&#x27;t had the final yet, the first three quizzes were very similar to what we had worked on in class, and I felt overprepared for them just from going to classes, doing the work, and completing the two practice quizzes.<br/>Overall, this class was fantastic, and I can&#x27;t recommend it enough. This class is the reason I decided to major in CS, and it brought me so much joy. You will absolutely succeed in this class if you complete the assignments and ask clarifying questions when you need help :) Best of luck!</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Prof Bain was so nice. The class was alright (not that this rating really matters for most of you because it&#x27;s a requirement) &ndash; lectures were sometimes slow but you learned what you needed to learn and it didn&#x27;t take too much time.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">an introductory course on the fundamentals of computer programming. It&#x27;s an opportunity to see what computer programming is all about and to see whether you want to spend the next few years doing more of it. This course will include weekly programming projects, readings, a midterm, and final examinations. Class participation is not optional</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I really liked tutorial days because it gave me the opportunity to code with the TA&#x27;s around, however connor bain&#x27;s slides are not ass informative as they could have been. The coding language is not functional and goes against basic instincts, I also though the quizzes were quite difficult, especially the second one has it was iterative recursion something that can get complicated quite fast!</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Connor Bain is a really good and clear instructor. The course is structured VERY clearly and it is not too stressful if you organize your time well. Also you get 55% of the course grade for free basically if you just attend class. I learned a lot as someone that has never coded before and I think it was really clear. I don&#x27;t know how useful the content is for people that are going to be software engineers but for someone who has never had the experience before, it is definitely a great starting point. No complain, definitely take it if you want to experience a CS course.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This class is pretty good for teaching you recursion, but the language has really annoying syntax. Its tedious for people with programming experience, and  if I had no experience I think this would have been a really difficult way to learn. The homeworks weren&#x27;t very hard, but the quizzes were kind of difficult.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">If you don&#x27;t know how to program, this class isn&#x27;t a great intro course. Many of the people who do well already basically know the material since the CS department insists on making everyone take this class. It&#x27;s not good if you&#x27;re actually new to programming, take stat 201 instead.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">If you have any programming experience, this class will be fine. Racket is weird but you&#x27;ll get used to it. Bain is cool.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Racket is good for learning fundamentals, pretty chill and easy class overall, lots of support available.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">CS 111 provides many materials for its students to succeed. Racket is a very unique language to start with, but the main concepts of CS being taught in racket can still be applied to other programming languages. Prof. Bane is a great professor and the structure of the class was great.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I personally didn&#x27;t have any prior experience in programming, but it was definitely unexpectedly challenging and very time&ndash;consuming.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Professor Bain teaching is clear and he explains everything very well. The structure of the class allows for droppings of things that make up your grade, which is really helpful and reduces a little bit of stress and lets you focus more on learning the content and trying your best. There are also a ton of resources for help on homework, like office hours, which is really great in providing clarity on topics and hw. The TAs there are all willing to help and the sweetest ever, so if you need help, go to them!</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I enjoyed the partner coding exercises because being able to share the brainstorming&ndash;burden made the process a lot more manageable.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The course is somewhat difficult without prior knowledge of coding, but Professor Bain and the TAs are very helpful in teaching the core concepts. The class&#x27;s grading policy is pretty generous, and the course load is not too much.  The exams are also pretty fair; the practice exams were often similar to the actual ones.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Overall, this course was mixed. Though I learned the fundamental principles of programming, Racket made the experience quite poor. The syntax was hard to follow and made all assignments especially tedious. Bain was a good teacher, though it seemed that he would go over many functions in class and then expect us suddenly to know how to implement all of them in programs&ndash;&ndash;it seemed to be a very fast pace. Quizzes were also a time crunch simply due to the syntax of Racket being way harder than it need be. Tutorials in my opinion weren&#x27;t very helpful as they were not very productive.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Prof Bain was good at explaining the concepts and did a good job of posting lecture recordings and slides for anyone who missed lecture. Each week had a tutorial and exercise due which overall didn&#x27;t take too long. The tutorials are graded really leniently if you go to class (you don&#x27;t even have to complete it) and while the exercises can take longer because they require to actually apply what you learned the accompanying slides and instructions are clear and helpful. Bain is also really responsive on questions about the exercises and everything else. The language that the class is taught in is really weird though its called Racket and has no relations to any sort of coding language that is either used or popular in the industry so that takes some adjusting.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course sucked for me, primarily because I know other programing languages that are similar to each other and nothing like Dr. Racket. I could explain the concepts in this class, but I don&#x27;t think I could effectively understand what is going on in the code every time, simply because of the weird syntax that Scheme languages use. If anything this course just demotivated me and my motivation to learn computer science. Had I never taken a cs course before I may have had fun, but I don&#x27;t think I would enjoy more classes like this if that were the case.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The class was taught in Racket. You just need to get used to the syntax. The exam was more difficult than the practice one.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">great course! prof. bain teaches everything clearly and step by step. if you do the tutorials and exercises this class is pretty light.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I love Professor Bain! He&#x27;s a chill guy! The course is of the appropriate  difficulty level. It&#x27;s not super hard or super easy.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Traditionally an easier class to get a good grade in, but an insane amount of work. Compared to other classes, you have to spend so much more time on this one. So many assignments and small grades coming in all the time.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Professor Bain is awesome, I really recommend getting to know him as he is definitely the best part of this class. The course itself is pretty interesting, although sometimes the coding tasks feel menial or pointless because there are better ways to do things, but you have to learn it the hard way first. I would say most of it boils down to memorizing the way the built&ndash;in functions if DrRacekt works and then applying it in your code or broken code you have to fix, which itself is a pretty good way to teach coding. Overall, I would recommend taking this class to anyone with little to no experience in coding, and even if you do have experience, there are more rigorous alternatives for most assignments to keep yourself engaged.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The overall experience with the course was excellent! The instructions were consistently clear, and expectations were communicated effectively in advance. Additionally, the abundance of practice tutorials provided was incredibly helpful and made the learning process more engaging and hands&ndash;on.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Prof. Bain makes this class fun and easy. He always brings a fun energy to the class and he can break down any topic to make it simple and easy to understand. Racket certainly has an annoying syntax which can overcomplicate some things, but it is not too difficult to get ised to. The weekly programs are helpful to practice concepts and don&#x27;t take very long. The quizzes are fair and quite manageable. Definitely take this course with Prof. Bain, he creates a great experience.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Course is well organized.<br/>The way the course is organized feels strict at times, the automated checks and virtual quizzes made me quite anxious. <br/>The way the course is organized was helpful sometimes.<br/>Professor is very helpful at office hours, more helpful than peer mentors. <br/>Professor is also very generous with his time and effort, genuinely concerned about student learning. <br/>I personally didn’t like the partial flipped classroom, and often struggled to finish tutorials in class, which added a lot more work outside of class. <br/>Good course if you know nothing about CS beforehand.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Bain is the goat. The course is kinda mid, but Bain&#x27;s teaching and energy makes the course manageable. Not terribly hard, but Racket Syntax takes some time to get used to.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course is definitely a cool big picture way to look at programming. Professor Bain was great at engaging the class, explaining the concepts clearly, and was incredible organized in his instruction. The homework wasn&#x27;t too time consuming but still challenging in a way that helps you learn. The midterms&#x2F;quizzes really weren&#x27;t bad after you go used to the format and knowing what to look for. My only complaint about this class is that the coding language (Racket) feels like a useless language that I will never use again. I get that it gives you a scope of programming overall, but I just don&#x27;t like Racket.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This is a great course. Prof Bain is a super nice, fair and helpful person. He does an awsome job despite the giant class size and at times difficult homeworks. The hardest part of this class is definately the weekly excersizes, which often took several hours. However, if you start them early in the week and work piece by piece, they are totally doable and often quite rewarding to complete. The quizzes I found were pretty chill as long as you practiced with the question types a little bit.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I think this is a good class for beginners and the work is not hard at all. As long as you put in a little bit of effort and don&#x27;t think that you know everything because you have already done programming, you will be fine. Racket is an annoying language to use but it becomes pretty intuitive after a while. Grading is super lenient and getting to drop one of the four quizzes is really helpful. Bain is super helpful and his teaching style is really easy to follow.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course was very easy, and I believe it will be easier for anyone with previous programming principles experience. Professor Bain was very good, and this class did not take much extra time.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Overall, Computer Science 111 does a good job of teaching the absolute basics of coding. The course is not too challenging, especially if you have any coding experience. It is slightly annoying to learn Racket syntax, especially because Racket is practically an obsolete language.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Pretty fair. Worst quiz, mini quiz, tutorial, and exercise score gets dropped.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I don&#x27;t find racket intuitive and to be honest, I signed up for this course hoping to gain some programming intuition.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Professor Bain is really good at teaching and is very helpful when you are stuck on a problem.  He makes the course interesting and fun. The PMs are also very helpful with helping to explain concepts and exercises. Overall, the course is pretty simple, probably much more so if you have programmed before.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Its good. This class is good. Connor is Chill and fun.<br/><br/>I recommend Office hour held by Pm: Raymond, Aslam and Shu&ndash;Hung. They explain the Cs 111 concepts to be the best.<br/><br/>Assignment Group Weightings<br/>Tutorials (~10)	9% <br/>Exercises (~10)	28%<br/>Mini Quizzes (~2 per module)	9%<br/>Ethics Modules (3)	9%<br/>Quizzes (4)	45%<br/><br/>The l two things that are to important is exercises and Quizzes. But office hours helps a lot. Just get 80+ on 3 of the 4 quizzes and u should chillin.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The class is wonderful, whether you have prior expertise or not. Things will appear difficult for you at first, but do not give up. The class is manageable; simply attend office hours and complete your assignments beforehand. Everything is going to be okay. The professor is really nice. Ask where you don&#x27;t understand</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Connor Bain is a great teacher with a lot of passion for coding, a lot of passion for teaching, and even more passion for awful jokes. He&#x27;s friendly, approachable, and good at teaching. The course itself is also very forgiving as there is a lot of wiggle room in assignments and grading. Definitely not the class to take if you want to come out with immediately applicable practical knowledge since Racket is a kind of niche language, but a pretty good and fun educational time.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Did not enjoy this course. Connor Bain is very strict on his requirements, and will not bend them for any reason. It&#x27;s also very boring.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Racket is hard, but Prof. Bain and the TAs do a great job of teaching it and offering support. Even if you&#x27;re experienced in programming, the course is still extremely challenging at times (especially recursion) and expect to put in some work studying for the quizzes.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Weekly practices that needed application of what I learned throughout the week</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course did a pretty good job in terms of teaching the fundamentals of coding languages and giving a good coding foundation to build off of. It made concepts easier to understand at a normal pace but the biggest problem with the course was the coding language as it was written so weirdly and the syntax is so hard to follow.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">The class lectures were often redundant, but the tutorials were very helpful in actuall learning the basics of the functions and programming methods. The test prep wasnt very good however.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">CS 111 is a great introductory course. Assignments are challenging but grades are rewarding with the amount of effort to put into them. The quiz system removed the stress of a midterm&#x2F;final. Main issue is that racket is a difficult language to learn which also has few real world practicalities. Good for teaching CS concepts though.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">This course was really hard in my opinion, Bain is great but if you have no prior experience sometimes it can be really demoralizing when the students around you with more experience find it all easy.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Not the worst intro CS course, but some aspects of it could definitely be better. I&#x27;m sure everyone will tell you about this but CS 111 is taught using a funky language called DrRacket which definitely would NOT be my pick for an intro CS class. I sincerely feel bad for everyone whose first programming language is this. I did somewhat learn to appreciate the syntax and functionality of it by the end of the class, though. The class is intended to go over basic programming concepts which it does decently at.<br/><br/>Connor Bain himself is a hella cool and chill guy and I enjoy his silly sense of humor. I will say if you have some previous programming experience the lectures can get kind of tedious, but it makes sense since a good number of people are learning from scratch.<br/><br/>The workload isn&#x27;t too bad, you have to watch like 15&ndash;45 minutes worth of lectures before class on Wednesday and there&#x27;s a weekly coding assignment which takes up to a few hours to do. There are four quizzes throughout the quarter which are sort of midterms (but really the vibe is more of like a unit test in high school). The absolute best part of this class is that you can drop your lowest quiz score, which means if you do well on the first three quizzes you can literally just not go to the final quiz.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">I believe that after understanding the basics of data structure and recursion, the goal of the course is done. Connor does a excellent job comparing the idea to tangible stuff that makes it very easy to understand.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Even if you have prior computer science experience, I highly recommend taking this course. Contextualizing computer science principles from a functional programming perspective substantially bolstered my understanding of recursion.</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Fun class! At the least, this class will certainly help you determine whether or not taking more CS classes is right for you, as there were many people I knew who struggled with Racket. Unless you already have a particular interest in CS and&#x2F;or have to take this class as a major requirement, it would probably be best to just take CS 110. But if you do enjoy programming and&#x2F;or find it interesting, this class is a very good introduction and Bain is a great professor.</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<td class="TabularBody_LeftColumn" headers="comment-2_14c6b8ee-2253-4929-9831-930b636700bc">Overall, the course does well in teaching basic principles of computer programming. However, the quizzes (worth 45% of the whole grade) test you not on how well you can think programmatically, but rather on how much you know the language Racket, which is obsolete anyways. Some question types include understanding snippets of code, but instead of asking you what the code does, it asks for the output type in a type&ndash;flexible language. Sometimes they throw in a question where an extra parenthesis is added and you&#x27;re expected to catch syntax errors, which is not a useful skill when compilers exist. So beware of the quizzes, and I&#x27;m hoping the format gets changed soon because it seems the quizzes have been this way for years... it&#x27;s quite outdated and it&#x27;s time for a reformat.</td>
+		</tr>
+	</tbody>
+</table></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div></div><div class="PageBreakStyle"></div><div class="avoid-page-break-inside"><div class="SectionHeading"><h3 id="8488f768-30a5-4cdd-b58c-b1e511aea875_d4a4b5c6-de9a-4725-84e2-7abf122ddabd" ><font size="3"><span style="color:#FFD700;"><span style="background-color:#800080;">DEMOGRAPHICS</span></span></font></h3><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_089812c8-30bf-49da-ab8b-0d07f4a444f0" class="ReportBlockTitle"><span id="lblBlockTitle_089812c8-30bf-49da-ab8b-0d07f4a444f0_8488f768-30a5-4cdd-b58c-b1e511aea875">What is the name of your school?</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__6eef09b8-1d5d-4d59-8cad-d14b246ef341">Your School</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_6153033b-9e37-459b-84e1-2ffdd02c75d6.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="198" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableFrequency_8027d7e9-0526-4ba9-b750-dabf998e52f3" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for What is the name of your school?-Your School.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="FreqOptions" scope="col">Options</th><th class="TabularHeader_MiddleColumn" id="FreqCount" scope="col">Count</th><th class="TabularHeader_MiddleColumn" id="FreqPercentage" scope="col">Percentage</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_0" scope="row" headers="FreqOptions">Education & SP</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_0">1</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_0">0.8%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_1" scope="row" headers="FreqOptions">Communication</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_1">2</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_1">1.6%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_2" scope="row" headers="FreqOptions">Graduate School</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_2">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_2">0.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_3" scope="row" headers="FreqOptions">KGSM</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_3">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_3">0.0%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_4" scope="row" headers="FreqOptions">McCormick</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_4">87</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_4">69.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_5" scope="row" headers="FreqOptions">Medill</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_5">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_5">0.0%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_6" scope="row" headers="FreqOptions">Music</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_6">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_6">0.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_7" scope="row" headers="FreqOptions">Summer</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_7">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_7">0.0%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_8" scope="row" headers="FreqOptions">SPS</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_8">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_8">0.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_9" scope="row" headers="FreqOptions">WCAS</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_9">36</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_9">28.6%</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_be318705-610e-43a8-bde5-6381be8bb38c" class="ReportBlockTitle"><span id="lblBlockTitle_be318705-610e-43a8-bde5-6381be8bb38c_8488f768-30a5-4cdd-b58c-b1e511aea875">Your Class</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__fe598392-8042-447b-afe3-85c8b588e43c">Your Class</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_bc1f940e-c0a5-4d48-8224-e109788992a6.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="152" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableFrequency_171986c4-0769-4ec2-a510-4a8d709ffb5c" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for Your Class-Your Class.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="FreqOptions" scope="col">Options</th><th class="TabularHeader_MiddleColumn" id="FreqCount" scope="col">Count</th><th class="TabularHeader_MiddleColumn" id="FreqPercentage" scope="col">Percentage</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_0" scope="row" headers="FreqOptions">Freshman</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_0">89</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_0">71.8%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_1" scope="row" headers="FreqOptions">Sophomore</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_1">28</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_1">22.6%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_2" scope="row" headers="FreqOptions">Junior</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_2">5</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_2">4.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_3" scope="row" headers="FreqOptions">Senior</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_3">2</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_3">1.6%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_4" scope="row" headers="FreqOptions">Graduate</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_4">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_4">0.0%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_5" scope="row" headers="FreqOptions">Professional</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_5">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_5">0.0%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_6" scope="row" headers="FreqOptions">Other</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_6">0</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_6">0.0%</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="PageBreakStyle"></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_1589118c-f526-422d-8e74-fddaa1b82442" class="ReportBlockTitle"><span id="lblBlockTitle_1589118c-f526-422d-8e74-fddaa1b82442_8488f768-30a5-4cdd-b58c-b1e511aea875">What is your reason for taking the course? (mark all that apply)</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_b8291026-855b-4491-918c-d44bae7c72bc.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableFrequency_071d5e51-9ccc-4a6a-8903-c6d02a68bc51" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for What is your reason for taking the course? (mark all that apply).
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51" scope="col">Options</th><th class="TabularHeader_MiddleColumn" id="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51" scope="col">Count</th><th class="TabularHeader_MiddleColumn" id="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51" scope="col">Percentage</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_0" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">Distribution requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_0">12</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_0">8.6%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_1" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">Major/Minor requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_1">102</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_1">73.4%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_2" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">Elective requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_2">4</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_2">2.9%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_3" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">Non-Degree requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_3">5</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_3">3.6%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_4" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">No requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_4">15</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_4">10.8%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_5" scope="row" headers="FreqOptions_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">Other requirement</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_5">1</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 scale_5">0.7%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularHeader_Title" id="totalRespondantCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51" scope="row">Respondent(s)</th><td class="TabularBody_MiddleColumn_Strong" headers="FreqCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51 totalRespondantCount_071d5e51-9ccc-4a6a-8903-c6d02a68bc51">126</td><td class="TabularBody_MiddleColumn_Strong"></td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div><div class="report-block"><div><h4 id="8488f768-30a5-4cdd-b58c-b1e511aea875_9abb64a6-7f3d-41a5-9c7a-5cee3593be94" class="ReportBlockTitle"><span id="lblBlockTitle_9abb64a6-7f3d-41a5-9c7a-5cee3593be94_8488f768-30a5-4cdd-b58c-b1e511aea875">What was your Interest in this subject before taking the course?</span></h4></div><div class="FrequencyBlockRow"><div class="FrequencyBlock_HalfMain"><div class="FrequencyQuestionTitle"><span id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_Scale1st_subject_qItemTitle0_title__2911105a-663d-4f0f-a089-66c9e8e3300c">What was your interest in this subject before taking the course?</span></div><div class="FrequencyBlock_chart"><img src="/reports/northwestern/report/report1f96c6d5-a5e9-4b72-b346-707e75807df5charts/8488f768-30a5-4cdd-b58c-b1e511aea875chart/ChartPic_53238bbb-0083-4db5-9999-adeccdfb23b8.png" alt="Graphs illustrating the information in the accessible table that should immediately follow it." height="134" width="356"></img></div><div class="FrequencyBlock_table"><table id="BlockLayoutController8488f768-30a5-4cdd-b58c-b1e511aea875_BaseReportBlockUCPreview_TableFrequency_6453481c-2fee-4bfa-9ecc-8d349ffb4118" class="block-table CondensedTabularFixedHalfWidth" border="0">
+	<caption>
+		Table for What was your Interest in this subject before taking the course?-What was your interest in this subject before taking the course?.
+	</caption><thead>
+		<tr class="CondensedTabularHeaderRows">
+			<th class="TabularHeader_LeftColumn_Main" id="FreqOptions" scope="col">Options</th><th class="TabularHeader_MiddleColumn" id="FreqCount" scope="col">Count</th><th class="TabularHeader_MiddleColumn" id="FreqPercentage" scope="col">Percentage</th>
+		</tr>
+	</thead><tbody>
+		<tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_0" scope="row" headers="FreqOptions">1-Not interested at all</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_0">2</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_0">1.6%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_1" scope="row" headers="FreqOptions">2</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_1">6</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_1">4.8%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_2" scope="row" headers="FreqOptions">3</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_2">18</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_2">14.4%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_3" scope="row" headers="FreqOptions">4</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_3">37</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_3">29.6%</td>
+		</tr><tr class="CondensedTabularOddRows">
+			<th class="TabularBody_LeftColumn" id="scale_4" scope="row" headers="FreqOptions">5</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_4">26</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_4">20.8%</td>
+		</tr><tr class="CondensedTabularEvenRows">
+			<th class="TabularBody_LeftColumn" id="scale_5" scope="row" headers="FreqOptions">6-Extremely interested</th><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqCount scale_5">36</td><td class="TabularBody_MiddleColumn_NoWrap" headers="FreqPercentage scale_5">28.8%</td>
+		</tr>
+	</tbody>
+</table></div></div></div><div class="Anchor_ReturnToTopOfPageHide"><div class="toggleDiv" style="display:none;"><a class="Anchor_ReturnToTopOfPage" href="#report_8488f768-30a5-4cdd-b58c-b1e511aea875_ReportTitle_BackTo" title="Back-Student Report for COMP_SCI_111-0_2: Fund Comp Prog  (Connor Bain)"><span>Back</span></a><span class="Anchor_ReturnToTopOfPage"> | </span><a class="Anchor_ReturnToTopOfPage" href="#reportView" title="Return to Top of Page"><span>Top of Page</span></a></div></div></div></article></body></html>

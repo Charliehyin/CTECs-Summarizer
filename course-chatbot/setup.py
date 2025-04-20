@@ -1,31 +1,27 @@
-from openai import OpenAI
-import os
 from dotenv import load_dotenv
+import os
+import json
 
+# Load environment variables
 load_dotenv()
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Initialize the base messages once during setup
+system_message = """You are analyzing student reviews of courses at Northwestern. 
+Use the provided CTEC (Course and Teacher Evaluation Council) data to answer questions about these course reviews.
+Base your responses only on the CTEC content provided in the conversation."""
 
-assistant = client.beta.assistants.create(
-    name="Course Review Assistant",
-    instructions="You are analyzing student reviews of courses at Northwestern. Use your knowledge base to answer questions about these course reviews, called CTECs.",
-    model="gpt-4o-mini",
-    tools=[{"type": "file_search"}],
-)
+# Read the CTEC file content once
+with open("html ctecs/Northwestern - Student Report for COMP_SCI_111-0_2_ Fund Comp Prog (Connor Bain).html", "r") as f:
+    ctec_content = f.read()
 
-vector_store = client.beta.vector_stores.create(name="CTECs")
+# Create the base messages
+BASE_MESSAGES = [
+    {"role": "system", "content": system_message},
+    {"role": "user", "content": f"Here is the CTEC content to analyze:\n\n{ctec_content}"}
+]
 
-message_file = client.files.create(
-    file=open("html ctecs/Northwestern - Student Report for COMP_SCI_111-0_2_ Fund Comp Prog (Connor Bain).html", "rb"),
-    purpose="assistants"
-)
+# Save the base messages to a file for app.py to load
+with open('base_messages.json', 'w') as f:
+    json.dump(BASE_MESSAGES, f)
 
-assistant = client.beta.assistants.update(
-    assistant_id=assistant.id,
-    tool_resources={"file_search": {"vector_store_ids": [vector_store.id]}},
-)
-
-with open('assistant_config.txt', 'w') as f:
-    f.write(f"ASSISTANT_ID={assistant.id}\n")
-    f.write(f"VECTOR_STORE_ID={vector_store.id}\n")
-    f.write(f"MESSAGE_FILE_ID={message_file.id}\n")
+print("Setup complete. Base messages saved to base_messages.json")

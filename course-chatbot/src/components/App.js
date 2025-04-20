@@ -101,14 +101,13 @@ const App = () => {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
 
-    // Expand the chat if this is the first message
     if (!isExpanded) {
       setIsExpanded(true);
       setShowGreeting(false);
     }
 
     let userMessage = input.trim();
-    setInput(''); // Clear input field
+    setInput('');
     setMessages((prev) => [...prev, { text: userMessage, isUser: true }]);
     setIsLoading(true);
     
@@ -118,6 +117,7 @@ const App = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
+          'Accept': 'application/json',
         },
         body: JSON.stringify({ 
           message: userMessage,
@@ -130,10 +130,9 @@ const App = () => {
       }
 
       const data = await response.json();
-      // Store the RAG response data to prepend to the user message
+      // store RAG response data
       const ragResponse = data.response;
       
-      // Prepend the RAG response to the user message for context
       const promptInstructions = "Please quote information you used from the context to answer the user query, if relevant.";
       userMessage = `Context from course reviews:\n${ragResponse}\n\nUser query: ${userMessage}\n\n${promptInstructions}`;
       
@@ -144,32 +143,79 @@ const App = () => {
         { text: `Sorry, there was an error processing your request. Please make sure the backend server for RAGis running.`, isUser: false },
       ]);
     } finally {
-        // Chat API call
+        // chat API call
         try {
-            const response = await fetch(`${api_base_url}/chat`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({ 
-                message: userMessage,
-                user: user?.email || 'guest'
-            }),
-            });
-
-            if (!response.ok) {
-            throw new Error(`API responded with status: ${response.status}`);
-            }
-
-            const data = await response.json();
-            setMessages((prev) => [...prev, { text: data.response, isUser: false }]);
+            setMessages((prev) => [...prev, { text: "", isUser: false, isStreaming: true }]);
+            
+            const encodedMessage = encodeURIComponent(userMessage);
+            const encodedUser = encodeURIComponent(user?.email || 'guest');
+            
+            const eventSource = new EventSource(
+                `${api_base_url}/chat-stream?message=${encodedMessage}&user=${encodedUser}`
+            );
+            
+            const messageIndex = messages.length;
+            
+            eventSource.onmessage = (event) => {
+                try {
+                    const data = JSON.parse(event.data);
+                    
+                    if (data.done) {
+                        // streaming is complete
+                        setMessages((prev) => {
+                            const newMessages = [...prev];
+                            const lastMessage = newMessages[newMessages.length - 1];
+                            if (!lastMessage.isUser) {
+                                lastMessage.isStreaming = false;
+                            }
+                            return newMessages;
+                        });
+                        eventSource.close();
+                        setIsLoading(false);
+                    } else if (data.chunk) {
+                        // append chunk to the current message
+                        setMessages((prev) => {
+                            const newMessages = [...prev];
+                            const lastMessage = newMessages[newMessages.length - 1];
+                            if (!lastMessage.isUser) {
+                                lastMessage.text += data.chunk;
+                            }
+                            return newMessages;
+                        });
+                    } else if (data.complete) {
+                        // if we ever need to send the complete message at once
+                        setMessages((prev) => {
+                            const newMessages = [...prev];
+                            newMessages[newMessages.length - 1] = {
+                                text: data.complete,
+                                isUser: false,
+                                isStreaming: false
+                            };
+                            return newMessages;
+                        });
+                        eventSource.close();
+                        setIsLoading(false);
+                    }
+                } catch (error) {
+                    console.error("Error parsing event data:", error);
+                }
+            };
+            
+            eventSource.onerror = (error) => {
+                console.error("EventSource error:", error);
+                eventSource.close();
+                setIsLoading(false);
+                setMessages((prev) => [
+                    ...prev,
+                    { text: `Sorry, there was an error processing your request.`, isUser: false },
+                ]);
+            };
         } catch (error) {
             console.error('Error details:', error);
             setMessages((prev) => [
-            ...prev,
-            { text: `Sorry, there was an error processing your request. Please make sure the backend server is running.`, isUser: false },
+                ...prev,
+                { text: `Sorry, there was an error processing your request. Please make sure the backend server is running.`, isUser: false },
             ]);
-        } finally {
             setIsLoading(false);
         }
     }
@@ -177,7 +223,6 @@ const App = () => {
     
 
   const handleInputFocus = () => {
-    // Don't expand on focus if there are no messages yet
     if (messages.length > 0 && !isExpanded) {
       setIsExpanded(true);
       setShowGreeting(false);
@@ -188,12 +233,12 @@ const App = () => {
     setInput(e.target.value);
   };
 
-  // If no user is logged in, show the Login component
+  // if no user is logged in, show the login component
   if (!user) {
     return <Login onLogin={handleLogin} />;
   }
   
-  // Otherwise, show the main application
+  // otherwise show the main application
   return (
     <div className="app-container">
       {showAbout && <About onClose={handleCloseAbout} />}
@@ -226,20 +271,6 @@ const App = () => {
                   isUser={message.isUser}
                 />
               ))}
-
-              {isLoading && (
-                <div className="loading-message">
-                  <div className="assistant-message">
-                    <span>Generating a response</span>
-                    <span className="loading-dots">
-                      <span>.</span>
-                      <span>.</span>
-                      <span>.</span>
-                    </span>
-                  </div>
-                </div>
-              )}
-
               <div ref={messagesEndRef} />
             </div>
           )}
