@@ -1,10 +1,67 @@
-from flask import Blueprint, request, jsonify
-import time
+from flask import Blueprint, request, jsonify, Response
 from utils.openai_client import client
 from config.config import load_config
+from utils.connect_db import get_db_connection
+import requests
+import json
+import time
+import mysql.connector
 
 chat_bp = Blueprint('chat', __name__)
 config = load_config()
+
+def ner_api(message):
+    """Call the NER API to extract entities from the message"""
+    try:
+        payload = {
+            "message": message
+        }
+
+        response = requests.get(
+            "http://localhost:8000/api/ner",
+            json=payload
+        )
+
+        if response.status_code == 200:
+            response_json = response.json()
+            all_matches = response_json.get("numbers", []) + response_json.get("courses", []) + response_json.get("professors", [])
+            return all_matches
+        else:
+            print(f"Error calling NER API: {response.status_code}")
+            return {}
+    except Exception as e:
+        print(f"Error calling NER API: {e}")
+        return {}
+
+def rag_api(message, top_k=10, metadata=None):
+    """Call the RAG API to get relevant CTECs"""
+    try:
+        # Prepare the request payload
+        payload = {
+            "message": message,
+            "top_k": top_k
+        }
+        
+        # Add metadata if provided
+        if metadata:
+            payload["metadata"] = metadata
+            
+        # Call the local rag endpoint
+        response = requests.post(
+            "http://localhost:8000/api/rag",
+            json=payload
+        )
+        
+        # If the request was successful, return the CTECs
+        if response.status_code == 200:
+            response_json = response.json()
+            return response_json.get("response", "")
+        else:
+            print(f"Error calling RAG endpoint: {response.status_code}")
+            return "Error retrieving relevant CTECs."
+    except Exception as e:
+        print(f"Error getting relevant CTECs: {e}")
+        return "Error retrieving relevant CTECs."
 
 @chat_bp.route('/chat', methods=['POST'])
 def chat():
@@ -13,50 +70,171 @@ def chat():
         return jsonify({"error": "Missing message in request"}), 400
 
     try:
-        # Create a thread with the user message and file attachment for file_search
-        thread = client.beta.threads.create(
-            messages=[
-                {
-                    "role": "user",
-                    "content": user_message,
-                    "attachments": [
-                        {
-                            "file_id": config.get('MESSAGE_FILE_ID'),
-                            "tools": [{"type": "file_search"}]
-                        }
-                    ],
-                }
-            ]
-        )
-
-        # Start the assistant run using the assistant ID
-        run = client.beta.threads.runs.create(
-            thread_id=thread.id,
-            assistant_id=config.get('ASSISTANT_ID')
-        )
-
-        # Poll for the response (timeout after 60 seconds)
-        timeout = 60
-        start_time = time.time()
-        while time.time() - start_time < timeout:
-            run_status = client.beta.threads.runs.retrieve(
-                thread_id=thread.id,
-                run_id=run.id
-            )
-            if run_status.status == 'completed':
-                break
-            time.sleep(2)
-        else:
-            return jsonify({"error": "Response timed out."}), 504
-
-        # Retrieve messages from the thread and return the assistant's response
-        messages = client.beta.threads.messages.list(thread_id=thread.id)
-        for message in messages.data:
-            if message.role == "assistant":
-                return jsonify({"response": message.content[0].text.value})
+        # Step 1: Call NER API to extract entities
+        ner_response = ner_api(user_message)
         
-        return jsonify({"error": "No assistant response found."}), 500
+        # Step 2: Call RAG API with user message and NER metadata
+        rag_response = rag_api(user_message, top_k=10, metadata=ner_response)
+        
+        # Step 3: Combine user message with RAG context
+        augmented_message = f"{user_message}\n\nHere is the context to use for the response: {rag_response}"
+        
+        system_message = """You are analyzing student reviews of courses at Northwestern. 
+        Use the provided CTEC (Course and Teacher Evaluation Council) data to answer questions about these course reviews.
+        Base your responses only on the CTEC content provided in the conversation."""
+        
+        messages = [
+            {"role": "system", "content": system_message},
+            {"role": "user", "content": augmented_message}
+        ]
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=messages
+        )
+        
+        assistant_response = response.choices[0].message.content
+        
+        return jsonify({"response": assistant_response})
 
     except Exception as e:
         print("Error processing request:", e)
         return jsonify({"error": "Internal server error."}), 500
+
+@chat_bp.route('/chat-stream', methods=['POST'])
+def chat_stream():
+    data = request.json
+    message = data['message']
+    chat_id = data.get('chatId')
+    user_id = data.get('user_id', 'guest')
+    
+    # Get a MySQL connection
+    conn = get_db_connection()
+    if not conn:
+        return jsonify({"error": "Failed to connect to database"}), 500
+    
+    cursor = None
+    
+    try:
+        cursor = conn.cursor()
+        timestamp = int(time.time())
+        
+        # If no chat_id provided, create a new chat
+        if not chat_id:
+            # Create a new chat
+            cursor.execute(
+                "INSERT INTO chats (user_id) VALUES (%s)",
+                (user_id,)
+            )
+            conn.commit()
+            chat_id = cursor.lastrowid
+        
+        # Get the next message_id for this chat
+        cursor.execute(
+            "SELECT COALESCE(MAX(message_id), 0) + 1 FROM messages WHERE chat_id = %s",
+            (chat_id,)
+        )
+        message_id = cursor.fetchone()[0]
+        
+        # Insert user message
+        cursor.execute(
+            "INSERT INTO messages (chat_id, message_id, message_text, is_user, message_timestamp) VALUES (%s, %s, %s, %s, FROM_UNIXTIME(%s))",
+            (chat_id, message_id, message, True, timestamp)
+        )
+        conn.commit()
+        
+        def generate():
+            full_content = ""  # store the complete response
+            
+            try:
+                # Step 1: Call NER API to extract entities
+                ner_response = ner_api(message)
+                
+                # Step 2: Call RAG API with user message and NER metadata
+                rag_response = rag_api(message, top_k=10, metadata=ner_response)
+                
+                # Step 3: Combine user message with RAG context
+                augmented_message = f"{message}\n\nHere is the context to use for the response: {rag_response}"
+                
+                # Create messages for the API call
+                system_message = """You are analyzing student reviews of courses at Northwestern. 
+                Use the provided CTEC (Course and Teacher Evaluation Council) data to answer questions about these course reviews.
+                Base your responses only on the CTEC content provided in the conversation."""
+                
+                api_messages = [
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": augmented_message}
+                ]
+                
+                # Call OpenAI API with streaming enabled
+                try:
+                    response = client.chat.completions.create(
+                        model="gpt-4o-mini",
+                        messages=api_messages,
+                        stream=True,
+                        temperature=0.7,
+                    )
+                    
+                    # Process the streaming response
+                    for chunk in response:
+                        if chunk.choices and len(chunk.choices) > 0:
+                            delta = chunk.choices[0].delta
+                            
+                            # If there's content in this chunk
+                            if hasattr(delta, 'content') and delta.content:
+                                content = delta.content
+                                full_content += content  # Accumulate the content
+                                
+                                # Stream the chunk to the client
+                                yield f"data: {json.dumps({'chunk': content})}\n\n"
+                    
+                    # Send the full content at the end as a 'done' message
+                    yield f"data: {json.dumps({'done': True, 'complete': full_content})}\n\n"
+                    
+                    # Save the assistant's message to the database
+                    next_message_id = message_id + 1
+                    assistant_timestamp = int(time.time())
+                    
+                    # Get a new connection for the assistant message since we're in a generator
+                    asst_conn = get_db_connection()
+                    if asst_conn:
+                        try:
+                            asst_cursor = asst_conn.cursor()
+                            # Insert assistant message
+                            asst_cursor.execute(
+                                "INSERT INTO messages (chat_id, message_id, message_text, is_user, message_timestamp) VALUES (%s, %s, %s, %s, FROM_UNIXTIME(%s))",
+                                (chat_id, next_message_id, full_content, False, assistant_timestamp)
+                            )
+                            
+                            # Update chat's last_modified timestamp
+                            asst_cursor.execute(
+                                "UPDATE chats SET last_modified = FROM_UNIXTIME(%s) WHERE chat_id = %s",
+                                (assistant_timestamp, chat_id)
+                            )
+                            asst_conn.commit()
+                            asst_cursor.close()
+                        except Exception as e:
+                            print(f"Error saving assistant message: {e}")
+                        finally:
+                            asst_conn.close()
+                    
+                except Exception as e:
+                    print(f"Error in streaming response: {e}")
+                    yield f"data: {json.dumps({'chunk': 'I could not generate a response. Please try again.'})}\n\n"
+                    yield f"data: {json.dumps({'done': True})}\n\n"
+                    
+            except Exception as e:
+                print(f"Error in generate function: {e}")
+                yield f"data: {json.dumps({'chunk': 'I could not generate a response. Please try again.'})}\n\n"
+                yield f"data: {json.dumps({'done': True})}\n\n"
+        
+        return Response(generate(), mimetype='text/event-stream')
+        
+    except Exception as e:
+        print(f"Error in chat_stream: {e}")
+        return jsonify({"error": str(e)}), 500
+    finally:
+        if cursor:
+            cursor.close()
+        if conn:
+            conn.close()
