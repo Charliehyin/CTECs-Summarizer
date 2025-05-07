@@ -1,0 +1,68 @@
+server {
+    if ($host = 3-17-144-16.nip.io) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+    listen 80;
+    server_name 3-17-144-16.nip.io;
+
+    location / {
+        proxy_pass http://localhost:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+	# Add CORS headers for HTTP
+        add_header 'Access-Control-Allow-Origin' 'https://ctecs.nu' always;
+        add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;
+        add_header 'Access-Control-Allow-Headers' 'Origin, X-Requested-With, Content-Type, Accept' always;
+
+        # Handle preflight requests
+        if ($request_method = 'OPTIONS') {
+            add_header 'Access-Control-Allow-Origin' 'https://ctecs.nu' always;
+            add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;
+            add_header 'Access-Control-Allow-Headers' 'Origin, X-Requested-With, Content-Type, Accept' always;
+            add_header 'Access-Control-Max-Age' 1728000;
+            add_header 'Content-Type' 'text/plain charset=UTF-8';
+            add_header 'Content-Length' 0;
+            return 204;
+        }
+    }
+
+
+}
+
+server {
+    listen 443 ssl;
+    server_name 3-17-144-16.nip.io;
+    ssl_certificate /etc/letsencrypt/live/3-17-144-16.nip.io/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/3-17-144-16.nip.io/privkey.pem; # managed by Certbot
+
+    
+    location / {
+        proxy_pass http://localhost:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+	# Add these lines for CORS headers
+        add_header 'Access-Control-Allow-Origin' 'https://ctecs.nu' always;
+        add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;
+        add_header 'Access-Control-Allow-Headers' 'Origin, X-Requested-With, Content-Type, Accept' always;
+        
+        # Handle preflight requests
+        if ($request_method = 'OPTIONS') {
+            add_header 'Access-Control-Allow-Origin' 'https://ctecs.nu' always;
+            add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS' always;
+            add_header 'Access-Control-Allow-Headers' 'Origin, X-Requested-With, Content-Type, Accept' always;
+            add_header 'Access-Control-Max-Age' 1728000;
+            add_header 'Content-Type' 'text/plain charset=UTF-8';
+            add_header 'Content-Length' 0;
+            return 204;
+        }
+    }
+
+}
