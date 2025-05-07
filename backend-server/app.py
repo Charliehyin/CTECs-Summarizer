@@ -1,5 +1,6 @@
 from flask import Flask, request
-from flask_cors import CORS
+# We're no longer using Flask-CORS as it's causing duplicate headers
+# from flask_cors import CORS
 from config.config import load_config
 from endpoints.chat import chat_bp
 from endpoints.rag import rag_bp
@@ -22,33 +23,37 @@ app = Flask(__name__)
 allowed_origins = os.environ.get('ALLOWED_ORIGINS', 'http://localhost:3000,https://ctecs.nu')
 origins = allowed_origins.split(',')
 
-# Configure CORS with specific origins
-CORS(app, 
-     resources={r"/api/*": {"origins": origins}},
-     supports_credentials=True)
+# We're no longer using Flask-CORS
+# CORS(app, 
+#      resources={r"/api/*": {"origins": origins}},
+#      supports_credentials=True)
 
-# Add a global CORS handler to ensure consistent headers
+# Instead, we're handling CORS manually with our own middleware
 @app.after_request
-def after_request(response):
+def add_cors_headers(response):
     origin = request.headers.get('Origin')
     
-    # Only set CORS headers if the request has an Origin header
+    # Only add CORS headers if the request has an Origin header
     if origin:
         # Check if the origin is in our allowed list
         if origin in origins:
-            # Important: Remove any existing Access-Control-Allow-Origin headers
-            # to avoid duplicates
-            if 'Access-Control-Allow-Origin' in response.headers:
-                del response.headers['Access-Control-Allow-Origin']
-            
-            # Set a single Access-Control-Allow-Origin header
-            response.headers.add('Access-Control-Allow-Origin', origin)
-        
-        # Ensure other CORS headers are set consistently
-        response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
-        response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
-        response.headers.add('Access-Control-Allow-Credentials', 'true')
+            response.headers['Access-Control-Allow-Origin'] = origin
+            response.headers['Access-Control-Allow-Credentials'] = 'true'
+            response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
+            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
     
+    return response
+
+# Handle OPTIONS requests explicitly
+@app.route('/api/<path:path>', methods=['OPTIONS'])
+def options_handler(path):
+    response = app.make_default_options_response()
+    origin = request.headers.get('Origin')
+    if origin and origin in origins:
+        response.headers['Access-Control-Allow-Origin'] = origin
+        response.headers['Access-Control-Allow-Credentials'] = 'true'
+        response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
+        response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
     return response
 
 app.config['PROPAGATE_EXCEPTIONS'] = True

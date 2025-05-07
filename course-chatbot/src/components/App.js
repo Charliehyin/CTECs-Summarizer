@@ -152,6 +152,7 @@ const App = () => {
         body: JSON.stringify({
           user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
         }),
+        credentials: 'include',
       });
 
       if (response.ok) {
@@ -168,11 +169,15 @@ const App = () => {
 
   const selectChat = async (chat) => {
     try {
+      console.log("Selecting chat with ID:", chat.id);
       setActiveChatId(chat.id);
       setIsLoading(true);
 
       // Fetch messages for selected chat
-      const response = await fetch(`${api_base_url}/get_chat_messages?chat_id=${chat.id}`);
+      const response = await fetch(`${api_base_url}/get_chat_messages?chat_id=${chat.id}`, {
+        credentials: 'include',
+      });
+
       const data = await response.json();
 
       if (response.ok && Array.isArray(data)) {
@@ -223,7 +228,8 @@ const App = () => {
         method: 'DELETE',
         headers: {
           'Content-Type': 'application/json'
-        }
+        },
+        credentials: 'include',
       });
 
       console.log("Delete response status:", response.status);
@@ -279,6 +285,7 @@ const App = () => {
             user_id: 'danielkim2028@u.northwestern.edu', // Use a consistent test email
             title: input.substring(0, 30) + (input.length > 30 ? '...' : '')
           }),
+          credentials: 'include', // Include credentials for cross-origin requests
         });
 
         if (createResponse.ok) {
@@ -321,6 +328,7 @@ const App = () => {
             message: originalUserMessage,
             isUser: true
           }),
+          credentials: 'include',
         });
         console.log("User message saved to chat:", currentChatId);
       } catch (error) {
@@ -340,6 +348,7 @@ const App = () => {
           message: userMessage,
           top_k: 10
         }),
+        credentials: 'include',
       });
 
       if (!response.ok) {
@@ -375,7 +384,8 @@ const App = () => {
           message: userMessage,
           chatId: currentChatId,
           user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
-        })
+        }),
+        credentials: 'include',
       });
 
       if (!response.ok) {
