@@ -1,4 +1,5 @@
 import time
+import re
 from flask import Blueprint, request, jsonify
 from utils.connect_db import get_db_connection
 
@@ -16,6 +17,12 @@ def save_chat_message():
         if isinstance(is_user, str):
             is_user = is_user.lower() == 'true'
         
+        # For user messages, extract the original query if it contains context
+        if is_user and message and "Context from course reviews:" in message:
+            match = re.search(r'User query:\s+(.*?)(?:\n\n|$)', message)
+            if match:
+                message = match.group(1)
+                
         # Log for debugging
         print(f"Saving message for chat: {chat_id}, isUser: {is_user}, message length: {len(message) if message else 0}")
         

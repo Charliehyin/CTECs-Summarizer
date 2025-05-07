@@ -18,6 +18,9 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 
+app.config['PROPAGATE_EXCEPTIONS'] = True
+app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
+
 # Load any configuration (if needed in app context)
 config = load_config()
 
@@ -32,4 +35,4 @@ app.register_blueprint(get_chat_messages_bp, url_prefix="/api")
 app.register_blueprint(save_chat_message_bp, url_prefix="/api")
 app.register_blueprint(ner_bp, url_prefix="/api")
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000, debug=True)
+    app.run(host='0.0.0.0', port=8000, debug=True, threaded=True)

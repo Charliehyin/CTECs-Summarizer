@@ -117,7 +117,6 @@ def chat_stream():
     
     try:
         cursor = conn.cursor()
-        timestamp = int(time.time())
         
         # If no chat_id provided, create a new chat
         if not chat_id:
@@ -128,20 +127,19 @@ def chat_stream():
             )
             conn.commit()
             chat_id = cursor.lastrowid
-        
-        # Get the next message_id for this chat
+            
+        # Get the current max message_id
         cursor.execute(
-            "SELECT COALESCE(MAX(message_id), 0) + 1 FROM messages WHERE chat_id = %s",
+            "SELECT COALESCE(MAX(message_id), 0) FROM messages WHERE chat_id = %s",
             (chat_id,)
         )
-        message_id = cursor.fetchone()[0]
+        current_max_id = cursor.fetchone()[0]
         
-        # Insert user message
-        cursor.execute(
-            "INSERT INTO messages (chat_id, message_id, message_text, is_user, message_timestamp) VALUES (%s, %s, %s, %s, FROM_UNIXTIME(%s))",
-            (chat_id, message_id, message, True, timestamp)
-        )
-        conn.commit()
+        # Close connection before streaming (generator will create its own)
+        if cursor:
+            cursor.close()
+        if conn:
+            conn.close()
         
         def generate():
             full_content = ""  # store the complete response
@@ -186,14 +184,15 @@ def chat_stream():
                                 full_content += content  # Accumulate the content
                                 
                                 # Stream the chunk to the client
-                                yield f"data: {json.dumps({'chunk': content})}\n\n"
+                                chunk_data = f"data: {json.dumps({'chunk': content})}\n\n"
+                                yield chunk_data
                     
                     # Send the full content at the end as a 'done' message
                     yield f"data: {json.dumps({'done': True, 'complete': full_content})}\n\n"
                     
                     # Save the assistant's message to the database
-                    next_message_id = message_id + 1
                     assistant_timestamp = int(time.time())
+                    next_message_id = current_max_id + 1
                     
                     # Get a new connection for the assistant message since we're in a generator
                     asst_conn = get_db_connection()
@@ -231,10 +230,9 @@ def chat_stream():
         return Response(generate(), mimetype='text/event-stream')
         
     except Exception as e:
-        print(f"Error in chat_stream: {e}")
-        return jsonify({"error": str(e)}), 500
-    finally:
         if cursor:
             cursor.close()
         if conn:
             conn.close()
+        print(f"Error in chat_stream: {e}")
+        return jsonify({"error": str(e)}), 500

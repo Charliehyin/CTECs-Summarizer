@@ -3,7 +3,7 @@ import { Send, MessageCircle, Trash2 } from 'lucide-react';
 import Login from './Login';
 import About from './About';
 
-const api_base_url = process.env.REACT_APP_API_BASE_URL;
+const api_base_url = "http://localhost:8000/api";
 
 const OpenAIResponse = ({ response }) => {
   const cleanedResponse = response.replace(/【\d+:\d+†source】/g, "");
@@ -44,9 +44,7 @@ const ChatMessage = ({ message, isUser }) => (
 
 const ChatHistorySidebar = ({ chatHistory, onSelectChat, onDeleteChat, activeChat }) => (
   <div className="chat-history-sidebar">
-    <div className="sidebar-header">
-      <h3>Chat History</h3>
-    </div>
+    <div className="sidebar-header">Your Chat History</div>
     <div className="chat-list">
       {chatHistory.length === 0 ? (
         <div className="no-chats">No previous chats</div>
@@ -55,7 +53,7 @@ const ChatHistorySidebar = ({ chatHistory, onSelectChat, onDeleteChat, activeCha
           <div
             key={chat.id}
             className={`chat-item ${activeChat === chat.id ? 'active' : ''}`}
-            onClick={() => onSelectChat(chat.id)}
+            onClick={() => onSelectChat(chat)}
           >
             <div className="chat-item-icon">
               <MessageCircle size={16} />
@@ -120,10 +118,12 @@ const App = () => {
   };
 
   const handleNewChat = () => {
+    console.log("Starting new chat...");
     setMessages([]);
     setIsExpanded(false);
     setShowGreeting(true);
     setInput('');
+    setActiveChatId(null);
   };
 
   const handleAboutClick = () => {
@@ -150,47 +150,66 @@ const App = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          user_id: user?.email || 'guest'
-        })
+          user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
+        }),
       });
 
       if (response.ok) {
         const data = await response.json();
+        console.log("Chat history updated:", data.chats);
         setChatHistory(data.chats || []);
+      } else {
+        console.error('Failed to fetch chat history');
       }
     } catch (error) {
-      console.error('Failed to fetch chat history:', error);
+      console.error('Error fetching chat history:', error);
     }
   };
 
-  const selectChat = async (chatId) => {
+  const selectChat = async (chat) => {
     try {
-      console.log("Fetching messages for chat ID:", chatId);
-      const response = await fetch(`${api_base_url}/get_chat_messages`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          chatId: chatId
-        })
-      });
+      setActiveChatId(chat.id);
+      setIsLoading(true);
 
-      console.log("Response status:", response.status);
+      // Fetch messages for selected chat
+      const response = await fetch(`${api_base_url}/get_chat_messages?chat_id=${chat.id}`);
+      const data = await response.json();
 
-      if (response.ok) {
-        const data = await response.json();
+      if (response.ok && Array.isArray(data)) {
+        // Create a map to track unique messages
+        const uniqueMessages = new Map();
 
-        console.log("Received messages from backend:", data.messages);
-        console.log("Raw JSON string:", JSON.stringify(data.messages));
+        // Process each message to ensure uniqueness
+        data.forEach(msg => {
+          const messageKey = `${msg.message_id}-${msg.is_user ? 'user' : 'assistant'}`;
 
-        setMessages(data.messages || []);
+          // Only add if we haven't seen this message ID + sender combo before
+          if (!uniqueMessages.has(messageKey)) {
+            uniqueMessages.set(messageKey, {
+              id: msg.message_id,
+              text: msg.message_text,
+              isUser: msg.is_user === 1,
+              timestamp: new Date(msg.message_timestamp).toISOString()
+            });
+          }
+        });
+
+        // Convert the map values to an array and sort by message_id
+        const sortedMessages = Array.from(uniqueMessages.values())
+          .sort((a, b) => a.id - b.id);
+
+        setMessages(sortedMessages);
         setIsExpanded(true);
         setShowGreeting(false);
-        setActiveChatId(chatId);
+      } else {
+        console.error('Failed to load chat messages:', data.error || 'Unknown error');
+        setMessages([]);
       }
     } catch (error) {
-      console.error('Failed to fetch chat messages:', error);
+      console.error('Error selecting chat:', error);
+      setMessages([]);
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -257,18 +276,19 @@ const App = () => {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            user_id: user?.email || 'guest',
+            user_id: 'danielkim2028@u.northwestern.edu', // Use a consistent test email
             title: input.substring(0, 30) + (input.length > 30 ? '...' : '')
           }),
         });
 
         if (createResponse.ok) {
           const data = await createResponse.json();
+          console.log("New chat created with ID:", data.chatId);
           currentChatId = data.chatId;
           setActiveChatId(currentChatId);
 
-          // Update chat history
-          fetchChatHistory();
+          // Immediately update chat history
+          await fetchChatHistory();
         }
       } catch (error) {
         console.error('Failed to create chat:', error);
@@ -284,7 +304,9 @@ const App = () => {
     let originalUserMessage = userMessage; // Store the original message for saving to history
     setInput('');
     setMessages((prev) => [...prev, { text: userMessage, isUser: true }]);
-    setIsLoading(true);
+
+    // We won't set isLoading to true here anymore
+    // This will prevent showing the "generating a response" indicator
 
     // Save user message to history first
     if (currentChatId) {
@@ -300,6 +322,7 @@ const App = () => {
             isUser: true
           }),
         });
+        console.log("User message saved to chat:", currentChatId);
       } catch (error) {
         console.error('Failed to save user message:', error);
       }
@@ -336,12 +359,12 @@ const App = () => {
         ...prev,
         { text: `Sorry, there was an error processing your request. Please make sure the backend server for RAG is running.`, isUser: false },
       ]);
-      setIsLoading(false);
       return;
     }
 
     // chat API call
     try {
+      console.log("Sending request to chat-stream endpoint");
       // We need to use fetch with POST method instead of EventSource
       const response = await fetch(`${api_base_url}/chat-stream`, {
         method: 'POST',
@@ -351,7 +374,7 @@ const App = () => {
         body: JSON.stringify({
           message: userMessage,
           chatId: currentChatId,
-          user_id: user?.email || 'guest'
+          user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
         })
       });
 
@@ -359,19 +382,33 @@ const App = () => {
         throw new Error(`Server responded with status: ${response.status}`);
       }
 
+      console.log("Got response from chat-stream, starting to read stream");
+
       // Use a ReadableStream to process the streaming response
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
       let hasStartedResponse = false;
       let lastMessageText = '';
 
+      // Add empty response message immediately to start stream
+      setMessages(prev => [...prev, {
+        text: '',
+        isUser: false,
+        isStreaming: true
+      }]);
+      hasStartedResponse = true;
+
       // Read the stream
       while (true) {
         const { done, value } = await reader.read();
-        if (done) break;
+        if (done) {
+          console.log("Stream reading complete");
+          break;
+        }
 
         // Decode the chunk and split by lines (each line is an SSE event)
         const chunk = decoder.decode(value, { stream: true });
+        console.log("Received chunk:", chunk);
         const lines = chunk.split('\n\n');
 
         for (const line of lines) {
@@ -380,72 +417,27 @@ const App = () => {
           try {
             // Parse the SSE data
             const eventData = JSON.parse(line.substring(6));
+            console.log("Parsed event data:", eventData);
 
             // Handle "done" event
             if (eventData.done) {
-              // If the backend sent a complete response, use that
-              if (eventData.complete) {
-                lastMessageText = eventData.complete;
+              console.log("Received 'done' event");
 
-                // Update the UI with the complete message
-                setMessages((prev) => {
-                  const newMessages = [...prev];
-                  // Replace the last message or add a new one if needed
-                  if (newMessages.length > 0 && !newMessages[newMessages.length - 1].isUser) {
-                    newMessages[newMessages.length - 1] = {
-                      text: eventData.complete,
-                      isUser: false,
-                      isStreaming: false
-                    };
-                  } else {
-                    newMessages.push({
-                      text: eventData.complete,
-                      isUser: false,
-                      isStreaming: false
-                    });
-                  }
-                  return newMessages;
-                });
-              }
-
+              // We no longer need to update UI with eventData.complete
+              // since we've already built the message from streaming chunks
               setIsLoading(false);
 
-              // Save the assistant message
-              try {
-                const messageToSave = lastMessageText.trim() || "I don't have a specific answer for that.";
-
-                const saveResponse = await fetch(`${api_base_url}/save_chat_message`, {
-                  method: 'POST',
-                  headers: {
-                    'Content-Type': 'application/json',
-                  },
-                  body: JSON.stringify({
-                    chatId: currentChatId,
-                    message: messageToSave,
-                    isUser: false
-                  }),
-                });
-
-                if (!saveResponse.ok) {
-                  console.error("Failed to save assistant message:", saveResponse.statusText);
-                }
-              } catch (error) {
-                console.error('Failed to save message:', error);
-              }
-
+              // The assistant message is now saved in the backend
+              // No need to save it again here
               break;
             }
 
             // Handle chunk event
             if (eventData.chunk) {
-              setMessages((prev) => {
-                if (!hasStartedResponse) {
-                  // This is the first chunk, add a new message
-                  hasStartedResponse = true;
-                  return [...prev, { text: eventData.chunk, isUser: false, isStreaming: true }];
-                }
+              console.log("Received chunk content:", eventData.chunk);
 
-                // Otherwise append to existing message
+              // Update the existing message with new content
+              setMessages(prev => {
                 const newMessages = [...prev];
                 const lastMessage = newMessages[newMessages.length - 1];
                 if (!lastMessage.isUser) {
@@ -466,7 +458,6 @@ const App = () => {
         ...prev,
         { text: `Sorry, there was an error processing your request. Please make sure the backend server is running.`, isUser: false },
       ]);
-      setIsLoading(false);
     }
   };
 
@@ -542,19 +533,6 @@ const App = () => {
                     isUser={message.isUser}
                   />
                 ))}
-
-                {isLoading && (
-                  <div className="loading-message">
-                    <div className="assistant-message">
-                      <span>Generating a response</span>
-                      <span className="loading-dots">
-                        <span>.</span>
-                        <span>.</span>
-                        <span>.</span>
-                      </span>
-                    </div>
-                  </div>
-                )}
 
                 <div ref={messagesEndRef} />
               </div>

@@ -43,6 +43,7 @@ def get_filtered_essays(course_ids):
 
 @rag_bp.route('/rag', methods=['POST'])
 def rag():
+    return jsonify({"message": "RAG endpoint is working"}), 200
     query = request.json.get('message')
     top_k = request.json.get('top_k', 10)
     metadata_filters = request.json.get('metadata_filters', [])  # new: list of metadata inputs from NER
@@ -95,5 +96,7 @@ def rag():
         return jsonify({"response": top_chunks_string}), 200
 
     except Exception as e:
-        print("Error processing request:", e)
-        return jsonify({"error": "Internal server error."}), 500
+        print(f"Detailed RAG error: {str(e)}")
+        import traceback
+        traceback.print_exc()  # Print full stack trace
+        return jsonify({"error": f"RAG error: {str(e)}"}), 500

@@ -18,7 +18,7 @@ def get_chat_history():
         
         # Get all chats for the user
         cursor.execute(
-            "SELECT chat_id as id, user_id, last_modified as updatedAt FROM chats WHERE user_id = %s ORDER BY last_modified DESC",
+            "SELECT chat_id as id, user_id, title, last_modified as updatedAt FROM chats WHERE user_id = %s ORDER BY last_modified DESC",
             (user_id,)
         )
         
@@ -28,6 +28,10 @@ def get_chat_history():
         for chat in chats:
             if 'updatedAt' in chat and chat['updatedAt']:
                 chat['updatedAt'] = chat['updatedAt'].isoformat()
+            
+            # Ensure title exists - use a default if null
+            if 'title' not in chat or chat['title'] is None:
+                chat['title'] = f"Chat {chat['id']}"
         
         return jsonify({'chats': chats})
         
