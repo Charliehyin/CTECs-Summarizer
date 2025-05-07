@@ -3,7 +3,7 @@ import { Send, MessageCircle, Trash2 } from 'lucide-react';
 import Login from './Login';
 import About from './About';
 
-const api_base_url = "http://localhost:8000/api";
+const api_base_url = process.env.REACT_APP_API_BASE_URL;
 
 const OpenAIResponse = ({ response }) => {
   const cleanedResponse = response.replace(/【\d+:\d+†source】/g, "");
