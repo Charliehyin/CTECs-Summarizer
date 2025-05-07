@@ -1,6 +1,5 @@
-from flask import Flask, request, jsonify
-# We're no longer using Flask-CORS as it's causing duplicate headers
-# from flask_cors import CORS
+from flask import Flask, request, jsonify, make_response
+# We're no longer using Flask-CORS
 from config.config import load_config
 from endpoints.chat import chat_bp
 from endpoints.rag import rag_bp
@@ -24,40 +23,35 @@ app = Flask(__name__)
 allowed_origins = os.environ.get('ALLOWED_ORIGINS', 'http://localhost:3000,https://ctecs.nu')
 origins = allowed_origins.split(',')
 
-# A simpler approach: always set CORS headers for all responses
+# Simple CORS middleware - applies to all routes
+@app.before_request
+def handle_preflight():
+    # Handle OPTIONS requests (preflight)
+    if request.method == 'OPTIONS':
+        response = make_response()
+        origin = request.headers.get('Origin', '')
+        
+        # Always allow specific origins
+        if origin in origins:
+            response.headers.add('Access-Control-Allow-Origin', origin)
+            response.headers.add('Access-Control-Allow-Headers', 'Content-Type, Authorization')
+            response.headers.add('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
+            response.headers.add('Access-Control-Allow-Credentials', 'true')
+            response.headers.add('Access-Control-Max-Age', '3600')  # Cache preflight for 1 hour
+        
+        return response
+
+# Add CORS headers to all responses
 @app.after_request
 def add_cors_headers(response):
-    origin = request.headers.get('Origin')
+    origin = request.headers.get('Origin', '')
     
-    # For preflight requests, ensure credentials header is always set
-    if request.method == 'OPTIONS':
-        if origin and origin in origins:
-            response.headers['Access-Control-Allow-Origin'] = origin
-            response.headers['Access-Control-Allow-Credentials'] = 'true'
-            response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
-            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
-    else:
-        # For regular requests
-        if origin and origin in origins:
-            response.headers['Access-Control-Allow-Origin'] = origin
-            response.headers['Access-Control-Allow-Credentials'] = 'true'
-            response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
-            response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
-    
-    return response
-
-# Root-level options handler to catch all OPTIONS requests
-@app.route('/', defaults={'path': ''}, methods=['OPTIONS'])
-@app.route('/<path:path>', methods=['OPTIONS'])
-def options_handler(path):
-    response = jsonify({})
-    origin = request.headers.get('Origin')
-    if origin and origin in origins:
+    # Always allow specific origins
+    if origin in origins:
         response.headers['Access-Control-Allow-Origin'] = origin
         response.headers['Access-Control-Allow-Credentials'] = 'true'
-        response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
-        response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
-    return response, 200
+    
+    return response
 
 app.config['PROPAGATE_EXCEPTIONS'] = True
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = False
