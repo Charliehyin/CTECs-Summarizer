@@ -150,7 +150,7 @@ const App = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
+          user_id: user.email // Use a consistent test email
         }),
         credentials: 'same-origin', // Changed from 'include' to 'same-origin'
       });
@@ -282,7 +282,7 @@ const App = () => {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            user_id: 'danielkim2028@u.northwestern.edu', // Use a consistent test email
+            user_id: user.email, // Use a consistent test email
             title: input.substring(0, 30) + (input.length > 30 ? '...' : '')
           }),
           credentials: 'same-origin', // Changed from 'include' to 'same-origin'
@@ -348,7 +348,7 @@ const App = () => {
         body: JSON.stringify({
           message: userMessage,
           chatId: currentChatId,
-          user_id: 'danielkim2028@u.northwestern.edu' // Use a consistent test email
+          user_id: user.email // Use a consistent test email
         }),
         credentials: 'same-origin',
       });
