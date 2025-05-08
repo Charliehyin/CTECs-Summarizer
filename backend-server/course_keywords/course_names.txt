@@ -1,0 +1,126 @@
+agile software development
+artificial intelligence programming
+code analysis and transformation
+compiler construction
+computer game design and development
+computer science concepts philosophy and connections
+computer system security
+conversational ai
+cs research track program
+data management information processing
+data privacy
+data structures algorithms
+design analysis of algorithms
+design of computer problem solvers
+design technology and research
+designing constructing models with multi-agent language
+designing and constructing models with multi-agent languages
+digital forensics and incident response
+distributed systems
+dynamics of programming languages
+foundations of quantum computing and quantum information
+foundations of security
+fundamentals of computer programming
+fundamentals of computer programming 1.5
+fundamentals of computer programming ii
+game design studio
+generative methods
+hci studio
+human computer interaction
+inclusive making
+interactive information visualization
+intermediate computer graphics
+intermediate topics in computer science ai and international security
+introduction to artificial intelligence
+introduction to computational photography
+introduction to computer graphics
+introduction to computer programming
+introduction to computer programming python programming
+introduction to computer security
+introduction to computer systems
+introduction to cryptography
+introduction to database systems
+introduction to law and digital technologies
+introduction to networking
+introduction to robotics laboratory
+introduction to the data science pipeline
+introduction to the theory of computation
+knowledge representation and reasoning
+machine learning
+machine perception of music audio
+math foundations of cs part 1 discrete math for cs
+mathematical foundations of comp science
+mathematical foundations of computer science - part 1
+mathematical foundations of computer science - part 2
+microcontroller system design
+natural artificial vision
+natural language processing
+natural language processing classical approaches
+online markets
+operating systems
+practicum in intelligent information systems
+programming for engineers
+programming languages
+programming massively parallel processors with cuda
+rapid prototyping for software innovation
+scalable software architectures
+social networks analysis
+software construction
+software engineering beyond programming
+special topics in computer science advanced algorithm design through the lens of c
+special topics in computer science advanced graphics seminar vr ar systems
+special topics in computer science advanced offense defense in cybersecurity
+special topics in computer science advanced topics in modern cryptography
+special topics in computer science advanced topics in ubiquitous computing
+special topics in computer science ai and experimental narrative
+special topics in computer science ai for hybrid participatory narrative
+special topics in computer science ai for science and business
+special topics in computer science analysis of boolean functions
+special topics in computer science approximation algorithms
+special topics in computer science artificial life
+special topics in computer science communicating computer science
+special topics in computer science computational optics
+special topics in computer science computing and sustainability
+special topics in computer science computing ethics and society
+special topics in computer science conversational interfaces
+special topics in computer science creative applications with machine learning
+special topics in computer science cs education research and in the community
+special topics in computer science data management seminar
+special topics in computer science declarative programming for game ai
+special topics in computer science deep learning
+special topics in computer science differential privacy from foundations to machi
+special topics in computer science dynamics of programming languages
+special topics in computer science foundations of quantum computing and quantum i
+special topics in computer science foundations of quantum computing and quantum in
+special topics in computer science foundations of security
+special topics in computer science full stack software engineering
+special topics in computer science generative methods
+special topics in computer science human-centered machine learning
+special topics in computer science intensive program design
+special topics in computer science interactive information visualization
+special topics in computer science intro to web development
+special topics in computer science introduction to computational linguistics
+special topics in computer science introduction to cryptography
+special topics in computer science introduction to kolmogorov complexity
+special topics in computer science introduction to law and digital technologies
+special topics in computer science introduction to the data science pipeline
+special topics in computer science lifting the black box computation for social
+special topics in computer science misinformation and disinformation in the age o
+special topics in computer science modeling relationships with causal inference
+special topics in computer science multi-modal analytics
+special topics in computer science natural artificial vision
+special topics in computer science nuvention media
+special topics in computer science online markets
+special topics in computer science programming languages seminar
+special topics in computer science proving properties of programs with mechanized
+special topics in computer science quadrotor design and control
+special topics in computer science responsible software engineering
+special topics in computer science scalable software architectures
+special topics in computer science security privacy education
+special topics in computer science social arvr studio
+special topics in computer science social networks analysis
+special topics in computer science statistical machine learning
+special topics in computer science swarms and multi-robot systems
+tangible interaction design and learning
+technology and human interaction
+tools and technology of the world-wide web

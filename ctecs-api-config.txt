@@ -1,0 +1,18 @@
+[Unit]
+Description=CTECs Summarizer API
+After=network.target
+
+[Service]
+User=ec2-user
+WorkingDirectory=/home/ec2-user/CTECs-Summarizer/backend-server
+# First activate the virtual environment
+ExecStart=/bin/bash -c 'source /home/ec2-user/CTECs-Summarizer/venv/bin/activate && /bin/sh /home/ec2-user/CTECs-Summarizer/backend-server/scripts/entrypoint.sh'
+Environment=PATH=/home/ec2-user/CTECs-Summarizer/venv/bin:/usr/local/bin:/usr/bin:/bin
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=ctecs-api
+
+[Install]
+WantedBy=multi-user.target

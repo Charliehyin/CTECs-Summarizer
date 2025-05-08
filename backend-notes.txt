@@ -1,0 +1,3 @@
+nginx server config: /etc/nginx/conf.d/api-proxy.conf
+ctecs-api service config: /etc/systemd/system/ctecs-api.service
+sudo systemctl start ctecs-api

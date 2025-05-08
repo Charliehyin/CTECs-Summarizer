@@ -1,0 +1,1587 @@
+{
+  "agile software development": {
+    "abbreviations": [
+      "agile"
+    ],
+    "keywords": [
+      "agile",
+      "dev"
+    ]
+  },
+  "artificial intelligence programming": {
+    "abbreviations": [
+      "ai programming"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "smart"
+    ]
+  },
+  "code analysis and transformation": {
+    "abbreviations": [
+      "code analysis"
+    ],
+    "keywords": [
+      "analysis",
+      "analytics",
+      "code",
+      "evaluation",
+      "inspection",
+      "transformation"
+    ]
+  },
+  "compiler construction": {
+    "abbreviations": [
+      "compilers"
+    ],
+    "keywords": [
+      "compiler",
+      "compilers",
+      "construction"
+    ]
+  },
+  "computer game design and development": {
+    "abbreviations": [
+      "game dev",
+      "game design"
+    ],
+    "keywords": [
+      "dev",
+      "game design",
+      "modeling"
+    ]
+  },
+  "computer system security": {
+    "abbreviations": [
+      "system security",
+      "cybersecurity"
+    ],
+    "keywords": [
+      "cybersecurity",
+      "infosec",
+      "protection",
+      "security",
+      "sys",
+      "system"
+    ]
+  },
+  "conversational ai": {
+    "abbreviations": [
+      "chatbot",
+      "dialogue systems"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "chatbot",
+      "conversational",
+      "dialogue",
+      "systems"
+    ]
+  },
+  "cs research track program": {
+    "abbreviations": [
+      "cs research",
+      "research track"
+    ],
+    "keywords": [
+      "program",
+      "research",
+      "track"
+    ]
+  },
+  "data management information processing": {
+    "abbreviations": [
+      "data management"
+    ],
+    "keywords": [
+      "computation",
+      "data",
+      "dataset",
+      "management",
+      "processing"
+    ]
+  },
+  "data privacy": {
+    "abbreviations": [
+      "privacy"
+    ],
+    "keywords": [
+      "confidentiality",
+      "data privacy",
+      "dataset"
+    ]
+  },
+  "data structures algorithms": {
+    "abbreviations": [
+      "ds",
+      "algos",
+      "dsa"
+    ],
+    "keywords": [
+      "algorithms",
+      "algos",
+      "data",
+      "dataset",
+      "ds",
+      "dsa",
+      "structures"
+    ]
+  },
+  "design analysis of algorithms": {
+    "abbreviations": [
+      "algorithm analysis"
+    ],
+    "keywords": [
+      "algorithm",
+      "algorithms",
+      "analysis",
+      "analytics",
+      "design",
+      "evaluation",
+      "inspection",
+      "modeling"
+    ]
+  },
+  "design of computer problem solvers": {
+    "abbreviations": [
+      "problem solvers"
+    ],
+    "keywords": [
+      "design",
+      "modeling",
+      "problem",
+      "solvers"
+    ]
+  },
+  "design technology and research": {
+    "abbreviations": [
+      "dtr"
+    ],
+    "keywords": [
+      "design",
+      "dtr",
+      "modeling",
+      "research"
+    ]
+  },
+  "designing and constructing models with multi-agent languages": {
+    "abbreviations": [
+      "multi-agent models",
+      "multi-agent systems"
+    ],
+    "keywords": [
+      "agent",
+      "constructing",
+      "designing",
+      "languages",
+      "models",
+      "multi",
+      "multi-agent systems",
+      "systems"
+    ]
+  },
+  "digital forensics and incident response": {
+    "abbreviations": [
+      "digital forensics"
+    ],
+    "keywords": [
+      "digital forensics",
+      "incident",
+      "response"
+    ]
+  },
+  "distributed systems": {
+    "abbreviations": [
+      "distributed",
+      "dist systems"
+    ],
+    "keywords": [
+      "dist",
+      "distributed systems"
+    ]
+  },
+  "dynamics of programming languages": {
+    "abbreviations": [
+      "language dynamics"
+    ],
+    "keywords": [
+      "dynamics",
+      "lang",
+      "language",
+      "languages"
+    ]
+  },
+  "foundations of quantum computing and quantum information": {
+    "abbreviations": [
+      "quantum computing",
+      "quantum foundations"
+    ],
+    "keywords": [
+      "foundations",
+      "quantum",
+      "quantum computing"
+    ]
+  },
+  "foundations of security": {
+    "abbreviations": [
+      "security foundations"
+    ],
+    "keywords": [
+      "cybersecurity",
+      "foundations",
+      "infosec",
+      "protection",
+      "security"
+    ]
+  },
+  "fundamentals of computer programming": {
+    "abbreviations": [
+      "intro programming",
+      "cs intro"
+    ],
+    "keywords": []
+  },
+  "fundamentals of computer programming 1.5": {
+    "abbreviations": [
+      "cs1.5"
+    ],
+    "keywords": [
+      "1.5",
+      "cs1.5"
+    ]
+  },
+  "fundamentals of computer programming ii": {
+    "abbreviations": [
+      "cs2",
+      "prog 2"
+    ],
+    "keywords": [
+      "2",
+      "cs2",
+      "ii",
+      "prog"
+    ]
+  },
+  "game design studio": {
+    "abbreviations": [
+      "game studio"
+    ],
+    "keywords": [
+      "game design",
+      "modeling",
+      "studio"
+    ]
+  },
+  "generative methods": {
+    "abbreviations": [
+      "generative"
+    ],
+    "keywords": [
+      "generative",
+      "methods"
+    ]
+  },
+  "hci studio": {
+    "abbreviations": [
+      "hci"
+    ],
+    "keywords": [
+      "hci",
+      "human computer interaction",
+      "studio"
+    ]
+  },
+  "human computer interaction": {
+    "abbreviations": [
+      "hci"
+    ],
+    "keywords": [
+      "hci",
+      "human",
+      "human computer interaction",
+      "interaction",
+      "interface",
+      "ui"
+    ]
+  },
+  "inclusive making": {
+    "abbreviations": [
+      "inclusive design"
+    ],
+    "keywords": [
+      "design",
+      "inclusive",
+      "making",
+      "modeling"
+    ]
+  },
+  "interactive information visualization": {
+    "abbreviations": [
+      "infovis"
+    ],
+    "keywords": [
+      "graphics",
+      "infovis",
+      "interactive visualization",
+      "viz"
+    ]
+  },
+  "intermediate computer graphics": {
+    "abbreviations": [
+      "graphics 2",
+      "int graphics"
+    ],
+    "keywords": [
+      "2",
+      "computer graphics",
+      "graphics",
+      "int",
+      "intermediate",
+      "rendering",
+      "viz"
+    ]
+  },
+  "intermediate topics in computer science ai and international security": {
+    "abbreviations": [
+      "ai and security"
+    ],
+    "keywords": [
+      "ai",
+      "cybersecurity",
+      "infosec",
+      "intermediate",
+      "international",
+      "protection",
+      "sci",
+      "security",
+      "topics"
+    ]
+  },
+  "introduction to artificial intelligence": {
+    "abbreviations": [
+      "intro ai"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "smart"
+    ]
+  },
+  "introduction to computational photography": {
+    "abbreviations": [
+      "computational photo",
+      "photo comp"
+    ],
+    "keywords": [
+      "computational",
+      "photo",
+      "photography"
+    ]
+  },
+  "introduction to computer graphics": {
+    "abbreviations": [
+      "intro graphics"
+    ],
+    "keywords": [
+      "computer graphics",
+      "graphics",
+      "rendering",
+      "viz"
+    ]
+  },
+  "introduction to computer programming": {
+    "abbreviations": [
+      "intro cs",
+      "cs1"
+    ],
+    "keywords": [
+      "cs1"
+    ]
+  },
+  "introduction to computer programming python programming": {
+    "abbreviations": [
+      "cs1 python",
+      "intro python"
+    ],
+    "keywords": [
+      "cs1",
+      "python"
+    ]
+  },
+  "introduction to computer security": {
+    "abbreviations": [
+      "intro security"
+    ],
+    "keywords": [
+      "cybersecurity",
+      "infosec",
+      "protection",
+      "security"
+    ]
+  },
+  "introduction to computer systems": {
+    "abbreviations": [
+      "comp systems",
+      "cs systems"
+    ],
+    "keywords": [
+      "systems"
+    ]
+  },
+  "introduction to cryptography": {
+    "abbreviations": [
+      "crypto"
+    ],
+    "keywords": [
+      "crypto",
+      "cryptography"
+    ]
+  },
+  "introduction to database systems": {
+    "abbreviations": [
+      "intro db",
+      "databases"
+    ],
+    "keywords": [
+      "database systems",
+      "databases",
+      "db"
+    ]
+  },
+  "introduction to law and digital technologies": {
+    "abbreviations": [
+      "law and tech"
+    ],
+    "keywords": [
+      "digital",
+      "law",
+      "technologies"
+    ]
+  },
+  "introduction to networking": {
+    "abbreviations": [
+      "networks",
+      "intro networking"
+    ],
+    "keywords": [
+      "communication",
+      "networking",
+      "networks"
+    ]
+  },
+  "introduction to robotics laboratory": {
+    "abbreviations": [
+      "robotics lab",
+      "intro robotics"
+    ],
+    "keywords": [
+      "lab",
+      "laboratory",
+      "robotics",
+      "robots"
+    ]
+  },
+  "introduction to the data science pipeline": {
+    "abbreviations": [
+      "data pipeline"
+    ],
+    "keywords": [
+      "data",
+      "data science",
+      "dataset",
+      "pipeline",
+      "sci"
+    ]
+  },
+  "introduction to the theory of computation": {
+    "abbreviations": [
+      "theory of comp",
+      "theory"
+    ],
+    "keywords": [
+      "computation",
+      "theory"
+    ]
+  },
+  "knowledge representation and reasoning": {
+    "abbreviations": [
+      "krr"
+    ],
+    "keywords": [
+      "knowledge",
+      "krr",
+      "modeling",
+      "reasoning",
+      "representation"
+    ]
+  },
+  "machine learning": {
+    "abbreviations": [
+      "ml"
+    ],
+    "keywords": [
+      "education",
+      "learning",
+      "machine learning",
+      "ml",
+      "training"
+    ]
+  },
+  "machine perception of music audio": {
+    "abbreviations": [
+      "music ml",
+      "audio ml"
+    ],
+    "keywords": [
+      "audio",
+      "ml",
+      "music",
+      "perception"
+    ]
+  },
+  "math foundations of cs part 1 discrete math for cs": {
+    "abbreviations": [
+      "discrete math"
+    ],
+    "keywords": [
+      "1",
+      "discrete",
+      "foundations",
+      "math"
+    ]
+  },
+  "mathematical foundations of comp science": {
+    "abbreviations": [
+      "math cs",
+      "foundations"
+    ],
+    "keywords": [
+      "foundations",
+      "math",
+      "mathematical",
+      "sci"
+    ]
+  },
+  "mathematical foundations of computer science - part 1": {
+    "abbreviations": [
+      "foundations 1"
+    ],
+    "keywords": [
+      "1",
+      "foundations",
+      "mathematical",
+      "sci"
+    ]
+  },
+  "mathematical foundations of computer science - part 2": {
+    "abbreviations": [
+      "foundations 2"
+    ],
+    "keywords": [
+      "2",
+      "foundations",
+      "mathematical",
+      "sci"
+    ]
+  },
+  "microcontroller system design": {
+    "abbreviations": [
+      "microcontrollers"
+    ],
+    "keywords": [
+      "design",
+      "microcontroller",
+      "microcontrollers",
+      "modeling",
+      "sys",
+      "system"
+    ]
+  },
+  "natural artificial vision": {
+    "abbreviations": [
+      "nav"
+    ],
+    "keywords": [
+      "artificial",
+      "natural",
+      "nav",
+      "vision"
+    ]
+  },
+  "natural language processing": {
+    "abbreviations": [
+      "nlp"
+    ],
+    "keywords": [
+      "computation",
+      "lang",
+      "language",
+      "natural",
+      "natural language processing",
+      "nlp",
+      "processing"
+    ]
+  },
+  "natural language processing classical approaches": {
+    "abbreviations": [
+      "nlp classical"
+    ],
+    "keywords": [
+      "approaches",
+      "classical",
+      "computation",
+      "lang",
+      "language",
+      "natural",
+      "natural language processing",
+      "nlp",
+      "processing"
+    ]
+  },
+  "online markets": {
+    "abbreviations": [
+      "econ cs",
+      "markets"
+    ],
+    "keywords": [
+      "econ",
+      "markets",
+      "online"
+    ]
+  },
+  "operating systems": {
+    "abbreviations": [
+      "os"
+    ],
+    "keywords": [
+      "operating",
+      "os",
+      "systems"
+    ]
+  },
+  "practicum in intelligent information systems": {
+    "abbreviations": [
+      "iis practicum"
+    ],
+    "keywords": [
+      "iis",
+      "intelligent",
+      "practicum",
+      "systems"
+    ]
+  },
+  "programming for engineers": {
+    "abbreviations": [
+      "prog for eng",
+      "eng programming"
+    ],
+    "keywords": [
+      "eng",
+      "engineers",
+      "prog"
+    ]
+  },
+  "programming languages": {
+    "abbreviations": [
+      "pl"
+    ],
+    "keywords": [
+      "languages",
+      "pl"
+    ]
+  },
+  "programming massively parallel processors with cuda": {
+    "abbreviations": [
+      "cuda",
+      "parallel programming"
+    ],
+    "keywords": [
+      "cuda",
+      "massively",
+      "parallel",
+      "processors"
+    ]
+  },
+  "rapid prototyping for software innovation": {
+    "abbreviations": [
+      "rapid prototyping"
+    ],
+    "keywords": [
+      "innovation",
+      "prototyping",
+      "rapid"
+    ]
+  },
+  "scalable software architectures": {
+    "abbreviations": [
+      "scalable arch",
+      "scalable systems"
+    ],
+    "keywords": [
+      "arch",
+      "architectures",
+      "scalable",
+      "systems"
+    ]
+  },
+  "social networks analysis": {
+    "abbreviations": [
+      "social networks",
+      "sna"
+    ],
+    "keywords": [
+      "analysis",
+      "analytics",
+      "evaluation",
+      "inspection",
+      "sna",
+      "social networks"
+    ]
+  },
+  "software construction": {
+    "abbreviations": [
+      "softcon",
+      "software dev"
+    ],
+    "keywords": [
+      "construction",
+      "dev",
+      "softcon"
+    ]
+  },
+  "software engineering beyond programming": {
+    "abbreviations": [
+      "softeng",
+      "software eng"
+    ],
+    "keywords": [
+      "beyond",
+      "eng",
+      "softeng"
+    ]
+  },
+  "special topics in computer science advanced algorithm design through the lens of c": {
+    "abbreviations": [
+      "algos in c"
+    ],
+    "keywords": [
+      "adv",
+      "advanced",
+      "algorithm",
+      "algos",
+      "c",
+      "design",
+      "lens",
+      "modeling",
+      "sci",
+      "special",
+      "through",
+      "topics"
+    ]
+  },
+  "special topics in computer science advanced graphics seminar vr ar systems": {
+    "abbreviations": [
+      "vr ar graphics"
+    ],
+    "keywords": [
+      "adv",
+      "advanced",
+      "ar vr",
+      "graphics",
+      "rendering",
+      "sci",
+      "seminar",
+      "special",
+      "systems",
+      "topics",
+      "viz"
+    ]
+  },
+  "special topics in computer science advanced offense defense in cybersecurity": {
+    "abbreviations": [
+      "cyber offense defense"
+    ],
+    "keywords": [
+      "adv",
+      "advanced",
+      "cyber",
+      "cybersecurity",
+      "defense",
+      "offense",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science advanced topics in modern cryptography": {
+    "abbreviations": [
+      "adv crypto"
+    ],
+    "keywords": [
+      "adv",
+      "advanced",
+      "crypto",
+      "cryptography",
+      "modern",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science advanced topics in ubiquitous computing": {
+    "abbreviations": [
+      "ubiquitous computing"
+    ],
+    "keywords": [
+      "adv",
+      "advanced",
+      "sci",
+      "special",
+      "topics",
+      "ubiquitous"
+    ]
+  },
+  "special topics in computer science ai and experimental narrative": {
+    "abbreviations": [
+      "ai narrative"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "experimental",
+      "narrative",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science ai for hybrid participatory narrative": {
+    "abbreviations": [
+      "hybrid ai narrative"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "hybrid",
+      "narrative",
+      "participatory",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science ai for science and business": {
+    "abbreviations": [
+      "ai sci biz"
+    ],
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "biz",
+      "business",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science analysis of boolean functions": {
+    "abbreviations": [
+      "boolean functions"
+    ],
+    "keywords": [
+      "analysis",
+      "analytics",
+      "boolean functions",
+      "evaluation",
+      "inspection",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science approximation algorithms": {
+    "abbreviations": [
+      "approx algos"
+    ],
+    "keywords": [
+      "algorithms",
+      "algos",
+      "approx",
+      "approximation",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science artificial life": {
+    "abbreviations": [
+      "artificial life"
+    ],
+    "keywords": [
+      "artificial",
+      "life",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science communicating computer science": {
+    "abbreviations": [
+      "cs communication"
+    ],
+    "keywords": [
+      "communicating",
+      "communication",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science computational optics": {
+    "abbreviations": [
+      "optics"
+    ],
+    "keywords": [
+      "computational",
+      "optics",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science computing and sustainability": {
+    "abbreviations": [
+      "sustainable computing"
+    ],
+    "keywords": [
+      "sci",
+      "special",
+      "sustainability",
+      "sustainable",
+      "topics"
+    ]
+  },
+  "special topics in computer science computing ethics and society": {
+    "abbreviations": [
+      "ethics",
+      "computing ethics"
+    ],
+    "keywords": [
+      "ethics",
+      "sci",
+      "society",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science conversational interfaces": {
+    "abbreviations": [
+      "chat interfaces"
+    ],
+    "keywords": [
+      "chat",
+      "conversational",
+      "interfaces",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science creative applications with machine learning": {
+    "abbreviations": [
+      "creative ml"
+    ],
+    "keywords": [
+      "applications",
+      "creative",
+      "education",
+      "learning",
+      "machine learning",
+      "ml",
+      "sci",
+      "special",
+      "topics",
+      "training"
+    ]
+  },
+  "special topics in computer science cs education research and in the community": {
+    "abbreviations": [
+      "cs ed research"
+    ],
+    "keywords": [
+      "community",
+      "ed",
+      "education",
+      "research",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science data management seminar": {
+    "abbreviations": [
+      "data seminar"
+    ],
+    "keywords": [
+      "data",
+      "dataset",
+      "management",
+      "sci",
+      "seminar",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science declarative programming for game ai": {
+    "abbreviations": [
+      "game ai"
+    ],
+    "keywords": [
+      "ai",
+      "declarative",
+      "game",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science deep learning": {
+    "abbreviations": [
+      "dl"
+    ],
+    "keywords": [
+      "deep learning",
+      "dl",
+      "education",
+      "machine learning",
+      "sci",
+      "special",
+      "topics",
+      "training"
+    ]
+  },
+  "special topics in computer science differential privacy from foundations to machi": {
+    "abbreviations": [
+      "diff privacy"
+    ],
+    "keywords": [
+      "confidentiality",
+      "data privacy",
+      "diff",
+      "differential",
+      "foundations",
+      "machi",
+      "privacy",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science full stack software engineering": {
+    "abbreviations": [
+      "full stack"
+    ],
+    "keywords": [
+      "eng",
+      "full",
+      "sci",
+      "special",
+      "stack",
+      "topics"
+    ]
+  },
+  "special topics in computer science human-centered machine learning": {
+    "abbreviations": [
+      "human ml"
+    ],
+    "keywords": [
+      "centered",
+      "education",
+      "human",
+      "learning",
+      "machine learning",
+      "ml",
+      "sci",
+      "special",
+      "topics",
+      "training"
+    ]
+  },
+  "special topics in computer science intensive program design": {
+    "abbreviations": [
+      "ipd"
+    ],
+    "keywords": [
+      "design",
+      "intensive",
+      "ipd",
+      "modeling",
+      "program",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science intro to web development": {
+    "abbreviations": [
+      "web dev"
+    ],
+    "keywords": [
+      "dev",
+      "sci",
+      "special",
+      "topics",
+      "web"
+    ]
+  },
+  "special topics in computer science introduction to computational linguistics": {
+    "abbreviations": [
+      "comp ling"
+    ],
+    "keywords": [
+      "computational",
+      "ling",
+      "linguistics",
+      "natural language processing",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science introduction to cryptography": {
+    "abbreviations": [
+      "intro crypto"
+    ],
+    "keywords": [
+      "crypto",
+      "cryptography",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science introduction to kolmogorov complexity": {
+    "abbreviations": [
+      "kolmogorov"
+    ],
+    "keywords": [
+      "complexity",
+      "kolmogorov",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science introduction to law and digital technologies": {
+    "abbreviations": [
+      "law tech"
+    ],
+    "keywords": [
+      "digital",
+      "law",
+      "sci",
+      "special",
+      "technologies",
+      "topics"
+    ]
+  },
+  "special topics in computer science introduction to the data science pipeline": {
+    "abbreviations": [
+      "ds pipeline"
+    ],
+    "keywords": [
+      "data",
+      "data science",
+      "dataset",
+      "ds",
+      "pipeline",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science lifting the black box computation for social": {
+    "abbreviations": [
+      "black box comp"
+    ],
+    "keywords": [
+      "black",
+      "box",
+      "computation",
+      "lifting",
+      "sci",
+      "social",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science misinformation and disinformation in the age o": {
+    "abbreviations": [
+      "misinfo"
+    ],
+    "keywords": [
+      "age",
+      "disinformation",
+      "misinfo",
+      "misinformation",
+      "o",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science modeling relationships with causal inference": {
+    "abbreviations": [
+      "causal modeling"
+    ],
+    "keywords": [
+      "causal inference",
+      "modeling",
+      "relationships",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science multi-modal analytics": {
+    "abbreviations": [
+      "multimodal"
+    ],
+    "keywords": [
+      "analytics",
+      "modal",
+      "multi",
+      "multimodal",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science natural artificial vision": {
+    "abbreviations": [
+      "nav"
+    ],
+    "keywords": [
+      "artificial",
+      "natural",
+      "nav",
+      "sci",
+      "special",
+      "topics",
+      "vision"
+    ]
+  },
+  "special topics in computer science nuvention media": {
+    "abbreviations": [
+      "nuvention"
+    ],
+    "keywords": [
+      "media",
+      "nuvention",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science online markets": {
+    "abbreviations": [
+      "markets"
+    ],
+    "keywords": [
+      "markets",
+      "online",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science programming languages seminar": {
+    "abbreviations": [
+      "pl seminar"
+    ],
+    "keywords": [
+      "languages",
+      "pl",
+      "sci",
+      "seminar",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science proving properties of programs with mechanized": {
+    "abbreviations": [
+      "program proofs"
+    ],
+    "keywords": [
+      "mechanized",
+      "program",
+      "programs",
+      "proofs",
+      "properties",
+      "proving",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science quadrotor design and control": {
+    "abbreviations": [
+      "quadrotors"
+    ],
+    "keywords": [
+      "control",
+      "design",
+      "modeling",
+      "quadrotor",
+      "quadrotors",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science responsible software engineering": {
+    "abbreviations": [
+      "responsible se"
+    ],
+    "keywords": [
+      "eng",
+      "responsible",
+      "sci",
+      "se",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science scalable software architectures": {
+    "abbreviations": [
+      "scalable arch"
+    ],
+    "keywords": [
+      "arch",
+      "architectures",
+      "scalable",
+      "sci",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science security privacy education": {
+    "abbreviations": [
+      "security ed"
+    ],
+    "keywords": [
+      "confidentiality",
+      "cybersecurity",
+      "ed",
+      "education",
+      "infosec",
+      "privacy",
+      "protection",
+      "sci",
+      "security",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science social arvr studio": {
+    "abbreviations": [
+      "arvr"
+    ],
+    "keywords": [
+      "arvr",
+      "sci",
+      "social",
+      "special",
+      "studio",
+      "topics"
+    ]
+  },
+  "special topics in computer science social networks analysis": {
+    "abbreviations": [
+      "sna"
+    ],
+    "keywords": [
+      "analysis",
+      "analytics",
+      "evaluation",
+      "inspection",
+      "sci",
+      "sna",
+      "social networks",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science statistical machine learning": {
+    "abbreviations": [
+      "stat ml"
+    ],
+    "keywords": [
+      "education",
+      "learning",
+      "machine learning",
+      "ml",
+      "sci",
+      "special",
+      "stat",
+      "statistical",
+      "topics",
+      "training"
+    ]
+  },
+  "special topics in computer science swarms and multi-robot systems": {
+    "abbreviations": [
+      "swarms"
+    ],
+    "keywords": [
+      "multi",
+      "robot",
+      "sci",
+      "special",
+      "swarms",
+      "systems",
+      "topics"
+    ]
+  },
+  "tangible interaction design and learning": {
+    "abbreviations": [
+      "tangible design"
+    ],
+    "keywords": [
+      "design",
+      "education",
+      "interaction",
+      "interface",
+      "learning",
+      "modeling",
+      "tangible",
+      "training",
+      "ui"
+    ]
+  },
+  "technology and human interaction": {
+    "abbreviations": [
+      "tech and hci"
+    ],
+    "keywords": [
+      "hci",
+      "human",
+      "interaction",
+      "interface",
+      "ui"
+    ]
+  },
+  "tools and technology of the world-wide web": {
+    "abbreviations": [
+      "web tools"
+    ],
+    "keywords": [
+      "tools",
+      "web",
+      "wide",
+      "world"
+    ]
+  },
+  "computer science concepts philosophy and connections": {
+    "abbreviations": [],
+    "keywords": [
+      "concepts",
+      "connections",
+      "philosophy",
+      "sci"
+    ]
+  },
+  "designing constructing models with multi-agent language": {
+    "abbreviations": [
+      "multi-agent models",
+      "multi-agent systems"
+    ],
+    "keywords": [
+      "constructing",
+      "designing",
+      "language",
+      "modeling",
+      "models",
+      "multi-agent",
+      "multi-agent systems"
+    ]
+  },
+  "special topics in computer science dynamics of programming languages": {
+    "abbreviations": [
+      "language dynamics"
+    ],
+    "keywords": [
+      "dynamics",
+      "lang",
+      "languages",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science foundations of quantum computing and quantum i": {
+    "abbreviations": [
+      "quantum computing",
+      "quantum foundations"
+    ],
+    "keywords": [
+      "foundation",
+      "quantum",
+      "quantum computing",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science foundations of quantum computing and quantum in": {
+    "abbreviations": [
+      "quantum computing",
+      "quantum foundations"
+    ],
+    "keywords": [
+      "foundation",
+      "quantum",
+      "quantum computing",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science foundations of security": {
+    "abbreviations": [
+      "security foundations"
+    ],
+    "keywords": [
+      "cybersecurity",
+      "foundation",
+      "infosec",
+      "protection",
+      "security",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science generative methods": {
+    "abbreviations": [
+      "generative"
+    ],
+    "keywords": [
+      "generative",
+      "methods",
+      "special",
+      "topics"
+    ]
+  },
+  "special topics in computer science interactive information visualization": {
+    "abbreviations": [
+      "infovis"
+    ],
+    "keywords": [
+      "graphics",
+      "interactive visualization",
+      "rendering",
+      "special",
+      "topics",
+      "viz"
+    ]
+  }
+}
