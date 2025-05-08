@@ -98,6 +98,7 @@ html {
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
+  box-sizing: border-box;
   transition: all 0.3s ease;
 }
 
@@ -644,19 +645,23 @@ html {
   display: flex;
   height: calc(100vh - 60px);
   width: 100%;
+  overflow: hidden;
 }
 
 .app-content.with-sidebar .chat-container {
   width: 75%;
+  min-width: 320px;
 }
 
 .chat-history-sidebar {
   width: 25%;
-  background-color: #f5f3ff; /* Matching your existing light purple background */
+  max-width: 300px;
+  background-color: #f5f3ff;
   border-right: 1px solid rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow-y: auto;
 }
 
 .sidebar-header {
@@ -665,7 +670,7 @@ html {
 }
 
 .sidebar-header h3 {
-  color: #4e2a84; /* Northwestern purple */
+  color: #4e2a84;
   font-size: 1.25rem;
   font-weight: 600;
   margin: 0;
@@ -695,13 +700,13 @@ html {
 }
 
 .chat-item.active {
-  background-color: #e7e1f2; /* Light purple background for active chat */
-  border-color: #b6acd1; /* Northwestern light purple */
+  background-color: #e7e1f2;
+  border-color: #b6acd1;
 }
 
 .chat-item-icon {
   margin-right: 10px;
-  color: #4e2a84; /* Northwestern purple */
+  color: #4e2a84;
 }
 
 .chat-item-title {
@@ -731,7 +736,7 @@ html {
 }
 
 .chat-item-delete:hover {
-  color: #e53e3e; /* Red for delete */
+  color: #e53e3e;
 }
 
 .no-chats {
@@ -797,44 +802,90 @@ html {
   background: #4e2a84;
 }
 
-/* Mobile responsiveness */
+/* Fix mobile responsiveness with proper scaling */
 @media (max-width: 768px) {
-  .chat-history-sidebar {
-    width: 100%;
-    position: fixed;
+  .app-content {
+    position: relative;
+  }
+  
+  .chat-container {
+    position: absolute;
     top: 0;
     left: 0;
-    z-index: 100;
-    height: 100vh;
-  }
-
-  .app-content.with-sidebar .chat-container {
     width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease;
   }
-
+  
+  .chat-box {
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .messages-container {
+    flex: 1;
+    width: 100%;
+    max-height: calc(100vh - 180px);
+  }
+  
+  .chat-history-sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;  /* Full width */
+    max-width: 100%; /* Override max-width */
+    height: 100%;
+    max-height: none;
+    z-index: 20;
+    border-right: none; /* Remove right border */
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+  
+  /* Improve the sidebar header styling */
+  .sidebar-header {
+    text-align: center;
+    padding: 1.25rem;
+    background-color: #f0ebfc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .sidebar-header h3 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  
+  /* Improve chat list UI for full-width mobile view */
+  .chat-list {
+    padding: 1rem;
+  }
+  
   .chat-item {
-    padding: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
   }
-
-  .sidebar-toggle,
-  .new-chat-button {
-    font-size: 0.7rem;
-    padding: 0.2rem 0.5rem;
+  
+  .app-content.with-sidebar .chat-history-sidebar {
+    transform: translateX(0);
+  }
+  
+  .app-content.with-sidebar .chat-container {
+    transform: translateX(100%);
   }
 }
 
 /* New button group for left-aligned buttons */
 .left-buttons {
   display: flex;
-  margin-right: auto; /* Push to the left */
-  gap: 0.5rem; /* Consistent space between all buttons */
+  margin-right: auto;
+  gap: 0.5rem;
 }
 
 /* Remove any margin from individual buttons that might cause inconsistent spacing */
 .sidebar-toggle,
 .new-chat-button,
 .about-button {
-  margin-right: 0; /* Remove any right margin */
+  margin-right: 0;
 }
 
 /* Right-aligned user info */
@@ -859,4 +910,51 @@ html {
 .test-button:hover {
   background-color: #4e2a84;
   color: white;
+}
+
+/* Fix chat layout scaling for all screen sizes */
+.app-content {
+  display: flex;
+  height: calc(100vh - 60px);
+  width: 100%;
+  overflow: hidden;
+}
+
+.chat-container {
+  flex: 1;
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(to bottom, #f5f3ff, #ffffff);
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chat-box {
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+}
+
+.chat-form-container {
+  width: 100%;
+}
+
+.chat-form {
+  display: flex;
+  gap: 0.75rem;
+  width: 100%;
+  box-sizing: border-box;
 }

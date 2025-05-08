@@ -87,7 +87,8 @@ const App = () => {
   const inputRef = useRef(null);
   const [chatHistory, setChatHistory] = useState([]);
   const [activeChatId, setActiveChatId] = useState(null);
-  const [showSidebar, setShowSidebar] = useState(true);
+  const [showSidebar, setShowSidebar] = useState(false);
+  const [showChatContainer, setShowChatContainer] = useState(true);
 
   useEffect(() => {
     // Check if user is already logged in
@@ -172,6 +173,11 @@ const App = () => {
       console.log("Selecting chat with ID:", chat.id);
       setActiveChatId(chat.id);
       setIsLoading(true);
+
+      if (window.innerWidth <= 768) {
+        setShowSidebar(false);
+        setShowChatContainer(true);
+      }
 
       // Fetch messages for selected chat
       const response = await fetch(`${api_base_url}/get_chat_messages?chat_id=${chat.id}`, {
@@ -448,8 +454,56 @@ const App = () => {
   };
 
   const toggleSidebar = () => {
-    setShowSidebar(!showSidebar);
+    // For mobile: toggle visibility of sidebar and chat container
+    if (window.innerWidth <= 768) {
+      // If sidebar is currently hidden, we'll show it and hide chat
+      if (!showSidebar) {
+        setShowSidebar(true);
+        setShowChatContainer(false);
+      } else {
+        // If sidebar is currently shown, we'll hide it and show chat
+        setShowSidebar(false);
+        setShowChatContainer(true);
+      }
+    } else {
+      // For desktop: just toggle the sidebar, keep chat visible
+      setShowSidebar(!showSidebar);
+      setShowChatContainer(true);
+    }
   };
+
+  const getSidebarButtonText = () => {
+    return showSidebar ? "Hide History" : "Show History";
+  };
+
+  // Add a resize handler to adjust visibility when screen size changes
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth > 768) {
+        // In desktop view, always show chat container
+        setShowChatContainer(true);
+        // Keep sidebar visibility as is
+      } else {
+        // In mobile view, hide chat container if sidebar is shown
+        if (showSidebar) {
+          setShowChatContainer(false);
+        } else {
+          setShowChatContainer(true);
+        }
+      }
+    };
+
+    // Add event listener
+    window.addEventListener('resize', handleResize);
+    
+    // Initial check in case page loads in desktop mode
+    handleResize();
+    
+    // Clean up event listener on unmount
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, [showSidebar]); // Add showSidebar as a dependency
 
   // if no user is logged in, show the login component
   if (!user) {
@@ -463,7 +517,7 @@ const App = () => {
       <div className="user-info">
         <div className="left-buttons">
           <button onClick={toggleSidebar} className="sidebar-toggle">
-            {showSidebar ? "Hide History" : "Show History"}
+            {getSidebarButtonText()}
           </button>
           <button onClick={handleNewChat} className="new-chat-button">New Chat</button>
           <button onClick={handleAboutClick} className="about-button">About</button>
@@ -492,55 +546,57 @@ const App = () => {
           />
         )}
 
-        <div className={`chat-container ${isExpanded ? 'expanded' : 'centered'}`}>
-          <div className="chat-box">
-            {isExpanded && (
-              <h1 className="chat-header">Northwestern CTECs Assistant</h1>
-            )}
+        {showChatContainer && (
+          <div className={`chat-container ${isExpanded ? 'expanded' : 'centered'}`}>
+            <div className="chat-box">
+              {isExpanded && (
+                <h1 className="chat-header">Northwestern CTECs Assistant</h1>
+              )}
 
-            {isExpanded && (
-              <div className="messages-container">
-                {messages.map((message, index) => (
-                  <ChatMessage
-                    key={index}
-                    message={message.text}
-                    isUser={message.isUser}
-                  />
-                ))}
+              {isExpanded && (
+                <div className="messages-container">
+                  {messages.map((message, index) => (
+                    <ChatMessage
+                      key={index}
+                      message={message.text}
+                      isUser={message.isUser}
+                    />
+                  ))}
 
-                <div ref={messagesEndRef} />
-              </div>
-            )}
-
-            <div className={`chat-form-container ${isExpanded ? '' : 'centered'}`}>
-              {!isExpanded && showGreeting && (
-                <div className="user-greeting">
-                  <h3>Welcome, {user.name.split(' ')[0]}</h3>
+                  <div ref={messagesEndRef} />
                 </div>
               )}
 
-              {!isExpanded && (
-                <h2 className="chat-prompt">Northwestern CTECs Assistant</h2>
-              )}
+              <div className={`chat-form-container ${isExpanded ? '' : 'centered'}`}>
+                {!isExpanded && showGreeting && (
+                  <div className="user-greeting">
+                    <h3>Welcome, {user.name.split(' ')[0]}</h3>
+                  </div>
+                )}
 
-              <form onSubmit={handleSubmit} className="chat-form">
-                <input
-                  ref={inputRef}
-                  type="text"
-                  className="chat-input"
-                  value={input}
-                  onChange={handleInputChange}
-                  onFocus={handleInputFocus}
-                  placeholder={isExpanded ? "Type here..." : "Ask me anything about Northwestern courses..."}
-                  disabled={isLoading}
-                />
-                <button type="submit" className="submit-button" disabled={isLoading || !input.trim()}>
-                  <Send size={24} />
-                </button>
-              </form>
+                {!isExpanded && (
+                  <h2 className="chat-prompt">Northwestern CTECs Assistant</h2>
+                )}
+
+                <form onSubmit={handleSubmit} className="chat-form">
+                  <input
+                    ref={inputRef}
+                    type="text"
+                    className="chat-input"
+                    value={input}
+                    onChange={handleInputChange}
+                    onFocus={handleInputFocus}
+                    placeholder={isExpanded ? "Type here..." : "Ask me anything about Northwestern courses..."}
+                    disabled={isLoading}
+                  />
+                  <button type="submit" className="submit-button" disabled={isLoading || !input.trim()}>
+                    <Send size={24} />
+                  </button>
+                </form>
+              </div>
             </div>
           </div>
-        </div>
+        )}
       </div>
     </div>
   );
