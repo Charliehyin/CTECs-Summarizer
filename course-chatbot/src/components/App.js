@@ -121,6 +121,10 @@ const App = () => {
   const handleNewChat = () => {
     console.log("Starting new chat...");
     setMessages([]);
+    if (window.innerWidth <= 768) {
+      setShowSidebar(false);
+      setShowChatContainer(true);
+    }
     setIsExpanded(false);
     setShowGreeting(true);
     setInput('');
