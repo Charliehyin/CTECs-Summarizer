@@ -753,11 +753,12 @@ html {
   color: #4e2a84;
   padding: 0.25rem 0.75rem;
   border-radius: 4px;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   cursor: pointer;
   transition: all 0.2s ease;
   margin-right: 0;
   height: 30px;
+  white-space: nowrap;
 }
 
 .sidebar-toggle:hover {
@@ -771,11 +772,12 @@ html {
   color: #4e2a84;
   padding: 0.25rem 0.75rem;
   border-radius: 4px;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   cursor: pointer;
   transition: all 0.2s ease;
   margin-right: 0;
   height: 30px;
+  white-space: nowrap;
 }
 
 .new-chat-button:hover {
@@ -871,6 +873,13 @@ html {
   
   .app-content.with-sidebar .chat-container {
     transform: translateX(100%);
+  }
+
+  .sidebar-toggle,
+  .new-chat-button,
+  .about-button {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
   }
 }
 
