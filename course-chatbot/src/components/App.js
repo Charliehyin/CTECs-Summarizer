@@ -336,41 +336,6 @@ const App = () => {
       }
     }
 
-    // RAG API call
-    try {
-      const response = await fetch(`${api_base_url}/rag`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Accept': 'application/json',
-        },
-        body: JSON.stringify({
-          message: userMessage,
-          top_k: 10
-        }),
-        credentials: 'same-origin',
-      });
-
-      if (!response.ok) {
-        throw new Error(`API responded with status: ${response.status}`);
-      }
-
-      const data = await response.json();
-      // store RAG response data
-      const ragResponse = data.response;
-
-      const promptInstructions = "Please quote information you used from the context to answer the user query, if relevant.";
-      userMessage = `Context from course reviews:\n${ragResponse}\n\nUser query: ${userMessage}\n\n${promptInstructions}`;
-
-    } catch (error) {
-      console.error('Error details:', error);
-      setMessages((prev) => [
-        ...prev,
-        { text: `Sorry, there was an error processing your request. Please make sure the backend server for RAG is running.`, isUser: false },
-      ]);
-      return;
-    }
-
     // chat API call
     try {
       console.log("Sending request to chat-stream endpoint");

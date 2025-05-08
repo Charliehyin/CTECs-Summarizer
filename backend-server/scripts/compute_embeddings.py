@@ -89,6 +89,6 @@ if __name__ == "__main__":
         pickle.dump(summary_corpus_embeddings, file)
 
     # Send corpus embeddings to backend server
-    pem_path = "C:/Users/Charlie Yin/Documents/admin.pem"
-    server_path = "ec2-user@ec2-3-17-144-16.us-east-2.compute.amazonaws.com:/home/ec2-user/CTECs-Summarizer/backend-server"
-    os.system(f"scp -i {pem_path} -r corpus.txt corpus_embeddings.pkl essay_corpus.txt essay_corpus_embeddings.pkl summary_corpus.txt summary_corpus_embeddings.pkl {server_path}")
+    # pem_path = "C:/Users/Charlie Yin/Documents/admin.pem"
+    # server_path = "ec2-user@ec2-3-17-144-16.us-east-2.compute.amazonaws.com:/home/ec2-user/CTECs-Summarizer/backend-server"
+    # os.system(f"scp -i {pem_path} -r corpus.txt corpus_embeddings.pkl essay_corpus.txt essay_corpus_embeddings.pkl summary_corpus.txt summary_corpus_embeddings.pkl {server_path}")
