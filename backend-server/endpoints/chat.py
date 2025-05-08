@@ -147,7 +147,6 @@ def chat_stream():
             try:
                 # Step 1: Call NER API to extract entities
                 ner_response = ner_api(message)
-                
                 # Step 2: Call RAG API with user message and NER metadata
                 rag_response = rag_api(message, top_k=10, metadata=ner_response)
                 
