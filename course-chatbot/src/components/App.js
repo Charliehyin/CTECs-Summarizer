@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { Send, MessageCircle, Trash2 } from 'lucide-react';
 import Login from './Login';
 import About from './About';
@@ -90,6 +90,32 @@ const App = () => {
   const [showSidebar, setShowSidebar] = useState(false);
   const [showChatContainer, setShowChatContainer] = useState(true);
 
+  // Wrap fetchChatHistory in useCallback
+  const fetchChatHistory = useCallback(async () => {
+    try {
+      const response = await fetch(`${api_base_url}/get_chat_history`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          user_id: user?.email // Use optional chaining to prevent errors
+        }),
+        credentials: 'same-origin',
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        console.log("Chat history updated:", data.chats);
+        setChatHistory(data.chats || []);
+      } else {
+        console.error('Failed to fetch chat history');
+      }
+    } catch (error) {
+      console.error('Error fetching chat history:', error);
+    }
+  }, [user]); // Add user as a dependency since we use user.email
+
   useEffect(() => {
     // Check if user is already logged in
     const storedUser = localStorage.getItem('user');
@@ -98,12 +124,13 @@ const App = () => {
     }
   }, []);
 
+  // Now the useEffect that uses fetchChatHistory won't trigger unnecessarily
   useEffect(() => {
     // Fetch chat history when user logs in
     if (user) {
       fetchChatHistory();
     }
-  }, [user]);
+  }, [user, fetchChatHistory]); // This is now correct with fetchChatHistory as a dependency
 
   const handleLogin = (userData) => {
     localStorage.setItem('user', JSON.stringify(userData));
@@ -147,30 +174,6 @@ const App = () => {
     scrollToBottom();
   }, [messages]);
 
-  const fetchChatHistory = async () => {
-    try {
-      const response = await fetch(`${api_base_url}/get_chat_history`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          user_id: user.email // Use a consistent test email
-        }),
-        credentials: 'same-origin', // Changed from 'include' to 'same-origin'
-      });
-
-      if (response.ok) {
-        const data = await response.json();
-        console.log("Chat history updated:", data.chats);
-        setChatHistory(data.chats || []);
-      } else {
-        console.error('Failed to fetch chat history');
-      }
-    } catch (error) {
-      console.error('Error fetching chat history:', error);
-    }
-  };
 
   const selectChat = async (chat) => {
     try {
@@ -372,8 +375,8 @@ const App = () => {
       // Use a ReadableStream to process the streaming response
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
-      let hasStartedResponse = false;
-      let lastMessageText = '';
+      // let hasStartedResponse = false;
+      // let lastMessageText = '';
 
       // Add empty response message immediately to start stream
       setMessages(prev => [...prev, {
@@ -381,7 +384,7 @@ const App = () => {
         isUser: false,
         isStreaming: true
       }]);
-      hasStartedResponse = true;
+      // hasStartedResponse = true;
 
       // Read the stream
       while (true) {
@@ -427,7 +430,7 @@ const App = () => {
                 const lastMessage = newMessages[newMessages.length - 1];
                 if (!lastMessage.isUser) {
                   lastMessage.text += eventData.chunk;
-                  lastMessageText = lastMessage.text;
+                  // lastMessageText = lastMessage.text;
                 }
                 return newMessages;
               });
