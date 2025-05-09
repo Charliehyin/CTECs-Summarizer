@@ -89,6 +89,7 @@ const App = () => {
   const [activeChatId, setActiveChatId] = useState(null);
   const [showSidebar, setShowSidebar] = useState(false);
   const [showChatContainer, setShowChatContainer] = useState(true);
+  const abortControllerRef = useRef(null);
 
   // Wrap fetchChatHistory in useCallback
   const fetchChatHistory = useCallback(async () => {
@@ -147,6 +148,15 @@ const App = () => {
 
   const handleNewChat = () => {
     console.log("Starting new chat...");
+
+    // If there's an ongoing streaming request, abort it
+    if (abortControllerRef.current) {
+      console.log("Aborting ongoing streaming request for new chat");
+      abortControllerRef.current.abort();
+      abortControllerRef.current = null;
+      setIsLoading(false);
+    }
+
     setMessages([]);
     if (window.innerWidth <= 768) {
       setShowSidebar(false);
@@ -235,6 +245,14 @@ const App = () => {
     try {
       console.log("Deleting chat with ID:", chatId);
       console.log("API base URL:", api_base_url);
+
+      // If this is the active chat and there's an ongoing streaming request, abort it
+      if (activeChatId === chatId && abortControllerRef.current) {
+        console.log("Aborting ongoing streaming request");
+        abortControllerRef.current.abort();
+        abortControllerRef.current = null;
+        setIsLoading(false);
+      }
 
       // Now perform the DELETE request
       const response = await fetch(`${api_base_url}/delete_chat/${chatId}`, {
@@ -352,6 +370,10 @@ const App = () => {
     // chat API call
     try {
       console.log("Sending request to chat-stream endpoint");
+      // Create a new AbortController for this streaming request
+      abortControllerRef.current = new AbortController();
+      const signal = abortControllerRef.current.signal;
+
       // We need to use fetch with POST method instead of EventSource
       const response = await fetch(`${api_base_url}/chat-stream`, {
         method: 'POST',
@@ -364,6 +386,7 @@ const App = () => {
           user_id: user.email // Use a consistent test email
         }),
         credentials: 'same-origin',
+        signal, // Add the abort signal
       });
 
       if (!response.ok) {
@@ -428,7 +451,7 @@ const App = () => {
               setMessages(prev => {
                 const newMessages = [...prev];
                 const lastMessage = newMessages[newMessages.length - 1];
-                if (!lastMessage.isUser) {
+                if (lastMessage && !lastMessage.isUser) {
                   lastMessage.text += eventData.chunk;
                   // lastMessageText = lastMessage.text;
                 }
@@ -502,10 +525,10 @@ const App = () => {
 
     // Add event listener
     window.addEventListener('resize', handleResize);
-    
+
     // Initial check in case page loads in desktop mode
     handleResize();
-    
+
     // Clean up event listener on unmount
     return () => {
       window.removeEventListener('resize', handleResize);
