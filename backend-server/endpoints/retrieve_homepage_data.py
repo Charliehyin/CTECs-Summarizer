@@ -6,8 +6,6 @@ from utils.connect_db import get_db_connection
 homepage_bp = Blueprint('homepage', __name__)
 config = load_config()
 
-conn = get_db_connection()
-cursor = conn.cursor()
 
 @homepage_bp.route('/retrieve_homepage_data', methods=['POST'])
 def retrieve_homepage_data():
@@ -19,6 +17,9 @@ def retrieve_homepage_data():
     data_requirements = request.json.get('data_requirements', None)
     # data_requirements format: {"hours_max": 10, "hours_min": 0, "rating_max": 5, "rating_min": 0, "instruction_rating_max": 5, "instruction_rating_min": 0}
     
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
     try:
         # Base query with filtering
         base_query = """
@@ -113,3 +114,6 @@ def retrieve_homepage_data():
         return jsonify(formatted_data)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    finally:
+        cursor.close()
+        conn.close()
