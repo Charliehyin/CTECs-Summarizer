@@ -16,7 +16,7 @@ const Login = ({ onLogin }) => {
       console.log("Decoded JWT:", decoded);
 
       // Verify domain - Allow "northwestern.edu" and any subdomain like "u.northwestern.edu"
-      if (decoded.hd && decoded.hd.endsWith("northwestern.edu")) {
+      if (decoded.hd) { // && decoded.hd.endsWith("northwestern.edu")) {
         onLogin({
           name: decoded.name,
           email: decoded.email,
