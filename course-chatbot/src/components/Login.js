@@ -14,18 +14,14 @@ const Login = ({ onLogin }) => {
     try {
       const decoded = jwtDecode(credentialResponse.credential);
       console.log("Decoded JWT:", decoded);
-
       // Verify domain - Allow "northwestern.edu" and any subdomain like "u.northwestern.edu"
-      if (decoded.hd) { // && decoded.hd.endsWith("northwestern.edu")) {
-        onLogin({
-          name: decoded.name,
-          email: decoded.email,
-          picture: decoded.picture,
-        });
-      } else {
-        console.log("Domain verification failed:", decoded.hd);
-        setError("Only users from northwestern.edu and its subdomains can log in.");
-      }
+      // if (decoded.hd) { && decoded.hd.endsWith("northwestern.edu")) {
+      // Temporarily disable domain verification
+      onLogin({
+        name: decoded.name,
+        email: decoded.email,
+        picture: decoded.picture,
+      });
     } catch (err) {
       console.error("JWT decode error:", err);
       setError("Failed to process login information.");
