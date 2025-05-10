@@ -551,6 +551,7 @@ const App = () => {
           </button>
           <button onClick={handleNewChat} className="new-chat-button">New Chat</button>
           <button onClick={handleAboutClick} className="about-button">About</button>
+          <a href="https://faketecs.vercel.app" target="_blank" rel="noopener noreferrer" className="browse-button">Browse Courses</a>
         </div>
 
         <div className="user-profile">
